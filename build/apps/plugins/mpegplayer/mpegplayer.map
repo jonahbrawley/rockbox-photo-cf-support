@@ -1,0 +1,915 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(frame.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/audio_thread.o (mad_header_init)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer12.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(frame.o) (mad_layer_I)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(frame.o) (mad_layer_III)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(stream.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/audio_thread.o (mad_stream_init)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(synth.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/audio_thread.o (mad_synth_init)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(imdct_l_arm.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer3.o) (III_imdct_l)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(synth_full_arm.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(synth.o) (synth_full_odd_sbsample)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(bit.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(frame.o) (mad_bit_init)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(huffman.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer3.o) (mad_huff_pair_table)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer3.o) (memcpy)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_settings.o (talk_val)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_settings.o (configfile_save)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_8x8x1.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpegplayer.o (mpegplayer_status_icons_8x8x1)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_12x12x1.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpegplayer.o (mpegplayer_status_icons_12x12x1)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_16x16x1.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpegplayer.o (mpegplayer_status_icons_16x16x1)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o (setjmp)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/header.o (__aeabi_uidiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/video_out_rockbox.o (__aeabi_idiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/video_thread.o (__aeabi_uldivmod)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o) (__divdi3)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o) (__udivdi3)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o) (__clzdi2)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o) (__clzsi2)
+
+Allocating common symbols
+Common symbol       size              file
+
+settings            0x138             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_settings.o
+audio_queue         0x118             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/audio_thread.o
+sbsample            0x2400            /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/audio_thread.o
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/decode.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/decode.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/header.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/header.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/idct.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/idct.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/motion_comp.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/motion_comp.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/motion_comp.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/slice.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/slice.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/idct_arm.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/idct_arm.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/motion_comp_arm_c.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/motion_comp_arm_c.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/motion_comp_arm_s.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/motion_comp_arm_s.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/alloc.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/video_out_rockbox.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/video_thread.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/video_thread.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/pcm_output.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/audio_thread.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/disk_buf.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_settings.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/stream_mgr.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpegplayer.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_parser.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_parser.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_misc.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(frame.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(frame.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer12.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer12.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer3.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer3.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(stream.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(stream.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(synth.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(synth.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(imdct_l_arm.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(imdct_l_arm.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(synth_full_arm.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(synth_full_arm.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(bit.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(bit.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(huffman.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(huffman.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(huffman.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.__div0   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memcmp   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.backlight_force_on
+                0x0000000000000000       0x34 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.sw_poweroff_disable
+                0x0000000000000000       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.sw_poweroff_restore
+                0x0000000000000000       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.remote_backlight_force_on
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.remote_backlight_ignore_timeout
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.remote_backlight_use_settings
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_force_on
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_force_off
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_ignore_timeout
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_use_settings
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_brightness_set
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_brightness_use_setting
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .data.original_sw_poweroff_state
+                0x0000000000000000        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_8x8x1.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_8x8x1.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_8x8x1.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_12x12x1.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_12x12x1.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_12x12x1.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_16x16x1.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_16x16x1.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_16x16x1.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .ARM.extab     0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .ARM.extab     0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001f80000 0x0000000000080000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/decode.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/header.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/idct.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/motion_comp.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/slice.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/idct_arm.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/motion_comp_arm_c.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/motion_comp_arm_s.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/alloc.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/video_out_rockbox.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/video_thread.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/pcm_output.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/audio_thread.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/disk_buf.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_settings.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/stream_mgr.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpegplayer.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_parser.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_misc.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001f80000       0x1c
+                0x0000000001f80000                _plugin_start_addr = .
+                0x0000000001f80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001f80000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f80000                __header
+
+.text           0x0000000001f80020    0x1b2f8
+ *(.text*)
+ .text          0x0000000001f80020      0x894 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/decode.o
+                0x0000000001f80124                mpeg2_parse_header
+                0x0000000001f8034c                mpeg2_seek_header
+                0x0000000001f803d8                mpeg2_info
+                0x0000000001f803e4                mpeg2_buffer
+                0x0000000001f803f4                mpeg2_getpos
+                0x0000000001f80408                mpeg2_parse
+                0x0000000001f80598                mpeg2_convert
+                0x0000000001f805fc                mpeg2_stride
+                0x0000000001f80674                mpeg2_set_buf
+                0x0000000001f80704                mpeg2_custom_fbuf
+                0x0000000001f80710                mpeg2_skip
+                0x0000000001f80730                mpeg2_slice_region
+                0x0000000001f80770                mpeg2_tag_picture
+                0x0000000001f807a4                mpeg2_reset
+                0x0000000001f80820                mpeg2_init
+                0x0000000001f808a4                mpeg2_close
+ .text          0x0000000001f808b4     0x1958 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/header.o
+                0x0000000001f81010                mpeg2_header_state_init
+                0x0000000001f8109c                mpeg2_reset_info
+                0x0000000001f8117c                mpeg2_header_sequence
+                0x0000000001f813a0                mpeg2_guess_aspect
+                0x0000000001f81594                mpeg2_header_gop
+                0x0000000001f81630                mpeg2_header_gop_finalize
+                0x0000000001f81670                mpeg2_set_fbuf
+                0x0000000001f816e4                mpeg2_header_picture
+                0x0000000001f81860                mpeg2_header_picture_finalize
+                0x0000000001f81c1c                mpeg2_header_extension
+                0x0000000001f81c70                mpeg2_header_user_data
+                0x0000000001f81c9c                mpeg2_header_slice_start
+                0x0000000001f81e58                mpeg2_header_end
+                0x0000000001f81f18                mpeg2_header_sequence_finalize
+ .text          0x0000000001f8220c       0x6c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/idct.o
+                0x0000000001f8220c                mpeg2_idct_init
+ .text          0x0000000001f82278     0x6754 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/slice.o
+                0x0000000001f87524                mpeg2_init_fbuf
+                0x0000000001f8785c                mpeg2_slice
+ .text          0x0000000001f889cc      0x5bc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/idct_arm.o
+                0x0000000001f88cf8                mpeg2_idct_copy
+                0x0000000001f88dac                mpeg2_idct_add
+ .text          0x0000000001f88f88     0x15a0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/motion_comp_arm_c.o
+                0x0000000001f88f88                MC_avg_o_16
+                0x0000000001f89124                MC_avg_o_8
+                0x0000000001f89200                MC_avg_x_16
+                0x0000000001f8945c                MC_avg_x_8
+                0x0000000001f89598                MC_put_y_16
+                0x0000000001f89740                MC_put_y_8
+                0x0000000001f89828                MC_avg_y_16
+                0x0000000001f89a90                MC_avg_y_8
+                0x0000000001f89bd8                MC_put_xy_16
+                0x0000000001f89e84                MC_put_xy_8
+                0x0000000001f89ff0                MC_avg_xy_16
+                0x0000000001f8a35c                MC_avg_xy_8
+ .text          0x0000000001f8a528      0x6d0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/motion_comp_arm_s.o
+                0x0000000001f8a528                MC_put_o_16
+                0x0000000001f8a630                MC_put_o_8
+                0x0000000001f8a708                MC_put_x_16
+                0x0000000001f8aa18                MC_put_x_8
+ .text          0x0000000001f8abf8      0x2c4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/alloc.o
+                0x0000000001f8abf8                mpeg_malloc
+                0x0000000001f8ac34                mpeg_malloc_all
+                0x0000000001f8ac60                mpeg_alloc_init
+                0x0000000001f8acf8                mpeg2_malloc
+                0x0000000001f8ad68                mpeg2_bufalloc
+                0x0000000001f8ad90                mpeg2_get_buf
+                0x0000000001f8adc0                mpeg2_mem_reset
+                0x0000000001f8add8                codec_malloc
+                0x0000000001f8ae44                codec_calloc
+                0x0000000001f8aeb8                codec_free
+ .text          0x0000000001f8aebc      0x960 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/video_out_rockbox.o
+                0x0000000001f8b078                vo_draw_frame
+                0x0000000001f8b120                vo_rect_clear
+                0x0000000001f8b138                vo_rect_empty
+                0x0000000001f8b13c                vo_rect_set_ext
+                0x0000000001f8b158                vo_rects_intersect
+                0x0000000001f8b15c                vo_rect_intersect
+                0x0000000001f8b1f4                vo_rect_union
+                0x0000000001f8b2c8                vo_rect_offset
+                0x0000000001f8b2fc                stretch_image_plane
+                0x0000000001f8b3dc                vo_draw_frame_thumb
+                0x0000000001f8b5ac                vo_dimensions
+                0x0000000001f8b5c8                vo_init
+                0x0000000001f8b620                vo_show
+                0x0000000001f8b64c                vo_is_visible
+                0x0000000001f8b664                vo_cleanup
+                0x0000000001f8b678                vo_set_clip_rect
+                0x0000000001f8b70c                vo_setup
+                0x0000000001f8b7c8                vo_get_clip_rect
+                0x0000000001f8b804                vo_set_post_draw_callback
+                0x0000000001f8b814                vo_lock
+                0x0000000001f8b818                vo_unlock
+ .text          0x0000000001f8b81c     0x1354 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/video_thread.o
+                0x0000000001f8c9ac                video_thread_init
+                0x0000000001f8caa0                video_thread_exit
+                0x0000000001f8cb10                video_thread_get_stats
+ .text          0x0000000001f8cb70      0x6f8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/pcm_output.o
+                0x0000000001f8cd6c                pcm_output_get_buffer
+                0x0000000001f8cdac                pcm_output_commit_data
+                0x0000000001f8ce1c                pcm_output_empty
+                0x0000000001f8ce3c                pcm_output_flush
+                0x0000000001f8ced0                pcm_output_set_clock
+                0x0000000001f8cf14                pcm_output_get_clock
+                0x0000000001f8cf80                pcm_output_get_ticks
+                0x0000000001f8d000                pcm_output_play_pause
+                0x0000000001f8d0bc                pcm_output_stop
+                0x0000000001f8d124                pcm_output_drain
+                0x0000000001f8d160                pcm_output_init
+                0x0000000001f8d21c                pcm_output_exit
+ .text          0x0000000001f8d268      0xf0c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/audio_thread.o
+                0x0000000001f8e054                audio_thread_init
+                0x0000000001f8e110                audio_thread_exit
+ .text          0x0000000001f8e174     0x1008 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/disk_buf.o
+                0x0000000001f8e29c                disk_buf_is_data_ready
+                0x0000000001f8e344                dbuf_l2_init
+                0x0000000001f8e350                _disk_buf_getbuffer
+                0x0000000001f8e3f4                _disk_buf_getbuffer_l2
+                0x0000000001f8e4f0                disk_buf_read
+                0x0000000001f8e5b4                disk_buf_lseek
+                0x0000000001f8e634                disk_buf_set_streaming_window
+                0x0000000001f8e6b8                disk_buf_offset2ptr
+                0x0000000001f8e6f4                disk_buf_close
+                0x0000000001f8e768                disk_buf_open
+                0x0000000001f8e800                disk_buf_send_msg
+                0x0000000001f8e82c                disk_buf_prepare_streaming
+                0x0000000001f8e898                disk_buf_post_msg
+                0x0000000001f8e8c4                disk_buf_reply_msg
+                0x0000000001f8ef60                disk_buf_init
+                0x0000000001f8f11c                disk_buf_exit
+ .text          0x0000000001f8f17c     0x13a8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_settings.o
+                0x0000000001f8f5bc                mpeg_backlight_update_brightness
+                0x0000000001f8f9bc                mpeg_start_menu
+                0x0000000001f902ec                mpeg_menu
+                0x0000000001f903a4                init_settings
+                0x0000000001f90484                save_settings
+ .text          0x0000000001f90524     0x11a4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/stream_mgr.o
+                0x0000000001f907c8                str_next_data_not_ready
+                0x0000000001f90858                str_data_notify_received
+                0x0000000001f90884                stream_add_stream
+                0x0000000001f908b8                stream_remove_streams
+                0x0000000001f908e8                move_strl_to_actl
+                0x0000000001f90a04                stream_generate_event
+                0x0000000001f90a34                stream_clear_notify
+                0x0000000001f90a54                stream_show_vo
+                0x0000000001f90a84                stream_vo_is_visible
+                0x0000000001f90ab0                stream_vo_get_size
+                0x0000000001f90b00                stream_vo_set_clip
+                0x0000000001f90b38                stream_vo_get_clip
+                0x0000000001f90b80                stream_display_thumb
+                0x0000000001f90bc8                stream_draw_frame
+                0x0000000001f90bf8                stream_set_callback
+                0x0000000001f90c38                stream_get_resume_time
+                0x0000000001f90c5c                stream_get_seek_time
+                0x0000000001f90e7c                stream_on_open
+                0x0000000001f912e8                stream_wait_status
+                0x0000000001f912f8                stream_get_window
+                0x0000000001f9134c                stream_open
+                0x0000000001f91370                stream_play
+                0x0000000001f91394                stream_pause
+                0x0000000001f913b8                stream_resume
+                0x0000000001f913dc                stream_stop
+                0x0000000001f91400                stream_seek
+                0x0000000001f91450                stream_close
+                0x0000000001f91474                stream_init
+                0x0000000001f91654                stream_exit
+ .text          0x0000000001f916c8     0x2078 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpegplayer.o
+                0x0000000001f92af4                mpegplayer_iram_preserve
+                0x0000000001f92b30                mpegplayer_iram_restore
+                0x0000000001f92b90                plugin_start
+ .text          0x0000000001f93740     0x118c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_parser.o
+                0x0000000001f938d0                str_initialize
+                0x0000000001f93904                str_end_of_stream
+                0x0000000001f93ea0                mpeg_parser_scan_start_code
+                0x0000000001f93f68                mpeg_parser_scan_pes
+                0x0000000001f9402c                mpeg_parser_scan_scr
+                0x0000000001f94138                mpeg_parser_scan_pts
+                0x0000000001f94448                parser_prepare_image
+                0x0000000001f945c0                parser_seek_time
+                0x0000000001f945f4                parser_prepare_streaming
+                0x0000000001f946d8                parser_init_stream
+                0x0000000001f948a8                parser_close_stream
+                0x0000000001f948b8                parser_init
+ .text          0x0000000001f948cc      0x3b8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_misc.o
+                0x0000000001f948cc                stream_scan_init
+                0x0000000001f948e0                stream_scan_normalize
+                0x0000000001f94908                stream_scan_offset
+                0x0000000001f94938                ts_to_hms
+                0x0000000001f949a4                hms_format
+                0x0000000001f94a14                muldiv_uint32
+                0x0000000001f94a74                list_is_empty
+                0x0000000001f94a84                list_is_member
+                0x0000000001f94ab4                list_remove_item
+                0x0000000001f94ae0                list_add_item
+                0x0000000001f94b14                list_clear_all
+                0x0000000001f94b2c                list_enum_items
+                0x0000000001f94b80                mpeg_sysevent_clear
+                0x0000000001f94b94                mpeg_sysevent_set
+                0x0000000001f94ba8                mpeg_sysevent
+                0x0000000001f94bb8                mpeg_sysevent_callback
+                0x0000000001f94be4                mpeg_sysevent_handle
+                0x0000000001f94c0c                mpeg_button_get
+ .text          0x0000000001f94c84      0x214 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f94c9c                plugin__start
+                0x0000000001f94dec                rb_atexit
+                0x0000000001f94e0c                exit
+                0x0000000001f94e2c                _exit
+                0x0000000001f94e44                exit_on_usb
+ .text          0x0000000001f94e98      0x770 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(frame.o)
+                0x0000000001f950dc                mad_header_init
+                0x0000000001f9510c                mad_header_decode
+                0x0000000001f954d0                mad_frame_decode
+                0x0000000001f955a8                mad_frame_mute
+                0x0000000001f955e8                mad_frame_init
+ .text          0x0000000001f95608      0xa9c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer12.o)
+                0x0000000001f9575c                mad_layer_I
+                0x0000000001f95a54                mad_layer_II
+ .text          0x0000000001f960a4     0x21b8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer3.o)
+                0x0000000001f97c1c                mad_layer_III
+ .text          0x0000000001f9825c      0x32c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(stream.o)
+                0x0000000001f9825c                mad_stream_init
+                0x0000000001f982b0                mad_stream_buffer
+                0x0000000001f982e0                mad_stream_sync
+                0x0000000001f98358                mad_stream_errorstr
+ .text          0x0000000001f98588     0x109c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(synth.o)
+                0x0000000001f98588                mad_synth_mute
+                0x0000000001f985a0                mad_synth_init
+                0x0000000001f985cc                mad_synth_frame
+ .text          0x0000000001f99624      0x964 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(imdct_l_arm.o)
+                0x0000000001f99624                _III_imdct_l
+                0x0000000001f99624                III_imdct_l
+ .text          0x0000000001f99f88      0x3dc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(synth_full_arm.o)
+                0x0000000001f99f88                synth_full_odd_sbsample
+                0x0000000001f9a0e0                synth_full_even_sbsample
+                0x0000000001f9a238                III_aliasreduce
+                0x0000000001f9a30c                III_overlap
+ .text          0x0000000001f9a364      0x1c4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(bit.o)
+                0x0000000001f9a364                mad_bit_init
+                0x0000000001f9a37c                mad_bit_length
+                0x0000000001f9a38c                mad_bit_nextbyte
+                0x0000000001f9a3a0                mad_bit_skip
+                0x0000000001f9a3b0                mad_bit_crc
+ .text.memcpy   0x0000000001f9a528       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f9a528                memcpy
+ .text.memset   0x0000000001f9a53c       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f9a53c                memset
+ .text.memmove  0x0000000001f9a550       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f9a550                memmove
+ .text.talk_val
+                0x0000000001f9a564       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                0x0000000001f9a564                talk_val
+ .text.backlight_ignore_timeout
+                0x0000000001f9a580       0x58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                0x0000000001f9a580                backlight_ignore_timeout
+ .text.backlight_use_settings
+                0x0000000001f9a5d8       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                0x0000000001f9a5d8                backlight_use_settings
+ .text.backlight_brightness_set
+                0x0000000001f9a614       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                0x0000000001f9a614                backlight_brightness_set
+ .text.backlight_brightness_use_setting
+                0x0000000001f9a628       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                0x0000000001f9a628                backlight_brightness_use_setting
+ .text.get_cfg_filename.constprop.1
+                0x0000000001f9a644       0x98 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text.configfile_save
+                0x0000000001f9a6dc      0x15c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                0x0000000001f9a6dc                configfile_save
+ .text.configfile_load
+                0x0000000001f9a838      0x248 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                0x0000000001f9a838                configfile_load
+ .text.configfile_get_value
+                0x0000000001f9aa80       0xfc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                0x0000000001f9aa80                configfile_get_value
+ .text.configfile_update_entry
+                0x0000000001f9ab7c      0x150 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                0x0000000001f9ab7c                configfile_update_entry
+ .text          0x0000000001f9accc       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                0x0000000001f9accc                setjmp
+                0x0000000001f9acd8                longjmp
+ .text          0x0000000001f9ace8      0x114 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                0x0000000001f9ace8                __udivsi3
+                0x0000000001f9ace8                __aeabi_uidiv
+                0x0000000001f9addc                __aeabi_uidivmod
+ .text          0x0000000001f9adfc      0x148 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                0x0000000001f9adfc                __aeabi_idiv
+                0x0000000001f9adfc                __divsi3
+                0x0000000001f9af24                __aeabi_idivmod
+ .text          0x0000000001f9af44        0x4 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                0x0000000001f9af44                __aeabi_ldiv0
+                0x0000000001f9af44                __aeabi_idiv0
+ .text          0x0000000001f9af48       0x3c /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+                0x0000000001f9af48                __aeabi_uldivmod
+ .text          0x0000000001f9af84       0x84 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+                0x0000000001f9af84                __gnu_ldivmod_helper
+                0x0000000001f9afc8                __gnu_uldivmod_helper
+ .text          0x0000000001f9b008      0x178 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+                0x0000000001f9b008                __divdi3
+ .text          0x0000000001f9b180      0x120 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+                0x0000000001f9b180                __udivdi3
+ .text          0x0000000001f9b2a0       0x28 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+                0x0000000001f9b2a0                __clzdi2
+ .text          0x0000000001f9b2c8       0x48 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+                0x0000000001f9b2c8                __clzsi2
+ .text.__stub   0x0000000001f9b310        0x8 linker stubs
+ *(.glue_7)
+ .glue_7        0x0000000001f9b318        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001f9b318        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001f9b318        0x0
+ .vfp11_veneer  0x0000000001f9b318        0x0 linker stubs
+
+.v4_bx          0x0000000001f9b318        0x0
+ .v4_bx         0x0000000001f9b318        0x0 linker stubs
+
+.iplt           0x0000000001f9b318        0x0
+ .iplt          0x0000000001f9b318        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/decode.o
+
+.rodata         0x0000000001f9b318     0x93e4
+ *(.rodata*)
+ .rodata        0x0000000001f9b318       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/decode.o
+ .rodata        0x0000000001f9b33c      0x23c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/header.o
+                0x0000000001f9b4f8                default_mpeg2_scan_alt
+                0x0000000001f9b538                default_mpeg2_scan_norm
+ .rodata        0x0000000001f9b578       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/motion_comp.o
+                0x0000000001f9b578                mpeg2_mc
+ .rodata.str1.1
+                0x0000000001f9b5b8        0x9 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/video_thread.o
+ .rodata.str1.1
+                0x0000000001f9b5c1        0xa /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/disk_buf.o
+ *fill*         0x0000000001f9b5cb        0x1 
+ .rodata        0x0000000001f9b5cc       0xdc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_settings.o
+ .rodata.str1.1
+                0x0000000001f9b6a8       0xee /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_settings.o
+                                         0xf1 (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f9b796       0xd9 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/stream_mgr.o
+ *fill*         0x0000000001f9b86f        0x1 
+ .rodata        0x0000000001f9b870       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpegplayer.o
+ .rodata.str1.1
+                0x0000000001f9b880       0x69 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpegplayer.o
+ *fill*         0x0000000001f9b8e9        0x3 
+ .rodata        0x0000000001f9b8ec       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_parser.o
+ .rodata.str1.1
+                0x0000000001f9b92c       0x15 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_misc.o
+ *fill*         0x0000000001f9b941        0x3 
+ .rodata        0x0000000001f9b944      0x144 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(frame.o)
+ .rodata        0x0000000001f9ba88      0x12e /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer12.o)
+ *fill*         0x0000000001f9bbb6        0x2 
+ .rodata        0x0000000001f9bbb8     0x8456 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer3.o)
+ .rodata.str1.1
+                0x0000000001fa400e      0x215 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(stream.o)
+ *fill*         0x0000000001fa4223        0x1 
+ .rodata        0x0000000001fa4224      0x200 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(bit.o)
+ .rodata        0x0000000001fa4424      0x108 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(huffman.o)
+                0x0000000001fa4424                mad_huff_pair_table
+                0x0000000001fa4524                mad_huff_quad_table
+ .rodata.str1.1
+                0x0000000001fa452c       0x46 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ *fill*         0x0000000001fa4572        0x2 
+ .rodata        0x0000000001fa4574       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_8x8x1.o)
+                0x0000000001fa4574                bm_mpegplayer_status_icons_8x8x1
+                0x0000000001fa458c                mpegplayer_status_icons_8x8x1
+ .rodata        0x0000000001fa45b4       0x90 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_12x12x1.o)
+                0x0000000001fa45b4                bm_mpegplayer_status_icons_12x12x1
+                0x0000000001fa45cc                mpegplayer_status_icons_12x12x1
+ .rodata        0x0000000001fa4644       0xb8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_16x16x1.o)
+                0x0000000001fa4644                bm_mpegplayer_status_icons_16x16x1
+                0x0000000001fa465c                mpegplayer_status_icons_16x16x1
+
+.ARM.exidx      0x0000000001fa46fc        0x8
+ .ARM.exidx     0x0000000001fa46fc        0x8 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .ARM.exidx     0x0000000001fa4704        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+                                          0x8 (size before relaxing)
+
+.rel.dyn        0x0000000001fa4704        0x0
+ .rel.iplt      0x0000000001fa4704        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/decode.o
+
+.data           0x0000000001fa4704      0x17c
+ *(.data*)
+ .data          0x0000000001fa4704      0x178 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_settings.o
+ .data          0x0000000001fa487c        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001fa487c                rb
+
+.igot.plt       0x0000000001fa4880        0x0
+ .igot.plt      0x0000000001fa4880        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/decode.o
+
+.ncdata         0x0000000011fa4880        0x0 load address 0x0000000001fa4880
+                0x0000000011fa4880                . = ALIGN (0x10)
+ *fill*         0x0000000011fa4880        0x0 
+ *(.ncdata*)
+                0x0000000011fa4880                . = ALIGN (0x10)
+                0x0000000001fa4880                bssaddr = (. - 0x10000000)
+                0x0000000001fa4880                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001fa4880     0x58fc
+                0x0000000001fa4880                plugin_bss_start = .
+                0x0000000001fa4880                _plugin_bss_start = .
+ *(.bss*)
+ .bss           0x0000000001fa4880        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/alloc.o
+ *fill*         0x0000000001fa488c        0x4 
+ .bss           0x0000000001fa4890       0x50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/video_out_rockbox.o
+ .bss           0x0000000001fa48e0      0x414 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/pcm_output.o
+ .bss           0x0000000001fa4cf4     0x1c07 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/audio_thread.o
+ *fill*         0x0000000001fa68fb        0x1 
+ .bss           0x0000000001fa68fc      0x814 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/disk_buf.o
+ .bss           0x0000000001fa7110      0x800 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/stream_mgr.o
+ .bss           0x0000000001fa7910      0x1b8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpegplayer.o
+ .bss           0x0000000001fa7ac8        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_misc.o
+ .bss           0x0000000001fa7acc       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ *(COMMON)
+ COMMON         0x0000000001fa7b2c     0x2518 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/audio_thread.o
+                0x0000000001fa7b2c                audio_queue
+                0x0000000001fa7c44                sbsample
+ COMMON         0x0000000001faa044      0x138 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_settings.o
+                0x0000000001faa044                settings
+                0x0000000001faa17c                . = ALIGN (0x4)
+
+.ncbss          0x0000000011faa17c      0x5c4 load address 0x0000000001faa17c
+                0x0000000011faa180                . = ALIGN (0x10)
+ *fill*         0x0000000011faa17c        0x4 
+ *(.ncbss*)
+ .ncbss         0x0000000011faa180       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/alloc.o
+ .ncbss         0x0000000011faa190       0x18 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/video_out_rockbox.o
+ .ncbss         0x0000000011faa1a8       0xf8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/video_thread.o
+ .ncbss         0x0000000011faa2a0       0xf0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/audio_thread.o
+ .ncbss         0x0000000011faa390      0x158 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/disk_buf.o
+                0x0000000011faa3a8                disk_buf
+ .ncbss         0x0000000011faa4e8      0x170 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/stream_mgr.o
+                0x0000000011faa4e8                stream_mgr
+ .ncbss         0x0000000011faa658       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpegplayer.o
+ .ncbss         0x0000000011faa67c       0xc4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_parser.o
+                0x0000000011faa67c                str_parser
+                0x0000000011faa740                . = ALIGN (0x10)
+                0x0000000001faa740                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001faa740        0x0
+                0x0000000001faa740                _plugin_end_addr = .
+                0x0000000001faa740                plugin_end_addr = .
+
+.iram           0x000000004000c000     0x27de load address 0x0000000001fa4880
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ .icode         0x000000004000c000       0x84 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(bit.o)
+                0x000000004000c000                mad_bit_read
+ *(.irodata)
+ .irodata       0x000000004000c084      0xa16 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/slice.o
+ *fill*         0x000000004000ca9a        0x2 
+ .irodata       0x000000004000ca9c      0x204 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer12.o)
+ .irodata       0x000000004000cca0      0x120 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer3.o)
+                0x000000004000cca0                root_table
+                0x000000004000ccc0                imdct_s
+                0x000000004000cd50                window_s
+                0x000000004000cd80                ca
+                0x000000004000cda0                cs
+ .irodata       0x000000004000cdc0      0x880 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(synth.o)
+ .irodata       0x000000004000d640     0x111e /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(huffman.o)
+ *(.idata)
+ .idata         0x000000004000e75e       0x80 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/header.o
+                0x000000004000e75e                mpeg2_scan_alt
+                0x000000004000e79e                mpeg2_scan_norm
+                0x000000004000e7de                iramend = .
+
+.ibss           0x000000004000e7e0     0x45e0 load address 0x0000000001fa7060
+                0x000000004000e7e0                iedata = .
+ *(.ibss)
+ .ibss          0x000000004000e7e0       0x80 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/decode.o
+ .ibss          0x000000004000e860     0x1034 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/video_thread.o
+                0x000000004000e860                video_str
+ .ibss          0x000000004000f894       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/pcm_output.o
+ *fill*         0x000000004000f8b8        0x8 
+ .ibss          0x000000004000f8c0     0x34f4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/audio_thread.o
+                0x0000000040012d80                audio_str
+ .ibss          0x0000000040012db4        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/disk_buf.o
+                0x0000000040012dc0                . = ALIGN (0x4)
+                0x0000000040012dc0                iend = .
+                0x0000000001faa740                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001faa740        0x0
+                0x0000000001faa740                _plugin_load_end_addr = .
+                0x0000000001faa740                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/decode.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/header.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/idct.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/motion_comp.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/slice.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/motion_comp_arm_c.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/alloc.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/video_out_rockbox.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/video_thread.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/pcm_output.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/audio_thread.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/disk_buf.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_settings.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/stream_mgr.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpegplayer.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_parser.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_misc.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(frame.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer12.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer3.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(stream.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(synth.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(bit.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(huffman.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_8x8x1.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_12x12x1.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_16x16x1.o)
+ .comment       0x0000000000000011       0x12 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .comment       0x0000000000000011       0x12 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .comment       0x0000000000000011       0x12 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+OUTPUT(/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpegplayer.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2e
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/decode.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/header.o
+ .ARM.attributes
+                0x0000000000000060       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/idct.o
+ .ARM.attributes
+                0x0000000000000090       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/motion_comp.o
+ .ARM.attributes
+                0x00000000000000c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/slice.o
+ .ARM.attributes
+                0x00000000000000f0       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/idct_arm.o
+ .ARM.attributes
+                0x0000000000000110       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/motion_comp_arm_c.o
+ .ARM.attributes
+                0x0000000000000140       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/libmpeg2/motion_comp_arm_s.o
+ .ARM.attributes
+                0x0000000000000160       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/alloc.o
+ .ARM.attributes
+                0x0000000000000190       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/video_out_rockbox.o
+ .ARM.attributes
+                0x00000000000001c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/video_thread.o
+ .ARM.attributes
+                0x00000000000001f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/pcm_output.o
+ .ARM.attributes
+                0x0000000000000220       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/audio_thread.o
+ .ARM.attributes
+                0x0000000000000250       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/disk_buf.o
+ .ARM.attributes
+                0x0000000000000280       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_settings.o
+ .ARM.attributes
+                0x00000000000002b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/stream_mgr.o
+ .ARM.attributes
+                0x00000000000002e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpegplayer.o
+ .ARM.attributes
+                0x0000000000000310       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_parser.o
+ .ARM.attributes
+                0x0000000000000340       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mpegplayer/mpeg_misc.o
+ .ARM.attributes
+                0x0000000000000370       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .ARM.attributes
+                0x00000000000003a0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(frame.o)
+ .ARM.attributes
+                0x00000000000003d0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer12.o)
+ .ARM.attributes
+                0x0000000000000400       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(layer3.o)
+ .ARM.attributes
+                0x0000000000000430       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(stream.o)
+ .ARM.attributes
+                0x0000000000000460       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(synth.o)
+ .ARM.attributes
+                0x0000000000000490       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(imdct_l_arm.o)
+ .ARM.attributes
+                0x00000000000004b0       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(synth_full_arm.o)
+ .ARM.attributes
+                0x00000000000004d0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(bit.o)
+ .ARM.attributes
+                0x0000000000000500       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libmad-mpeg.a(huffman.o)
+ .ARM.attributes
+                0x0000000000000530       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .ARM.attributes
+                0x0000000000000560       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .ARM.attributes
+                0x0000000000000590       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .ARM.attributes
+                0x00000000000005c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_8x8x1.o)
+ .ARM.attributes
+                0x00000000000005f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_12x12x1.o)
+ .ARM.attributes
+                0x0000000000000620       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(mpegplayer_status_icons_16x16x1.o)
+ .ARM.attributes
+                0x0000000000000650       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .ARM.attributes
+                0x0000000000000670       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000688       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000000006a0       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000000006b8       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000000006d0       0x30 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x0000000000000700       0x30 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x0000000000000730       0x30 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x0000000000000760       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .ARM.attributes
+                0x0000000000000778       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_frame    0x0000000000000000      0x158
+ .debug_frame   0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_frame   0x0000000000000040       0x28 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000000000000068       0x68 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_frame   0x00000000000000d0       0x48 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_frame   0x0000000000000118       0x40 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+
+.debug_line     0x0000000000000000      0x441
+ .debug_line    0x0000000000000000       0x7e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_line    0x000000000000007e       0x8a /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_line    0x0000000000000108       0x61 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x0000000000000169       0x64 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x00000000000001cd       0x65 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_line    0x0000000000000232       0x9e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_line    0x00000000000002d0       0x98 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_line    0x0000000000000368       0x6b /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .debug_line    0x00000000000003d3       0x6e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_info     0x0000000000000000      0x8c0
+ .debug_info    0x0000000000000000       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_info    0x0000000000000088       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_info    0x0000000000000110       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x0000000000000198       0x84 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x000000000000021c      0x164 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_info    0x0000000000000380      0x269 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_info    0x00000000000005e9      0x1c7 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_info    0x00000000000007b0       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .debug_info    0x0000000000000838       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_abbrev   0x0000000000000000      0x319
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000000014       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000028       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x000000000000003c       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .debug_abbrev  0x0000000000000050       0xb7 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_abbrev  0x0000000000000107      0x123 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_abbrev  0x000000000000022a       0xc7 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x00000000000002f1       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .debug_abbrev  0x0000000000000305       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_aranges  0x0000000000000000      0x120
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x0000000000000060       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .debug_aranges
+                0x0000000000000080       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .debug_aranges
+                0x0000000000000100       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_loc      0x0000000000000000      0x500
+ .debug_loc     0x0000000000000000       0xa0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_loc     0x00000000000000a0      0x27d /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_loc     0x000000000000031d      0x1e3 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+
+.debug_str      0x0000000000000000      0x287
+ .debug_str     0x0000000000000000      0x152 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_str     0x0000000000000152      0x135 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+                                        0x1dd (size before relaxing)
+ .debug_str     0x0000000000000287      0x1ba /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+
+.debug_ranges   0x0000000000000000       0x18
+ .debug_ranges  0x0000000000000000       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)

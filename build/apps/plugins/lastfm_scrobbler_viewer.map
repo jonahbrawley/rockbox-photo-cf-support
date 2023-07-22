@@ -1,0 +1,231 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lastfm_scrobbler_viewer.o (memset)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lastfm_scrobbler_viewer.o (configfile_save)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lastfm_scrobbler_viewer.o (printcell_enable)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o (setjmp)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.__div0   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memcpy   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memmove  0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memcmp   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text.configfile_get_value
+                0x0000000000000000       0xfc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text.configfile_update_entry
+                0x0000000000000000      0x150 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001f80000 0x0000000000080000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lastfm_scrobbler_viewer.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001f80000       0x1c
+                0x0000000001f80000                _plugin_start_addr = .
+                0x0000000001f80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001f80000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f80000                __header
+
+.text           0x0000000001f8001c     0x2d88
+ *(.text*)
+ .text          0x0000000001f8001c     0x1730 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lastfm_scrobbler_viewer.o
+                0x0000000001f81348                menu_action_cb
+                0x0000000001f8141c                plugin_start
+ .text          0x0000000001f8174c      0x214 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f81764                plugin__start
+                0x0000000001f818b4                rb_atexit
+                0x0000000001f818d4                exit
+                0x0000000001f818f4                _exit
+                0x0000000001f8190c                exit_on_usb
+ .text.memset   0x0000000001f81960       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f81960                memset
+ .text.get_cfg_filename.constprop.1
+                0x0000000001f81974       0x98 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text.configfile_save
+                0x0000000001f81a0c      0x15c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                0x0000000001f81a0c                configfile_save
+ .text.configfile_load
+                0x0000000001f81b68      0x248 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                0x0000000001f81b68                configfile_load
+ .text.parse_dsptext
+                0x0000000001f81db0       0xc8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+ .text.draw_selector.isra.0
+                0x0000000001f81e78      0x158 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+ .text.printcell_listdraw_fn
+                0x0000000001f81fd0      0x81c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+ .text.printcell_enable
+                0x0000000001f827ec       0x8c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+                0x0000000001f827ec                printcell_enable
+ .text.printcell_increment_column
+                0x0000000001f82878       0xa0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+                0x0000000001f82878                printcell_increment_column
+ .text.printcell_get_column_selected
+                0x0000000001f82918       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+                0x0000000001f82918                printcell_get_column_selected
+ .text.printcell_get_column_visibility
+                0x0000000001f82934       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+                0x0000000001f82934                printcell_get_column_visibility
+ .text.printcell_set_column_visible
+                0x0000000001f82970       0x64 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+                0x0000000001f82970                printcell_set_column_visible
+ .text.printcell_set_columns
+                0x0000000001f829d4      0x25c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+                0x0000000001f829d4                printcell_set_columns
+ .text.printcell_get_title_text
+                0x0000000001f82c30       0x7c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+                0x0000000001f82c30                printcell_get_title_text
+ .text.printcell_get_column_text
+                0x0000000001f82cac       0xdc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+                0x0000000001f82cac                printcell_get_column_text
+ .text          0x0000000001f82d88       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                0x0000000001f82d88                setjmp
+                0x0000000001f82d94                longjmp
+ *(.glue_7)
+ .glue_7        0x0000000001f82da4        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001f82da4        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001f82da4        0x0
+ .vfp11_veneer  0x0000000001f82da4        0x0 linker stubs
+
+.v4_bx          0x0000000001f82da4        0x0
+ .v4_bx         0x0000000001f82da4        0x0 linker stubs
+
+.iplt           0x0000000001f82da4        0x0
+ .iplt          0x0000000001f82da4        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lastfm_scrobbler_viewer.o
+
+.rodata         0x0000000001f82da4      0x27a
+ *(.rodata*)
+ .rodata        0x0000000001f82da4       0x54 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lastfm_scrobbler_viewer.o
+                0x0000000001f82df4                gCfg_sz
+ .rodata.str1.1
+                0x0000000001f82df8      0x1a3 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lastfm_scrobbler_viewer.o
+                                        0x1a6 (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f82f9b       0x46 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .rodata.str1.1
+                0x0000000001f82fe1       0x3d /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+                                         0x41 (size before relaxing)
+
+.rel.dyn        0x0000000001f83020        0x0
+ .rel.iplt      0x0000000001f83020        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lastfm_scrobbler_viewer.o
+
+.data           0x0000000001f83020      0x188
+ *(.data*)
+ .data          0x0000000001f83020      0x180 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lastfm_scrobbler_viewer.o
+ .data          0x0000000001f831a0        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f831a0                rb
+ .data.list_sep_color.11974
+                0x0000000001f831a4        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+
+.igot.plt       0x0000000001f831a8        0x0
+ .igot.plt      0x0000000001f831a8        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lastfm_scrobbler_viewer.o
+
+.ncdata         0x0000000011f831a8        0x8 load address 0x0000000001f831a8
+                0x0000000011f831b0                . = ALIGN (0x10)
+ *fill*         0x0000000011f831a8        0x8 
+ *(.ncdata*)
+                0x0000000011f831b0                . = ALIGN (0x10)
+                0x0000000001f831b0                bssaddr = (. - 0x10000000)
+                0x0000000001f831b0                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001f831b0      0x478
+                0x0000000001f831b0                plugin_bss_start = .
+                0x0000000001f831b0                _plugin_bss_start = .
+ *(.bss*)
+ .bss           0x0000000001f831b0      0x1a8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lastfm_scrobbler_viewer.o
+ .bss           0x0000000001f83358       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .bss.printcell
+                0x0000000001f833b8      0x14c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+ .bss.sidx.11933
+                0x0000000001f83504       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+ .bss.printcell_buffer.11932
+                0x0000000001f83524      0x104 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+ *(COMMON)
+                0x0000000001f83628                . = ALIGN (0x4)
+
+.ncbss          0x0000000011f83628        0x8 load address 0x0000000001f83628
+                0x0000000011f83630                . = ALIGN (0x10)
+ *fill*         0x0000000011f83628        0x8 
+ *(.ncbss*)
+                0x0000000011f83630                . = ALIGN (0x10)
+                0x0000000001f83630                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001f83630        0x0
+                0x0000000001f83630                _plugin_end_addr = .
+                0x0000000001f83630                plugin_end_addr = .
+
+.iram           0x000000004000c000        0x0 load address 0x0000000001f831b0
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ *(.irodata)
+ *(.idata)
+                0x000000004000c000                iramend = .
+
+.ibss           0x000000004000c000        0x0
+                0x000000004000c000                iedata = .
+ *(.ibss)
+                0x000000004000c000                . = ALIGN (0x4)
+                0x000000004000c000                iend = .
+                0x0000000001f83630                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001f83630        0x0
+                0x0000000001f83630                _plugin_load_end_addr = .
+                0x0000000001f83630                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lastfm_scrobbler_viewer.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+OUTPUT(/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lastfm_scrobbler_viewer.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2e
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lastfm_scrobbler_viewer.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .ARM.attributes
+                0x0000000000000060       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .ARM.attributes
+                0x0000000000000090       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .ARM.attributes
+                0x00000000000000c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(printcell_helper.o)
+ .ARM.attributes
+                0x00000000000000f0       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)

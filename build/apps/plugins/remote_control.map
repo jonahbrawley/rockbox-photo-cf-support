@@ -1,0 +1,142 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o (setjmp)
+
+Discarded input sections
+
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/remote_control.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001f80000 0x0000000000080000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/remote_control.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001f80000       0x1c
+                0x0000000001f80000                _plugin_start_addr = .
+                0x0000000001f80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001f80000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f80000                __header
+
+.text           0x0000000001f8001c      0x5a0
+ *(.text*)
+ .text          0x0000000001f8001c      0x370 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/remote_control.o
+                0x0000000001f8001c                plugin_start
+ .text          0x0000000001f8038c      0x214 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f803a4                plugin__start
+                0x0000000001f804f4                rb_atexit
+                0x0000000001f80514                exit
+                0x0000000001f80534                _exit
+                0x0000000001f8054c                exit_on_usb
+ .text          0x0000000001f805a0       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                0x0000000001f805a0                setjmp
+                0x0000000001f805ac                longjmp
+ *(.glue_7)
+ .glue_7        0x0000000001f805bc        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001f805bc        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001f805bc        0x0
+ .vfp11_veneer  0x0000000001f805bc        0x0 linker stubs
+
+.v4_bx          0x0000000001f805bc        0x0
+ .v4_bx         0x0000000001f805bc        0x0 linker stubs
+
+.iplt           0x0000000001f805bc        0x0
+ .iplt          0x0000000001f805bc        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/remote_control.o
+
+.rodata         0x0000000001f805bc      0x13e
+ *(.rodata*)
+ .rodata        0x0000000001f805bc       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/remote_control.o
+ .rodata.str1.1
+                0x0000000001f8061c       0xde /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/remote_control.o
+
+.rel.dyn        0x0000000001f806fc        0x0
+ .rel.iplt      0x0000000001f806fc        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/remote_control.o
+
+.data           0x0000000001f806fc       0x5c
+ *(.data*)
+ .data          0x0000000001f806fc       0x58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/remote_control.o
+ .data          0x0000000001f80754        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f80754                rb
+
+.igot.plt       0x0000000001f80758        0x0
+ .igot.plt      0x0000000001f80758        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/remote_control.o
+
+.ncdata         0x0000000011f80758        0x8 load address 0x0000000001f80758
+                0x0000000011f80760                . = ALIGN (0x10)
+ *fill*         0x0000000011f80758        0x8 
+ *(.ncdata*)
+                0x0000000011f80760                . = ALIGN (0x10)
+                0x0000000001f80760                bssaddr = (. - 0x10000000)
+                0x0000000001f80760                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001f80760       0x60
+                0x0000000001f80760                plugin_bss_start = .
+                0x0000000001f80760                _plugin_bss_start = .
+ *(.bss*)
+ .bss           0x0000000001f80760       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ *(COMMON)
+                0x0000000001f807c0                . = ALIGN (0x4)
+
+.ncbss          0x0000000011f807c0        0x0 load address 0x0000000001f807c0
+                0x0000000011f807c0                . = ALIGN (0x10)
+ *(.ncbss*)
+                0x0000000011f807c0                . = ALIGN (0x10)
+                0x0000000001f807c0                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001f807c0        0x0
+                0x0000000001f807c0                _plugin_end_addr = .
+                0x0000000001f807c0                plugin_end_addr = .
+
+.iram           0x000000004000c000        0x0 load address 0x0000000001f80760
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ *(.irodata)
+ *(.idata)
+                0x000000004000c000                iramend = .
+
+.ibss           0x000000004000c000        0x0
+                0x000000004000c000                iedata = .
+ *(.ibss)
+                0x000000004000c000                . = ALIGN (0x4)
+                0x000000004000c000                iend = .
+                0x0000000001f807c0                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001f807c0        0x0
+                0x0000000001f807c0                _plugin_load_end_addr = .
+                0x0000000001f807c0                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/remote_control.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+OUTPUT(/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/remote_control.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2e
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/remote_control.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .ARM.attributes
+                0x0000000000000060       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)

@@ -1,0 +1,1206 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_decoder.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.o (opus_decoder_create)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_header.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.o (opus_header_parse)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(framing.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.o (ogg_page_granulepos)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_decoder.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_decoder.o) (celt_decoder_get_size)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_lpc.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_decoder.o) (_celt_lpc)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entcode.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_decoder.o) (ec_tell_frac)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entdec.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_decoder.o) (ec_dec_init)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(mathops.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_decoder.o) (celt_sqrt)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(mdct.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_decoder.o) (clt_mdct_backward_c)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(modes.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_decoder.o) (opus_custom_mode_create)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(pitch.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_decoder.o) (pitch_downsample)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(quant_bands.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_decoder.o) (unquant_coarse_energy)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(rate.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_decoder.o) (clt_compute_allocation)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(vq.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_decoder.o) (renormalise_vector)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(dec_API.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_decoder.o) (silk_Get_Decoder_Size)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_frame.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(dec_API.o) (silk_decode_frame)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_indices.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(dec_API.o) (silk_decode_indices)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_parameters.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_frame.o) (silk_decode_parameters)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_pitch.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_parameters.o) (silk_decode_pitch)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_pulses.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(dec_API.o) (silk_decode_pulses)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decoder_set_fs.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(dec_API.o) (silk_decoder_set_fs)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(gain_quant.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_parameters.o) (silk_gains_dequant)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(init_decoder.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(dec_API.o) (silk_init_decoder)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(lin2log.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(gain_quant.o) (silk_lin2log)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(log2lin.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(gain_quant.o) (silk_log2lin)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF2A.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_parameters.o) (silk_NLSF2A)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_decode.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_parameters.o) (silk_NLSF_decode)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_stabilize.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_decode.o) (silk_NLSF_stabilize)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_unpack.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_indices.o) (silk_NLSF_unpack)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(pitch_est_tables.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_pitch.o) (silk_CB_lags_stage3)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(PLC.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(init_decoder.o) (silk_PLC_Reset)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decoder_set_fs.o) (silk_resampler_init)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_down_FIR.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler.o) (silk_resampler_private_down_FIR)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_IIR_FIR.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler.o) (silk_resampler_private_IIR_FIR)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_up2_HQ.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_IIR_FIR.o) (silk_resampler_private_up2_HQ)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_rom.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_IIR_FIR.o) (silk_resampler_frac_FIR_12)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(shell_coder.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_pulses.o) (silk_shell_decoder)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(sort.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_stabilize.o) (silk_insertion_sort_increasing_all_values_int16)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(stereo_decode_pred.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(dec_API.o) (silk_stereo_decode_pred)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(stereo_MS_to_LR.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(dec_API.o) (silk_stereo_MS_to_LR)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(sum_sqr_shift.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(PLC.o) (silk_sum_sqr_shift)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(table_LSF_cos.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF2A.o) (silk_LSFCosTab_FIX_Q12)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_gain.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_indices.o) (silk_delta_gain_iCDF)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_LTP.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_parameters.o) (silk_LTP_vq_ptrs_Q7)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_NLSF_CB_NB_MB.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decoder_set_fs.o) (silk_NLSF_CB_NB_MB)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_NLSF_CB_WB.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decoder_set_fs.o) (silk_NLSF_CB_WB)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_other.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_indices.o) (silk_NLSF_EXT_iCDF)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_pitch_lag.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decoder_set_fs.o) (silk_pitch_contour_10_ms_NB_iCDF)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_pulses_per_block.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(shell_coder.o) (silk_shell_code_table_offsets)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_decoder.o) (opus_packet_get_samples_per_frame)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bands.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_decoder.o) (celt_lcg_rand)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_decoder.o) (resampling_factor)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(cwrs.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(vq.o) (encode_pulses)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entenc.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bands.o) (ec_encode)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(kiss_fft.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(mdct.o) (opus_fft_impl)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(laplace.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(quant_bands.o) (ec_laplace_encode)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bwexpander_32.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF2A.o) (silk_bwexpander_32)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bwexpander.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_parameters.o) (silk_bwexpander)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(CNG.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(init_decoder.o) (silk_CNG_Reset)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(code_signs.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_pulses.o) (silk_decode_signs)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_core.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_frame.o) (silk_decode_core)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(LPC_analysis_filter.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(PLC.o) (silk_LPC_analysis_filter)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(LPC_fit.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF2A.o) (silk_LPC_fit)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(LPC_inv_pred_gain.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF2A.o) (silk_LPC_inverse_pred_gain_c)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_AR2.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_down_FIR.o) (silk_resampler_private_AR2)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.o (destroy_memory_pool)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.o (codec_set_replaygain)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entdec.o) (__aeabi_uidiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_decoder.o) (__aeabi_idiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_decoder.o) (__clzsi2)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.o (__aeabi_uldivmod)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o) (__divdi3)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o) (__udivdi3)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o) (__clzdi2)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/codec_crt0.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_decoder.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_decoder.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_header.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_header.o)
+ .rodata        0x0000000000000000      0x100 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_header.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(framing.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(framing.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_decoder.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_decoder.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_lpc.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_lpc.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entcode.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entcode.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entdec.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entdec.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(mathops.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(mathops.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(mdct.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(mdct.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(modes.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(modes.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(pitch.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(pitch.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(quant_bands.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(quant_bands.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(rate.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(rate.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(vq.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(vq.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(dec_API.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(dec_API.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_frame.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_frame.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_indices.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_indices.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_parameters.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_parameters.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_pitch.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_pitch.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_pulses.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_pulses.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decoder_set_fs.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decoder_set_fs.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(gain_quant.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(gain_quant.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(init_decoder.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(init_decoder.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(lin2log.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(lin2log.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(log2lin.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(log2lin.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF2A.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF2A.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_decode.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_decode.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_stabilize.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_stabilize.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_unpack.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_unpack.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(pitch_est_tables.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(pitch_est_tables.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(pitch_est_tables.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(PLC.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(PLC.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_down_FIR.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_down_FIR.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_IIR_FIR.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_IIR_FIR.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_up2_HQ.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_up2_HQ.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_rom.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_rom.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_rom.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(shell_coder.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(shell_coder.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(sort.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(sort.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(stereo_decode_pred.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(stereo_decode_pred.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(stereo_MS_to_LR.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(stereo_MS_to_LR.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(sum_sqr_shift.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(sum_sqr_shift.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(table_LSF_cos.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(table_LSF_cos.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(table_LSF_cos.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_gain.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_gain.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_gain.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_LTP.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_LTP.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_LTP.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_NLSF_CB_NB_MB.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_NLSF_CB_NB_MB.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_NLSF_CB_NB_MB.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_NLSF_CB_WB.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_NLSF_CB_WB.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_NLSF_CB_WB.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_other.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_other.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_other.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_pitch_lag.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_pitch_lag.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_pitch_lag.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_pulses_per_block.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_pulses_per_block.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_pulses_per_block.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bands.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bands.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(cwrs.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(cwrs.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entenc.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entenc.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(kiss_fft.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(kiss_fft.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(laplace.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(laplace.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bwexpander_32.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bwexpander_32.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bwexpander.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bwexpander.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(CNG.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(CNG.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(code_signs.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(code_signs.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_core.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_core.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(LPC_analysis_filter.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(LPC_analysis_filter.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(LPC_fit.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(LPC_fit.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(LPC_inv_pred_gain.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(LPC_inv_pred_gain.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_AR2.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_AR2.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.get_used_size
+                0x0000000000000000        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.get_max_size
+                0x0000000000000000        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.calloc_ex
+                0x0000000000000000       0x4c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.tlsf_calloc
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .bss           0x0000000000000000        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.codec_init
+                0x0000000000000000       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.codec_malloc
+                0x0000000000000000       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.codec_calloc
+                0x0000000000000000       0x48 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.codec_free
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.codec_realloc
+                0x0000000000000000       0x64 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.codec_strlen
+                0x0000000000000000       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.strcpy   0x0000000000000000       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.strcat   0x0000000000000000       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.strcmp   0x0000000000000000       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.qsort    0x0000000000000000       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .irodata       0x0000000000000000      0x200 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .ARM.extab     0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .ARM.extab     0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001e80000 0x0000000000100000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/codec_crt0.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001e80000       0x20
+                0x0000000001e80000                _plugin_start_addr = .
+                0x0000000001e80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001e80000       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.o
+                0x0000000001e80000                __header
+
+.text           0x0000000001e80020    0x1c784
+ *(.text*)
+ .text          0x0000000001e80020      0xba4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.o
+                0x0000000001e80210                codec_run
+                0x0000000001e80bbc                codec_main
+ .text          0x0000000001e80bc4       0xec /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/codec_crt0.o
+                0x0000000001e80bc4                _start
+                0x0000000001e80bcc                codec_start
+                0x0000000001e80c9c                __div0
+ .text          0x0000000001e80cb0     0x1920 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_decoder.o)
+                0x0000000001e81bc0                opus_decoder_get_size
+                0x0000000001e81bd8                opus_decoder_init
+                0x0000000001e81d24                opus_decoder_create
+                0x0000000001e81e14                opus_decoder_ctl
+                0x0000000001e820f4                opus_decoder_destroy
+                0x0000000001e82104                opus_packet_get_bandwidth
+                0x0000000001e82164                opus_decode_native
+                0x0000000001e82498                opus_decode
+                0x0000000001e824e0                opus_packet_get_nb_channels
+                0x0000000001e824f4                opus_packet_get_nb_frames
+                0x0000000001e82544                opus_packet_get_nb_samples
+                0x0000000001e825bc                opus_decoder_get_nb_samples
+ .text          0x0000000001e825d0      0x3d8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_header.o)
+                0x0000000001e82604                opus_header_parse
+ .text          0x0000000001e829a8     0x16d4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(framing.o)
+                0x0000000001e82bd4                ogg_page_version
+                0x0000000001e82be0                ogg_page_continued
+                0x0000000001e82bf0                ogg_page_bos
+                0x0000000001e82c00                ogg_page_eos
+                0x0000000001e82c10                ogg_page_granulepos
+                0x0000000001e82ce4                ogg_page_serialno
+                0x0000000001e82d0c                ogg_page_pageno
+                0x0000000001e82d34                ogg_page_packets
+                0x0000000001e82d74                ogg_stream_check
+                0x0000000001e82d98                ogg_stream_clear
+                0x0000000001e82df0                ogg_stream_init
+                0x0000000001e82f90                ogg_stream_destroy
+                0x0000000001e82fc0                ogg_page_checksum_set
+                0x0000000001e83398                ogg_stream_iovecin
+                0x0000000001e835fc                ogg_stream_packetin
+                0x0000000001e8363c                ogg_stream_flush
+                0x0000000001e83648                ogg_stream_flush_fill
+                0x0000000001e83654                ogg_stream_pageout
+                0x0000000001e836b0                ogg_stream_pageout_fill
+                0x0000000001e8370c                ogg_stream_eos
+                0x0000000001e83730                ogg_sync_init
+                0x0000000001e8375c                ogg_sync_clear
+                0x0000000001e8379c                ogg_sync_destroy
+                0x0000000001e837cc                ogg_sync_check
+                0x0000000001e837d8                ogg_sync_buffer
+                0x0000000001e838bc                ogg_sync_wrote
+                0x0000000001e838ec                ogg_sync_pageseek
+                0x0000000001e83aa4                ogg_sync_pageout
+                0x0000000001e83b10                ogg_stream_pagein
+                0x0000000001e83f04                ogg_sync_reset
+                0x0000000001e83f34                ogg_stream_reset
+                0x0000000001e83fa4                ogg_stream_reset_serialno
+                0x0000000001e84014                ogg_stream_packetout
+                0x0000000001e84034                ogg_stream_packetpeek
+                0x0000000001e84054                ogg_packet_clear
+ .text          0x0000000001e8407c     0x2b2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_decoder.o)
+                0x0000000001e8563c                celt_decoder_get_size
+                0x0000000001e85684                celt_decode_with_ec
+                0x0000000001e867d0                opus_custom_decoder_ctl
+                0x0000000001e86abc                celt_decoder_init
+ .text          0x0000000001e86ba8     0x1018 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_lpc.o)
+                0x0000000001e86ba8                _celt_lpc
+                0x0000000001e86d88                celt_fir_c
+                0x0000000001e871cc                celt_iir
+                0x0000000001e8788c                _celt_autocorr
+ .text          0x0000000001e87bc0       0x58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entcode.o)
+                0x0000000001e87bc0                ec_tell_frac
+ .text          0x0000000001e87c18      0x3bc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entdec.o)
+                0x0000000001e87c9c                ec_dec_init
+                0x0000000001e87cfc                ec_decode
+                0x0000000001e87d8c                ec_decode_bin
+                0x0000000001e87dcc                ec_dec_update
+                0x0000000001e87e08                ec_dec_bit_logp
+                0x0000000001e87e48                ec_dec_icdf
+                0x0000000001e87e9c                ec_dec_bits
+                0x0000000001e87f18                ec_dec_uint
+ .text          0x0000000001e87fd4      0x4f4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(mathops.o)
+                0x0000000001e87fd4                isqrt32
+                0x0000000001e88020                celt_rsqrt_norm
+                0x0000000001e880bc                celt_sqrt
+                0x0000000001e881b4                celt_cos_norm
+                0x0000000001e88344                celt_rcp
+                0x0000000001e88424                frac_div32
+ .text          0x0000000001e884c8      0x76c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(mdct.o)
+                0x0000000001e884c8                clt_mdct_forward_c
+                0x0000000001e88964                clt_mdct_backward_c
+ .text          0x0000000001e88c34       0x6c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(modes.o)
+                0x0000000001e88c34                opus_custom_mode_create
+ .text          0x0000000001e88ca0     0x1594 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(pitch.o)
+                0x0000000001e88f44                pitch_downsample
+                0x0000000001e89338                celt_pitch_xcorr_c
+                0x0000000001e8970c                pitch_search
+                0x0000000001e89bd8                remove_doubling
+ .text          0x0000000001e8a234     0x1268 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(quant_bands.o)
+                0x0000000001e8a670                quant_coarse_energy
+                0x0000000001e8ac50                quant_fine_energy
+                0x0000000001e8ad40                quant_energy_finalise
+                0x0000000001e8aec4                unquant_coarse_energy
+                0x0000000001e8b120                unquant_fine_energy
+                0x0000000001e8b1b0                unquant_energy_finalise
+                0x0000000001e8b2d8                amp2Log2
+ .text          0x0000000001e8b49c      0xf70 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(rate.o)
+                0x0000000001e8b49c                clt_compute_allocation
+ .text          0x0000000001e8c40c      0xd2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(vq.o)
+                0x0000000001e8c84c                exp_rotation
+                0x0000000001e8c884                op_pvq_search_c
+                0x0000000001e8cc00                alg_quant
+                0x0000000001e8cd3c                alg_unquant
+                0x0000000001e8cdec                renormalise_vector
+                0x0000000001e8ceb0                stereo_itheta
+ .text          0x0000000001e8d138      0xc58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(dec_API.o)
+                0x0000000001e8d138                silk_Get_Decoder_Size
+                0x0000000001e8d14c                silk_InitDecoder
+                0x0000000001e8d194                silk_Decode
+ .text          0x0000000001e8dd90      0x1d4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_frame.o)
+                0x0000000001e8dd90                silk_decode_frame
+ .text          0x0000000001e8df64      0x3f8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_indices.o)
+                0x0000000001e8df64                silk_decode_indices
+ .text          0x0000000001e8e35c      0x270 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_parameters.o)
+                0x0000000001e8e35c                silk_decode_parameters
+ .text          0x0000000001e8e5cc      0x100 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_pitch.o)
+                0x0000000001e8e5cc                silk_decode_pitch
+ .text          0x0000000001e8e6cc      0x234 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_pulses.o)
+                0x0000000001e8e6cc                silk_decode_pulses
+ .text          0x0000000001e8e900      0x1fc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decoder_set_fs.o)
+                0x0000000001e8e900                silk_decoder_set_fs
+ .text          0x0000000001e8eafc      0x2b4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(gain_quant.o)
+                0x0000000001e8eafc                silk_gains_quant
+                0x0000000001e8eca4                silk_gains_dequant
+                0x0000000001e8ed80                silk_gains_ID
+ .text          0x0000000001e8edb0       0x50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(init_decoder.o)
+                0x0000000001e8edb0                silk_init_decoder
+ .text          0x0000000001e8ee00       0x94 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(lin2log.o)
+                0x0000000001e8ee00                silk_lin2log
+ .text          0x0000000001e8ee94       0x88 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(log2lin.o)
+                0x0000000001e8ee94                silk_log2lin
+ .text          0x0000000001e8ef1c      0x3d4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF2A.o)
+                0x0000000001e8ef1c                silk_NLSF2A
+ .text          0x0000000001e8f2f0      0x148 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_decode.o)
+                0x0000000001e8f2f0                silk_NLSF_decode
+ .text          0x0000000001e8f438      0x330 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_stabilize.o)
+                0x0000000001e8f438                silk_NLSF_stabilize
+ .text          0x0000000001e8f768       0xa4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_unpack.o)
+                0x0000000001e8f768                silk_NLSF_unpack
+ .text          0x0000000001e8f80c      0xfa8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(PLC.o)
+                0x0000000001e8f80c                silk_PLC_Reset
+                0x0000000001e8f83c                silk_PLC
+                0x0000000001e905e0                silk_PLC_glue_frames
+ .text          0x0000000001e907b4      0x4c0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler.o)
+                0x0000000001e907b4                silk_resampler_init
+                0x0000000001e90b20                silk_resampler
+ .text          0x0000000001e90c74      0x778 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_down_FIR.o)
+                0x0000000001e90c74                silk_resampler_private_down_FIR
+ .text          0x0000000001e913ec      0x1d4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_IIR_FIR.o)
+                0x0000000001e913ec                silk_resampler_private_IIR_FIR
+ .text          0x0000000001e915c0      0x1a4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_up2_HQ.o)
+                0x0000000001e915c0                silk_resampler_private_up2_HQ
+                0x0000000001e91760                silk_resampler_private_up2_HQ_wrapper
+ .text          0x0000000001e91764      0x7b0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(shell_coder.o)
+                0x0000000001e91764                silk_shell_encoder
+                0x0000000001e91a8c                silk_shell_decoder
+ .text          0x0000000001e91f14      0x430 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(sort.o)
+                0x0000000001e91f14                silk_insertion_sort_increasing
+                0x0000000001e920d8                silk_insertion_sort_decreasing_int16
+                0x0000000001e922b8                silk_insertion_sort_increasing_all_values_int16
+ .text          0x0000000001e92344      0x13c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(stereo_decode_pred.o)
+                0x0000000001e92344                silk_stereo_decode_pred
+                0x0000000001e9245c                silk_stereo_decode_mid_only
+ .text          0x0000000001e92480      0x30c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(stereo_MS_to_LR.o)
+                0x0000000001e92480                silk_stereo_MS_to_LR
+ .text          0x0000000001e9278c      0x11c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(sum_sqr_shift.o)
+                0x0000000001e9278c                silk_sum_sqr_shift
+ .text          0x0000000001e928a8      0x568 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus.o)
+                0x0000000001e928a8                encode_size
+                0x0000000001e928dc                opus_packet_get_samples_per_frame
+                0x0000000001e9297c                opus_packet_parse_impl
+                0x0000000001e92dd4                opus_packet_parse
+ .text          0x0000000001e92e10     0x42a8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bands.o)
+                0x0000000001e9312c                hysteresis_decision
+                0x0000000001e931c8                celt_lcg_rand
+                0x0000000001e931f0                bitexact_cos
+                0x0000000001e93270                bitexact_log2tan
+                0x0000000001e94364                compute_band_energies
+                0x0000000001e94570                normalise_bands
+                0x0000000001e946c8                denormalise_bands
+                0x0000000001e9494c                anti_collapse
+                0x0000000001e94e64                spreading_decision
+                0x0000000001e95274                haar1
+                0x0000000001e95f08                quant_all_bands
+ .text.unlikely
+                0x0000000001e970b8       0x78 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bands.o)
+ .text          0x0000000001e97130      0x774 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt.o)
+                0x0000000001e97130                resampling_factor
+                0x0000000001e971a4                comb_filter
+                0x0000000001e97808                init_caps
+                0x0000000001e97874                opus_strerror
+                0x0000000001e97898                opus_get_version_string
+ .text          0x0000000001e978a4      0x380 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(cwrs.o)
+                0x0000000001e978a4                encode_pulses
+                0x0000000001e97998                decode_pulses
+ .text          0x0000000001e97c24      0x770 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entenc.o)
+                0x0000000001e97cf8                ec_enc_init
+                0x0000000001e97d40                ec_encode
+                0x0000000001e97e44                ec_encode_bin
+                0x0000000001e97eec                ec_enc_bit_logp
+                0x0000000001e97f68                ec_enc_icdf
+                0x0000000001e98014                ec_enc_bits
+                0x0000000001e9809c                ec_enc_uint
+                0x0000000001e98110                ec_enc_patch_initial_bits
+                0x0000000001e9819c                ec_enc_shrink
+                0x0000000001e981d0                ec_enc_done
+ .text          0x0000000001e98394      0xcb8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(kiss_fft.o)
+                0x0000000001e98394                opus_fft_impl
+                0x0000000001e98f38                opus_fft_c
+                0x0000000001e98fa4                opus_ifft_c
+ .text          0x0000000001e9904c      0x204 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(laplace.o)
+                0x0000000001e9904c                ec_laplace_encode
+                0x0000000001e99154                ec_laplace_decode
+ .text          0x0000000001e99250       0x6c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bwexpander_32.o)
+                0x0000000001e99250                silk_bwexpander_32
+ .text          0x0000000001e992bc       0x78 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bwexpander.o)
+                0x0000000001e992bc                silk_bwexpander
+ .text          0x0000000001e99334      0x8c4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(CNG.o)
+                0x0000000001e99334                silk_CNG_Reset
+                0x0000000001e9939c                silk_CNG
+ .text          0x0000000001e99bf8      0x194 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(code_signs.o)
+                0x0000000001e99bf8                silk_encode_signs
+                0x0000000001e99cc4                silk_decode_signs
+ .text          0x0000000001e99d8c      0xad4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_core.o)
+                0x0000000001e99d8c                silk_decode_core
+ .text          0x0000000001e9a860      0x134 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(LPC_analysis_filter.o)
+                0x0000000001e9a860                silk_LPC_analysis_filter
+ .text          0x0000000001e9a994      0x1c8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(LPC_fit.o)
+                0x0000000001e9a994                silk_LPC_fit
+ .text          0x0000000001e9ab5c      0x6b4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(LPC_inv_pred_gain.o)
+                0x0000000001e9ab5c                silk_LPC_inverse_pred_gain_c
+ .text          0x0000000001e9b210       0x64 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_AR2.o)
+                0x0000000001e9b210                silk_resampler_private_AR2
+ .text.ls_bit   0x0000000001e9b274       0x44 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.ms_bit   0x0000000001e9b2b8       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.set_bit  0x0000000001e9b2f4       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.clear_bit
+                0x0000000001e9b310       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.MAPPING_SEARCH
+                0x0000000001e9b32c       0x8c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.FIND_SUITABLE_BLOCK
+                0x0000000001e9b3b8       0x78 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.process_area
+                0x0000000001e9b430       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.MAPPING_INSERT
+                0x0000000001e9b490       0x5c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.panicf   0x0000000001e9b4ec        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001e9b4ec                panicf
+ .text.get_new_area
+                0x0000000001e9b4f4        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001e9b4f4                get_new_area
+ .text.destroy_memory_pool
+                0x0000000001e9b4fc        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001e9b4fc                destroy_memory_pool
+ .text.free_ex  0x0000000001e9b508      0x2a0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001e9b508                free_ex
+ .text.init_memory_pool
+                0x0000000001e9b7a8       0xcc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001e9b7a8                init_memory_pool
+ .text.add_new_area
+                0x0000000001e9b874      0x16c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001e9b874                add_new_area
+ .text.malloc_ex
+                0x0000000001e9b9e0      0x260 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001e9b9e0                malloc_ex
+ .text.tlsf_malloc
+                0x0000000001e9bc40       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001e9bc40                tlsf_malloc
+ .text.tlsf_free
+                0x0000000001e9bca0       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001e9bca0                tlsf_free
+ .text.realloc_ex
+                0x0000000001e9bcb0      0x3a8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001e9bcb0                realloc_ex
+ .text.tlsf_realloc
+                0x0000000001e9c058       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001e9c058                tlsf_realloc
+ .text.codec_set_replaygain
+                0x0000000001e9c074       0x54 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+                0x0000000001e9c074                codec_set_replaygain
+ .text.memcpy   0x0000000001e9c0c8       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+                0x0000000001e9c0c8                memcpy
+ .text.memset   0x0000000001e9c0ec       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+                0x0000000001e9c0ec                memset
+ .text.memcmp   0x0000000001e9c110       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+                0x0000000001e9c110                memcmp
+ .text.memchr   0x0000000001e9c134       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+                0x0000000001e9c134                memchr
+ .text.memmove  0x0000000001e9c158       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+                0x0000000001e9c158                memmove
+ .text          0x0000000001e9c17c      0x114 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                0x0000000001e9c17c                __udivsi3
+                0x0000000001e9c17c                __aeabi_uidiv
+                0x0000000001e9c270                __aeabi_uidivmod
+ .text          0x0000000001e9c290      0x148 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                0x0000000001e9c290                __aeabi_idiv
+                0x0000000001e9c290                __divsi3
+                0x0000000001e9c3b8                __aeabi_idivmod
+ .text          0x0000000001e9c3d8        0x4 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                0x0000000001e9c3d8                __aeabi_ldiv0
+                0x0000000001e9c3d8                __aeabi_idiv0
+ .text          0x0000000001e9c3dc       0x48 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+                0x0000000001e9c3dc                __clzsi2
+ .text          0x0000000001e9c424       0x3c /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+                0x0000000001e9c424                __aeabi_uldivmod
+ .text          0x0000000001e9c460       0x84 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+                0x0000000001e9c460                __gnu_ldivmod_helper
+                0x0000000001e9c4a4                __gnu_uldivmod_helper
+ .text          0x0000000001e9c4e4      0x178 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+                0x0000000001e9c4e4                __divdi3
+ .text          0x0000000001e9c65c      0x120 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+                0x0000000001e9c65c                __udivdi3
+ .text          0x0000000001e9c77c       0x28 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+                0x0000000001e9c77c                __clzdi2
+ *(.glue_7)
+ .glue_7        0x0000000001e9c7a4        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001e9c7a4        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001e9c7a4        0x0
+ .vfp11_veneer  0x0000000001e9c7a4        0x0 linker stubs
+
+.v4_bx          0x0000000001e9c7a4        0x0
+ .v4_bx         0x0000000001e9c7a4        0x0 linker stubs
+
+.iplt           0x0000000001e9c7a4        0x0
+ .iplt          0x0000000001e9c7a4        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.o
+
+.rodata         0x0000000001e9c7a4     0x7b3e
+ *(.rodata*)
+ .rodata        0x0000000001e9c7a4        0x6 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.o
+ .rodata.str1.1
+                0x0000000001e9c7aa        0x9 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.o
+ *fill*         0x0000000001e9c7b3        0x1 
+ .rodata        0x0000000001e9c7b4       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_decoder.o)
+ *fill*         0x0000000001e9c7c6        0x2 
+ .rodata.str1.4
+                0x0000000001e9c7c8        0x9 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_header.o)
+ *fill*         0x0000000001e9c7d1        0x3 
+ .rodata        0x0000000001e9c7d4     0x2000 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(framing.o)
+ .rodata.str1.4
+                0x0000000001e9e7d4        0x5 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(framing.o)
+ *fill*         0x0000000001e9e7d9        0x3 
+ .rodata        0x0000000001e9e7dc       0x13 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_decoder.o)
+ *fill*         0x0000000001e9e7ef        0x1 
+ .rodata        0x0000000001e9e7f0      0x224 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entcode.o)
+                0x0000000001e9e810                SMALL_DIV_TABLE
+ .rodata        0x0000000001e9ea14     0x2320 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(modes.o)
+ .rodata        0x0000000001ea0d34       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(pitch.o)
+ .rodata        0x0000000001ea0d74      0x17d /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(quant_bands.o)
+                0x0000000001ea0ed8                eMeans
+ *fill*         0x0000000001ea0ef1        0x3 
+ .rodata        0x0000000001ea0ef4       0x18 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(rate.o)
+ .rodata        0x0000000001ea0f0c        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(vq.o)
+ .rodata        0x0000000001ea0f18        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(dec_API.o)
+ .rodata        0x0000000001ea0f24       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF2A.o)
+ .rodata        0x0000000001ea0f40       0xf2 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(pitch_est_tables.o)
+                0x0000000001ea0f40                silk_nb_cbk_searchs_stage3
+                0x0000000001ea0f44                silk_Lag_range_stage3
+                0x0000000001ea0f5c                silk_CB_lags_stage3
+                0x0000000001ea0fe4                silk_CB_lags_stage2
+                0x0000000001ea1010                silk_Lag_range_stage3_10_ms
+                0x0000000001ea1014                silk_CB_lags_stage3_10_ms
+                0x0000000001ea102c                silk_CB_lags_stage2_10_ms
+ *fill*         0x0000000001ea1032        0x2 
+ .rodata        0x0000000001ea1034        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(PLC.o)
+ .rodata        0x0000000001ea1040       0x1f /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler.o)
+ *fill*         0x0000000001ea105f        0x1 
+ .rodata        0x0000000001ea1060      0x162 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_rom.o)
+                0x0000000001ea1060                silk_resampler_frac_FIR_12
+                0x0000000001ea10c0                silk_Resampler_2_3_COEFS_LQ
+                0x0000000001ea10cc                silk_Resampler_1_6_COEFS
+                0x0000000001ea10f4                silk_Resampler_1_4_COEFS
+                0x0000000001ea111c                silk_Resampler_1_3_COEFS
+                0x0000000001ea1144                silk_Resampler_1_2_COEFS
+                0x0000000001ea1160                silk_Resampler_2_3_COEFS
+                0x0000000001ea1188                silk_Resampler_3_4_COEFS
+ *fill*         0x0000000001ea11c2        0x2 
+ .rodata        0x0000000001ea11c4      0x102 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(table_LSF_cos.o)
+                0x0000000001ea11c4                silk_LSFCosTab_FIX_Q12
+ *fill*         0x0000000001ea12c6        0x2 
+ .rodata        0x0000000001ea12c8       0x44 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_gain.o)
+                0x0000000001ea12c8                silk_delta_gain_iCDF
+                0x0000000001ea12f4                silk_gain_iCDF
+ .rodata        0x0000000001ea130c      0x1f7 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_LTP.o)
+                0x0000000001ea130c                silk_LTP_vq_sizes
+                0x0000000001ea1310                silk_LTP_vq_gain_ptrs_Q7
+                0x0000000001ea1354                silk_LTP_vq_ptrs_Q7
+                0x0000000001ea1478                silk_LTP_gain_BITS_Q5_ptrs
+                0x0000000001ea1484                silk_LTP_gain_iCDF_ptrs
+                0x0000000001ea1500                silk_LTP_per_index_iCDF
+ *fill*         0x0000000001ea1503        0x1 
+ .rodata        0x0000000001ea1504      0x584 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_NLSF_CB_NB_MB.o)
+                0x0000000001ea1504                silk_NLSF_CB_NB_MB
+ .rodata        0x0000000001ea1a88      0x83c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_NLSF_CB_WB.o)
+                0x0000000001ea1a88                silk_NLSF_CB_WB
+ .rodata        0x0000000001ea22c4      0x108 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_other.o)
+                0x0000000001ea22c4                silk_Transition_LP_A_Q28
+                0x0000000001ea22ec                silk_Transition_LP_B_Q28
+                0x0000000001ea2328                silk_NLSF_EXT_iCDF
+                0x0000000001ea2330                silk_uniform8_iCDF
+                0x0000000001ea2338                silk_uniform6_iCDF
+                0x0000000001ea2340                silk_uniform5_iCDF
+                0x0000000001ea2348                silk_uniform4_iCDF
+                0x0000000001ea234c                silk_uniform3_iCDF
+                0x0000000001ea2350                silk_LTPScales_table_Q14
+                0x0000000001ea2358                silk_Quantization_Offsets_Q10
+                0x0000000001ea2360                silk_NLSF_interpolation_factor_iCDF
+                0x0000000001ea2368                silk_type_offset_no_VAD_iCDF
+                0x0000000001ea236c                silk_type_offset_VAD_iCDF
+                0x0000000001ea2370                silk_LTPscale_iCDF
+                0x0000000001ea2374                silk_lsb_iCDF
+                0x0000000001ea2378                silk_LBRR_flags_iCDF_ptr
+                0x0000000001ea238c                silk_stereo_only_code_mid_iCDF
+                0x0000000001ea2390                silk_stereo_pred_joint_iCDF
+                0x0000000001ea23ac                silk_stereo_pred_quant_Q13
+ .rodata        0x0000000001ea23cc       0x78 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_pitch_lag.o)
+                0x0000000001ea23cc                silk_pitch_contour_10_ms_NB_iCDF
+                0x0000000001ea23d0                silk_pitch_contour_10_ms_iCDF
+                0x0000000001ea23dc                silk_pitch_contour_NB_iCDF
+                0x0000000001ea23e8                silk_pitch_contour_iCDF
+                0x0000000001ea240c                silk_pitch_delta_iCDF
+                0x0000000001ea2424                silk_pitch_lag_iCDF
+ .rodata        0x0000000001ea2444      0x424 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_pulses_per_block.o)
+                0x0000000001ea2444                silk_sign_iCDF
+                0x0000000001ea2470                silk_shell_code_table_offsets
+                0x0000000001ea2484                silk_shell_code_table3
+                0x0000000001ea251c                silk_shell_code_table2
+                0x0000000001ea25b4                silk_shell_code_table1
+                0x0000000001ea264c                silk_shell_code_table0
+                0x0000000001ea26e4                silk_rate_levels_BITS_Q5
+                0x0000000001ea26f8                silk_rate_levels_iCDF
+                0x0000000001ea270c                silk_pulses_per_block_BITS_Q5
+                0x0000000001ea27b0                silk_pulses_per_block_iCDF
+                0x0000000001ea2864                silk_max_pulses_table
+ .rodata        0x0000000001ea2868       0xa8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bands.o)
+ .rodata        0x0000000001ea2910       0x54 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt.o)
+                0x0000000001ea2944                tf_select_table
+ .rodata.str1.4
+                0x0000000001ea2964       0xc0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt.o)
+                                         0xbd (size before relaxing)
+ .rodata        0x0000000001ea2a24     0x141c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(cwrs.o)
+ .rodata        0x0000000001ea3e40      0x400 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .rodata.str1.1
+                0x0000000001ea4240       0xa2 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+
+.ARM.exidx      0x0000000001ea42e4        0x8
+ .ARM.exidx     0x0000000001ea42e4        0x8 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .ARM.exidx     0x0000000001ea42ec        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+                                          0x8 (size before relaxing)
+
+.rel.dyn        0x0000000001ea42ec        0x0
+ .rel.iplt      0x0000000001ea42ec        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.o
+
+.data           0x0000000001ea42ec        0x4
+ *(.data*)
+ .data          0x0000000001ea42ec        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/codec_crt0.o
+                0x0000000001ea42ec                ci
+
+.igot.plt       0x0000000001ea42f0        0x0
+ .igot.plt      0x0000000001ea42f0        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.o
+
+.ncdata         0x0000000011ea42f0        0x0 load address 0x0000000001ea42f0
+                0x0000000011ea42f0                . = ALIGN (0x10)
+ *fill*         0x0000000011ea42f0        0x0 
+ *(.ncdata*)
+                0x0000000011ea42f0                . = ALIGN (0x10)
+                0x0000000001ea42f0                bssaddr = (. - 0x10000000)
+                0x0000000001ea42f0                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001ea42f0        0x4
+                0x0000000001ea42f0                plugin_bss_start = .
+                0x0000000001ea42f0                _plugin_bss_start = .
+ *(.bss*)
+ .bss           0x0000000001ea42f0        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ *(COMMON)
+                0x0000000001ea42f4                . = ALIGN (0x4)
+
+.ncbss          0x0000000011ea42f4        0xc load address 0x0000000001ea42f4
+                0x0000000011ea4300                . = ALIGN (0x10)
+ *fill*         0x0000000011ea42f4        0xc 
+ *(.ncbss*)
+                0x0000000011ea4300                . = ALIGN (0x10)
+                0x0000000001ea4300                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001ea4300        0x0
+                0x0000000001ea4300                _plugin_end_addr = .
+                0x0000000001ea4300                plugin_end_addr = .
+
+.iram           0x000000004000c000        0x0 load address 0x0000000001ea42f0
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ *(.irodata)
+ *(.idata)
+                0x000000004000c000                iramend = .
+
+.ibss           0x000000004000c000        0x0
+                0x000000004000c000                iedata = .
+ *(.ibss)
+                0x000000004000c000                . = ALIGN (0x4)
+                0x000000004000c000                iend = .
+                0x0000000001ea4300                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001ea4300        0x0
+                0x0000000001ea4300                _plugin_load_end_addr = .
+                0x0000000001ea4300                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/codec_crt0.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_decoder.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_header.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(framing.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_decoder.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_lpc.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entcode.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entdec.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(mathops.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(mdct.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(modes.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(pitch.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(quant_bands.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(rate.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(vq.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(dec_API.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_frame.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_indices.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_parameters.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_pitch.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_pulses.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decoder_set_fs.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(gain_quant.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(init_decoder.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(lin2log.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(log2lin.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF2A.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_decode.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_stabilize.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_unpack.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(pitch_est_tables.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(PLC.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_down_FIR.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_IIR_FIR.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_up2_HQ.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_rom.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(shell_coder.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(sort.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(stereo_decode_pred.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(stereo_MS_to_LR.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(sum_sqr_shift.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(table_LSF_cos.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_gain.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_LTP.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_NLSF_CB_NB_MB.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_NLSF_CB_WB.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_other.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_pitch_lag.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_pulses_per_block.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bands.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(cwrs.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entenc.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(kiss_fft.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(laplace.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bwexpander_32.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bwexpander.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(CNG.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(code_signs.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_core.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(LPC_analysis_filter.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(LPC_fit.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(LPC_inv_pred_gain.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_AR2.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .comment       0x0000000000000011       0x12 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .comment       0x0000000000000011       0x12 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .comment       0x0000000000000011       0x12 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+OUTPUT(/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/opus.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/codec_crt0.o
+ .ARM.attributes
+                0x0000000000000060       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_decoder.o)
+ .ARM.attributes
+                0x0000000000000090       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus_header.o)
+ .ARM.attributes
+                0x00000000000000c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(framing.o)
+ .ARM.attributes
+                0x00000000000000f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_decoder.o)
+ .ARM.attributes
+                0x0000000000000120       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt_lpc.o)
+ .ARM.attributes
+                0x0000000000000150       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entcode.o)
+ .ARM.attributes
+                0x0000000000000180       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entdec.o)
+ .ARM.attributes
+                0x00000000000001b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(mathops.o)
+ .ARM.attributes
+                0x00000000000001e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(mdct.o)
+ .ARM.attributes
+                0x0000000000000210       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(modes.o)
+ .ARM.attributes
+                0x0000000000000240       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(pitch.o)
+ .ARM.attributes
+                0x0000000000000270       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(quant_bands.o)
+ .ARM.attributes
+                0x00000000000002a0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(rate.o)
+ .ARM.attributes
+                0x00000000000002d0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(vq.o)
+ .ARM.attributes
+                0x0000000000000300       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(dec_API.o)
+ .ARM.attributes
+                0x0000000000000330       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_frame.o)
+ .ARM.attributes
+                0x0000000000000360       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_indices.o)
+ .ARM.attributes
+                0x0000000000000390       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_parameters.o)
+ .ARM.attributes
+                0x00000000000003c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_pitch.o)
+ .ARM.attributes
+                0x00000000000003f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_pulses.o)
+ .ARM.attributes
+                0x0000000000000420       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decoder_set_fs.o)
+ .ARM.attributes
+                0x0000000000000450       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(gain_quant.o)
+ .ARM.attributes
+                0x0000000000000480       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(init_decoder.o)
+ .ARM.attributes
+                0x00000000000004b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(lin2log.o)
+ .ARM.attributes
+                0x00000000000004e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(log2lin.o)
+ .ARM.attributes
+                0x0000000000000510       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF2A.o)
+ .ARM.attributes
+                0x0000000000000540       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_decode.o)
+ .ARM.attributes
+                0x0000000000000570       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_stabilize.o)
+ .ARM.attributes
+                0x00000000000005a0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(NLSF_unpack.o)
+ .ARM.attributes
+                0x00000000000005d0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(pitch_est_tables.o)
+ .ARM.attributes
+                0x0000000000000600       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(PLC.o)
+ .ARM.attributes
+                0x0000000000000630       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler.o)
+ .ARM.attributes
+                0x0000000000000660       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_down_FIR.o)
+ .ARM.attributes
+                0x0000000000000690       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_IIR_FIR.o)
+ .ARM.attributes
+                0x00000000000006c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_up2_HQ.o)
+ .ARM.attributes
+                0x00000000000006f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_rom.o)
+ .ARM.attributes
+                0x0000000000000720       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(shell_coder.o)
+ .ARM.attributes
+                0x0000000000000750       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(sort.o)
+ .ARM.attributes
+                0x0000000000000780       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(stereo_decode_pred.o)
+ .ARM.attributes
+                0x00000000000007b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(stereo_MS_to_LR.o)
+ .ARM.attributes
+                0x00000000000007e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(sum_sqr_shift.o)
+ .ARM.attributes
+                0x0000000000000810       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(table_LSF_cos.o)
+ .ARM.attributes
+                0x0000000000000840       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_gain.o)
+ .ARM.attributes
+                0x0000000000000870       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_LTP.o)
+ .ARM.attributes
+                0x00000000000008a0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_NLSF_CB_NB_MB.o)
+ .ARM.attributes
+                0x00000000000008d0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_NLSF_CB_WB.o)
+ .ARM.attributes
+                0x0000000000000900       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_other.o)
+ .ARM.attributes
+                0x0000000000000930       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_pitch_lag.o)
+ .ARM.attributes
+                0x0000000000000960       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(tables_pulses_per_block.o)
+ .ARM.attributes
+                0x0000000000000990       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(opus.o)
+ .ARM.attributes
+                0x00000000000009c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bands.o)
+ .ARM.attributes
+                0x00000000000009f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(celt.o)
+ .ARM.attributes
+                0x0000000000000a20       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(cwrs.o)
+ .ARM.attributes
+                0x0000000000000a50       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(entenc.o)
+ .ARM.attributes
+                0x0000000000000a80       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(kiss_fft.o)
+ .ARM.attributes
+                0x0000000000000ab0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(laplace.o)
+ .ARM.attributes
+                0x0000000000000ae0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bwexpander_32.o)
+ .ARM.attributes
+                0x0000000000000b10       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(bwexpander.o)
+ .ARM.attributes
+                0x0000000000000b40       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(CNG.o)
+ .ARM.attributes
+                0x0000000000000b70       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(code_signs.o)
+ .ARM.attributes
+                0x0000000000000ba0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(decode_core.o)
+ .ARM.attributes
+                0x0000000000000bd0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(LPC_analysis_filter.o)
+ .ARM.attributes
+                0x0000000000000c00       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(LPC_fit.o)
+ .ARM.attributes
+                0x0000000000000c30       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(LPC_inv_pred_gain.o)
+ .ARM.attributes
+                0x0000000000000c60       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libopus.a(resampler_private_AR2.o)
+ .ARM.attributes
+                0x0000000000000c90       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .ARM.attributes
+                0x0000000000000cc0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .ARM.attributes
+                0x0000000000000cf0       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000d08       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000000000000d20       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000000000000d38       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x0000000000000d50       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000000000000d68       0x30 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x0000000000000d98       0x30 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x0000000000000dc8       0x30 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x0000000000000df8       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+
+.debug_frame    0x0000000000000000      0x158
+ .debug_frame   0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_frame   0x0000000000000040       0x28 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000000000000068       0x68 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_frame   0x00000000000000d0       0x48 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_frame   0x0000000000000118       0x40 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+
+.debug_line     0x0000000000000000      0x441
+ .debug_line    0x0000000000000000       0x7e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_line    0x000000000000007e       0x8a /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_line    0x0000000000000108       0x61 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x0000000000000169       0x6e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+ .debug_line    0x00000000000001d7       0x64 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x000000000000023b       0x65 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_line    0x00000000000002a0       0x9e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_line    0x000000000000033e       0x98 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_line    0x00000000000003d6       0x6b /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+
+.debug_info     0x0000000000000000      0x8c0
+ .debug_info    0x0000000000000000       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_info    0x0000000000000088       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_info    0x0000000000000110       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x0000000000000198       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+ .debug_info    0x0000000000000220       0x84 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x00000000000002a4      0x164 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_info    0x0000000000000408      0x269 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_info    0x0000000000000671      0x1c7 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_info    0x0000000000000838       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+
+.debug_abbrev   0x0000000000000000      0x319
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000000014       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000028       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x000000000000003c       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x0000000000000050       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .debug_abbrev  0x0000000000000064       0xb7 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_abbrev  0x000000000000011b      0x123 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_abbrev  0x000000000000023e       0xc7 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x0000000000000305       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+
+.debug_aranges  0x0000000000000000      0x120
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x0000000000000060       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x0000000000000080       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x0000000000000100       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+
+.debug_loc      0x0000000000000000      0x500
+ .debug_loc     0x0000000000000000       0xa0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_loc     0x00000000000000a0      0x27d /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_loc     0x000000000000031d      0x1e3 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+
+.debug_str      0x0000000000000000      0x287
+ .debug_str     0x0000000000000000      0x152 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_str     0x0000000000000152      0x135 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+                                        0x1dd (size before relaxing)
+ .debug_str     0x0000000000000287      0x1ba /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+
+.debug_ranges   0x0000000000000000       0x18
+ .debug_ranges  0x0000000000000000       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)

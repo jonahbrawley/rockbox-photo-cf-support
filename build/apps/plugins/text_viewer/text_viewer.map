@@ -1,0 +1,496 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_menu.o (memset)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_menu.o (playback_control)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o (setjmp)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_display.o (__aeabi_idiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o) (__aeabi_idiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+bookmarks           0x110             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_bookmark.o
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/text_viewer.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/text_viewer.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_action.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_bookmark.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_pager.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_preferences.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_screen_pos.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_settings.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_text_processor.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_text_reader.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_window.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.__div0   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memcpy   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memmove  0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memcmp   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.playback_control_init
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001f80000 0x0000000000080000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/text_viewer.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_action.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_bookmark.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_display.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_menu.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_pager.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_preferences.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_reader.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_screen_pos.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_settings.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_text_processor.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_text_reader.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_window.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001f80000       0x1c
+                0x0000000001f80000                _plugin_start_addr = .
+                0x0000000001f80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001f80000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f80000                __header
+
+.text           0x0000000001f8001c     0x5444
+ *(.text*)
+ .text          0x0000000001f8001c      0x308 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/text_viewer.o
+                0x0000000001f8001c                plugin_start
+ .text          0x0000000001f80324      0x3b8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_action.o
+                0x0000000001f80324                tv_init_action
+                0x0000000001f80350                tv_exit
+                0x0000000001f803c4                tv_load_file
+                0x0000000001f803e0                tv_draw
+                0x0000000001f80418                tv_scroll_up
+                0x0000000001f80480                tv_scroll_down
+                0x0000000001f804ec                tv_scroll_left
+                0x0000000001f8054c                tv_scroll_right
+                0x0000000001f805ac                tv_top
+                0x0000000001f805c8                tv_bottom
+                0x0000000001f8063c                tv_menu
+                0x0000000001f806bc                tv_add_or_remove_bookmark
+ .text          0x0000000001f806dc      0x6c0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_bookmark.o
+                0x0000000001f808bc                tv_init_bookmark
+                0x0000000001f808d8                tv_finalize_bookmark
+                0x0000000001f808dc                tv_get_bookmark_positions
+                0x0000000001f80928                tv_toggle_bookmark
+                0x0000000001f809d0                tv_create_system_bookmark
+                0x0000000001f80a40                tv_select_bookmark
+                0x0000000001f80c14                tv_deserialize_bookmarks
+                0x0000000001f80d10                tv_serialize_bookmarks
+ .text          0x0000000001f80d9c      0x960 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_display.o
+                0x0000000001f81010                tv_init_scrollbar
+                0x0000000001f81058                tv_show_bookmarks
+                0x0000000001f81100                tv_update_extra
+                0x0000000001f812a8                tv_end_display
+                0x0000000001f812d8                tv_set_layout
+                0x0000000001f8144c                tv_get_drawarea_info
+                0x0000000001f81470                tv_init_display
+                0x0000000001f814b4                tv_night_mode
+                0x0000000001f8152c                tv_draw_text
+                0x0000000001f81618                tv_start_display
+                0x0000000001f8167c                tv_finalize_display
+                0x0000000001f816f4                tv_exist_scrollbar
+ .text          0x0000000001f816fc      0x6cc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_menu.o
+                0x0000000001f81cd8                tv_display_menu
+ .text          0x0000000001f81dc8      0x75c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_pager.o
+                0x0000000001f81ee8                tv_init_pager
+                0x0000000001f81f40                tv_finalize_pager
+                0x0000000001f81f50                tv_reset_line_positions
+                0x0000000001f81f74                tv_move_next_line
+                0x0000000001f81fd8                tv_get_line_positions
+                0x0000000001f82020                tv_new_page
+                0x0000000001f82128                tv_convert_fpos
+                0x0000000001f82264                tv_move_screen
+ .text          0x0000000001f82524      0x2c8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_preferences.o
+                0x0000000001f82524                tv_copy_preferences
+                0x0000000001f82544                tv_set_preferences
+                0x0000000001f826d4                tv_compare_preferences
+                0x0000000001f8270c                tv_set_default_preferences
+                0x0000000001f827b8                tv_add_preferences_change_listner
+                0x0000000001f827dc                tv_change_fontid
+ .text          0x0000000001f827ec      0x454 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_reader.o
+                0x0000000001f8283c                tv_get_file_size
+                0x0000000001f8284c                tv_is_eof
+                0x0000000001f82874                tv_get_current_file_pos
+                0x0000000001f8288c                tv_get_buffer
+                0x0000000001f828b0                tv_seek
+                0x0000000001f82bb8                tv_init_reader
+                0x0000000001f82c18                tv_finalize_reader
+ .text          0x0000000001f82c40       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_screen_pos.o
+                0x0000000001f82c40                tv_get_screen_pos
+                0x0000000001f82c50                tv_set_screen_pos
+                0x0000000001f82c60                tv_copy_screen_pos
+ .text          0x0000000001f82c7c     0x1068 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_settings.o
+                0x0000000001f83318                tv_load_global_settings
+                0x0000000001f8340c                tv_save_global_settings
+                0x0000000001f83524                tv_load_settings
+                0x0000000001f83750                tv_save_settings
+ .text          0x0000000001f83ce4      0xcc8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_text_processor.o
+                0x0000000001f83fa8                tv_create_formed_text
+                0x0000000001f84978                tv_init_text_processor
+                0x0000000001f84998                tv_set_creation_conditions
+ .text          0x0000000001f849ac       0xf8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_text_reader.o
+                0x0000000001f849ac                tv_init_text_reader
+                0x0000000001f849d8                tv_finalize_text_reader
+                0x0000000001f849e8                tv_set_read_conditions
+                0x0000000001f849f8                tv_get_total_text_size
+                0x0000000001f84a08                tv_get_next_line
+                0x0000000001f84a54                tv_read_start
+                0x0000000001f84a74                tv_read_end
+                0x0000000001f84a88                tv_seek_top
+ .text          0x0000000001f84aa4      0x394 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_window.o
+                0x0000000001f84b4c                tv_draw_window
+                0x0000000001f84be4                tv_traverse_lines
+                0x0000000001f84d18                tv_init_window
+                0x0000000001f84d58                tv_finalize_window
+                0x0000000001f84d6c                tv_move_window
+ .text          0x0000000001f84e38      0x214 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f84e50                plugin__start
+                0x0000000001f84fa0                rb_atexit
+                0x0000000001f84fc0                exit
+                0x0000000001f84fe0                _exit
+                0x0000000001f84ff8                exit_on_usb
+ .text.memset   0x0000000001f8504c       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f8504c                memset
+ .text.prevtrack
+                0x0000000001f85060       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.stop     0x0000000001f85088       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.nexttrack
+                0x0000000001f850b0       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.volume   0x0000000001f850d8       0x48 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.shuffle  0x0000000001f85120       0x50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.play     0x0000000001f85170       0xa0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.repeat_mode
+                0x0000000001f85210       0x98 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.playback_control
+                0x0000000001f852a8       0x50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f852a8                playback_control
+ .text          0x0000000001f852f8       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                0x0000000001f852f8                setjmp
+                0x0000000001f85304                longjmp
+ .text          0x0000000001f85314      0x148 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                0x0000000001f85314                __aeabi_idiv
+                0x0000000001f85314                __divsi3
+                0x0000000001f8543c                __aeabi_idivmod
+ .text          0x0000000001f8545c        0x4 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                0x0000000001f8545c                __aeabi_ldiv0
+                0x0000000001f8545c                __aeabi_idiv0
+ *(.glue_7)
+ .glue_7        0x0000000001f85460        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001f85460        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001f85460        0x0
+ .vfp11_veneer  0x0000000001f85460        0x0 linker stubs
+
+.v4_bx          0x0000000001f85460        0x0
+ .v4_bx         0x0000000001f85460        0x0 linker stubs
+
+.iplt           0x0000000001f85460        0x0
+ .iplt          0x0000000001f85460        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/text_viewer.o
+
+.rodata         0x0000000001f85460      0x848
+ *(.rodata*)
+ .rodata.str1.1
+                0x0000000001f85460       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/text_viewer.o
+ .rodata.str1.1
+                0x0000000001f85484       0x25 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_action.o
+ .rodata.str1.1
+                0x0000000001f854a9       0x87 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_bookmark.o
+ .rodata.str1.1
+                0x0000000001f85530       0x33 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_display.o
+                                         0x36 (size before relaxing)
+ *fill*         0x0000000001f85563        0x1 
+ .rodata        0x0000000001f85564      0x2e0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_menu.o
+                0x0000000001f855d4                option_menu
+                0x0000000001f85604                night_mode_item
+                0x0000000001f85620                indent_spaces_item
+                0x0000000001f8563c                font_item
+                0x0000000001f85658                statusbar_item
+                0x0000000001f85674                footer_item
+                0x0000000001f85690                header_item
+                0x0000000001f856ac                alignment_item
+                0x0000000001f856c8                windows_item
+                0x0000000001f856e4                line_mode_item
+                0x0000000001f85700                word_wrap_item
+                0x0000000001f8571c                encoding_item
+                0x0000000001f85738                scroll_menu
+                0x0000000001f85750                vertical_scroll_menu
+                0x0000000001f85768                narrow_mode_item
+                0x0000000001f85784                autoscroll_speed_item
+                0x0000000001f857a0                overlap_page_mode_item
+                0x0000000001f857bc                vertical_scroll_mode_item
+                0x0000000001f857d8                vertical_scrollbar_item
+                0x0000000001f857f4                horizontal_scroll_menu
+                0x0000000001f8580c                horizontal_scroll_mode_item
+                0x0000000001f85828                horizontal_scrollbar_item
+ .rodata.str1.1
+                0x0000000001f85844      0x23b /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_menu.o
+                                        0x25d (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f85a7f       0x35 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_pager.o
+ .rodata        0x0000000001f85ab4        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_preferences.o
+                0x0000000001f85ab4                preferences
+ .rodata.str1.1
+                0x0000000001f85ab8        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_reader.o
+ .rodata.str1.1
+                0x0000000001f85abc       0xc2 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_settings.o
+ .rodata        0x0000000001f85b7e       0x36 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_text_processor.o
+ .rodata.stop_item
+                0x0000000001f85bb4        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f85bb4                stop_item
+ .rodata.nexttrack_item_
+                0x0000000001f85bc0        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.playpause_item__
+                0x0000000001f85bcc        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.prevtrack_item_
+                0x0000000001f85bd0        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.playback_control_menu
+                0x0000000001f85bdc        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f85bdc                playback_control_menu
+ .rodata.prevtrack_item__
+                0x0000000001f85be8        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.playback_control_menu__
+                0x0000000001f85bec        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.nexttrack_item
+                0x0000000001f85bf8        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f85bf8                nexttrack_item
+ .rodata.volume_item__
+                0x0000000001f85c04        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.repeat_mode_item
+                0x0000000001f85c08        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f85c08                repeat_mode_item
+ .rodata.volume_item_
+                0x0000000001f85c14        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.str1.1
+                0x0000000001f85c20       0x16 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ *fill*         0x0000000001f85c36        0x2 
+ .rodata.prevtrack_item
+                0x0000000001f85c38        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f85c38                prevtrack_item
+ .rodata.stop_item_
+                0x0000000001f85c44        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.stop_item__
+                0x0000000001f85c50        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.nexttrack_item__
+                0x0000000001f85c54        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.shuffle_item__
+                0x0000000001f85c58        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.shuffle_item_
+                0x0000000001f85c5c        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.playpause_item_
+                0x0000000001f85c68        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.repeat_mode_item_
+                0x0000000001f85c74        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.volume_item
+                0x0000000001f85c80        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f85c80                volume_item
+ .rodata.repeat_mode_item__
+                0x0000000001f85c8c        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.shuffle_item
+                0x0000000001f85c90        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f85c90                shuffle_item
+ .rodata.playpause_item
+                0x0000000001f85c9c        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f85c9c                playpause_item
+
+.rel.dyn        0x0000000001f85ca8        0x0
+ .rel.iplt      0x0000000001f85ca8        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/text_viewer.o
+
+.data           0x0000000001f85ca8       0x98
+ *(.data*)
+ .data          0x0000000001f85ca8        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_display.o
+ .data          0x0000000001f85cb0       0x6c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_menu.o
+ .data          0x0000000001f85d1c        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_reader.o
+ .data          0x0000000001f85d20        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f85d20                rb
+ .data.playback_control_menu_
+                0x0000000001f85d24       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+
+.igot.plt       0x0000000001f85d40        0x0
+ .igot.plt      0x0000000001f85d40        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/text_viewer.o
+
+.ncdata         0x0000000011f85d40        0x0 load address 0x0000000001f85d40
+                0x0000000011f85d40                . = ALIGN (0x10)
+ *(.ncdata*)
+                0x0000000011f85d40                . = ALIGN (0x10)
+                0x0000000001f85d40                bssaddr = (. - 0x10000000)
+                0x0000000001f85d40                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001f85d40     0xae8c
+                0x0000000001f85d40                plugin_bss_start = .
+                0x0000000001f85d40                _plugin_bss_start = .
+ *(.bss*)
+ .bss           0x0000000001f85d40        0x2 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_action.o
+                0x0000000001f85d40                bookmarks_changed
+                0x0000000001f85d41                scrolled
+ .bss           0x0000000001f85d42        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_bookmark.o
+ *fill*         0x0000000001f85d43        0x1 
+ .bss           0x0000000001f85d44       0xac /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_display.o
+ .bss           0x0000000001f85df0      0x2b8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_menu.o
+ .bss           0x0000000001f860a8     0x9dc0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_pager.o
+ .bss           0x0000000001f8fe68      0x49d /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_preferences.o
+                0x0000000001f90304                preferences_changed
+ *fill*         0x0000000001f90305        0x3 
+ .bss           0x0000000001f90308       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_reader.o
+ .bss           0x0000000001f90328        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_screen_pos.o
+ .bss           0x0000000001f9032c        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_settings.o
+ .bss           0x0000000001f90334      0x708 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_text_processor.o
+ .bss           0x0000000001f90a3c        0x5 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_text_reader.o
+ *fill*         0x0000000001f90a41        0x3 
+ .bss           0x0000000001f90a44       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_window.o
+ .bss           0x0000000001f90a58       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .bss.parentvp  0x0000000001f90ab8        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f90ab8                parentvp
+ *(COMMON)
+ COMMON         0x0000000001f90abc      0x110 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_bookmark.o
+                0x0000000001f90abc                bookmarks
+                0x0000000001f90bcc                . = ALIGN (0x4)
+
+.ncbss          0x0000000011f90bcc        0x4 load address 0x0000000001f90bcc
+                0x0000000011f90bd0                . = ALIGN (0x10)
+ *fill*         0x0000000011f90bcc        0x4 
+ *(.ncbss*)
+                0x0000000011f90bd0                . = ALIGN (0x10)
+                0x0000000001f90bd0                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001f90bd0        0x0
+                0x0000000001f90bd0                _plugin_end_addr = .
+                0x0000000001f90bd0                plugin_end_addr = .
+
+.iram           0x000000004000c000        0x0 load address 0x0000000001f85d40
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ *(.irodata)
+ *(.idata)
+                0x000000004000c000                iramend = .
+
+.ibss           0x000000004000c000        0x0
+                0x000000004000c000                iedata = .
+ *(.ibss)
+                0x000000004000c000                . = ALIGN (0x4)
+                0x000000004000c000                iend = .
+                0x0000000001f90bd0                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001f90bd0        0x0
+                0x0000000001f90bd0                _plugin_load_end_addr = .
+                0x0000000001f90bd0                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/text_viewer.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_action.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_bookmark.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_display.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_menu.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_pager.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_preferences.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_reader.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_screen_pos.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_settings.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_text_processor.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_text_reader.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_window.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+OUTPUT(/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/text_viewer.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2e
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/text_viewer.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_action.o
+ .ARM.attributes
+                0x0000000000000060       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_bookmark.o
+ .ARM.attributes
+                0x0000000000000090       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_display.o
+ .ARM.attributes
+                0x00000000000000c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_menu.o
+ .ARM.attributes
+                0x00000000000000f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_pager.o
+ .ARM.attributes
+                0x0000000000000120       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_preferences.o
+ .ARM.attributes
+                0x0000000000000150       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_reader.o
+ .ARM.attributes
+                0x0000000000000180       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_screen_pos.o
+ .ARM.attributes
+                0x00000000000001b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_settings.o
+ .ARM.attributes
+                0x00000000000001e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_text_processor.o
+ .ARM.attributes
+                0x0000000000000210       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_text_reader.o
+ .ARM.attributes
+                0x0000000000000240       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/text_viewer/tv_window.o
+ .ARM.attributes
+                0x0000000000000270       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .ARM.attributes
+                0x00000000000002a0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .ARM.attributes
+                0x00000000000002d0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .ARM.attributes
+                0x0000000000000300       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .ARM.attributes
+                0x0000000000000320       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000000000000338       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_frame    0x0000000000000000       0x20
+ .debug_frame   0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+
+.debug_line     0x0000000000000000       0xeb
+ .debug_line    0x0000000000000000       0x8a /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_line    0x000000000000008a       0x61 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_info     0x0000000000000000      0x110
+ .debug_info    0x0000000000000000       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_info    0x0000000000000088       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_abbrev   0x0000000000000000       0x28
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000014       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_aranges  0x0000000000000000       0x40
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)

@@ -1,0 +1,394 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gifalloc.o (memcpy)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_resize.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif_decoder.o (format_native)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_bmp.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_resize.o) (output_row_8_native)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(bmp_smooth_scale.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif.o (smooth_resize_bitmap)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif_decoder.o (destroy_memory_pool)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif.o (__aeabi_uidiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif.o (__aeabi_idiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/dgif_lib.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/dgif_lib.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gifalloc.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gifalloc.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif_decoder.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif_err.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif_err.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.__div0   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memmove  0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memcmp   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_resize.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_resize.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_resize.o)
+ .text.scale_h_area
+                0x0000000000000000      0x278 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_resize.o)
+ .text.scale_h_linear
+                0x0000000000000000      0x28c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_resize.o)
+ .text.recalc_dimension
+                0x0000000000000000       0x9c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_resize.o)
+ .text.resize_on_load
+                0x0000000000000000      0x470 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_resize.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_bmp.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_bmp.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_bmp.o)
+ .text.read_part_line
+                0x0000000000000000      0x360 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_bmp.o)
+ .text.store_part_bmp
+                0x0000000000000000       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_bmp.o)
+ .text.save_bmp_file
+                0x0000000000000000      0x2c8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_bmp.o)
+ .text.simple_resize_bitmap
+                0x0000000000000000       0xc0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_bmp.o)
+ .text.read_bmp_fd
+                0x0000000000000000      0x744 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_bmp.o)
+ .text.read_bmp_file
+                0x0000000000000000       0x80 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_bmp.o)
+ .rodata.bitfields
+                0x0000000000000000       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_bmp.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(bmp_smooth_scale.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(bmp_smooth_scale.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(bmp_smooth_scale.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.get_used_size
+                0x0000000000000000        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.get_max_size
+                0x0000000000000000        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001f80000 0x0000000000080000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/dgif_lib.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gifalloc.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif_decoder.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif_err.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001f80000       0x28
+                0x0000000001f80000                _plugin_start_addr = .
+                0x0000000001f80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001f80000       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif.o
+                0x0000000001f80000                __header
+
+.text           0x0000000001f80028     0x55e8
+ *(.text*)
+ .text          0x0000000001f80028     0x1860 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/dgif_lib.o
+                0x0000000001f80698                DGifGetScreenDesc
+                0x0000000001f808d8                DGifOpenFileHandle
+                0x0000000001f80a8c                DGifOpenFileName
+                0x0000000001f80ad8                DGifOpen
+                0x0000000001f80c88                DGifGetRecordType
+                0x0000000001f80d98                DGifGetImageDesc
+                0x0000000001f810cc                DGifGetExtensionNext
+                0x0000000001f811c8                DGifGetExtension
+                0x0000000001f81294                DGifExtensionToGCB
+                0x0000000001f812f0                DGifSavedExtensionToGCB
+                0x0000000001f813e4                DGifCloseFile
+                0x0000000001f81504                DGifGetCodeNext
+                0x0000000001f81614                DGifGetLine
+                0x0000000001f816c8                DGifGetPixel
+                0x0000000001f81780                DGifGetCode
+                0x0000000001f817c0                DGifGetLZCodes
+ .text          0x0000000001f81888      0x79c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gifalloc.o
+                0x0000000001f81888                GifBitSize
+                0x0000000001f818ac                GifMakeMapObject
+                0x0000000001f81978                GifFreeMapObject
+                0x0000000001f819a0                GifUnionColorMap
+                0x0000000001f81c64                GifApplyTranslation
+                0x0000000001f81ca4                GifAddExtensionBlock
+                0x0000000001f81d68                GifFreeExtensions
+                0x0000000001f81dd8                FreeLastSavedImage
+                0x0000000001f81e3c                GifMakeSavedImage
+                0x0000000001f81f8c                GifFreeSavedImages
+ .text          0x0000000001f82024      0x874 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif_decoder.o
+                0x0000000001f820b8                gif_decoder_init
+                0x0000000001f82100                gif_decoder_destroy_memory_pool
+                0x0000000001f82114                gif_open
+                0x0000000001f82150                gif_decode
+ .text          0x0000000001f82898      0x5dc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif.o
+ .text          0x0000000001f82e74       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif_err.o
+                0x0000000001f82e74                GifErrorString
+ .text.memcpy   0x0000000001f82e90       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f82e90                memcpy
+ .text.memset   0x0000000001f82ea4       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f82ea4                memset
+ .text.output_row_32_native
+                0x0000000001f82eb8      0x150 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_resize.o)
+ .text.get_size_native
+                0x0000000001f83008       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_resize.o)
+                0x0000000001f83008                get_size_native
+ .text.output_row_32_native_fromyuv
+                0x0000000001f8301c      0x174 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_resize.o)
+ .text.output_row_8_native
+                0x0000000001f83190      0x130 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_bmp.o)
+                0x0000000001f83190                output_row_8_native
+ .text.smooth_resize_bitmap
+                0x0000000001f832c0     0x1294 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(bmp_smooth_scale.o)
+                0x0000000001f832c0                smooth_resize_bitmap
+ .text.ls_bit   0x0000000001f84554       0x44 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.ms_bit   0x0000000001f84598       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.set_bit  0x0000000001f845d4       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.clear_bit
+                0x0000000001f845f0       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.MAPPING_SEARCH
+                0x0000000001f8460c       0x8c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.FIND_SUITABLE_BLOCK
+                0x0000000001f84698       0x78 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.process_area
+                0x0000000001f84710       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.MAPPING_INSERT
+                0x0000000001f84770       0x5c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.panicf   0x0000000001f847cc        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f847cc                panicf
+ .text.get_new_area
+                0x0000000001f847d4        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f847d4                get_new_area
+ .text.destroy_memory_pool
+                0x0000000001f847dc        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f847dc                destroy_memory_pool
+ .text.free_ex  0x0000000001f847e8      0x2a0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f847e8                free_ex
+ .text.init_memory_pool
+                0x0000000001f84a88       0xcc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f84a88                init_memory_pool
+ .text.add_new_area
+                0x0000000001f84b54      0x16c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f84b54                add_new_area
+ .text.malloc_ex
+                0x0000000001f84cc0      0x260 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f84cc0                malloc_ex
+ .text.tlsf_malloc
+                0x0000000001f84f20       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f84f20                tlsf_malloc
+ .text.tlsf_free
+                0x0000000001f84f80       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f84f80                tlsf_free
+ .text.realloc_ex
+                0x0000000001f84f90      0x3a8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f84f90                realloc_ex
+ .text.tlsf_realloc
+                0x0000000001f85338       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f85338                tlsf_realloc
+ .text.calloc_ex
+                0x0000000001f85354       0x4c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f85354                calloc_ex
+ .text.tlsf_calloc
+                0x0000000001f853a0       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f853a0                tlsf_calloc
+ .text          0x0000000001f853b0      0x114 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                0x0000000001f853b0                __udivsi3
+                0x0000000001f853b0                __aeabi_uidiv
+                0x0000000001f854a4                __aeabi_uidivmod
+ .text          0x0000000001f854c4      0x148 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                0x0000000001f854c4                __aeabi_idiv
+                0x0000000001f854c4                __divsi3
+                0x0000000001f855ec                __aeabi_idivmod
+ .text          0x0000000001f8560c        0x4 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                0x0000000001f8560c                __aeabi_ldiv0
+                0x0000000001f8560c                __aeabi_idiv0
+ *(.glue_7)
+ .glue_7        0x0000000001f85610        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001f85610        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001f85610        0x0
+ .vfp11_veneer  0x0000000001f85610        0x0 linker stubs
+
+.v4_bx          0x0000000001f85610        0x0
+ .v4_bx         0x0000000001f85610        0x0 linker stubs
+
+.iplt           0x0000000001f85610        0x0
+ .iplt          0x0000000001f85610        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/dgif_lib.o
+
+.rodata         0x0000000001f85610      0x72e
+ *(.rodata*)
+ .rodata        0x0000000001f85610       0x1a /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/dgif_lib.o
+ *fill*         0x0000000001f8562a        0x2 
+ .rodata.str1.4
+                0x0000000001f8562c        0x7 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/dgif_lib.o
+ *fill*         0x0000000001f85633        0x1 
+ .rodata        0x0000000001f85634        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif_decoder.o
+ .rodata        0x0000000001f8563c       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif.o
+                0x0000000001f8563c                image_decoder
+ .rodata.str1.4
+                0x0000000001f85650       0x3b /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif.o
+ *fill*         0x0000000001f8568b        0x1 
+ .rodata        0x0000000001f8568c       0x34 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif_err.o
+ .rodata.str1.4
+                0x0000000001f856c0      0x1bc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif_err.o
+                                        0x1b9 (size before relaxing)
+ .rodata.format_native
+                0x0000000001f8587c       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_resize.o)
+                0x0000000001f8587c                format_native
+ .rodata.dither_table
+                0x0000000001f8588c       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_bmp.o)
+                0x0000000001f8588c                dither_table
+ .rodata        0x0000000001f8589c      0x400 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .rodata.str1.1
+                0x0000000001f85c9c       0xa2 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+
+.rel.dyn        0x0000000001f85d40        0x0
+ .rel.iplt      0x0000000001f85d40        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/dgif_lib.o
+
+.data           0x0000000001f85d40        0x8
+ *(.data*)
+ .data          0x0000000001f85d40        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif.o
+                0x0000000001f85d40                rb
+                0x0000000001f85d44                iv
+
+.igot.plt       0x0000000001f85d48        0x0
+ .igot.plt      0x0000000001f85d48        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/dgif_lib.o
+
+.ncdata         0x0000000011f85d48        0x8 load address 0x0000000001f85d48
+                0x0000000011f85d50                . = ALIGN (0x10)
+ *fill*         0x0000000011f85d48        0x8 
+ *(.ncdata*)
+                0x0000000011f85d50                . = ALIGN (0x10)
+                0x0000000001f85d50                bssaddr = (. - 0x10000000)
+                0x0000000001f85d50                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001f85d50       0x50
+                0x0000000001f85d50                plugin_bss_start = .
+                0x0000000001f85d50                _plugin_bss_start = .
+ *(.bss*)
+ .bss           0x0000000001f85d50        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif_decoder.o
+ .bss           0x0000000001f85d54       0x48 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif.o
+ .bss           0x0000000001f85d9c        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ *(COMMON)
+                0x0000000001f85da0                . = ALIGN (0x4)
+
+.ncbss          0x0000000011f85da0        0x0 load address 0x0000000001f85da0
+                0x0000000011f85da0                . = ALIGN (0x10)
+ *(.ncbss*)
+                0x0000000011f85da0                . = ALIGN (0x10)
+                0x0000000001f85da0                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001f85da0        0x0
+                0x0000000001f85da0                _plugin_end_addr = .
+                0x0000000001f85da0                plugin_end_addr = .
+
+.iram           0x000000004000c000        0x0 load address 0x0000000001f85d50
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ *(.irodata)
+ *(.idata)
+                0x000000004000c000                iramend = .
+
+.ibss           0x000000004000c000        0x0
+                0x000000004000c000                iedata = .
+ *(.ibss)
+                0x000000004000c000                . = ALIGN (0x4)
+                0x000000004000c000                iend = .
+                0x0000000001f85da0                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001f85da0        0x0
+                0x0000000001f85da0                _plugin_load_end_addr = .
+                0x0000000001f85da0                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/dgif_lib.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gifalloc.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif_decoder.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif_err.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_resize.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_bmp.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(bmp_smooth_scale.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+OUTPUT(/dev/null elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/dgif_lib.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gifalloc.o
+ .ARM.attributes
+                0x0000000000000060       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif_decoder.o
+ .ARM.attributes
+                0x0000000000000090       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif.o
+ .ARM.attributes
+                0x00000000000000c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/imageviewer/gif/gif_err.o
+ .ARM.attributes
+                0x00000000000000f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .ARM.attributes
+                0x0000000000000120       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_resize.o)
+ .ARM.attributes
+                0x0000000000000150       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_bmp.o)
+ .ARM.attributes
+                0x0000000000000180       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(bmp_smooth_scale.o)
+ .ARM.attributes
+                0x00000000000001b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .ARM.attributes
+                0x00000000000001e0       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000000000001f8       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000000000000210       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_frame    0x0000000000000000       0x40
+ .debug_frame   0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+
+.debug_line     0x0000000000000000      0x169
+ .debug_line    0x0000000000000000       0x7e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_line    0x000000000000007e       0x8a /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_line    0x0000000000000108       0x61 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_info     0x0000000000000000      0x198
+ .debug_info    0x0000000000000000       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_info    0x0000000000000088       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_info    0x0000000000000110       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_abbrev   0x0000000000000000       0x3c
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000000014       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000028       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_aranges  0x0000000000000000       0x60
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)

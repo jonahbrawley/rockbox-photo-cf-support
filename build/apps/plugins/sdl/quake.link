@@ -1,0 +1,85 @@
+OUTPUT_FORMAT(elf32-littlearm)
+MEMORY
+{
+   PLUGIN_RAM : ORIGIN = (0x00000000 + 29624336), LENGTH = ((32 * 0x100000) - 0x80000 - 0 - 0x100000 - 29624336)
+   PLUGIN_IRAM : ORIGIN = 0x4000c000, LENGTH = 0x0c000
+}
+SECTIONS
+{
+    .header : {
+        _plugin_start_addr = .;
+        plugin_start_addr = .;
+        KEEP(*(.header))
+    } > PLUGIN_RAM
+    .text :
+    {
+        *(.text*)
+        *(.glue_7)
+        *(.glue_7t)
+    } > PLUGIN_RAM
+    .rodata :
+    {
+        *(.rodata*)
+    } > PLUGIN_RAM
+    .data :
+    {
+        *(.data*)
+    } > PLUGIN_RAM
+    .ncdata . + 0x10000000 :
+    {
+        . = ALIGN(16);
+        *(.ncdata*)
+        . = ALIGN(16);
+        bssaddr = . - 0x10000000;
+        iramcopy = . - 0x10000000;
+    } AT> PLUGIN_RAM
+    /DISCARD/ :
+    {
+        *(.eh_frame)
+    }
+    .bss bssaddr (NOLOAD) :
+    {
+     plugin_bss_start = .;
+     _plugin_bss_start = .;
+        *(.bss*)
+        *(COMMON)
+        . = ALIGN(0x4);
+    } > PLUGIN_RAM
+    .ncbss . + 0x10000000 (NOLOAD) :
+    {
+     . = ALIGN(16);
+     *(.ncbss*)
+        . = ALIGN(16);
+        pluginendaddr = . - 0x10000000;
+    } AT> PLUGIN_RAM
+    .pluginend pluginendaddr :
+    {
+        _plugin_end_addr = .;
+        plugin_end_addr = .;
+    }
+    .iram 0x4000c000 : AT (iramcopy)
+    {
+        iramstart = .;
+        *(.icode)
+        *(.irodata)
+        *(.idata)
+        iramend = .;
+    } > PLUGIN_IRAM
+    .ibss (NOLOAD) :
+    {
+        iedata = .;
+        *(.ibss)
+        . = ALIGN(0x4);
+        iend = .;
+    } > PLUGIN_IRAM
+    loadendaddr = MAX(plugin_end_addr, LOADADDR(.iram) + SIZEOF(.iram));
+    .pluginloadend loadendaddr :
+    {
+     _plugin_load_end_addr = .;
+     plugin_load_end_addr = .;
+    }
+    .comment 0 :
+    {
+        KEEP(*(.comment))
+    }
+}

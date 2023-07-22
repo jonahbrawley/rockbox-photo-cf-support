@@ -1,0 +1,200 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o (setjmp)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/battery_bench.o (__aeabi_uidiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/battery_bench.o (__aeabi_idiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/battery_bench.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001f80000 0x0000000000080000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/battery_bench.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001f80000       0x1c
+                0x0000000001f80000                _plugin_start_addr = .
+                0x0000000001f80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001f80000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f80000                __header
+
+.text           0x0000000001f8001c      0xeac
+ *(.text*)
+ .text          0x0000000001f8001c      0xa1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/battery_bench.o
+                0x0000000001f805b8                plugin_start
+ .text          0x0000000001f80a38      0x214 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f80a50                plugin__start
+                0x0000000001f80ba0                rb_atexit
+                0x0000000001f80bc0                exit
+                0x0000000001f80be0                _exit
+                0x0000000001f80bf8                exit_on_usb
+ .text          0x0000000001f80c4c       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                0x0000000001f80c4c                setjmp
+                0x0000000001f80c58                longjmp
+ .text          0x0000000001f80c68      0x114 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                0x0000000001f80c68                __udivsi3
+                0x0000000001f80c68                __aeabi_uidiv
+                0x0000000001f80d5c                __aeabi_uidivmod
+ .text          0x0000000001f80d7c      0x148 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                0x0000000001f80d7c                __aeabi_idiv
+                0x0000000001f80d7c                __divsi3
+                0x0000000001f80ea4                __aeabi_idivmod
+ .text          0x0000000001f80ec4        0x4 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                0x0000000001f80ec4                __aeabi_ldiv0
+                0x0000000001f80ec4                __aeabi_idiv0
+ *(.glue_7)
+ .glue_7        0x0000000001f80ec8        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001f80ec8        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001f80ec8        0x0
+ .vfp11_veneer  0x0000000001f80ec8        0x0 linker stubs
+
+.v4_bx          0x0000000001f80ec8        0x0
+ .v4_bx         0x0000000001f80ec8        0x0 linker stubs
+
+.iplt           0x0000000001f80ec8        0x0
+ .iplt          0x0000000001f80ec8        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/battery_bench.o
+
+.rodata         0x0000000001f80ec8      0x516
+ *(.rodata*)
+ .rodata        0x0000000001f80ec8       0x18 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/battery_bench.o
+ .rodata.str1.1
+                0x0000000001f80ee0      0x4fe /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/battery_bench.o
+
+.rel.dyn        0x0000000001f813e0        0x0
+ .rel.iplt      0x0000000001f813e0        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/battery_bench.o
+
+.data           0x0000000001f813e0        0x4
+ *(.data*)
+ .data          0x0000000001f813e0        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f813e0                rb
+
+.igot.plt       0x0000000001f813e4        0x0
+ .igot.plt      0x0000000001f813e4        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/battery_bench.o
+
+.ncdata         0x0000000011f813e4        0xc load address 0x0000000001f813e4
+                0x0000000011f813f0                . = ALIGN (0x10)
+ *fill*         0x0000000011f813e4        0xc 
+ *(.ncdata*)
+                0x0000000011f813f0                . = ALIGN (0x10)
+                0x0000000001f813f0                bssaddr = (. - 0x10000000)
+                0x0000000001f813f0                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001f813f0     0x4ef0
+                0x0000000001f813f0                plugin_bss_start = .
+                0x0000000001f813f0                _plugin_bss_start = .
+ *(.bss*)
+ .bss           0x0000000001f813f0     0x4e90 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/battery_bench.o
+ .bss           0x0000000001f86280       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ *(COMMON)
+                0x0000000001f862e0                . = ALIGN (0x4)
+
+.ncbss          0x0000000011f862e0       0xa0 load address 0x0000000001f862e0
+                0x0000000011f862e0                . = ALIGN (0x10)
+ *(.ncbss*)
+ .ncbss         0x0000000011f862e0       0x9c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/battery_bench.o
+                0x0000000011f86380                . = ALIGN (0x10)
+ *fill*         0x0000000011f8637c        0x4 
+                0x0000000001f86380                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001f86380        0x0
+                0x0000000001f86380                _plugin_end_addr = .
+                0x0000000001f86380                plugin_end_addr = .
+
+.iram           0x000000004000c000        0x0 load address 0x0000000001f813f0
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ *(.irodata)
+ *(.idata)
+                0x000000004000c000                iramend = .
+
+.ibss           0x000000004000c000        0x0
+                0x000000004000c000                iedata = .
+ *(.ibss)
+                0x000000004000c000                . = ALIGN (0x4)
+                0x000000004000c000                iend = .
+                0x0000000001f86380                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001f86380        0x0
+                0x0000000001f86380                _plugin_load_end_addr = .
+                0x0000000001f86380                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/battery_bench.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+OUTPUT(/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/battery_bench.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2e
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/battery_bench.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .ARM.attributes
+                0x0000000000000060       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .ARM.attributes
+                0x0000000000000080       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000098       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000000000b0       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_frame    0x0000000000000000       0x40
+ .debug_frame   0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+
+.debug_line     0x0000000000000000      0x169
+ .debug_line    0x0000000000000000       0x7e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_line    0x000000000000007e       0x8a /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_line    0x0000000000000108       0x61 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_info     0x0000000000000000      0x198
+ .debug_info    0x0000000000000000       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_info    0x0000000000000088       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_info    0x0000000000000110       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_abbrev   0x0000000000000000       0x3c
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000000014       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000028       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_aranges  0x0000000000000000       0x60
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)

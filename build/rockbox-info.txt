@@ -1,0 +1,17 @@
+Target: ipodcolor
+Target id: 13
+Target define: -DIPOD_COLOR
+Memory: 32
+CPU: arm
+Manufacturer: ipod
+Version: 6bec9fd718-230722
+Binary: rockbox.ipod
+Binary size: 706336
+Voice format: 400
+Actual size: 706328
+RAM usage: 1158592
+Features: accessory_supply:alarm:backlight_brightness:crossfade:dircache:flash_storage:headphone_detection:hold_button:hotkey:lcd_bitmap:lcd_non-mono:lcd_color:morse_input:pitchscreen:quickscreen:radio:rds:recording:recording_linein:recording_mic:rtc:serial_port:swcodec:tagcache:tc_ramcache:charging:usb_charging_enable:wheel_acceleration:lineout_poweroff:large_plugin_buffer:albumart:scrollwheel:usb_power:usbstack:usb_hid:usb_hid_mouse:himem:hardware_click:clear_settings_on_hold:perceptual_volume
+gcc: arm-elf-eabi-gcc (GCC) 4.9.4
+ld: GNU ld (GNU Binutils) 2.26.1
+Host gcc: gcc (GCC) 13.1.1 20230614 (Red Hat 13.1.1-4)
+Host system: Linux

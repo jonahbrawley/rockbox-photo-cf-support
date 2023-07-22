@@ -1,0 +1,600 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/display.o (memset)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.o (configfile_save)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.o (playback_control)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/display.o (xlcd_filltriangle)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_core.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o) (get_framebuffer)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o (setjmp)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.o (__aeabi_uidiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.o (__aeabi_idiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+next_free_handle    0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_storage.o
+board_changes       0x169             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/board.o
+board_data          0x1b9             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/board.o
+display_marks       0x169             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/display.o
+parse_stack_buffer  0x2d2             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.o
+parse_stack         0xc               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.o
+save_file           0x100             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/game.o
+next_free_handle_buffer
+                    0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_storage.o
+board_marks         0x1b9             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/board.o
+header              0x218             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/game.o
+
+Discarded input sections
+
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_output.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_parse.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_storage.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/util.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.__div0   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memcpy   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memmove  0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memcmp   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text.configfile_get_value
+                0x0000000000000000       0xfc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text.configfile_update_entry
+                0x0000000000000000      0x150 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.playback_control_init
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+ .text.xlcd_fillcircle_screen
+                0x0000000000000000      0x17c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+ .text.xlcd_fillcircle
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+ .text.xlcd_drawcircle_screen
+                0x0000000000000000      0x128 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+ .text.xlcd_drawcircle
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+ .text.xlcd_color_bitmap_part
+                0x0000000000000000      0x158 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+ .text.xlcd_color_bitmap
+                0x0000000000000000       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_core.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_core.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_core.o)
+ .text.get_framebuffer
+                0x0000000000000000       0x64 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_core.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001f80000 0x0000000000080000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/board.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/display.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/game.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_output.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_parse.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_storage.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/util.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001f80000       0x1c
+                0x0000000001f80000                _plugin_start_addr = .
+                0x0000000001f80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001f80000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f80000                __header
+
+.text           0x0000000001f8001c     0x9288
+ *(.text*)
+ .text          0x0000000001f8001c     0x1168 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.o
+                0x0000000001f80c1c                plugin_start
+ .text          0x0000000001f81184      0x7cc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/board.o
+                0x0000000001f81184                clear_board
+                0x0000000001f81228                set_size_board
+                0x0000000001f8126c                get_point_board
+                0x0000000001f8127c                set_point_board
+                0x0000000001f8128c                on_board
+                0x0000000001f813a8                get_liberties_board
+                0x0000000001f81518                flood_fill_board
+                0x0000000001f81620                legal_move_board
+                0x0000000001f818ac                WRAP
+ .text          0x0000000001f81950     0x1a40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/display.o
+                0x0000000001f82010                clear_marks_display
+                0x0000000001f82058                set_mark_display
+                0x0000000001f82114                set_comment_display
+                0x0000000001f82124                draw_screen_display
+                0x0000000001f830ac                move_display
+                0x0000000001f831d0                current_zoom_display
+                0x0000000001f831f8                max_zoom_display
+                0x0000000001f83214                min_zoom_display
+                0x0000000001f83238                set_zoom_display
+                0x0000000001f8331c                setup_display
+ .text          0x0000000001f83390      0x448 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/game.o
+                0x0000000001f8342c                set_game_modified
+                0x0000000001f83444                load_game
+                0x0000000001f835bc                save_game
+                0x0000000001f83758                setup_game
+ .text          0x0000000001f837d8     0x2314 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf.o
+                0x0000000001f8396c                set_all_marks_sgf
+                0x0000000001f839e0                add_child_sgf
+                0x0000000001f83bb4                add_prop_sgf
+                0x0000000001f83d38                get_prop_pos_sgf
+                0x0000000001f83df0                get_prop_sgf
+                0x0000000001f83e78                add_or_set_prop_sgf
+                0x0000000001f83ecc                delete_prop_handle_sgf
+                0x0000000001f83fc8                add_mark_sgf
+                0x0000000001f84100                delete_prop_sgf
+                0x0000000001f84130                read_comment_sgf
+                0x0000000001f84264                write_comment_sgf
+                0x0000000001f84428                has_more_nodes_sgf
+                0x0000000001f84470                has_prev_nodes_sgf
+                0x0000000001f8449c                get_move_sgf
+                0x0000000001f84da8                num_variations_sgf
+                0x0000000001f84e1c                go_to_variation_sgf
+                0x0000000001f84ec8                redo_node_sgf
+                0x0000000001f84f30                add_stone_sgf
+                0x0000000001f851cc                undo_node_sgf
+                0x0000000001f8526c                mark_child_variations_sgf
+                0x0000000001f85314                get_matching_child_sgf
+                0x0000000001f8548c                play_move_sgf
+                0x0000000001f85654                next_variation_sgf
+                0x0000000001f85744                is_handled_sgf
+                0x0000000001f857ec                goto_handicap_start_sgf
+                0x0000000001f85824                setup_handicap_sgf
+                0x0000000001f85a4c                post_game_setup_sgf
+ .text          0x0000000001f85aec      0x90c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_output.o
+                0x0000000001f85c78                output_sgf
+ .text          0x0000000001f863f8      0xef4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_parse.o
+                0x0000000001f86540                parse_sgf
+ .text          0x0000000001f872ec      0x750 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_storage.o
+                0x0000000001f8754c                audio_stolen_sgf
+                0x0000000001f8755c                alloc_storage_sgf
+                0x0000000001f87678                free_storage_sgf
+                0x0000000001f8771c                setup_sgf
+                0x0000000001f87828                clear_caches_sgf
+                0x0000000001f8787c                cleanup_sgf
+                0x0000000001f878ec                get_node
+                0x0000000001f87938                free_tree_sgf
+                0x0000000001f879f0                get_prop
+ .text          0x0000000001f87a3c      0x908 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/util.o
+                0x0000000001f87a3c                align_buffer
+                0x0000000001f87a80                setup_stack
+                0x0000000001f87ae8                push_stack
+                0x0000000001f87b44                peek_stack
+                0x0000000001f87b90                pop_stack
+                0x0000000001f87bb8                empty_stack
+                0x0000000001f87bc4                push_pos_stack
+                0x0000000001f87be8                push_int_stack
+                0x0000000001f87c0c                push_char_stack
+                0x0000000001f87c30                create_or_open_file
+                0x0000000001f87c7c                snprint_fixed
+                0x0000000001f87ce4                metadata_summary
+                0x0000000001f87f9c                peek_char
+                0x0000000001f88008                read_char
+                0x0000000001f88044                write_file
+                0x0000000001f880ac                write_char
+                0x0000000001f880dc                read_file
+                0x0000000001f88144                close_file
+                0x0000000001f8817c                is_whitespace
+                0x0000000001f881bc                peek_char_no_whitespace
+                0x0000000001f881f4                read_char_no_whitespace
+                0x0000000001f88218                sanitize_string
+                0x0000000001f88234                get_header_string_and_size
+ .text          0x0000000001f88344      0x214 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f8835c                plugin__start
+                0x0000000001f884ac                rb_atexit
+                0x0000000001f884cc                exit
+                0x0000000001f884ec                _exit
+                0x0000000001f88504                exit_on_usb
+ .text.memset   0x0000000001f88558       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f88558                memset
+ .text.get_cfg_filename.constprop.1
+                0x0000000001f8856c       0x98 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text.configfile_save
+                0x0000000001f88604      0x15c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                0x0000000001f88604                configfile_save
+ .text.configfile_load
+                0x0000000001f88760      0x248 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                0x0000000001f88760                configfile_load
+ .text.prevtrack
+                0x0000000001f889a8       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.stop     0x0000000001f889d0       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.nexttrack
+                0x0000000001f889f8       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.volume   0x0000000001f88a20       0x48 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.shuffle  0x0000000001f88a68       0x50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.play     0x0000000001f88ab8       0xa0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.repeat_mode
+                0x0000000001f88b58       0x98 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.playback_control
+                0x0000000001f88bf0       0x50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f88bf0                playback_control
+ .text.xlcd_filltriangle_screen
+                0x0000000001f88c40      0x398 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+                0x0000000001f88c40                xlcd_filltriangle_screen
+ .text.xlcd_filltriangle
+                0x0000000001f88fd8       0x50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+                0x0000000001f88fd8                xlcd_filltriangle
+ .text          0x0000000001f89028       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                0x0000000001f89028                setjmp
+                0x0000000001f89034                longjmp
+ .text          0x0000000001f89044      0x114 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                0x0000000001f89044                __udivsi3
+                0x0000000001f89044                __aeabi_uidiv
+                0x0000000001f89138                __aeabi_uidivmod
+ .text          0x0000000001f89158      0x148 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                0x0000000001f89158                __aeabi_idiv
+                0x0000000001f89158                __divsi3
+                0x0000000001f89280                __aeabi_idivmod
+ .text          0x0000000001f892a0        0x4 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                0x0000000001f892a0                __aeabi_ldiv0
+                0x0000000001f892a0                __aeabi_idiv0
+ *(.glue_7)
+ .glue_7        0x0000000001f892a4        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001f892a4        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001f892a4        0x0
+ .vfp11_veneer  0x0000000001f892a4        0x0 linker stubs
+
+.v4_bx          0x0000000001f892a4        0x0
+ .v4_bx         0x0000000001f892a4        0x0 linker stubs
+
+.iplt           0x0000000001f892a4        0x0
+ .iplt          0x0000000001f892a4        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.o
+
+.rodata         0x0000000001f892a4      0xa98
+ *(.rodata*)
+ .rodata        0x0000000001f892a4       0x70 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.o
+ .rodata.str1.1
+                0x0000000001f89314      0x4a0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.o
+                                        0x4af (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f897b4        0x9 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/display.o
+                                          0xe (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f897bd       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/game.o
+                                         0x68 (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f897fd       0x92 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf.o
+ .rodata.str1.1
+                0x0000000001f8988f       0x49 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_output.o
+                                         0x4e (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f898d8      0x14a /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_parse.o
+ .rodata.str1.1
+                0x0000000001f89a22       0xe6 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_storage.o
+ .rodata.str1.1
+                0x0000000001f89b08       0xf8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/util.o
+                                        0x10a (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f89c00       0x46 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ *fill*         0x0000000001f89c46        0x2 
+ .rodata.stop_item
+                0x0000000001f89c48        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f89c48                stop_item
+ .rodata.nexttrack_item_
+                0x0000000001f89c54        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.playpause_item__
+                0x0000000001f89c60        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.prevtrack_item_
+                0x0000000001f89c64        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.playback_control_menu
+                0x0000000001f89c70        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f89c70                playback_control_menu
+ .rodata.prevtrack_item__
+                0x0000000001f89c7c        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.playback_control_menu__
+                0x0000000001f89c80        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.nexttrack_item
+                0x0000000001f89c8c        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f89c8c                nexttrack_item
+ .rodata.volume_item__
+                0x0000000001f89c98        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.repeat_mode_item
+                0x0000000001f89c9c        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f89c9c                repeat_mode_item
+ .rodata.volume_item_
+                0x0000000001f89ca8        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.str1.1
+                0x0000000001f89cb4       0x16 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ *fill*         0x0000000001f89cca        0x2 
+ .rodata.prevtrack_item
+                0x0000000001f89ccc        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f89ccc                prevtrack_item
+ .rodata.stop_item_
+                0x0000000001f89cd8        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.stop_item__
+                0x0000000001f89ce4        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.nexttrack_item__
+                0x0000000001f89ce8        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.shuffle_item__
+                0x0000000001f89cec        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.shuffle_item_
+                0x0000000001f89cf0        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.playpause_item_
+                0x0000000001f89cfc        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.repeat_mode_item_
+                0x0000000001f89d08        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.volume_item
+                0x0000000001f89d14        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f89d14                volume_item
+ .rodata.repeat_mode_item__
+                0x0000000001f89d20        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.shuffle_item
+                0x0000000001f89d24        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f89d24                shuffle_item
+ .rodata.playpause_item
+                0x0000000001f89d30        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f89d30                playpause_item
+
+.rel.dyn        0x0000000001f89d3c        0x0
+ .rel.iplt      0x0000000001f89d3c        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.o
+
+.data           0x0000000001f89d3c      0x290
+ *(.data*)
+ .data          0x0000000001f89d3c      0x130 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.o
+                0x0000000001f89d3c                auto_show_comments
+ .data          0x0000000001f89e6c        0xb /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/board.o
+                0x0000000001f89e6c                board_height
+                0x0000000001f89e70                board_width
+                0x0000000001f89e74                ko_pos
+                0x0000000001f89e76                current_mark
+ *fill*         0x0000000001f89e77        0x1 
+ .data          0x0000000001f89e78        0xb /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/display.o
+                0x0000000001f89e78                cursor_pos
+                0x0000000001f89e7c                last_int_size
+                0x0000000001f89e80                last_cursor_pos
+                0x0000000001f89e82                draw_variations
+ .data          0x0000000001f89e83        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/game.o
+                0x0000000001f89e83                current_player
+ .data          0x0000000001f89e84       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf.o
+                0x0000000001f89e84                start_node
+                0x0000000001f89e88                current_node
+                0x0000000001f89e8c                unhandled_fd
+                0x0000000001f89e90                tree_head
+                0x0000000001f89e94                sgf_fd
+ .data          0x0000000001f89e98        0x2 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_output.o
+                0x0000000001f89e98                first_node_in_tree
+                0x0000000001f89e99                last_output_type
+ *fill*         0x0000000001f89e9a        0x2 
+ .data          0x0000000001f89e9c      0x110 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/util.o
+                0x0000000001f89e9c                ruleset_names
+                0x0000000001f89eb0                prop_names
+ .data          0x0000000001f89fac        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f89fac                rb
+ .data.playback_control_menu_
+                0x0000000001f89fb0       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+
+.igot.plt       0x0000000001f89fcc        0x0
+ .igot.plt      0x0000000001f89fcc        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.o
+
+.ncdata         0x0000000011f89fcc        0x4 load address 0x0000000001f89fcc
+                0x0000000011f89fd0                . = ALIGN (0x10)
+ *fill*         0x0000000011f89fcc        0x4 
+ *(.ncdata*)
+                0x0000000011f89fd0                . = ALIGN (0x10)
+                0x0000000001f89fd0                bssaddr = (. - 0x10000000)
+                0x0000000001f89fd0                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001f89fd0      0xd34
+                0x0000000001f89fd0                plugin_bss_start = .
+                0x0000000001f89fd0                _plugin_bss_start = .
+ *(.bss*)
+ .bss           0x0000000001f89fd0        0xd /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.o
+                0x0000000001f89fd0                disable_shutdown
+                0x0000000001f89fd4                autosave_time
+                0x0000000001f89fd8                autosave_counter
+                0x0000000001f89fdc                play_mode
+ *fill*         0x0000000001f89fdd        0x3 
+ .bss           0x0000000001f89fe0        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/board.o
+                0x0000000001f89fe0                white_captures
+                0x0000000001f89fe4                black_captures
+ .bss           0x0000000001f89fe8       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/display.o
+                0x0000000001f89fe8                min_x_int
+                0x0000000001f89fec                intersection_size
+                0x0000000001f89ff0                board_x
+                0x0000000001f89ff4                min_y_int
+                0x0000000001f89ff8                board_y
+                0x0000000001f89ffc                num_x_ints
+                0x0000000001f8a000                num_y_ints
+                0x0000000001f8a004                extend_l
+                0x0000000001f8a008                extend_t
+                0x0000000001f8a00c                extend_r
+                0x0000000001f8a010                extend_b
+                0x0000000001f8a014                has_comment
+                0x0000000001f8a018                board_pixel_width
+                0x0000000001f8a01c                saved_circle_size
+                0x0000000001f8a020                board_pixel_height
+ .bss           0x0000000001f8a024        0x9 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/game.o
+                0x0000000001f8a024                game_dirty
+                0x0000000001f8a028                move_num
+                0x0000000001f8a02c                autosave_dirty
+ .bss           0x0000000001f8a02d        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf.o
+                0x0000000001f8a02d                header_marked
+ *fill*         0x0000000001f8a02e        0x2 
+ .bss           0x0000000001f8a030        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_parse.o
+                0x0000000001f8a030                start_of_prop
+ .bss           0x0000000001f8a034       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_storage.o
+                0x0000000001f8a034                storage_free_list
+                0x0000000001f8a03c                storage_free_list_size
+                0x0000000001f8a044                storage_buffer_size
+                0x0000000001f8a04c                storage_initialized
+                0x0000000001f8a050                storage_buffer
+                0x0000000001f8a058                total_storage_size
+ .bss           0x0000000001f8a05c       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .bss.parentvp  0x0000000001f8a0bc        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001f8a0bc                parentvp
+ *(COMMON)
+ COMMON         0x0000000001f8a0c0      0x2e0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.o
+                0x0000000001f8a0c0                parse_stack_buffer
+                0x0000000001f8a394                parse_stack
+ COMMON         0x0000000001f8a3a0      0x4db /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/board.o
+                0x0000000001f8a3a0                board_changes
+                0x0000000001f8a509                board_data
+                0x0000000001f8a6c2                board_marks
+ COMMON         0x0000000001f8a87b      0x169 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/display.o
+                0x0000000001f8a87b                display_marks
+ COMMON         0x0000000001f8a9e4      0x318 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/game.o
+                0x0000000001f8a9e4                save_file
+                0x0000000001f8aae4                header
+ COMMON         0x0000000001f8acfc        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_storage.o
+                0x0000000001f8acfc                next_free_handle
+                0x0000000001f8ad00                next_free_handle_buffer
+                0x0000000001f8ad04                . = ALIGN (0x4)
+
+.ncbss          0x0000000011f8ad04        0xc load address 0x0000000001f8ad04
+                0x0000000011f8ad10                . = ALIGN (0x10)
+ *fill*         0x0000000011f8ad04        0xc 
+ *(.ncbss*)
+                0x0000000011f8ad10                . = ALIGN (0x10)
+                0x0000000001f8ad10                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001f8ad10        0x0
+                0x0000000001f8ad10                _plugin_end_addr = .
+                0x0000000001f8ad10                plugin_end_addr = .
+
+.iram           0x000000004000c000        0x0 load address 0x0000000001f89fd0
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ *(.irodata)
+ *(.idata)
+                0x000000004000c000                iramend = .
+
+.ibss           0x000000004000c000        0x0
+                0x000000004000c000                iedata = .
+ *(.ibss)
+                0x000000004000c000                . = ALIGN (0x4)
+                0x000000004000c000                iend = .
+                0x0000000001f8ad10                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001f8ad10        0x0
+                0x0000000001f8ad10                _plugin_load_end_addr = .
+                0x0000000001f8ad10                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/board.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/display.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/game.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_output.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_parse.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_storage.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/util.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_core.o)
+OUTPUT(/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2e
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/goban.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/board.o
+ .ARM.attributes
+                0x0000000000000060       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/display.o
+ .ARM.attributes
+                0x0000000000000090       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/game.o
+ .ARM.attributes
+                0x00000000000000c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf.o
+ .ARM.attributes
+                0x00000000000000f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_output.o
+ .ARM.attributes
+                0x0000000000000120       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_parse.o
+ .ARM.attributes
+                0x0000000000000150       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/sgf_storage.o
+ .ARM.attributes
+                0x0000000000000180       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/goban/util.o
+ .ARM.attributes
+                0x00000000000001b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .ARM.attributes
+                0x00000000000001e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .ARM.attributes
+                0x0000000000000210       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .ARM.attributes
+                0x0000000000000240       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .ARM.attributes
+                0x0000000000000270       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+ .ARM.attributes
+                0x00000000000002a0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_core.o)
+ .ARM.attributes
+                0x00000000000002d0       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .ARM.attributes
+                0x00000000000002f0       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000308       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000000000000320       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_frame    0x0000000000000000       0x40
+ .debug_frame   0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+
+.debug_line     0x0000000000000000      0x169
+ .debug_line    0x0000000000000000       0x7e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_line    0x000000000000007e       0x8a /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_line    0x0000000000000108       0x61 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_info     0x0000000000000000      0x198
+ .debug_info    0x0000000000000000       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_info    0x0000000000000088       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_info    0x0000000000000110       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_abbrev   0x0000000000000000       0x3c
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000000014       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000028       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_aranges  0x0000000000000000       0x60
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)

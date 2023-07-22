@@ -1,0 +1,202 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/snow.o (pluginlib_getaction)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o (setjmp)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/snow.o (__aeabi_idivmod)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o) (__aeabi_idiv0)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001f80000 0x0000000000080000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/snow.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001f80000       0x1c
+                0x0000000001f80000                _plugin_start_addr = .
+                0x0000000001f80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001f80000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f80000                __header
+
+.text           0x0000000001f8001c      0x6cc
+ *(.text*)
+ .text          0x0000000001f8001c      0x2c4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/snow.o
+                0x0000000001f8005c                plugin_start
+ .text          0x0000000001f802e0      0x214 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f802f8                plugin__start
+                0x0000000001f80448                rb_atexit
+                0x0000000001f80468                exit
+                0x0000000001f80488                _exit
+                0x0000000001f804a0                exit_on_usb
+ .text.get_context_map
+                0x0000000001f804f4       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .text.pluginlib_getaction
+                0x0000000001f80530       0x50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+                0x0000000001f80530                pluginlib_getaction
+ .text          0x0000000001f80580       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                0x0000000001f80580                setjmp
+                0x0000000001f8058c                longjmp
+ .text          0x0000000001f8059c      0x148 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                0x0000000001f8059c                __aeabi_idiv
+                0x0000000001f8059c                __divsi3
+                0x0000000001f806c4                __aeabi_idivmod
+ .text          0x0000000001f806e4        0x4 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                0x0000000001f806e4                __aeabi_ldiv0
+                0x0000000001f806e4                __aeabi_idiv0
+ *(.glue_7)
+ .glue_7        0x0000000001f806e8        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001f806e8        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001f806e8        0x0
+ .vfp11_veneer  0x0000000001f806e8        0x0 linker stubs
+
+.v4_bx          0x0000000001f806e8        0x0
+ .v4_bx         0x0000000001f806e8        0x0 linker stubs
+
+.iplt           0x0000000001f806e8        0x0
+ .iplt          0x0000000001f806e8        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/snow.o
+
+.rodata         0x0000000001f806e8       0xe0
+ *(.rodata*)
+ .rodata        0x0000000001f806e8        0x5 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/snow.o
+ *fill*         0x0000000001f806ed        0x3 
+ .rodata.pla_main_ctx
+                0x0000000001f806f0       0xd8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+                0x0000000001f806f0                pla_main_ctx
+
+.rel.dyn        0x0000000001f807c8        0x0
+ .rel.iplt      0x0000000001f807c8        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/snow.o
+
+.data           0x0000000001f807c8        0x8
+ *(.data*)
+ .data          0x0000000001f807c8        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/snow.o
+ .data          0x0000000001f807cc        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f807cc                rb
+
+.igot.plt       0x0000000001f807d0        0x0
+ .igot.plt      0x0000000001f807d0        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/snow.o
+
+.ncdata         0x0000000011f807d0        0x0 load address 0x0000000001f807d0
+                0x0000000011f807d0                . = ALIGN (0x10)
+ *(.ncdata*)
+                0x0000000011f807d0                . = ALIGN (0x10)
+                0x0000000001f807d0                bssaddr = (. - 0x10000000)
+                0x0000000001f807d0                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001f807d0      0x8d0
+                0x0000000001f807d0                plugin_bss_start = .
+                0x0000000001f807d0                _plugin_bss_start = .
+ *(.bss*)
+ .bss           0x0000000001f807d0      0x864 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/snow.o
+ .bss           0x0000000001f81034       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .bss.last_context
+                0x0000000001f81094        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .bss.plugin_context_order
+                0x0000000001f81098        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .bss.plugin_context_count
+                0x0000000001f8109c        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ *(COMMON)
+                0x0000000001f810a0                . = ALIGN (0x4)
+
+.ncbss          0x0000000011f810a0        0x0 load address 0x0000000001f810a0
+                0x0000000011f810a0                . = ALIGN (0x10)
+ *(.ncbss*)
+                0x0000000011f810a0                . = ALIGN (0x10)
+                0x0000000001f810a0                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001f810a0        0x0
+                0x0000000001f810a0                _plugin_end_addr = .
+                0x0000000001f810a0                plugin_end_addr = .
+
+.iram           0x000000004000c000        0x0 load address 0x0000000001f807d0
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ *(.irodata)
+ *(.idata)
+                0x000000004000c000                iramend = .
+
+.ibss           0x000000004000c000        0x0
+                0x000000004000c000                iedata = .
+ *(.ibss)
+                0x000000004000c000                . = ALIGN (0x4)
+                0x000000004000c000                iend = .
+                0x0000000001f810a0                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001f810a0        0x0
+                0x0000000001f810a0                _plugin_load_end_addr = .
+                0x0000000001f810a0                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/snow.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+OUTPUT(/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/snow.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2e
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/snow.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .ARM.attributes
+                0x0000000000000060       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .ARM.attributes
+                0x0000000000000090       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .ARM.attributes
+                0x00000000000000b0       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000000000c8       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_frame    0x0000000000000000       0x20
+ .debug_frame   0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+
+.debug_line     0x0000000000000000       0xeb
+ .debug_line    0x0000000000000000       0x8a /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_line    0x000000000000008a       0x61 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_info     0x0000000000000000      0x110
+ .debug_info    0x0000000000000000       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_info    0x0000000000000088       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_abbrev   0x0000000000000000       0x28
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000014       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_aranges  0x0000000000000000       0x40
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)

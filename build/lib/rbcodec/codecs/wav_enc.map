@@ -1,0 +1,128 @@
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wav_enc.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/codec_crt0.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001e80000 0x0000000000100000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wav_enc.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/codec_crt0.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001e80000       0x24
+                0x0000000001e80000                _plugin_start_addr = .
+                0x0000000001e80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001e80000       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wav_enc.o
+                0x0000000001e80000                __header
+
+.text           0x0000000001e80024       0xf4
+ *(.text*)
+ .text          0x0000000001e80024        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wav_enc.o
+                0x0000000001e80024                codec_main
+ .text          0x0000000001e8002c       0xec /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/codec_crt0.o
+                0x0000000001e8002c                _start
+                0x0000000001e80034                codec_start
+                0x0000000001e80104                __div0
+ *(.glue_7)
+ .glue_7        0x0000000001e80118        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001e80118        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001e80118        0x0
+ .vfp11_veneer  0x0000000001e80118        0x0 linker stubs
+
+.v4_bx          0x0000000001e80118        0x0
+ .v4_bx         0x0000000001e80118        0x0 linker stubs
+
+.iplt           0x0000000001e80118        0x0
+ .iplt          0x0000000001e80118        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wav_enc.o
+
+.rodata         0x0000000001e80118       0x2c
+ *(.rodata*)
+ .rodata        0x0000000001e80118       0x2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wav_enc.o
+
+.data           0x0000000001e80144        0x4
+ *(.data*)
+ .data          0x0000000001e80144        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/codec_crt0.o
+                0x0000000001e80144                ci
+
+.igot.plt       0x0000000001e80148        0x0
+ .igot.plt      0x0000000001e80148        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wav_enc.o
+
+.ncdata         0x0000000011e80148        0x8 load address 0x0000000001e80148
+                0x0000000011e80150                . = ALIGN (0x10)
+ *fill*         0x0000000011e80148        0x8 
+ *(.ncdata*)
+                0x0000000011e80150                . = ALIGN (0x10)
+                0x0000000001e80150                bssaddr = (. - 0x10000000)
+                0x0000000001e80150                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001e80150       0x10
+                0x0000000001e80150                plugin_bss_start = .
+                0x0000000001e80150                _plugin_bss_start = .
+ *(.bss*)
+ .bss           0x0000000001e80150       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wav_enc.o
+ *(COMMON)
+                0x0000000001e80160                . = ALIGN (0x4)
+
+.ncbss          0x0000000011e80160        0x0 load address 0x0000000001e80160
+                0x0000000011e80160                . = ALIGN (0x10)
+ *(.ncbss*)
+                0x0000000011e80160                . = ALIGN (0x10)
+                0x0000000001e80160                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001e80160        0x0
+                0x0000000001e80160                _plugin_end_addr = .
+                0x0000000001e80160                plugin_end_addr = .
+
+.iram           0x000000004000c000      0x2c8 load address 0x0000000001e80150
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ .icode         0x000000004000c000      0x2c8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wav_enc.o
+                0x000000004000c000                codec_run
+                0x000000004000c0d0                enc_callback
+ *(.irodata)
+ *(.idata)
+                0x000000004000c2c8                iramend = .
+
+.rel.dyn        0x000000004000c2c8        0x0 load address 0x0000000001e80418
+ .rel.iplt      0x000000004000c2c8        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wav_enc.o
+
+.ibss           0x000000004000c2c8        0x0
+                0x000000004000c2c8                iedata = .
+ *(.ibss)
+                0x000000004000c2c8                . = ALIGN (0x4)
+                0x000000004000c2c8                iend = .
+                0x0000000001e80418                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001e80418        0x0
+                0x0000000001e80418                _plugin_load_end_addr = .
+                0x0000000001e80418                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wav_enc.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/codec_crt0.o
+OUTPUT(/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wav_enc.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wav_enc.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/codec_crt0.o

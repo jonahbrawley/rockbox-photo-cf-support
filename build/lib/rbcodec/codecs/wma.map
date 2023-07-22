@@ -1,0 +1,552 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmadeci.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wma.o (wma_decode_init)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmafixed.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmadeci.o) (IntTo64)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libasf.a(asf.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wma.o (asf_read_packet)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wma.o (codec_init)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(ffmpeg_bitstream.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmadeci.o) (init_vlc_sparse)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(mdct.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmadeci.o) (ff_imdct_calc)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(mdct_lookup.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(mdct.o) (revtab)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(fft-ffmpeg.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(mdct.o) (ff_fft_calc_c)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wma.o (__aeabi_uidiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmadeci.o) (__aeabi_idiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmadeci.o) (__aeabi_dadd)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmadeci.o) (__aeabi_d2iz)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmadeci.o) (__aeabi_i2f)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmadeci.o) (__aeabi_fmul)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmadeci.o) (__aeabi_fcmplt)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmafixed.o) (__aeabi_ldivmod)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o) (__gnu_ldivmod_helper)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o) (__divdi3)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o) (__udivdi3)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o) (__clzdi2)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o) (__clzsi2)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wma.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/codec_crt0.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmafixed.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmafixed.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libasf.a(asf.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.codec_malloc
+                0x0000000000000000       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.codec_calloc
+                0x0000000000000000       0x48 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.codec_free
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.codec_realloc
+                0x0000000000000000       0x64 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.codec_strlen
+                0x0000000000000000       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.strcpy   0x0000000000000000       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.strcat   0x0000000000000000       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.strcmp   0x0000000000000000       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.memcmp   0x0000000000000000       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text.memchr   0x0000000000000000       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(ffmpeg_bitstream.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(ffmpeg_bitstream.o)
+ .text.ff_copy_bits
+                0x0000000000000000      0x2e4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(ffmpeg_bitstream.o)
+ .rodata        0x0000000000000000       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(ffmpeg_bitstream.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(mdct.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(mdct.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(mdct.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(mdct_lookup.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(mdct_lookup.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(mdct_lookup.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(fft-ffmpeg.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(fft-ffmpeg.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(fft-ffmpeg.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .ARM.extab     0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .ARM.extab     0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001e80000 0x0000000000100000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wma.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/codec_crt0.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libasf.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001e80000       0x20
+                0x0000000001e80000                _plugin_start_addr = .
+                0x0000000001e80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001e80000       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wma.o
+                0x0000000001e80000                __header
+
+.text           0x0000000001e80020     0x5860
+ *(.text*)
+ .text          0x0000000001e80020      0x40c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wma.o
+                0x0000000001e80020                codec_run
+                0x0000000001e803ec                codec_main
+ .text          0x0000000001e8042c       0xec /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/codec_crt0.o
+                0x0000000001e8042c                _start
+                0x0000000001e80434                codec_start
+                0x0000000001e80504                __div0
+ .text          0x0000000001e80518     0x2bec /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmadeci.o)
+                0x0000000001e82090                wma_decode_init
+                0x0000000001e82d38                wma_decode_superframe_init
+                0x0000000001e82e2c                wma_decode_superframe_frame
+ .text          0x0000000001e83104      0x2d4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmafixed.o)
+                0x0000000001e83104                IntTo64
+                0x0000000001e83144                IntFrom64
+                0x0000000001e83174                Fixed32From64
+                0x0000000001e83178                Fixed32To64
+                0x0000000001e83180                fixdiv32
+                0x0000000001e831c0                fixdiv64
+                0x0000000001e83210                fixsqrt32
+                0x0000000001e83350                fsincos
+ .text          0x0000000001e833d8      0x7d8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libasf.a(asf.o)
+                0x0000000001e833d8                asf_read_packet
+                0x0000000001e83870                asf_get_timestamp
+                0x0000000001e83a2c                asf_seek
+ .text.codec_init
+                0x0000000001e83bb0       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+                0x0000000001e83bb0                codec_init
+ .text.codec_set_replaygain
+                0x0000000001e83bf0       0x54 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+                0x0000000001e83bf0                codec_set_replaygain
+ .text.memcpy   0x0000000001e83c44       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+                0x0000000001e83c44                memcpy
+ .text.memset   0x0000000001e83c68       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+                0x0000000001e83c68                memset
+ .text.memmove  0x0000000001e83c8c       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+                0x0000000001e83c8c                memmove
+ .text.qsort    0x0000000001e83cb0       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+                0x0000000001e83cb0                qsort
+ .text.compare_vlcspec
+                0x0000000001e83cd4       0x44 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(ffmpeg_bitstream.o)
+ .text.build_table
+                0x0000000001e83d18      0x31c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(ffmpeg_bitstream.o)
+ .text.init_vlc_sparse
+                0x0000000001e84034      0x4f4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(ffmpeg_bitstream.o)
+                0x0000000001e84034                init_vlc_sparse
+ .text.fft4_dispatch
+                0x0000000001e84528       0x54 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(fft-ffmpeg.o)
+ .text.fft8_dispatch
+                0x0000000001e8457c      0x170 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(fft-ffmpeg.o)
+ .text.ff_fft_calc_c
+                0x0000000001e846ec       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(fft-ffmpeg.o)
+                0x0000000001e846ec                ff_fft_calc_c
+ .text          0x0000000001e84714      0x114 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                0x0000000001e84714                __udivsi3
+                0x0000000001e84714                __aeabi_uidiv
+                0x0000000001e84808                __aeabi_uidivmod
+ .text          0x0000000001e84828      0x148 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                0x0000000001e84828                __aeabi_idiv
+                0x0000000001e84828                __divsi3
+                0x0000000001e84950                __aeabi_idivmod
+ .text          0x0000000001e84970        0x4 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                0x0000000001e84970                __aeabi_ldiv0
+                0x0000000001e84970                __aeabi_idiv0
+ .text          0x0000000001e84974      0x41c /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+                0x0000000001e84974                __aeabi_drsub
+                0x0000000001e8497c                __aeabi_dsub
+                0x0000000001e8497c                __subdf3
+                0x0000000001e84980                __adddf3
+                0x0000000001e84980                __aeabi_dadd
+                0x0000000001e84c90                __aeabi_ui2d
+                0x0000000001e84c90                __floatunsidf
+                0x0000000001e84cb4                __floatsidf
+                0x0000000001e84cb4                __aeabi_i2d
+                0x0000000001e84cdc                __extendsfdf2
+                0x0000000001e84cdc                __aeabi_f2d
+                0x0000000001e84d1c                __aeabi_ul2d
+                0x0000000001e84d1c                __floatundidf
+                0x0000000001e84d30                __floatdidf
+                0x0000000001e84d30                __aeabi_l2d
+ .text          0x0000000001e84d90       0x5c /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+                0x0000000001e84d90                __fixdfsi
+                0x0000000001e84d90                __aeabi_d2iz
+ .text          0x0000000001e84dec      0x2ac /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+                0x0000000001e84dec                __aeabi_frsub
+                0x0000000001e84df4                __subsf3
+                0x0000000001e84df4                __aeabi_fsub
+                0x0000000001e84df8                __aeabi_fadd
+                0x0000000001e84df8                __addsf3
+                0x0000000001e84fb4                __aeabi_ui2f
+                0x0000000001e84fb4                __floatunsisf
+                0x0000000001e84fbc                __aeabi_i2f
+                0x0000000001e84fbc                __floatsisf
+                0x0000000001e84fdc                __floatundisf
+                0x0000000001e84fdc                __aeabi_ul2f
+                0x0000000001e84fec                __floatdisf
+                0x0000000001e84fec                __aeabi_l2f
+ .text          0x0000000001e85098      0x2f8 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+                0x0000000001e85098                __mulsf3
+                0x0000000001e85098                __aeabi_fmul
+                0x0000000001e85230                __divsf3
+                0x0000000001e85230                __aeabi_fdiv
+ .text          0x0000000001e85390      0x114 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+                0x0000000001e85390                __gtsf2
+                0x0000000001e85390                __gesf2
+                0x0000000001e85398                __lesf2
+                0x0000000001e85398                __ltsf2
+                0x0000000001e853a0                __nesf2
+                0x0000000001e853a0                __eqsf2
+                0x0000000001e853a0                __cmpsf2
+                0x0000000001e85404                __aeabi_cfrcmple
+                0x0000000001e85414                __aeabi_cfcmple
+                0x0000000001e85414                __aeabi_cfcmpeq
+                0x0000000001e8542c                __aeabi_fcmpeq
+                0x0000000001e85444                __aeabi_fcmplt
+                0x0000000001e8545c                __aeabi_fcmple
+                0x0000000001e85474                __aeabi_fcmpge
+                0x0000000001e8548c                __aeabi_fcmpgt
+ .text          0x0000000001e854a4       0x48 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+                0x0000000001e854a4                __aeabi_ldivmod
+ .text          0x0000000001e854ec       0x84 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+                0x0000000001e854ec                __gnu_ldivmod_helper
+                0x0000000001e85530                __gnu_uldivmod_helper
+ .text          0x0000000001e85570      0x178 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+                0x0000000001e85570                __divdi3
+ .text          0x0000000001e856e8      0x120 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+                0x0000000001e856e8                __udivdi3
+ .text          0x0000000001e85808       0x28 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+                0x0000000001e85808                __clzdi2
+ .text          0x0000000001e85830       0x48 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+                0x0000000001e85830                __clzsi2
+ .text.__stub   0x0000000001e85878        0x8 linker stubs
+ *(.glue_7)
+ .glue_7        0x0000000001e85880        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001e85880        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001e85880        0x0
+ .vfp11_veneer  0x0000000001e85880        0x0 linker stubs
+
+.v4_bx          0x0000000001e85880        0x0
+ .v4_bx         0x0000000001e85880        0x0 linker stubs
+
+.iplt           0x0000000001e85880        0x0
+ .iplt          0x0000000001e85880        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wma.o
+
+.rodata         0x0000000001e85880     0x96bc
+ *(.rodata*)
+ .rodata        0x0000000001e85880     0x7610 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmadeci.o)
+                0x0000000001e85b00                lsp_pow_e_table
+                0x0000000001e86300                pow_table
+                0x0000000001e86dcc                pow_a_table
+ .rodata        0x0000000001e8ce90       0x80 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmafixed.o)
+ .rodata        0x0000000001e8cf10     0x2000 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(mdct_lookup.o)
+                0x0000000001e8cf10                revtab
+ .rodata        0x0000000001e8ef10       0x2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(fft-ffmpeg.o)
+
+.ARM.exidx      0x0000000001e8ef3c        0x8
+ .ARM.exidx     0x0000000001e8ef3c        0x8 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .ARM.exidx     0x0000000001e8ef44        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+                                          0x8 (size before relaxing)
+
+.data           0x0000000001e8ef44     0x8004
+ *(.data*)
+ .data          0x0000000001e8ef44        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/codec_crt0.o
+                0x0000000001e8ef44                ci
+ .data          0x0000000001e8ef48     0x8000 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmadeci.o)
+                0x0000000001e8ef48                noisetable_exp
+
+.igot.plt       0x0000000001e96f48        0x0
+ .igot.plt      0x0000000001e96f48        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wma.o
+
+.ncdata         0x0000000011e96f48        0x8 load address 0x0000000001e96f48
+                0x0000000011e96f50                . = ALIGN (0x10)
+ *fill*         0x0000000011e96f48        0x8 
+ *(.ncdata*)
+                0x0000000011e96f50                . = ALIGN (0x10)
+                0x0000000001e96f50                bssaddr = (. - 0x10000000)
+                0x0000000001e96f50                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001e96f50    0x25ad8
+                0x0000000001e96f50                plugin_bss_start = .
+                0x0000000001e96f50                _plugin_bss_start = .
+ *(.bss*)
+ .bss           0x0000000001e96f50     0xc4c0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wma.o
+ .bss           0x0000000001ea3410    0x17178 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmadeci.o)
+ .bss           0x0000000001eba588        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libasf.a(asf.o)
+ .bss           0x0000000001eba58c        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .bss           0x0000000001eba598     0x248f /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(ffmpeg_bitstream.o)
+ *(COMMON)
+                0x0000000001ebca28                . = ALIGN (0x4)
+ *fill*         0x0000000001ebca27        0x1 
+
+.ncbss          0x0000000011ebca28        0x8 load address 0x0000000001ebca28
+                0x0000000011ebca30                . = ALIGN (0x10)
+ *fill*         0x0000000011ebca28        0x8 
+ *(.ncbss*)
+                0x0000000011ebca30                . = ALIGN (0x10)
+                0x0000000001ebca30                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001ebca30        0x0
+                0x0000000001ebca30                _plugin_end_addr = .
+                0x0000000001ebca30                plugin_end_addr = .
+
+.iram           0x000000004000c000     0x38ec load address 0x0000000001e96f50
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ .icode         0x000000004000c000      0x75c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(mdct.o)
+                0x000000004000c000                ff_imdct_half
+                0x000000004000c660                ff_imdct_calc
+ .icode         0x000000004000c75c      0xd78 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(fft-ffmpeg.o)
+ *fill*         0x000000004000d4d4        0x4 
+ .icode.__stub  0x000000004000d4d8        0x8 linker stubs
+ *(.irodata)
+ .irodata       0x000000004000d4e0      0x204 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmadeci.o)
+                0x000000004000d4e0                pow_10_to_yover16
+ .irodata       0x000000004000d6e4      0x200 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+                0x000000004000d6e4                bs_clz_tab
+                0x000000004000d7e4                bs_log2_tab
+ .irodata       0x000000004000d8e4     0x2008 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(mdct_lookup.o)
+                0x000000004000d8e4                sincos_lookup1
+                0x000000004000e8e4                sincos_lookup0
+ *(.idata)
+                0x000000004000f8ec                iramend = .
+
+.rel.dyn        0x000000004000f8ec        0x0 load address 0x0000000001e9a83c
+ .rel.iplt      0x000000004000f8ec        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wma.o
+
+.ibss           0x000000004000f8f0     0x8000 load address 0x0000000001e9a840
+                0x000000004000f8f0                iedata = .
+ *(.ibss)
+ .ibss          0x000000004000f8f0     0x8000 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmadeci.o)
+                0x00000000400178f0                . = ALIGN (0x4)
+                0x00000000400178f0                iend = .
+                0x0000000001ebca30                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001ebca30        0x0
+                0x0000000001ebca30                _plugin_load_end_addr = .
+                0x0000000001ebca30                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wma.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/codec_crt0.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmadeci.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmafixed.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libasf.a(asf.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(ffmpeg_bitstream.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(mdct.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(mdct_lookup.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(fft-ffmpeg.o)
+ .comment       0x0000000000000011       0x12 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .comment       0x0000000000000011       0x12 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .comment       0x0000000000000011       0x12 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+OUTPUT(/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wma.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/wma.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/codec_crt0.o
+ .ARM.attributes
+                0x0000000000000060       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmadeci.o)
+ .ARM.attributes
+                0x0000000000000090       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libwma.a(wmafixed.o)
+ .ARM.attributes
+                0x00000000000000c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libasf.a(asf.o)
+ .ARM.attributes
+                0x00000000000000f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(codeclib.o)
+ .ARM.attributes
+                0x0000000000000120       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(ffmpeg_bitstream.o)
+ .ARM.attributes
+                0x0000000000000150       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(mdct.o)
+ .ARM.attributes
+                0x0000000000000180       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(mdct_lookup.o)
+ .ARM.attributes
+                0x00000000000001b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/rbcodec/codecs/libcodec.a(fft-ffmpeg.o)
+ .ARM.attributes
+                0x00000000000001e0       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000000000001f8       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000000000000210       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000000000000228       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000000000000240       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x0000000000000258       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x0000000000000270       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x0000000000000288       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000000000002a0       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x00000000000002b8       0x30 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x00000000000002e8       0x30 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x0000000000000318       0x30 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x0000000000000348       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .ARM.attributes
+                0x0000000000000360       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_frame    0x0000000000000000      0x158
+ .debug_frame   0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_frame   0x0000000000000040       0x28 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x0000000000000068       0x68 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_frame   0x00000000000000d0       0x48 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_frame   0x0000000000000118       0x40 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+
+.debug_line     0x0000000000000000      0x8fa
+ .debug_line    0x0000000000000000       0x7e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_line    0x000000000000007e       0x8a /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_line    0x0000000000000108       0x61 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x0000000000000169      0x164 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .debug_line    0x00000000000002cd       0x78 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .debug_line    0x0000000000000345      0x117 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .debug_line    0x000000000000045c      0x123 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .debug_line    0x000000000000057f       0xa2 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .debug_line    0x0000000000000621       0x65 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .debug_line    0x0000000000000686       0x65 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_line    0x00000000000006eb       0x9e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_line    0x0000000000000789       0x98 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_line    0x0000000000000821       0x6b /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .debug_line    0x000000000000088c       0x6e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_info     0x0000000000000000      0xb6d
+ .debug_info    0x0000000000000000       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_info    0x0000000000000088       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_info    0x0000000000000110       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x0000000000000198       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .debug_info    0x0000000000000221       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .debug_info    0x00000000000002aa       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .debug_info    0x0000000000000333       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .debug_info    0x00000000000003bc       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .debug_info    0x0000000000000445       0x84 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .debug_info    0x00000000000004c9      0x164 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_info    0x000000000000062d      0x269 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_info    0x0000000000000896      0x1c7 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_info    0x0000000000000a5d       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .debug_info    0x0000000000000ae5       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_abbrev   0x0000000000000000      0x37d
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000000014       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000028       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x000000000000003c       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .debug_abbrev  0x0000000000000050       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .debug_abbrev  0x0000000000000064       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .debug_abbrev  0x0000000000000078       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .debug_abbrev  0x000000000000008c       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .debug_abbrev  0x00000000000000a0       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .debug_abbrev  0x00000000000000b4       0xb7 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_abbrev  0x000000000000016b      0x123 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_abbrev  0x000000000000028e       0xc7 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x0000000000000355       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .debug_abbrev  0x0000000000000369       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_aranges  0x0000000000000000      0x1c0
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x0000000000000060       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .debug_aranges
+                0x0000000000000080       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .debug_aranges
+                0x0000000000000100       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .debug_aranges
+                0x0000000000000120       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_aranges
+                0x0000000000000140       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_aranges
+                0x0000000000000160       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x0000000000000180       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_loc      0x0000000000000000      0x500
+ .debug_loc     0x0000000000000000       0xa0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_loc     0x00000000000000a0      0x27d /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_loc     0x000000000000031d      0x1e3 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+
+.debug_str      0x0000000000000000      0x287
+ .debug_str     0x0000000000000000      0x152 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_str     0x0000000000000152      0x135 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+                                        0x1dd (size before relaxing)
+ .debug_str     0x0000000000000287      0x1ba /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+
+.debug_ranges   0x0000000000000000       0x18
+ .debug_ranges  0x0000000000000000       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)

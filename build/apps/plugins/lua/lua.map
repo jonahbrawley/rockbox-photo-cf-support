@@ -1,0 +1,1113 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklua.o (tlsf_malloc)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lauxlib.o (memcpy)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rockaux.o (pluginlib_getaction)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib.o (backlight_force_on)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstrlib.o (strncpy)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldo.o (setjmp)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lgc.o (__aeabi_uidiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lcode.o (__aeabi_idiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lmathlib.o (__aeabi_i2d)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lmathlib.o (__aeabi_dmul)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lmathlib.o (__aeabi_d2iz)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lauxlib.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lauxlib.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lapi.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lapi.o
+ .rodata        0x0000000000000000       0x8d /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lapi.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lbaselib.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lbaselib.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lbitlib.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lbitlib.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lcode.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lcode.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldebug.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldebug.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldo.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldo.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldump.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldump.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lfunc.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lfunc.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lgc.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lgc.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/liolib.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/liolib.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/llex.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/llex.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lmathlib.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lmathlib.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lmem.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lmem.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/loadlib.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/loadlib.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lobject.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lobject.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lopcodes.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lopcodes.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lopcodes.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/loslib.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/loslib.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lparser.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lparser.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstate.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstate.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstring.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstring.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstrlib.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstrlib.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltable.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltable.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltablib.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltablib.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltm.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltm.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lundump.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lundump.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lua_user.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lvm.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lvm.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lzio.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lzio.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_img.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/tlsf_helper.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strftime.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strftime.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strpbrk.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strpbrk.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strtoul.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strtoul.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strtol.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strtol.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strstr.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strstr.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklua.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/luadir.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/luadir.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_events.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_aux.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_aux.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.get_new_area
+                0x0000000000000000        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.get_used_size
+                0x0000000000000000        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.get_max_size
+                0x0000000000000000        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.destroy_memory_pool
+                0x0000000000000000        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.calloc_ex
+                0x0000000000000000       0x4c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.tlsf_calloc
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.__div0   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memmove  0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.talk_val
+                0x0000000000000000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.backlight_ignore_timeout
+                0x0000000000000000       0x58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.sw_poweroff_disable
+                0x0000000000000000       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.sw_poweroff_restore
+                0x0000000000000000       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.remote_backlight_force_on
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.remote_backlight_ignore_timeout
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.remote_backlight_use_settings
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_force_on
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_force_off
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_ignore_timeout
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_use_settings
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_brightness_set
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_brightness_use_setting
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .data.original_sw_poweroff_state
+                0x0000000000000000        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001f80000 0x0000000000080000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lauxlib.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lapi.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lbaselib.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lbitlib.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lcode.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldebug.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldo.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldump.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lfunc.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lgc.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/liolib.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/llex.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lmathlib.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lmem.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/loadlib.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lobject.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lopcodes.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/loslib.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lparser.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstate.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstring.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstrlib.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltable.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltablib.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltm.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lundump.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lua_user.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lvm.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lzio.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rockaux.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_img.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/tlsf_helper.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strftime.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strpbrk.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strtoul.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strtol.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strstr.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklua.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/luadir.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_events.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_aux.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001f80000       0x1c
+                0x0000000001f80000                _plugin_start_addr = .
+                0x0000000001f80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001f80000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f80000                __header
+
+.text           0x0000000001f80020    0x1dc10
+ *(.text*)
+ .text          0x0000000001f80020     0x14e8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lauxlib.o
+                0x0000000001f80288                luaL_where
+                0x0000000001f802fc                luaL_error
+                0x0000000001f8034c                luaL_argerror
+                0x0000000001f80420                luaL_typerror
+                0x0000000001f80680                luaL_newmetatable
+                0x0000000001f806f8                luaL_checkudata
+                0x0000000001f80784                luaL_checkstack
+                0x0000000001f807b8                luaL_checktype
+                0x0000000001f807ec                luaL_checkany
+                0x0000000001f80820                luaL_checklstring
+                0x0000000001f80850                luaL_optlstring
+                0x0000000001f808c4                luaL_checkoption
+                0x0000000001f80960                luaL_checknumber
+                0x0000000001f809a4                luaL_optnumber
+                0x0000000001f809d8                luaL_checkinteger
+                0x0000000001f80a1c                luaL_optinteger
+                0x0000000001f80a50                luaL_checkboolean
+                0x0000000001f80a94                luaL_optboolean
+                0x0000000001f80ac8                luaL_getmetafield
+                0x0000000001f80b34                luaL_callmeta
+                0x0000000001f80ba8                luaL_findtable
+                0x0000000001f80cd0                luaI_openlib
+                0x0000000001f80e18                luaL_register
+                0x0000000001f80efc                luaL_prepbuffer
+                0x0000000001f80f2c                luaL_addlstring
+                0x0000000001f80f78                luaL_addstring
+                0x0000000001f80fb4                luaL_pushresult
+                0x0000000001f80fdc                luaL_gsub
+                0x0000000001f81088                luaL_addvalue
+                0x0000000001f81124                luaL_buffinit
+                0x0000000001f8113c                luaL_ref
+                0x0000000001f8120c                luaL_unref
+                0x0000000001f81288                luaL_loadfile
+                0x0000000001f813a8                luaL_loadbuffer
+                0x0000000001f813cc                luaL_loadstring
+                0x0000000001f814c4                luaL_newstate
+ .text          0x0000000001f81508     0x1710 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lapi.o
+                0x0000000001f8172c                luaA_pushobject
+                0x0000000001f8174c                lua_checkstack
+                0x0000000001f817bc                lua_xmove
+                0x0000000001f81818                lua_setlevel
+                0x0000000001f81824                lua_atpanic
+                0x0000000001f81834                lua_newthread
+                0x0000000001f8187c                lua_gettop
+                0x0000000001f81890                lua_settop
+                0x0000000001f818d4                lua_remove
+                0x0000000001f81914                lua_insert
+                0x0000000001f81960                lua_replace
+                0x0000000001f81a54                lua_pushvalue
+                0x0000000001f81a84                lua_type
+                0x0000000001f81aa8                lua_typename
+                0x0000000001f81ac4                lua_iscfunction
+                0x0000000001f81af4                lua_isnumber
+                0x0000000001f81b28                lua_isstring
+                0x0000000001f81b48                lua_isuserdata
+                0x0000000001f81b6c                lua_rawequal
+                0x0000000001f81bbc                lua_equal
+                0x0000000001f81c30                lua_lessthan
+                0x0000000001f81c84                lua_tonumber
+                0x0000000001f81cc0                lua_tointeger
+                0x0000000001f81cfc                lua_toboolean
+                0x0000000001f81d34                lua_tolstring
+                0x0000000001f81dc0                lua_objlen
+                0x0000000001f81e3c                lua_tocfunction
+                0x0000000001f81e6c                lua_touserdata
+                0x0000000001f81e9c                lua_tothread
+                0x0000000001f81ebc                lua_topointer
+                0x0000000001f81f20                lua_pushnil
+                0x0000000001f81f38                lua_pushnumber
+                0x0000000001f81f58                lua_pushinteger
+                0x0000000001f81f78                lua_pushlstring
+                0x0000000001f81fd4                lua_pushstring
+                0x0000000001f82018                lua_pushvfstring
+                0x0000000001f82054                lua_pushfstring
+                0x0000000001f82098                lua_pushcclosure
+                0x0000000001f8213c                lua_pushboolean
+                0x0000000001f82164                lua_pushlightuserdata
+                0x0000000001f82184                lua_pushthread
+                0x0000000001f821b8                lua_gettable
+                0x0000000001f821e4                lua_getfield
+                0x0000000001f8225c                lua_rawget
+                0x0000000001f82294                lua_rawgeti
+                0x0000000001f822d4                lua_createtable
+                0x0000000001f8232c                lua_getmetatable
+                0x0000000001f82394                lua_getfenv
+                0x0000000001f82400                lua_settable
+                0x0000000001f82438                lua_setfield
+                0x0000000001f824a0                lua_rawset
+                0x0000000001f82534                lua_rawseti
+                0x0000000001f825cc                lua_setmetatable
+                0x0000000001f82694                lua_setfenv
+                0x0000000001f82728                lua_call
+                0x0000000001f82768                lua_pcall
+                0x0000000001f827ec                lua_cpcall
+                0x0000000001f82828                lua_load
+                0x0000000001f82878                lua_dump
+                0x0000000001f828c4                lua_status
+                0x0000000001f828cc                lua_gc
+                0x0000000001f829c0                lua_error
+                0x0000000001f829d4                lua_next
+                0x0000000001f82a14                lua_concat
+                0x0000000001f82ab4                lua_getallocf
+                0x0000000001f82ad0                lua_setallocf
+                0x0000000001f82ae0                lua_newuserdata
+                0x0000000001f82b40                lua_getupvalue
+                0x0000000001f82b90                lua_setupvalue
+ .text          0x0000000001f82c18     0x1328 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lbaselib.o
+                0x0000000001f83e38                luaopen_base
+ .text          0x0000000001f83f40      0x2b4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lbitlib.o
+                0x0000000001f841ac                luaopen_bit
+ .text          0x0000000001f841f4     0x193c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lcode.o
+                0x0000000001f84730                luaK_getlabel
+                0x0000000001f84740                luaK_concat
+                0x0000000001f8479c                luaK_patchtohere
+                0x0000000001f847b0                luaK_patchlist
+                0x0000000001f847d8                luaK_checkstack
+                0x0000000001f8481c                luaK_reserveregs
+                0x0000000001f84840                luaK_stringK
+                0x0000000001f84868                luaK_numberK
+                0x0000000001f84890                luaK_setreturns
+                0x0000000001f84938                luaK_setoneret
+                0x0000000001f849a0                luaK_fixline
+                0x0000000001f84b40                luaK_codeABC
+                0x0000000001f84b60                luaK_nil
+                0x0000000001f84c14                luaK_ret
+                0x0000000001f84c40                luaK_codeABx
+                0x0000000001f84c54                luaK_jump
+                0x0000000001f84ca0                luaK_dischargevars
+                0x0000000001f84fcc                luaK_exp2nextreg
+                0x0000000001f8500c                luaK_exp2anyreg
+                0x0000000001f85074                luaK_exp2val
+                0x0000000001f85088                luaK_exp2RK
+                0x0000000001f8517c                luaK_indexed
+                0x0000000001f853b0                luaK_posfix
+                0x0000000001f85588                luaK_self
+                0x0000000001f856c0                luaK_goiftrue
+                0x0000000001f85760                luaK_infix
+                0x0000000001f8585c                luaK_prefix
+                0x0000000001f859d8                luaK_storevar
+                0x0000000001f85aa0                luaK_setlist
+ .text          0x0000000001f85b30     0x1308 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldebug.o
+                0x0000000001f85cdc                lua_sethook
+                0x0000000001f85d04                lua_gethook
+                0x0000000001f85d0c                lua_gethookmask
+                0x0000000001f85d14                lua_gethookcount
+                0x0000000001f85d1c                lua_getstack
+                0x0000000001f85da0                lua_getlocal
+                0x0000000001f85de8                lua_setlocal
+                0x0000000001f85e44                luaG_getline
+                0x0000000001f85f30                luaG_stripdebug
+                0x0000000001f85ffc                luaG_checkopenop
+                0x0000000001f8673c                lua_getinfo
+                0x0000000001f86b50                luaG_checkcode
+                0x0000000001f86b70                luaG_errormsg
+                0x0000000001f86c08                luaG_runerror
+                0x0000000001f86ccc                luaG_typeerror
+                0x0000000001f86d7c                luaG_concaterror
+                0x0000000001f86d98                luaG_aritherror
+                0x0000000001f86ddc                luaG_ordererror
+ .text          0x0000000001f86e38      0xd54 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldo.o
+                0x0000000001f86e38                luaD_seterrorobj
+                0x0000000001f86ed4                luaD_rawrunprotected
+                0x0000000001f86f38                luaD_reallocstack
+                0x0000000001f87024                luaD_reallocCI
+                0x0000000001f870d4                luaD_throw
+                0x0000000001f871f0                luaD_growstack
+                0x0000000001f87370                luaD_callhook
+                0x0000000001f87440                luaD_poscall
+                0x0000000001f87554                luaD_precall
+                0x0000000001f878cc                luaD_call
+                0x0000000001f87968                lua_resume
+                0x0000000001f87a2c                lua_yield
+                0x0000000001f87a74                luaD_pcall
+                0x0000000001f87b1c                luaD_protectedparser
+ .text          0x0000000001f87b8c       0x18 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldump.o
+                0x0000000001f87b8c                luaU_dump
+ .text          0x0000000001f87ba4      0x450 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lfunc.o
+                0x0000000001f87ba4                luaF_newCclosure
+                0x0000000001f87bf8                luaF_newLclosure
+                0x0000000001f87c60                luaF_newupval
+                0x0000000001f87ca8                luaF_findupval
+                0x0000000001f87d60                luaF_freeupval
+                0x0000000001f87d98                luaF_close
+                0x0000000001f87e28                luaF_newproto
+                0x0000000001f87eb0                luaF_freeproto
+                0x0000000001f87f68                luaF_freeclosure
+                0x0000000001f87f94                luaF_getlocalname
+ .text          0x0000000001f87ff4     0x1298 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lgc.o
+                0x0000000001f88ac8                luaC_separateudata
+                0x0000000001f88f14                luaC_callGCTM
+                0x0000000001f88f40                luaC_freeall
+                0x0000000001f88f94                luaC_step
+                0x0000000001f89060                luaC_sweepstrgc
+                0x0000000001f8909c                luaC_fullgc
+                0x0000000001f8917c                luaC_barrierf
+                0x0000000001f891ac                luaC_barrierback
+                0x0000000001f891cc                luaC_marknew
+                0x0000000001f891ec                luaC_link
+                0x0000000001f89210                luaC_linkupval
+ .text          0x0000000001f8928c      0xd00 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/liolib.o
+                0x0000000001f89f04                luaopen_io
+ .text          0x0000000001f89f8c     0x10f4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/llex.o
+                0x0000000001f89fb4                luaX_init
+                0x0000000001f89ff4                luaX_token2str
+                0x0000000001f8a05c                luaX_lexerror
+                0x0000000001f8a450                luaX_syntaxerror
+                0x0000000001f8a50c                luaX_newstring
+                0x0000000001f8af80                luaX_setinput
+                0x0000000001f8b010                luaX_next
+                0x0000000001f8b064                luaX_lookahead
+ .text          0x0000000001f8b080      0x348 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lmathlib.o
+                0x0000000001f8b3a4                luaopen_math
+ .text          0x0000000001f8b3c8      0x11c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lmem.o
+                0x0000000001f8b3c8                luaM_toobig
+                0x0000000001f8b3e4                luaM_realloc_
+                0x0000000001f8b448                luaM_growaux_
+ .text          0x0000000001f8b4e4      0x998 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/loadlib.o
+                0x0000000001f8bcf8                luaopen_package
+ .text          0x0000000001f8be7c      0x574 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lobject.o
+                0x0000000001f8bed0                luaO_int2fb
+                0x0000000001f8befc                luaO_fb2int
+                0x0000000001f8bf18                luaO_log2
+                0x0000000001f8bf40                luaO_rawequalObj
+                0x0000000001f8bf94                luaO_str2d
+                0x0000000001f8c03c                luaO_getstring
+                0x0000000001f8c050                luaO_pushvfstring
+                0x0000000001f8c260                luaO_pushfstring
+                0x0000000001f8c288                luaO_chunkid
+ .text          0x0000000001f8c3f0      0x640 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/loslib.o
+                0x0000000001f8ca0c                luaopen_os
+ .text          0x0000000001f8ca30     0x262c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lparser.o
+                0x0000000001f8ef6c                luaY_parser
+ .text          0x0000000001f8f05c      0x528 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstate.o
+                0x0000000001f8f260                luaE_newthread
+                0x0000000001f8f36c                luaE_freethread
+                0x0000000001f8f3ac                lua_newstate
+                0x0000000001f8f514                lua_close
+ .text          0x0000000001f8f584      0x3b8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstring.o
+                0x0000000001f8f584                luaS_resize
+                0x0000000001f8f6d0                luaS_newllocstr
+                0x0000000001f8f8c4                luaS_newudata
+ .text          0x0000000001f8f93c     0x1a84 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstrlib.o
+                0x0000000001f91324                luaopen_string
+ .text          0x0000000001f913c0      0xca8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltable.o
+                0x0000000001f91628                luaH_next
+                0x0000000001f917c4                luaH_new
+                0x0000000001f91890                luaH_free
+                0x0000000001f918f4                luaH_getnum
+                0x0000000001f91950                luaH_getstr
+                0x0000000001f9199c                luaH_get
+                0x0000000001f91a1c                luaH_setnum
+                0x0000000001f91bd0                luaH_resizearray
+                0x0000000001f91e98                luaH_set
+                0x0000000001f91f00                luaH_setstr
+                0x0000000001f91f54                luaH_getn
+ .text          0x0000000001f92068      0x908 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltablib.o
+                0x0000000001f9294c                luaopen_table
+ .text          0x0000000001f92970       0xd8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltm.o
+                0x0000000001f92970                luaT_init
+                0x0000000001f929b8                luaT_gettm
+                0x0000000001f929f0                luaT_gettmbyobj
+ .text          0x0000000001f92a48       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lundump.o
+                0x0000000001f92a48                luaU_undump
+ .text          0x0000000001f92a68       0x2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lua_user.o
+                0x0000000001f92a68                set_lua_OOM
+                0x0000000001f92a88                get_lua_OOM
+ .text          0x0000000001f92a94     0x1b68 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lvm.o
+                0x0000000001f92d80                luaV_tonumber
+                0x0000000001f92ee0                luaV_tostring
+                0x0000000001f92f70                luaV_gettable
+                0x0000000001f93078                luaV_settable
+                0x0000000001f9327c                luaV_lessthan
+                0x0000000001f93300                luaV_equalval
+                0x0000000001f933d0                luaV_concat
+                0x0000000001f935e8                luaV_execute
+ .text          0x0000000001f945fc      0x1a0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lzio.o
+                0x0000000001f945fc                luaZ_fill
+                0x0000000001f9466c                luaZ_lookahead
+                0x0000000001f946b4                luaZ_init
+                0x0000000001f946d0                luaZ_read
+                0x0000000001f94748                luaZ_openspace
+ .text          0x0000000001f9479c      0x644 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rockaux.o
+                0x0000000001f9479c                strerror
+                0x0000000001f947a4                splash_scroller
+                0x0000000001f94b48                rb_pow
+                0x0000000001f94bc0                strcoll
+                0x0000000001f94bd4                gmtime
+                0x0000000001f94bf0                get_current_path
+                0x0000000001f94c80                filetol
+                0x0000000001f94dc4                get_plugin_action
+ .text          0x0000000001f94de0     0x15b8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib.o
+                0x0000000001f96310                luaopen_rock
+ .text          0x0000000001f96398     0x277c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_img.o
+                0x0000000001f98aa8                luaopen_rock_img
+ .text          0x0000000001f98b14      0x1c0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/tlsf_helper.o
+                0x0000000001f98b84                rock_get_allocated_bytes
+                0x0000000001f98b98                rock_get_unused_bytes
+                0x0000000001f98be8                get_new_area
+ .text          0x0000000001f98cd4      0x4c4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strftime.o
+                0x0000000001f98d18                strftime
+ .text          0x0000000001f99198       0x6c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strpbrk.o
+                0x0000000001f99198                strpbrk_n
+                0x0000000001f991f8                strpbrk
+ .text          0x0000000001f99204      0x1a0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strtoul.o
+                0x0000000001f99204                strtoul
+ .text          0x0000000001f993a4       0xe4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strtol.o
+                0x0000000001f993a4                strtol
+ .text          0x0000000001f99488       0xbc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strstr.o
+                0x0000000001f99488                strstr
+ .text          0x0000000001f99544      0x6cc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklua.o
+                0x0000000001f999b0                plugin_start
+ .text          0x0000000001f99c10      0x3d8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/luadir.o
+                0x0000000001f99f14                luaopen_luadir
+ .text          0x0000000001f99fe8      0xb88 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_events.o
+                0x0000000001f9aae0                luaopen_rockevents
+ .text          0x0000000001f9ab70     0x1390 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_aux.o
+ .text          0x0000000001f9bf00      0x214 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f9bf18                plugin__start
+                0x0000000001f9c068                rb_atexit
+                0x0000000001f9c088                exit
+                0x0000000001f9c0a8                _exit
+                0x0000000001f9c0c0                exit_on_usb
+ .text.ls_bit   0x0000000001f9c114       0x44 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.ms_bit   0x0000000001f9c158       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.set_bit  0x0000000001f9c194       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.clear_bit
+                0x0000000001f9c1b0       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.MAPPING_SEARCH
+                0x0000000001f9c1cc       0x8c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.FIND_SUITABLE_BLOCK
+                0x0000000001f9c258       0x78 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.process_area
+                0x0000000001f9c2d0       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.MAPPING_INSERT
+                0x0000000001f9c330       0x5c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.panicf   0x0000000001f9c38c        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9c38c                panicf
+ .text.free_ex  0x0000000001f9c394      0x2a0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9c394                free_ex
+ .text.init_memory_pool
+                0x0000000001f9c634       0xcc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9c634                init_memory_pool
+ .text.add_new_area
+                0x0000000001f9c700      0x16c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9c700                add_new_area
+ .text.malloc_ex
+                0x0000000001f9c86c      0x260 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9c86c                malloc_ex
+ .text.tlsf_malloc
+                0x0000000001f9cacc       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9cacc                tlsf_malloc
+ .text.tlsf_free
+                0x0000000001f9cb2c       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9cb2c                tlsf_free
+ .text.realloc_ex
+                0x0000000001f9cb3c      0x3a8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9cb3c                realloc_ex
+ .text.tlsf_realloc
+                0x0000000001f9cee4       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9cee4                tlsf_realloc
+ .text.memcpy   0x0000000001f9cf00       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f9cf00                memcpy
+ .text.memset   0x0000000001f9cf14       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f9cf14                memset
+ .text.memcmp   0x0000000001f9cf28       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f9cf28                memcmp
+ .text.get_context_map
+                0x0000000001f9cf3c       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .text.pluginlib_getaction
+                0x0000000001f9cf78       0x50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+                0x0000000001f9cf78                pluginlib_getaction
+ .text.backlight_force_on
+                0x0000000001f9cfc8       0x34 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                0x0000000001f9cfc8                backlight_force_on
+ .text.backlight_use_settings
+                0x0000000001f9cffc       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                0x0000000001f9cffc                backlight_use_settings
+ .text.backlight_brightness_set
+                0x0000000001f9d038       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                0x0000000001f9d038                backlight_brightness_set
+ .text.backlight_brightness_use_setting
+                0x0000000001f9d04c       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                0x0000000001f9d04c                backlight_brightness_use_setting
+ .text.strncpy  0x0000000001f9d068       0x38 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+                0x0000000001f9d068                strncpy
+ .text          0x0000000001f9d0a0       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                0x0000000001f9d0a0                setjmp
+                0x0000000001f9d0ac                longjmp
+ .text          0x0000000001f9d0bc      0x114 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                0x0000000001f9d0bc                __udivsi3
+                0x0000000001f9d0bc                __aeabi_uidiv
+                0x0000000001f9d1b0                __aeabi_uidivmod
+ .text          0x0000000001f9d1d0      0x148 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                0x0000000001f9d1d0                __aeabi_idiv
+                0x0000000001f9d1d0                __divsi3
+                0x0000000001f9d2f8                __aeabi_idivmod
+ .text          0x0000000001f9d318        0x4 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                0x0000000001f9d318                __aeabi_ldiv0
+                0x0000000001f9d318                __aeabi_idiv0
+ .text          0x0000000001f9d31c      0x41c /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+                0x0000000001f9d31c                __aeabi_drsub
+                0x0000000001f9d324                __aeabi_dsub
+                0x0000000001f9d324                __subdf3
+                0x0000000001f9d328                __adddf3
+                0x0000000001f9d328                __aeabi_dadd
+                0x0000000001f9d638                __aeabi_ui2d
+                0x0000000001f9d638                __floatunsidf
+                0x0000000001f9d65c                __floatsidf
+                0x0000000001f9d65c                __aeabi_i2d
+                0x0000000001f9d684                __extendsfdf2
+                0x0000000001f9d684                __aeabi_f2d
+                0x0000000001f9d6c4                __aeabi_ul2d
+                0x0000000001f9d6c4                __floatundidf
+                0x0000000001f9d6d8                __floatdidf
+                0x0000000001f9d6d8                __aeabi_l2d
+ .text          0x0000000001f9d738      0x49c /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+                0x0000000001f9d738                __aeabi_dmul
+                0x0000000001f9d738                __muldf3
+                0x0000000001f9d9c8                __aeabi_ddiv
+                0x0000000001f9d9c8                __divdf3
+ .text          0x0000000001f9dbd4       0x5c /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+                0x0000000001f9dbd4                __fixdfsi
+                0x0000000001f9dbd4                __aeabi_d2iz
+ *(.glue_7)
+ .glue_7        0x0000000001f9dc30        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001f9dc30        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001f9dc30        0x0
+ .vfp11_veneer  0x0000000001f9dc30        0x0 linker stubs
+
+.v4_bx          0x0000000001f9dc30        0x0
+ .v4_bx         0x0000000001f9dc30        0x0 linker stubs
+
+.iplt           0x0000000001f9dc30        0x0
+ .iplt          0x0000000001f9dc30        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lauxlib.o
+
+.rodata         0x0000000001f9dc30     0x3520
+ *(.rodata*)
+ .rodata        0x0000000001f9dc30       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lauxlib.o
+ .rodata.str1.1
+                0x0000000001f9dc58      0x18b /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lauxlib.o
+                                        0x1a6 (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f9dde3       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lapi.o
+                                         0x23 (size before relaxing)
+ *fill*         0x0000000001f9de03        0x1 
+ .rodata        0x0000000001f9de04      0x154 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lbaselib.o
+ .rodata.str1.1
+                0x0000000001f9df58      0x32e /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lbaselib.o
+                                        0x3a6 (size before relaxing)
+ *fill*         0x0000000001f9e286        0x2 
+ .rodata        0x0000000001f9e288       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lbitlib.o
+ .rodata.str1.1
+                0x0000000001f9e2c8       0x2b /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lbitlib.o
+                                         0x32 (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f9e2f3       0x74 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lcode.o
+ .rodata.str1.1
+                0x0000000001f9e367       0xf2 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldebug.o
+                                         0xfc (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f9e459       0x94 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldo.o
+                                         0xa8 (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f9e4ed       0x94 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldump.o
+                                         0x18 (size before relaxing)
+ *fill*         0x0000000001f9e4ed        0x3 
+ .rodata        0x0000000001f9e4f0       0xac /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/liolib.o
+ .rodata.str1.1
+                0x0000000001f9e59c       0xef /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/liolib.o
+                                        0x14a (size before relaxing)
+ *fill*         0x0000000001f9e68b        0x1 
+ .rodata        0x0000000001f9e68c       0x80 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/llex.o
+                0x0000000001f9e68c                luaX_tokens
+ .rodata.str1.1
+                0x0000000001f9e70c      0x142 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/llex.o
+                                        0x184 (size before relaxing)
+ *fill*         0x0000000001f9e84e        0x2 
+ .rodata        0x0000000001f9e850       0x58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lmathlib.o
+ .rodata.str1.1
+                0x0000000001f9e8a8       0x78 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lmathlib.o
+ .rodata.str1.1
+                0x0000000001f9e920       0x27 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lmem.o
+ *fill*         0x0000000001f9e947        0x1 
+ .rodata        0x0000000001f9e948       0x38 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/loadlib.o
+ .rodata.str1.1
+                0x0000000001f9e980      0x1f0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/loadlib.o
+                                        0x22a (size before relaxing)
+ .rodata        0x0000000001f9eb70      0x108 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lobject.o
+                0x0000000001f9ec70                luaO_nilobject_
+ .rodata.str1.1
+                0x0000000001f9ec78       0x16 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lobject.o
+                                         0x1e (size before relaxing)
+ *fill*         0x0000000001f9ec8e        0x2 
+ .rodata        0x0000000001f9ec90       0xc4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lopcodes.o
+                0x0000000001f9ec90                luaP_opmodes
+                0x0000000001f9ecb8                luaP_opnames
+ .rodata.str1.1
+                0x0000000001f9ed54       0xe2 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lopcodes.o
+                                         0xf2 (size before relaxing)
+ *fill*         0x0000000001f9ee36        0x2 
+ .rodata        0x0000000001f9ee38       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/loslib.o
+ .rodata.str1.1
+                0x0000000001f9ee68       0x62 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/loslib.o
+                                         0x84 (size before relaxing)
+ .rodata        0x0000000001f9eeca       0x1e /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lparser.o
+ .rodata.str1.1
+                0x0000000001f9eee8      0x21b /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lparser.o
+                                        0x244 (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f9f103       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstate.o
+ *fill*         0x0000000001f9f103        0x1 
+ .rodata        0x0000000001f9f104       0x80 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstrlib.o
+ .rodata.str1.1
+                0x0000000001f9f184      0x23d /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstrlib.o
+                                        0x272 (size before relaxing)
+ *fill*         0x0000000001f9f3c1        0x3 
+ .rodata        0x0000000001f9f3c4       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltable.o
+ .rodata.str1.1
+                0x0000000001f9f3d8       0x29 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltable.o
+                                         0x38 (size before relaxing)
+ *fill*         0x0000000001f9f401        0x3 
+ .rodata        0x0000000001f9f404       0x50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltablib.o
+ .rodata.str1.1
+                0x0000000001f9f454       0xbd /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltablib.o
+                                         0xd2 (size before relaxing)
+ *fill*         0x0000000001f9f511        0x3 
+ .rodata        0x0000000001f9f514       0x70 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltm.o
+                0x0000000001f9f558                luaT_typenames
+ .rodata.str1.1
+                0x0000000001f9f584       0x70 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltm.o
+                                         0xb3 (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f9f5f4       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lundump.o
+ .rodata.str1.1
+                0x0000000001f9f610       0xc2 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lvm.o
+                                         0xcc (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f9f6d2       0x25 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rockaux.o
+                                         0x29 (size before relaxing)
+ *fill*         0x0000000001f9f6f7        0x1 
+ .rodata        0x0000000001f9f6f8      0x1a4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib.o
+ .rodata.str1.1
+                0x0000000001f9f89c      0x2bf /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib.o
+                                        0x33a (size before relaxing)
+ *fill*         0x0000000001f9fb5b        0x1 
+ .rodata        0x0000000001f9fb5c      0x1a8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_img.o
+ .rodata.str1.1
+                0x0000000001f9fd04      0x350 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_img.o
+                                        0x3b4 (size before relaxing)
+ .rodata        0x0000000001fa0054       0xd0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strftime.o
+ .rodata.str1.1
+                0x0000000001fa0124       0xbc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strftime.o
+ .rodata        0x0000000001fa01e0       0x68 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklua.o
+ .rodata.str1.1
+                0x0000000001fa0248       0xab /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklua.o
+                                         0xd3 (size before relaxing)
+ *fill*         0x0000000001fa02f3        0x1 
+ .rodata        0x0000000001fa02f4       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/luadir.o
+ .rodata.str1.1
+                0x0000000001fa0314       0x4e /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/luadir.o
+                                         0x7b (size before relaxing)
+ *fill*         0x0000000001fa0362        0x2 
+ .rodata        0x0000000001fa0364       0x4c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_events.o
+ .rodata.str1.1
+                0x0000000001fa03b0       0x64 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_events.o
+                                         0x86 (size before relaxing)
+ .rodata        0x0000000001fa0414      0x298 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_aux.o
+                0x0000000001fa0414                rocklib_aux
+ .rodata.str1.1
+                0x0000000001fa06ac      0x525 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_aux.o
+                                        0x535 (size before relaxing)
+ *fill*         0x0000000001fa0bd1        0x3 
+ .rodata        0x0000000001fa0bd4      0x400 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .rodata.str1.1
+                0x0000000001fa0fd4       0xa2 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ *fill*         0x0000000001fa1076        0x2 
+ .rodata.pla_main_ctx
+                0x0000000001fa1078       0xd8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+                0x0000000001fa1078                pla_main_ctx
+
+.rel.dyn        0x0000000001fa1150        0x0
+ .rel.iplt      0x0000000001fa1150        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lauxlib.o
+
+.data           0x0000000001fa1150        0xc
+ *(.data*)
+ .data          0x0000000001fa1150        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rockaux.o
+ .data          0x0000000001fa1154        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib.o
+ .data          0x0000000001fa1158        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001fa1158                rb
+
+.igot.plt       0x0000000001fa115c        0x0
+ .igot.plt      0x0000000001fa115c        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lauxlib.o
+
+.ncdata         0x0000000011fa115c        0x4 load address 0x0000000001fa115c
+                0x0000000011fa1160                . = ALIGN (0x10)
+ *fill*         0x0000000011fa115c        0x4 
+ *(.ncdata*)
+                0x0000000011fa1160                . = ALIGN (0x10)
+                0x0000000001fa1160                bssaddr = (. - 0x10000000)
+                0x0000000001fa1160                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001fa1160      0x168
+                0x0000000001fa1160                plugin_bss_start = .
+                0x0000000001fa1160                _plugin_bss_start = .
+ *(.bss*)
+ .bss           0x0000000001fa1160        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lua_user.o
+ .bss           0x0000000001fa1168       0x48 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rockaux.o
+                0x0000000001fa11ac                errno
+ .bss           0x0000000001fa11b0        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib.o
+ .bss           0x0000000001fa11b4       0x54 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_img.o
+ .bss           0x0000000001fa1208       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/tlsf_helper.o
+ .bss           0x0000000001fa1218        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklua.o
+ .bss           0x0000000001fa1220       0x38 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_events.o
+ .bss           0x0000000001fa1258       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .bss           0x0000000001fa12b8        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .bss.last_context
+                0x0000000001fa12bc        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .bss.plugin_context_order
+                0x0000000001fa12c0        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .bss.plugin_context_count
+                0x0000000001fa12c4        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ *(COMMON)
+                0x0000000001fa12c8                . = ALIGN (0x4)
+
+.ncbss          0x0000000011fa12c8       0x28 load address 0x0000000001fa12c8
+                0x0000000011fa12d0                . = ALIGN (0x10)
+ *fill*         0x0000000011fa12c8        0x8 
+ *(.ncbss*)
+ .ncbss         0x0000000011fa12d0       0x18 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_events.o
+                0x0000000011fa12f0                . = ALIGN (0x10)
+ *fill*         0x0000000011fa12e8        0x8 
+                0x0000000001fa12f0                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001fa12f0        0x0
+                0x0000000001fa12f0                _plugin_end_addr = .
+                0x0000000001fa12f0                plugin_end_addr = .
+
+.iram           0x000000004000c000        0x0 load address 0x0000000001fa1160
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ *(.irodata)
+ *(.idata)
+                0x000000004000c000                iramend = .
+
+.ibss           0x000000004000c000        0x0
+                0x000000004000c000                iedata = .
+ *(.ibss)
+                0x000000004000c000                . = ALIGN (0x4)
+                0x000000004000c000                iend = .
+                0x0000000001fa12f0                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001fa12f0        0x0
+                0x0000000001fa12f0                _plugin_load_end_addr = .
+                0x0000000001fa12f0                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lauxlib.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lapi.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lbaselib.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lbitlib.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lcode.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldebug.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldo.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldump.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lfunc.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lgc.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/liolib.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/llex.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lmathlib.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lmem.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/loadlib.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lobject.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lopcodes.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/loslib.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lparser.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstate.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstring.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstrlib.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltable.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltablib.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltm.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lundump.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lua_user.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lvm.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lzio.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rockaux.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_img.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/tlsf_helper.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strftime.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strpbrk.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strtoul.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strtol.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strstr.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklua.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/luadir.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_events.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_aux.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+OUTPUT(/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lua.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2e
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lauxlib.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lapi.o
+ .ARM.attributes
+                0x0000000000000060       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lbaselib.o
+ .ARM.attributes
+                0x0000000000000090       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lbitlib.o
+ .ARM.attributes
+                0x00000000000000c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lcode.o
+ .ARM.attributes
+                0x00000000000000f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldebug.o
+ .ARM.attributes
+                0x0000000000000120       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldo.o
+ .ARM.attributes
+                0x0000000000000150       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ldump.o
+ .ARM.attributes
+                0x0000000000000180       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lfunc.o
+ .ARM.attributes
+                0x00000000000001b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lgc.o
+ .ARM.attributes
+                0x00000000000001e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/liolib.o
+ .ARM.attributes
+                0x0000000000000210       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/llex.o
+ .ARM.attributes
+                0x0000000000000240       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lmathlib.o
+ .ARM.attributes
+                0x0000000000000270       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lmem.o
+ .ARM.attributes
+                0x00000000000002a0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/loadlib.o
+ .ARM.attributes
+                0x00000000000002d0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lobject.o
+ .ARM.attributes
+                0x0000000000000300       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lopcodes.o
+ .ARM.attributes
+                0x0000000000000330       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/loslib.o
+ .ARM.attributes
+                0x0000000000000360       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lparser.o
+ .ARM.attributes
+                0x0000000000000390       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstate.o
+ .ARM.attributes
+                0x00000000000003c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstring.o
+ .ARM.attributes
+                0x00000000000003f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lstrlib.o
+ .ARM.attributes
+                0x0000000000000420       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltable.o
+ .ARM.attributes
+                0x0000000000000450       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltablib.o
+ .ARM.attributes
+                0x0000000000000480       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/ltm.o
+ .ARM.attributes
+                0x00000000000004b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lundump.o
+ .ARM.attributes
+                0x00000000000004e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lua_user.o
+ .ARM.attributes
+                0x0000000000000510       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lvm.o
+ .ARM.attributes
+                0x0000000000000540       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/lzio.o
+ .ARM.attributes
+                0x0000000000000570       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rockaux.o
+ .ARM.attributes
+                0x00000000000005a0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib.o
+ .ARM.attributes
+                0x00000000000005d0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_img.o
+ .ARM.attributes
+                0x0000000000000600       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/tlsf_helper.o
+ .ARM.attributes
+                0x0000000000000630       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strftime.o
+ .ARM.attributes
+                0x0000000000000660       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strpbrk.o
+ .ARM.attributes
+                0x0000000000000690       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strtoul.o
+ .ARM.attributes
+                0x00000000000006c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strtol.o
+ .ARM.attributes
+                0x00000000000006f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/strstr.o
+ .ARM.attributes
+                0x0000000000000720       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklua.o
+ .ARM.attributes
+                0x0000000000000750       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/luadir.o
+ .ARM.attributes
+                0x0000000000000780       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_events.o
+ .ARM.attributes
+                0x00000000000007b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/lua/rocklib_aux.o
+ .ARM.attributes
+                0x00000000000007e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .ARM.attributes
+                0x0000000000000810       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .ARM.attributes
+                0x0000000000000840       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .ARM.attributes
+                0x0000000000000870       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .ARM.attributes
+                0x00000000000008a0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .ARM.attributes
+                0x00000000000008d0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+ .ARM.attributes
+                0x0000000000000900       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .ARM.attributes
+                0x0000000000000920       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000938       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000000000000950       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000000000000968       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000000000000980       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000000000000998       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+
+.debug_frame    0x0000000000000000       0x40
+ .debug_frame   0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+
+.debug_line     0x0000000000000000      0x4c5
+ .debug_line    0x0000000000000000       0x7e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_line    0x000000000000007e       0x8a /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_line    0x0000000000000108       0x61 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x0000000000000169      0x164 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .debug_line    0x00000000000002cd      0x180 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .debug_line    0x000000000000044d       0x78 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+
+.debug_info     0x0000000000000000      0x333
+ .debug_info    0x0000000000000000       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_info    0x0000000000000088       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_info    0x0000000000000110       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x0000000000000198       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .debug_info    0x0000000000000221       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .debug_info    0x00000000000002aa       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+
+.debug_abbrev   0x0000000000000000       0x78
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000000014       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000028       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x000000000000003c       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .debug_abbrev  0x0000000000000050       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .debug_abbrev  0x0000000000000064       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+
+.debug_aranges  0x0000000000000000       0xc0
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x0000000000000060       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .debug_aranges
+                0x0000000000000080       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)

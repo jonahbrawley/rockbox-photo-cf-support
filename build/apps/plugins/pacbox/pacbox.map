@@ -1,0 +1,1441 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox.o (memcpy)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox.o (backlight_ignore_timeout)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox.o (configfile_save)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o (setjmp)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/wsg3.o (__aeabi_uidiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox.o (__aeabi_idiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+wsg3                0x338             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/wsg3.o
+vchar_to_i_         0x800             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/hardware.o
+palette             0x200             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/arcade.o
+spritemap_          0x4000            /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/hardware.o
+sprites_            0xa0              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/hardware.o
+
+Discarded input sections
+
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/arcade.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/hardware.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/hardware.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/z80.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/wsg3.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/wsg3.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox_lcd.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox_lcd.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.__div0   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memmove  0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memcmp   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.talk_val
+                0x0000000000000000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.backlight_force_on
+                0x0000000000000000       0x34 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.sw_poweroff_disable
+                0x0000000000000000       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.sw_poweroff_restore
+                0x0000000000000000       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.remote_backlight_force_on
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.remote_backlight_ignore_timeout
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.remote_backlight_use_settings
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_force_on
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_force_off
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_ignore_timeout
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_use_settings
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.backlight_brightness_set
+                0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.backlight_brightness_use_setting
+                0x0000000000000000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_brightness_set
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_brightness_use_setting
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .data.original_sw_poweroff_state
+                0x0000000000000000        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text.configfile_get_value
+                0x0000000000000000       0xfc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text.configfile_update_entry
+                0x0000000000000000      0x150 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001f80000 0x0000000000080000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/arcade.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/hardware.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/z80.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/wsg3.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox_lcd.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001f80000       0x1c
+                0x0000000001f80000                _plugin_start_addr = .
+                0x0000000001f80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001f80000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f80000                __header
+
+.text           0x0000000001f8001c    0x18bb8
+ *(.text*)
+ .text          0x0000000001f8001c      0xd04 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/arcade.o
+                0x0000000001f8007c                reset_PacmanMachine
+                0x0000000001f80158                run
+                0x0000000001f80194                decodeROMs
+                0x0000000001f80410                setDeviceMode
+                0x0000000001f804f0                setDipSwitches
+                0x0000000001f80544                init_PacmanMachine
+                0x0000000001f80674                getDipSwitches
+                0x0000000001f806b4                renderBackground
+                0x0000000001f80a00                renderSprites
+                0x0000000001f80ce4                playSound
+ .text          0x0000000001f80d20      0xdf4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox.o
+                0x0000000001f80ed4                joystick
+                0x0000000001f80f7c                clear_joystick
+                0x0000000001f80fb8                ai_turn
+                0x0000000001f81060                ai
+                0x0000000001f81274                plugin_start
+ .text          0x0000000001f81b14      0x38c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/hardware.o
+                0x0000000001f81b2c                writeByte
+                0x0000000001f81e64                readPort
+                0x0000000001f81e6c                writePort
+                0x0000000001f81e80                setOutputFlipFlop
+ .text          0x0000000001f81ea0    0x1602c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/z80.o
+                0x0000000001f81f28                opcode_cb_00
+                0x0000000001f81f5c                opcode_cb_01
+                0x0000000001f81f90                opcode_cb_02
+                0x0000000001f81fc4                opcode_cb_03
+                0x0000000001f81ff8                opcode_cb_04
+                0x0000000001f8202c                opcode_cb_05
+                0x0000000001f82060                opcode_cb_07
+                0x0000000001f82094                opcode_cb_08
+                0x0000000001f820cc                opcode_cb_09
+                0x0000000001f82100                opcode_cb_0a
+                0x0000000001f82134                opcode_cb_0b
+                0x0000000001f82168                opcode_cb_0c
+                0x0000000001f8219c                opcode_cb_0d
+                0x0000000001f821d0                opcode_cb_0f
+                0x0000000001f82204                opcode_cb_10
+                0x0000000001f82244                opcode_cb_11
+                0x0000000001f82284                opcode_cb_12
+                0x0000000001f822c4                opcode_cb_13
+                0x0000000001f82304                opcode_cb_14
+                0x0000000001f82344                opcode_cb_15
+                0x0000000001f82384                opcode_cb_17
+                0x0000000001f823c4                opcode_cb_20
+                0x0000000001f823f4                opcode_cb_21
+                0x0000000001f82424                opcode_cb_22
+                0x0000000001f82454                opcode_cb_23
+                0x0000000001f82484                opcode_cb_24
+                0x0000000001f824b4                opcode_cb_25
+                0x0000000001f824e4                opcode_cb_27
+                0x0000000001f82514                opcode_cb_28
+                0x0000000001f82548                opcode_cb_29
+                0x0000000001f8257c                opcode_cb_2a
+                0x0000000001f825b0                opcode_cb_2b
+                0x0000000001f825e4                opcode_cb_2c
+                0x0000000001f82618                opcode_cb_2d
+                0x0000000001f8264c                opcode_cb_2f
+                0x0000000001f82680                opcode_cb_30
+                0x0000000001f826b4                opcode_cb_31
+                0x0000000001f826e8                opcode_cb_32
+                0x0000000001f8271c                opcode_cb_33
+                0x0000000001f82750                opcode_cb_34
+                0x0000000001f82784                opcode_cb_35
+                0x0000000001f827b8                opcode_cb_37
+                0x0000000001f827ec                opcode_cb_38
+                0x0000000001f8281c                opcode_cb_39
+                0x0000000001f8284c                opcode_cb_3a
+                0x0000000001f8287c                opcode_cb_3b
+                0x0000000001f828ac                opcode_cb_3c
+                0x0000000001f828dc                opcode_cb_3d
+                0x0000000001f8290c                opcode_cb_3f
+                0x0000000001f8293c                opcode_cb_40
+                0x0000000001f82964                opcode_cb_41
+                0x0000000001f8298c                opcode_cb_42
+                0x0000000001f829b4                opcode_cb_43
+                0x0000000001f829dc                opcode_cb_44
+                0x0000000001f82a04                opcode_cb_45
+                0x0000000001f82a2c                opcode_cb_47
+                0x0000000001f82a54                opcode_cb_48
+                0x0000000001f82a7c                opcode_cb_49
+                0x0000000001f82aa4                opcode_cb_4a
+                0x0000000001f82acc                opcode_cb_4b
+                0x0000000001f82af4                opcode_cb_4c
+                0x0000000001f82b1c                opcode_cb_4d
+                0x0000000001f82b44                opcode_cb_4f
+                0x0000000001f82b6c                opcode_cb_50
+                0x0000000001f82b94                opcode_cb_51
+                0x0000000001f82bbc                opcode_cb_52
+                0x0000000001f82be4                opcode_cb_53
+                0x0000000001f82c0c                opcode_cb_54
+                0x0000000001f82c34                opcode_cb_55
+                0x0000000001f82c5c                opcode_cb_57
+                0x0000000001f82c84                opcode_cb_58
+                0x0000000001f82cac                opcode_cb_59
+                0x0000000001f82cd4                opcode_cb_5a
+                0x0000000001f82cfc                opcode_cb_5b
+                0x0000000001f82d24                opcode_cb_5c
+                0x0000000001f82d4c                opcode_cb_5d
+                0x0000000001f82d74                opcode_cb_5f
+                0x0000000001f82d9c                opcode_cb_60
+                0x0000000001f82dc4                opcode_cb_61
+                0x0000000001f82dec                opcode_cb_62
+                0x0000000001f82e14                opcode_cb_63
+                0x0000000001f82e3c                opcode_cb_64
+                0x0000000001f82e64                opcode_cb_65
+                0x0000000001f82e8c                opcode_cb_67
+                0x0000000001f82eb4                opcode_cb_68
+                0x0000000001f82edc                opcode_cb_69
+                0x0000000001f82f04                opcode_cb_6a
+                0x0000000001f82f2c                opcode_cb_6b
+                0x0000000001f82f54                opcode_cb_6c
+                0x0000000001f82f7c                opcode_cb_6d
+                0x0000000001f82fa4                opcode_cb_6f
+                0x0000000001f82fcc                opcode_cb_70
+                0x0000000001f82ff4                opcode_cb_71
+                0x0000000001f8301c                opcode_cb_72
+                0x0000000001f83044                opcode_cb_73
+                0x0000000001f8306c                opcode_cb_74
+                0x0000000001f83094                opcode_cb_75
+                0x0000000001f830bc                opcode_cb_77
+                0x0000000001f830e4                opcode_cb_78
+                0x0000000001f8310c                opcode_cb_79
+                0x0000000001f83134                opcode_cb_7a
+                0x0000000001f8315c                opcode_cb_7b
+                0x0000000001f83184                opcode_cb_7c
+                0x0000000001f831ac                opcode_cb_7d
+                0x0000000001f831d4                opcode_cb_7f
+                0x0000000001f831fc                opcode_cb_80
+                0x0000000001f83214                opcode_cb_81
+                0x0000000001f8322c                opcode_cb_82
+                0x0000000001f83244                opcode_cb_83
+                0x0000000001f8325c                opcode_cb_84
+                0x0000000001f83274                opcode_cb_85
+                0x0000000001f8328c                opcode_cb_87
+                0x0000000001f832a4                opcode_cb_88
+                0x0000000001f832bc                opcode_cb_89
+                0x0000000001f832d4                opcode_cb_8a
+                0x0000000001f832ec                opcode_cb_8b
+                0x0000000001f83304                opcode_cb_8c
+                0x0000000001f8331c                opcode_cb_8d
+                0x0000000001f83334                opcode_cb_8f
+                0x0000000001f8334c                opcode_cb_90
+                0x0000000001f83364                opcode_cb_91
+                0x0000000001f8337c                opcode_cb_92
+                0x0000000001f83394                opcode_cb_93
+                0x0000000001f833ac                opcode_cb_94
+                0x0000000001f833c4                opcode_cb_95
+                0x0000000001f833dc                opcode_cb_97
+                0x0000000001f833f4                opcode_cb_98
+                0x0000000001f8340c                opcode_cb_99
+                0x0000000001f83424                opcode_cb_9a
+                0x0000000001f8343c                opcode_cb_9b
+                0x0000000001f83454                opcode_cb_9c
+                0x0000000001f8346c                opcode_cb_9d
+                0x0000000001f83484                opcode_cb_9f
+                0x0000000001f8349c                opcode_cb_a0
+                0x0000000001f834b4                opcode_cb_a1
+                0x0000000001f834cc                opcode_cb_a2
+                0x0000000001f834e4                opcode_cb_a3
+                0x0000000001f834fc                opcode_cb_a4
+                0x0000000001f83514                opcode_cb_a5
+                0x0000000001f8352c                opcode_cb_a7
+                0x0000000001f83544                opcode_cb_a8
+                0x0000000001f8355c                opcode_cb_a9
+                0x0000000001f83574                opcode_cb_aa
+                0x0000000001f8358c                opcode_cb_ab
+                0x0000000001f835a4                opcode_cb_ac
+                0x0000000001f835bc                opcode_cb_ad
+                0x0000000001f835d4                opcode_cb_af
+                0x0000000001f835ec                opcode_cb_b0
+                0x0000000001f83604                opcode_cb_b1
+                0x0000000001f8361c                opcode_cb_b2
+                0x0000000001f83634                opcode_cb_b3
+                0x0000000001f8364c                opcode_cb_b4
+                0x0000000001f83664                opcode_cb_b5
+                0x0000000001f8367c                opcode_cb_b7
+                0x0000000001f83694                opcode_cb_b8
+                0x0000000001f836ac                opcode_cb_b9
+                0x0000000001f836c4                opcode_cb_ba
+                0x0000000001f836dc                opcode_cb_bb
+                0x0000000001f836f4                opcode_cb_bc
+                0x0000000001f8370c                opcode_cb_bd
+                0x0000000001f83724                opcode_cb_bf
+                0x0000000001f8373c                opcode_cb_c0
+                0x0000000001f83754                opcode_cb_c1
+                0x0000000001f8376c                opcode_cb_c2
+                0x0000000001f83784                opcode_cb_c3
+                0x0000000001f8379c                opcode_cb_c4
+                0x0000000001f837b4                opcode_cb_c5
+                0x0000000001f837cc                opcode_cb_c7
+                0x0000000001f837e4                opcode_cb_c8
+                0x0000000001f837fc                opcode_cb_c9
+                0x0000000001f83814                opcode_cb_ca
+                0x0000000001f8382c                opcode_cb_cb
+                0x0000000001f83844                opcode_cb_cc
+                0x0000000001f8385c                opcode_cb_cd
+                0x0000000001f83874                opcode_cb_cf
+                0x0000000001f8388c                opcode_cb_d0
+                0x0000000001f838a4                opcode_cb_d1
+                0x0000000001f838bc                opcode_cb_d2
+                0x0000000001f838d4                opcode_cb_d3
+                0x0000000001f838ec                opcode_cb_d4
+                0x0000000001f83904                opcode_cb_d5
+                0x0000000001f8391c                opcode_cb_d7
+                0x0000000001f83934                opcode_cb_d8
+                0x0000000001f8394c                opcode_cb_d9
+                0x0000000001f83964                opcode_cb_da
+                0x0000000001f8397c                opcode_cb_db
+                0x0000000001f83994                opcode_cb_dc
+                0x0000000001f839ac                opcode_cb_dd
+                0x0000000001f839c4                opcode_cb_df
+                0x0000000001f839dc                opcode_cb_e0
+                0x0000000001f839f4                opcode_cb_e1
+                0x0000000001f83a0c                opcode_cb_e2
+                0x0000000001f83a24                opcode_cb_e3
+                0x0000000001f83a3c                opcode_cb_e4
+                0x0000000001f83a54                opcode_cb_e5
+                0x0000000001f83a6c                opcode_cb_e7
+                0x0000000001f83a84                opcode_cb_e8
+                0x0000000001f83a9c                opcode_cb_e9
+                0x0000000001f83ab4                opcode_cb_ea
+                0x0000000001f83acc                opcode_cb_eb
+                0x0000000001f83ae4                opcode_cb_ec
+                0x0000000001f83afc                opcode_cb_ed
+                0x0000000001f83b14                opcode_cb_ef
+                0x0000000001f83b2c                opcode_cb_f0
+                0x0000000001f83b44                opcode_cb_f1
+                0x0000000001f83b5c                opcode_cb_f2
+                0x0000000001f83b74                opcode_cb_f3
+                0x0000000001f83b8c                opcode_cb_f4
+                0x0000000001f83ba4                opcode_cb_f5
+                0x0000000001f83bbc                opcode_cb_f7
+                0x0000000001f83bd4                opcode_cb_f8
+                0x0000000001f83bf0                opcode_cb_f9
+                0x0000000001f83c0c                opcode_cb_fa
+                0x0000000001f83c28                opcode_cb_fb
+                0x0000000001f83c44                opcode_cb_fc
+                0x0000000001f83c60                opcode_cb_fd
+                0x0000000001f83c7c                opcode_cb_ff
+                0x0000000001f83c98                opcode_dd_23
+                0x0000000001f83cb0                opcode_dd_2b
+                0x0000000001f83cc8                opcode_dd_44
+                0x0000000001f83ce0                opcode_dd_45
+                0x0000000001f83cf4                opcode_dd_4c
+                0x0000000001f83d0c                opcode_dd_4d
+                0x0000000001f83d20                opcode_dd_54
+                0x0000000001f83d38                opcode_dd_55
+                0x0000000001f83d4c                opcode_dd_5c
+                0x0000000001f83d64                opcode_dd_5d
+                0x0000000001f83d78                opcode_dd_60
+                0x0000000001f83d94                opcode_dd_61
+                0x0000000001f83db0                opcode_dd_62
+                0x0000000001f83dcc                opcode_dd_63
+                0x0000000001f83de8                opcode_dd_64
+                0x0000000001f83dec                opcode_dd_65
+                0x0000000001f83e0c                opcode_dd_67
+                0x0000000001f83e28                opcode_dd_68
+                0x0000000001f83e48                opcode_dd_69
+                0x0000000001f83e68                opcode_dd_6a
+                0x0000000001f83e88                opcode_dd_6b
+                0x0000000001f83ea8                opcode_dd_6c
+                0x0000000001f83ec8                opcode_dd_6d
+                0x0000000001f83ecc                opcode_dd_6f
+                0x0000000001f83eec                opcode_dd_7c
+                0x0000000001f83f04                opcode_dd_7d
+                0x0000000001f83f18                opcode_dd_84
+                0x0000000001f83f2c                opcode_dd_85
+                0x0000000001f83f40                opcode_dd_8c
+                0x0000000001f83f58                opcode_dd_8d
+                0x0000000001f83f70                opcode_dd_a4
+                0x0000000001f83fa0                opcode_dd_a5
+                0x0000000001f83fd0                opcode_dd_ac
+                0x0000000001f83ffc                opcode_dd_ad
+                0x0000000001f84028                opcode_dd_b4
+                0x0000000001f84054                opcode_dd_b5
+                0x0000000001f84080                opcode_dd_e9
+                0x0000000001f84094                opcode_dd_f9
+                0x0000000001f840a8                opcode_ed_47
+                0x0000000001f840bc                opcode_ed_4f
+                0x0000000001f840d0                opcode_ed_57
+                0x0000000001f84114                opcode_ed_5f
+                0x0000000001f84158                opcode_fd_23
+                0x0000000001f84170                opcode_fd_2b
+                0x0000000001f84188                opcode_fd_44
+                0x0000000001f841a0                opcode_fd_45
+                0x0000000001f841b4                opcode_fd_4c
+                0x0000000001f841cc                opcode_fd_4d
+                0x0000000001f841e0                opcode_fd_54
+                0x0000000001f841f8                opcode_fd_55
+                0x0000000001f8420c                opcode_fd_5c
+                0x0000000001f84224                opcode_fd_5d
+                0x0000000001f84238                opcode_fd_60
+                0x0000000001f84254                opcode_fd_61
+                0x0000000001f84270                opcode_fd_62
+                0x0000000001f8428c                opcode_fd_63
+                0x0000000001f842a8                opcode_fd_64
+                0x0000000001f842ac                opcode_fd_65
+                0x0000000001f842cc                opcode_fd_67
+                0x0000000001f842e8                opcode_fd_68
+                0x0000000001f84308                opcode_fd_69
+                0x0000000001f84328                opcode_fd_6a
+                0x0000000001f84348                opcode_fd_6b
+                0x0000000001f84368                opcode_fd_6c
+                0x0000000001f84388                opcode_fd_6d
+                0x0000000001f8438c                opcode_fd_6f
+                0x0000000001f843ac                opcode_fd_7c
+                0x0000000001f843c4                opcode_fd_7d
+                0x0000000001f843d8                opcode_fd_84
+                0x0000000001f843ec                opcode_fd_85
+                0x0000000001f84400                opcode_fd_8c
+                0x0000000001f84418                opcode_fd_8d
+                0x0000000001f84430                opcode_fd_a4
+                0x0000000001f84460                opcode_fd_a5
+                0x0000000001f84490                opcode_fd_ac
+                0x0000000001f844bc                opcode_fd_ad
+                0x0000000001f844e8                opcode_fd_b4
+                0x0000000001f84514                opcode_fd_b5
+                0x0000000001f84540                opcode_fd_e9
+                0x0000000001f84554                opcode_fd_f9
+                0x0000000001f84568                opcode_00
+                0x0000000001f8456c                opcode_07
+                0x0000000001f8459c                opcode_08
+                0x0000000001f845c8                opcode_09
+                0x0000000001f84630                opcode_0f
+                0x0000000001f84664                opcode_17
+                0x0000000001f846a0                opcode_19
+                0x0000000001f84708                opcode_1f
+                0x0000000001f84744                opcode_27
+                0x0000000001f84848                opcode_29
+                0x0000000001f848a0                opcode_2f
+                0x0000000001f848c4                opcode_33
+                0x0000000001f848e4                opcode_37
+                0x0000000001f84900                opcode_39
+                0x0000000001f84960                opcode_3b
+                0x0000000001f84980                opcode_3f
+                0x0000000001f849a4                opcode_40
+                0x0000000001f849a8                opcode_41
+                0x0000000001f849bc                opcode_42
+                0x0000000001f849d0                opcode_43
+                0x0000000001f849e4                opcode_44
+                0x0000000001f849f8                opcode_45
+                0x0000000001f84a0c                opcode_47
+                0x0000000001f84a20                opcode_48
+                0x0000000001f84a34                opcode_49
+                0x0000000001f84a38                opcode_4a
+                0x0000000001f84a4c                opcode_4b
+                0x0000000001f84a60                opcode_4c
+                0x0000000001f84a74                opcode_4d
+                0x0000000001f84a88                opcode_4f
+                0x0000000001f84a9c                opcode_50
+                0x0000000001f84ab0                opcode_51
+                0x0000000001f84ac4                opcode_52
+                0x0000000001f84ac8                opcode_53
+                0x0000000001f84adc                opcode_54
+                0x0000000001f84af0                opcode_55
+                0x0000000001f84b04                opcode_57
+                0x0000000001f84b18                opcode_58
+                0x0000000001f84b2c                opcode_59
+                0x0000000001f84b40                opcode_5a
+                0x0000000001f84b54                opcode_5b
+                0x0000000001f84b58                opcode_5c
+                0x0000000001f84b6c                opcode_5d
+                0x0000000001f84b80                opcode_5f
+                0x0000000001f84b94                opcode_60
+                0x0000000001f84ba8                opcode_61
+                0x0000000001f84bbc                opcode_62
+                0x0000000001f84bd0                opcode_63
+                0x0000000001f84be4                opcode_64
+                0x0000000001f84be8                opcode_65
+                0x0000000001f84bfc                opcode_67
+                0x0000000001f84c10                opcode_68
+                0x0000000001f84c24                opcode_69
+                0x0000000001f84c38                opcode_6a
+                0x0000000001f84c4c                opcode_6b
+                0x0000000001f84c60                opcode_6c
+                0x0000000001f84c74                opcode_6d
+                0x0000000001f84c78                opcode_6f
+                0x0000000001f84c8c                opcode_76
+                0x0000000001f84ca4                opcode_78
+                0x0000000001f84cb8                opcode_79
+                0x0000000001f84ccc                opcode_7a
+                0x0000000001f84ce0                opcode_7b
+                0x0000000001f84cf4                opcode_7c
+                0x0000000001f84d08                opcode_7d
+                0x0000000001f84d1c                opcode_7f
+                0x0000000001f84d20                opcode_80
+                0x0000000001f84d34                opcode_81
+                0x0000000001f84d48                opcode_82
+                0x0000000001f84d5c                opcode_83
+                0x0000000001f84d70                opcode_84
+                0x0000000001f84d84                opcode_85
+                0x0000000001f84d98                opcode_87
+                0x0000000001f84dac                opcode_88
+                0x0000000001f84dc4                opcode_89
+                0x0000000001f84ddc                opcode_8a
+                0x0000000001f84df4                opcode_8b
+                0x0000000001f84e0c                opcode_8c
+                0x0000000001f84e24                opcode_8d
+                0x0000000001f84e3c                opcode_8f
+                0x0000000001f84e54                opcode_a0
+                0x0000000001f84e84                opcode_a1
+                0x0000000001f84eb4                opcode_a2
+                0x0000000001f84ee4                opcode_a3
+                0x0000000001f84f14                opcode_a4
+                0x0000000001f84f44                opcode_a5
+                0x0000000001f84f74                opcode_a7
+                0x0000000001f84f98                opcode_a8
+                0x0000000001f84fc4                opcode_a9
+                0x0000000001f84ff0                opcode_aa
+                0x0000000001f8501c                opcode_ab
+                0x0000000001f85048                opcode_ac
+                0x0000000001f85074                opcode_ad
+                0x0000000001f850a0                opcode_af
+                0x0000000001f850c4                opcode_b0
+                0x0000000001f850f0                opcode_b1
+                0x0000000001f8511c                opcode_b2
+                0x0000000001f85148                opcode_b3
+                0x0000000001f85174                opcode_b4
+                0x0000000001f851a0                opcode_b5
+                0x0000000001f851cc                opcode_b7
+                0x0000000001f851ec                opcode_d9
+                0x0000000001f85260                opcode_e9
+                0x0000000001f8527c                opcode_eb
+                0x0000000001f852a8                opcode_f3
+                0x0000000001f852c0                opcode_f9
+                0x0000000001f852dc                opcode_fb
+                0x0000000001f852f4                opcode_02
+                0x0000000001f8531c                opcode_12
+                0x0000000001f85344                opcode_70
+                0x0000000001f8536c                opcode_71
+                0x0000000001f85394                opcode_72
+                0x0000000001f853bc                opcode_73
+                0x0000000001f853e4                opcode_74
+                0x0000000001f8540c                opcode_75
+                0x0000000001f85434                opcode_77
+                0x0000000001f8545c                opcode_c5
+                0x0000000001f854a0                opcode_d5
+                0x0000000001f854e4                opcode_e5
+                0x0000000001f85528                opcode_f5
+                0x0000000001f8556c                opcode_ed_70
+                0x0000000001f855a4                opcode_ed_41
+                0x0000000001f855c4                opcode_ed_49
+                0x0000000001f855e4                opcode_ed_51
+                0x0000000001f85604                opcode_ed_59
+                0x0000000001f85624                opcode_ed_61
+                0x0000000001f85644                opcode_ed_69
+                0x0000000001f85664                opcode_ed_71
+                0x0000000001f85684                opcode_ed_79
+                0x0000000001f857a0                opcode_cb_46
+                0x0000000001f857f8                opcode_cb_4e
+                0x0000000001f85850                opcode_cb_56
+                0x0000000001f858a8                opcode_cb_5e
+                0x0000000001f85900                opcode_cb_66
+                0x0000000001f85958                opcode_cb_6e
+                0x0000000001f859b0                opcode_cb_76
+                0x0000000001f85a08                opcode_cb_7e
+                0x0000000001f85a60                opcode_xycb_41
+                0x0000000001f85ab4                opcode_xycb_42
+                0x0000000001f85b08                opcode_xycb_46
+                0x0000000001f85b5c                opcode_xycb_48
+                0x0000000001f85bb0                opcode_xycb_49
+                0x0000000001f85c04                opcode_xycb_4a
+                0x0000000001f85c58                opcode_xycb_4b
+                0x0000000001f85cac                opcode_xycb_4c
+                0x0000000001f85d00                opcode_xycb_4d
+                0x0000000001f85d54                opcode_xycb_4e
+                0x0000000001f85da8                opcode_xycb_4f
+                0x0000000001f85dfc                opcode_xycb_50
+                0x0000000001f85e50                opcode_xycb_51
+                0x0000000001f85ea4                opcode_xycb_52
+                0x0000000001f85ef8                opcode_xycb_53
+                0x0000000001f85f4c                opcode_xycb_54
+                0x0000000001f85fa0                opcode_xycb_55
+                0x0000000001f85ff4                opcode_xycb_56
+                0x0000000001f86048                opcode_xycb_57
+                0x0000000001f8609c                opcode_xycb_58
+                0x0000000001f860f0                opcode_xycb_59
+                0x0000000001f86144                opcode_xycb_5a
+                0x0000000001f86198                opcode_xycb_5b
+                0x0000000001f861ec                opcode_xycb_5c
+                0x0000000001f86240                opcode_xycb_5d
+                0x0000000001f86294                opcode_xycb_5e
+                0x0000000001f862e8                opcode_xycb_5f
+                0x0000000001f8633c                opcode_xycb_60
+                0x0000000001f86390                opcode_xycb_61
+                0x0000000001f863e4                opcode_xycb_62
+                0x0000000001f86438                opcode_xycb_63
+                0x0000000001f8648c                opcode_xycb_64
+                0x0000000001f864e0                opcode_xycb_65
+                0x0000000001f86534                opcode_xycb_66
+                0x0000000001f86588                opcode_xycb_67
+                0x0000000001f865dc                opcode_xycb_68
+                0x0000000001f86630                opcode_xycb_69
+                0x0000000001f86684                opcode_xycb_6a
+                0x0000000001f866d8                opcode_xycb_6b
+                0x0000000001f8672c                opcode_xycb_6c
+                0x0000000001f86780                opcode_xycb_6d
+                0x0000000001f867d4                opcode_xycb_6e
+                0x0000000001f86828                opcode_xycb_6f
+                0x0000000001f8687c                opcode_xycb_70
+                0x0000000001f868d0                opcode_xycb_71
+                0x0000000001f86924                opcode_xycb_72
+                0x0000000001f86978                opcode_xycb_73
+                0x0000000001f869cc                opcode_xycb_74
+                0x0000000001f86a20                opcode_xycb_75
+                0x0000000001f86a74                opcode_xycb_76
+                0x0000000001f86ac8                opcode_xycb_77
+                0x0000000001f86b1c                opcode_xycb_78
+                0x0000000001f86b70                opcode_xycb_79
+                0x0000000001f86bc4                opcode_xycb_7a
+                0x0000000001f86c18                opcode_xycb_7b
+                0x0000000001f86c6c                opcode_xycb_7c
+                0x0000000001f86cc0                opcode_xycb_7d
+                0x0000000001f86d14                opcode_xycb_7e
+                0x0000000001f86d68                opcode_xycb_7f
+                0x0000000001f86dbc                opcode_86
+                0x0000000001f86e04                opcode_8e
+                0x0000000001f86e54                opcode_c1
+                0x0000000001f86edc                opcode_d1
+                0x0000000001f86f64                opcode_e1
+                0x0000000001f86fec                opcode_f1
+                0x0000000001f87074                opcode_cb_06
+                0x0000000001f870e0                opcode_cb_0e
+                0x0000000001f8714c                opcode_cb_16
+                0x0000000001f871c4                opcode_cb_1e
+                0x0000000001f87238                opcode_cb_26
+                0x0000000001f872a0                opcode_cb_2e
+                0x0000000001f8730c                opcode_cb_36
+                0x0000000001f87378                opcode_cb_3e
+                0x0000000001f873e0                opcode_cb_86
+                0x0000000001f87430                opcode_cb_8e
+                0x0000000001f87480                opcode_cb_96
+                0x0000000001f874d0                opcode_cb_9e
+                0x0000000001f87520                opcode_cb_a6
+                0x0000000001f87570                opcode_cb_ae
+                0x0000000001f875c0                opcode_cb_b6
+                0x0000000001f87610                opcode_cb_be
+                0x0000000001f87660                opcode_cb_c6
+                0x0000000001f876b0                opcode_cb_ce
+                0x0000000001f87700                opcode_cb_d6
+                0x0000000001f87750                opcode_cb_de
+                0x0000000001f877a0                opcode_cb_e6
+                0x0000000001f877f0                opcode_cb_ee
+                0x0000000001f87840                opcode_cb_f6
+                0x0000000001f87890                opcode_cb_fe
+                0x0000000001f878e0                opcode_ed_67
+                0x0000000001f87970                opcode_ed_6f
+                0x0000000001f87a00                opcode_ed_a0
+                0x0000000001f87adc                opcode_ed_a8
+                0x0000000001f87bb0                opcode_xycb_00
+                0x0000000001f87c24                opcode_xycb_01
+                0x0000000001f87c98                opcode_xycb_02
+                0x0000000001f87d0c                opcode_xycb_03
+                0x0000000001f87d80                opcode_xycb_04
+                0x0000000001f87df4                opcode_xycb_05
+                0x0000000001f87e68                opcode_xycb_06
+                0x0000000001f87ed4                opcode_xycb_07
+                0x0000000001f87f48                opcode_xycb_08
+                0x0000000001f87fbc                opcode_xycb_09
+                0x0000000001f88030                opcode_xycb_0a
+                0x0000000001f880a4                opcode_xycb_0b
+                0x0000000001f88118                opcode_xycb_0c
+                0x0000000001f8818c                opcode_xycb_0d
+                0x0000000001f88200                opcode_xycb_0e
+                0x0000000001f8826c                opcode_xycb_0f
+                0x0000000001f882e0                opcode_xycb_10
+                0x0000000001f88360                opcode_xycb_11
+                0x0000000001f883e0                opcode_xycb_12
+                0x0000000001f88460                opcode_xycb_13
+                0x0000000001f884e0                opcode_xycb_14
+                0x0000000001f88560                opcode_xycb_15
+                0x0000000001f885e0                opcode_xycb_16
+                0x0000000001f88658                opcode_xycb_17
+                0x0000000001f886d8                opcode_xycb_20
+                0x0000000001f88748                opcode_xycb_21
+                0x0000000001f887b8                opcode_xycb_22
+                0x0000000001f88828                opcode_xycb_23
+                0x0000000001f88898                opcode_xycb_24
+                0x0000000001f88908                opcode_xycb_25
+                0x0000000001f88978                opcode_xycb_26
+                0x0000000001f889e0                opcode_xycb_27
+                0x0000000001f88a50                opcode_xycb_28
+                0x0000000001f88ac4                opcode_xycb_29
+                0x0000000001f88b38                opcode_xycb_2a
+                0x0000000001f88bac                opcode_xycb_2b
+                0x0000000001f88c20                opcode_xycb_2c
+                0x0000000001f88c94                opcode_xycb_2d
+                0x0000000001f88d08                opcode_xycb_2e
+                0x0000000001f88d74                opcode_xycb_2f
+                0x0000000001f88de8                opcode_xycb_30
+                0x0000000001f88e5c                opcode_xycb_31
+                0x0000000001f88ed0                opcode_xycb_32
+                0x0000000001f88f44                opcode_xycb_33
+                0x0000000001f88fb8                opcode_xycb_34
+                0x0000000001f8902c                opcode_xycb_35
+                0x0000000001f890a0                opcode_xycb_36
+                0x0000000001f8910c                opcode_xycb_37
+                0x0000000001f89180                opcode_xycb_38
+                0x0000000001f891f0                opcode_xycb_39
+                0x0000000001f89260                opcode_xycb_3a
+                0x0000000001f892d0                opcode_xycb_3b
+                0x0000000001f89340                opcode_xycb_3c
+                0x0000000001f893b0                opcode_xycb_3d
+                0x0000000001f89420                opcode_xycb_3e
+                0x0000000001f89488                opcode_xycb_3f
+                0x0000000001f894f8                opcode_xycb_f8
+                0x0000000001f89554                opcode_xycb_f9
+                0x0000000001f895b0                opcode_xycb_fa
+                0x0000000001f8960c                opcode_xycb_fc
+                0x0000000001f89668                opcode_e3
+                0x0000000001f89700                opcode_ed_a2
+                0x0000000001f89870                opcode_dd_94
+                0x0000000001f89894                opcode_dd_95
+                0x0000000001f898b8                opcode_dd_9c
+                0x0000000001f898e0                opcode_dd_9d
+                0x0000000001f89908                opcode_dd_bc
+                0x0000000001f8991c                opcode_dd_bd
+                0x0000000001f89930                opcode_ed_44
+                0x0000000001f8995c                opcode_ed_4c
+                0x0000000001f89960                opcode_ed_54
+                0x0000000001f89964                opcode_ed_5c
+                0x0000000001f89968                opcode_ed_64
+                0x0000000001f8996c                opcode_ed_6c
+                0x0000000001f89970                opcode_ed_74
+                0x0000000001f89974                opcode_ed_7c
+                0x0000000001f89978                opcode_ed_a1
+                0x0000000001f89a2c                opcode_ed_a9
+                0x0000000001f89adc                opcode_fd_94
+                0x0000000001f89b00                opcode_fd_95
+                0x0000000001f89b24                opcode_fd_9c
+                0x0000000001f89b4c                opcode_fd_9d
+                0x0000000001f89b74                opcode_fd_bc
+                0x0000000001f89b88                opcode_fd_bd
+                0x0000000001f89b9c                opcode_90
+                0x0000000001f89bc0                opcode_91
+                0x0000000001f89be4                opcode_92
+                0x0000000001f89c08                opcode_93
+                0x0000000001f89c2c                opcode_94
+                0x0000000001f89c50                opcode_95
+                0x0000000001f89c74                opcode_96
+                0x0000000001f89cbc                opcode_97
+                0x0000000001f89ce0                opcode_98
+                0x0000000001f89d08                opcode_99
+                0x0000000001f89d30                opcode_9a
+                0x0000000001f89d58                opcode_9b
+                0x0000000001f89d80                opcode_9c
+                0x0000000001f89da8                opcode_9d
+                0x0000000001f89dd0                opcode_9e
+                0x0000000001f89e1c                opcode_9f
+                0x0000000001f89e44                opcode_b8
+                0x0000000001f89e58                opcode_b9
+                0x0000000001f89e6c                opcode_ba
+                0x0000000001f89e80                opcode_bb
+                0x0000000001f89e94                opcode_bc
+                0x0000000001f89ea8                opcode_bd
+                0x0000000001f89ebc                opcode_be
+                0x0000000001f89f04                opcode_bf
+                0x0000000001f89f18                opcode_dd_09
+                0x0000000001f89f80                opcode_dd_19
+                0x0000000001f89fe8                opcode_dd_29
+                0x0000000001f8a02c                opcode_dd_39
+                0x0000000001f8a08c                opcode_ed_42
+                0x0000000001f8a0f8                opcode_ed_4a
+                0x0000000001f8a16c                opcode_ed_52
+                0x0000000001f8a1d8                opcode_ed_5a
+                0x0000000001f8a24c                opcode_ed_62
+                0x0000000001f8a2b8                opcode_ed_6a
+                0x0000000001f8a32c                opcode_ed_72
+                0x0000000001f8a398                opcode_ed_7a
+                0x0000000001f8a40c                opcode_ed_b1
+                0x0000000001f8a44c                opcode_ed_b9
+                0x0000000001f8a48c                opcode_fd_09
+                0x0000000001f8a4f4                opcode_fd_19
+                0x0000000001f8a55c                opcode_fd_29
+                0x0000000001f8a5a0                opcode_fd_39
+                0x0000000001f8a600                opcode_03
+                0x0000000001f8a62c                opcode_0b
+                0x0000000001f8a654                opcode_13
+                0x0000000001f8a680                opcode_1b
+                0x0000000001f8a6a8                opcode_23
+                0x0000000001f8a6d4                opcode_2b
+                0x0000000001f8a6fc                opcode_ed_b0
+                0x0000000001f8a738                opcode_ed_b8
+                0x0000000001f8a774                opcode_ed_b2
+                0x0000000001f8a7cc                opcode_ed_46
+                0x0000000001f8a7d4                opcode_ed_4e
+                0x0000000001f8a7dc                opcode_ed_56
+                0x0000000001f8a7e4                opcode_ed_5e
+                0x0000000001f8a7ec                opcode_ed_66
+                0x0000000001f8a7f4                opcode_ed_6e
+                0x0000000001f8a7fc                opcode_ed_76
+                0x0000000001f8a804                opcode_ed_7e
+                0x0000000001f8a80c                opcode_dd_e5
+                0x0000000001f8a84c                opcode_fd_e5
+                0x0000000001f8a88c                opcode_ed_48
+                0x0000000001f8a8c8                opcode_ed_50
+                0x0000000001f8a904                opcode_ed_40
+                0x0000000001f8a940                opcode_ed_78
+                0x0000000001f8a97c                opcode_ed_68
+                0x0000000001f8a9b8                opcode_ed_60
+                0x0000000001f8a9f4                opcode_ed_58
+                0x0000000001f8aa30                opcode_cb_18
+                0x0000000001f8aa6c                opcode_cb_19
+                0x0000000001f8aaa8                opcode_cb_1a
+                0x0000000001f8aae4                opcode_cb_1b
+                0x0000000001f8ab20                opcode_cb_1c
+                0x0000000001f8ab5c                opcode_cb_1d
+                0x0000000001f8ab98                opcode_cb_1f
+                0x0000000001f8abd4                opcode_xycb_1e
+                0x0000000001f8ac48                opcode_xycb_1d
+                0x0000000001f8acc4                opcode_xycb_1b
+                0x0000000001f8ad40                opcode_xycb_1c
+                0x0000000001f8adbc                opcode_xycb_1f
+                0x0000000001f8ae38                opcode_xycb_18
+                0x0000000001f8aeb4                opcode_xycb_19
+                0x0000000001f8af30                opcode_xycb_1a
+                0x0000000001f8afac                opcode_2c
+                0x0000000001f8b020                opcode_24
+                0x0000000001f8b094                opcode_0c
+                0x0000000001f8b108                opcode_04
+                0x0000000001f8b17c                opcode_14
+                0x0000000001f8b1f0                opcode_3c
+                0x0000000001f8b264                opcode_1c
+                0x0000000001f8b2d8                opcode_dd_2c
+                0x0000000001f8b350                opcode_fd_2c
+                0x0000000001f8b3c8                opcode_dd_24
+                0x0000000001f8b444                opcode_fd_24
+                0x0000000001f8b4c0                opcode_c6
+                0x0000000001f8b514                opcode_fe
+                0x0000000001f8b568                opcode_db
+                0x0000000001f8b5c4                opcode_1d
+                0x0000000001f8b648                opcode_15
+                0x0000000001f8b6cc                opcode_3d
+                0x0000000001f8b750                opcode_d3
+                0x0000000001f8b7ac                opcode_0d
+                0x0000000001f8b830                opcode_05
+                0x0000000001f8b8b4                opcode_2d
+                0x0000000001f8b938                opcode_25
+                0x0000000001f8b9bc                opcode_fd_6e
+                0x0000000001f8ba3c                opcode_fd_7e
+                0x0000000001f8babc                opcode_d6
+                0x0000000001f8bb10                opcode_dd_46
+                0x0000000001f8bb90                opcode_dd_4e
+                0x0000000001f8bc10                opcode_fd_4e
+                0x0000000001f8bc90                opcode_ce
+                0x0000000001f8bcec                opcode_fd_46
+                0x0000000001f8bd6c                opcode_dd_7e
+                0x0000000001f8bdec                opcode_fd_5e
+                0x0000000001f8be6c                opcode_dd_6e
+                0x0000000001f8beec                opcode_fd_56
+                0x0000000001f8bf6c                opcode_dd_5e
+                0x0000000001f8bfec                opcode_fd_66
+                0x0000000001f8c06c                opcode_dd_56
+                0x0000000001f8c0ec                opcode_dd_66
+                0x0000000001f8c16c                opcode_fd_71
+                0x0000000001f8c1c8                opcode_fd_75
+                0x0000000001f8c224                opcode_fd_70
+                0x0000000001f8c280                opcode_fd_77
+                0x0000000001f8c2dc                opcode_fd_73
+                0x0000000001f8c338                opcode_fd_72
+                0x0000000001f8c394                opcode_fd_74
+                0x0000000001f8c3f0                opcode_dd_75
+                0x0000000001f8c44c                opcode_dd_71
+                0x0000000001f8c4a8                opcode_dd_77
+                0x0000000001f8c504                opcode_dd_70
+                0x0000000001f8c560                opcode_dd_73
+                0x0000000001f8c5bc                opcode_dd_72
+                0x0000000001f8c618                opcode_dd_74
+                0x0000000001f8c674                opcode_dd_2d
+                0x0000000001f8c6fc                opcode_fd_2d
+                0x0000000001f8c784                opcode_01
+                0x0000000001f8c80c                opcode_21
+                0x0000000001f8c894                opcode_11
+                0x0000000001f8c91c                opcode_ed
+                0x0000000001f8c9b0                opcode_36
+                0x0000000001f8ca1c                opcode_de
+                0x0000000001f8ca74                opcode_fd_25
+                0x0000000001f8cb00                opcode_dd_25
+                0x0000000001f8cb8c                opcode_fd_ae
+                0x0000000001f8cc20                opcode_fd_b6
+                0x0000000001f8ccb4                opcode_dd_ae
+                0x0000000001f8cd48                opcode_dd_b6
+                0x0000000001f8cddc                opcode_34
+                0x0000000001f8ce90                opcode_fd_a6
+                0x0000000001f8cf24                opcode_cb
+                0x0000000001f8cf8c                opcode_dd_a6
+                0x0000000001f8d020                opcode_dd_be
+                0x0000000001f8d0a0                opcode_fd_86
+                0x0000000001f8d120                opcode_fd_be
+                0x0000000001f8d1a0                opcode_dd_86
+                0x0000000001f8d220                opcode_fd_8e
+                0x0000000001f8d2a8                opcode_fd_96
+                0x0000000001f8d328                opcode_dd_96
+                0x0000000001f8d3a8                opcode_dd_8e
+                0x0000000001f8d430                opcode_dd_36
+                0x0000000001f8d4cc                opcode_fd_36
+                0x0000000001f8d568                opcode_fd_9e
+                0x0000000001f8d5ec                opcode_dd_9e
+                0x0000000001f8d670                opcode_dd_34
+                0x0000000001f8d75c                opcode_fd_34
+                0x0000000001f8d848                opcode_35
+                0x0000000001f8d914                opcode_ed_ab
+                0x0000000001f8da04                opcode_ed_bb
+                0x0000000001f8da40                opcode_ed_a3
+                0x0000000001f8db34                opcode_ed_b3
+                0x0000000001f8db70                opcode_dd_35
+                0x0000000001f8dc74                opcode_ed_aa
+                0x0000000001f8dd48                opcode_ed_ba
+                0x0000000001f8dd84                opcode_fd_35
+                0x0000000001f8de88                opcode_c3
+                0x0000000001f8df30                opcode_fd_e1
+                0x0000000001f8dfd8                opcode_dd_e1
+                0x0000000001f8e080                opcode_fd_21
+                0x0000000001f8e128                opcode_dd_21
+                0x0000000001f8e1d0                opcode_c9
+                0x0000000001f8e278                opcode_ed_4d
+                0x0000000001f8e320                opcode_31
+                0x0000000001f8e3c8                opcode_ed_45
+                0x0000000001f8e488                opcode_ed_55
+                0x0000000001f8e48c                opcode_ed_5d
+                0x0000000001f8e490                opcode_ed_65
+                0x0000000001f8e494                opcode_ed_6d
+                0x0000000001f8e498                opcode_ed_75
+                0x0000000001f8e49c                opcode_ed_7d
+                0x0000000001f8e4a0                opcode_f2
+                0x0000000001f8e55c                opcode_f0
+                0x0000000001f8e61c                opcode_c8
+                0x0000000001f8e6e4                opcode_3a
+                0x0000000001f8e7ac                opcode_c0
+                0x0000000001f8e874                opcode_e8
+                0x0000000001f8e93c                opcode_d0
+                0x0000000001f8ea04                opcode_d8
+                0x0000000001f8eacc                opcode_e0
+                0x0000000001f8eb94                opcode_32
+                0x0000000001f8ec40                opcode_c2
+                0x0000000001f8ecfc                opcode_e2
+                0x0000000001f8edb8                opcode_da
+                0x0000000001f8ee74                opcode_ea
+                0x0000000001f8ef30                opcode_d2
+                0x0000000001f8efec                opcode_ca
+                0x0000000001f8f0a8                opcode_ed_7b
+                0x0000000001f8f1c4                opcode_fd_2a
+                0x0000000001f8f2e0                opcode_dd_2a
+                0x0000000001f8f3fc                opcode_06
+                0x0000000001f8f4a8                opcode_16
+                0x0000000001f8f554                opcode_26
+                0x0000000001f8f600                opcode_2e
+                0x0000000001f8f6ac                opcode_1e
+                0x0000000001f8f758                opcode_3e
+                0x0000000001f8f804                opcode_0e
+                0x0000000001f8f8b0                opcode_2a
+                0x0000000001f8f9a8                opcode_ed_4b
+                0x0000000001f8faa0                opcode_ed_6b
+                0x0000000001f8fb98                opcode_ed_5b
+                0x0000000001f8fc90                opcode_f8
+                0x0000000001f8fd58                opcode_0a
+                0x0000000001f8fdf8                opcode_46
+                0x0000000001f8fe98                opcode_1a
+                0x0000000001f8ff38                opcode_4e
+                0x0000000001f8ffd8                opcode_56
+                0x0000000001f90078                opcode_5e
+                0x0000000001f90118                opcode_66
+                0x0000000001f901b8                opcode_6e
+                0x0000000001f90258                opcode_7e
+                0x0000000001f902f8                opcode_dd_e3
+                0x0000000001f903b8                opcode_fd_e3
+                0x0000000001f90478                opcode_dd_22
+                0x0000000001f9053c                opcode_ed_63
+                0x0000000001f905f8                opcode_ed_73
+                0x0000000001f906bc                opcode_ed_53
+                0x0000000001f90778                opcode_fd_22
+                0x0000000001f9083c                opcode_ed_43
+                0x0000000001f908f8                opcode_22
+                0x0000000001f909b4                opcode_fa
+                0x0000000001f90a70                opcode_fd_2e
+                0x0000000001f90b48                opcode_dd_2e
+                0x0000000001f90c20                opcode_ee
+                0x0000000001f90cd8                opcode_f6
+                0x0000000001f90d90                opcode_dd_26
+                0x0000000001f90e48                opcode_fd_26
+                0x0000000001f90f00                opcode_ae
+                0x0000000001f90fac                opcode_b6
+                0x0000000001f91058                opcode_e6
+                0x0000000001f91114                opcode_18
+                0x0000000001f911c4                opcode_a6
+                0x0000000001f91274                opcode_30
+                0x0000000001f91340                opcode_28
+                0x0000000001f9140c                opcode_38
+                0x0000000001f914d8                opcode_20
+                0x0000000001f915a4                opcode_10
+                0x0000000001f9167c                opcode_xycb_fe
+                0x0000000001f91734                opcode_xycb_86
+                0x0000000001f917ec                opcode_xycb_8e
+                0x0000000001f918a4                opcode_xycb_96
+                0x0000000001f9195c                opcode_xycb_9e
+                0x0000000001f91a14                opcode_xycb_a6
+                0x0000000001f91acc                opcode_xycb_ae
+                0x0000000001f91b84                opcode_xycb_b6
+                0x0000000001f91c3c                opcode_xycb_be
+                0x0000000001f91cf4                opcode_xycb_c6
+                0x0000000001f91dac                opcode_xycb_ce
+                0x0000000001f91e64                opcode_xycb_d6
+                0x0000000001f91f1c                opcode_xycb_de
+                0x0000000001f91fd4                opcode_xycb_e6
+                0x0000000001f9208c                opcode_xycb_ee
+                0x0000000001f92144                opcode_xycb_f6
+                0x0000000001f921fc                opcode_xycb_ff
+                0x0000000001f922ac                opcode_xycb_ed
+                0x0000000001f9235c                opcode_xycb_f5
+                0x0000000001f9240c                opcode_xycb_f3
+                0x0000000001f924bc                opcode_xycb_f4
+                0x0000000001f9256c                opcode_xycb_ef
+                0x0000000001f9261c                opcode_xycb_f0
+                0x0000000001f926cc                opcode_xycb_f1
+                0x0000000001f9277c                opcode_xycb_f2
+                0x0000000001f9282c                opcode_xycb_e7
+                0x0000000001f928dc                opcode_xycb_e8
+                0x0000000001f9298c                opcode_xycb_e9
+                0x0000000001f92a3c                opcode_xycb_ea
+                0x0000000001f92aec                opcode_xycb_bd
+                0x0000000001f92b9c                opcode_xycb_fb
+                0x0000000001f92c4c                opcode_xycb_fd
+                0x0000000001f92cfc                opcode_xycb_dd
+                0x0000000001f92dac                opcode_xycb_e5
+                0x0000000001f92e5c                opcode_xycb_e3
+                0x0000000001f92f0c                opcode_xycb_e4
+                0x0000000001f92fbc                opcode_xycb_df
+                0x0000000001f9306c                opcode_xycb_e0
+                0x0000000001f9311c                opcode_xycb_e1
+                0x0000000001f931cc                opcode_xycb_e2
+                0x0000000001f9327c                opcode_xycb_cb
+                0x0000000001f9332c                opcode_xycb_cc
+                0x0000000001f933dc                opcode_xycb_db
+                0x0000000001f9348c                opcode_xycb_dc
+                0x0000000001f9353c                opcode_xycb_d7
+                0x0000000001f935ec                opcode_xycb_d8
+                0x0000000001f9369c                opcode_xycb_d9
+                0x0000000001f9374c                opcode_xycb_da
+                0x0000000001f937fc                opcode_xycb_cd
+                0x0000000001f938ac                opcode_xycb_d5
+                0x0000000001f9395c                opcode_xycb_d3
+                0x0000000001f93a0c                opcode_xycb_d4
+                0x0000000001f93abc                opcode_xycb_cf
+                0x0000000001f93b6c                opcode_xycb_d0
+                0x0000000001f93c1c                opcode_xycb_d1
+                0x0000000001f93ccc                opcode_xycb_d2
+                0x0000000001f93d7c                opcode_xycb_a7
+                0x0000000001f93e2c                opcode_xycb_a8
+                0x0000000001f93edc                opcode_xycb_a9
+                0x0000000001f93f8c                opcode_xycb_aa
+                0x0000000001f9403c                opcode_xycb_c7
+                0x0000000001f940ec                opcode_xycb_c8
+                0x0000000001f9419c                opcode_xycb_c9
+                0x0000000001f9424c                opcode_xycb_ca
+                0x0000000001f942fc                opcode_xycb_eb
+                0x0000000001f943ac                opcode_xycb_ec
+                0x0000000001f9445c                opcode_xycb_40
+                0x0000000001f9451c                opcode_xycb_9d
+                0x0000000001f945cc                opcode_xycb_f7
+                0x0000000001f9467c                opcode_xycb_47
+                0x0000000001f9473c                opcode_xycb_80
+                0x0000000001f947ec                opcode_xycb_81
+                0x0000000001f9489c                opcode_xycb_82
+                0x0000000001f9494c                opcode_xycb_83
+                0x0000000001f949fc                opcode_xycb_84
+                0x0000000001f94aac                opcode_xycb_85
+                0x0000000001f94b5c                opcode_xycb_ad
+                0x0000000001f94c0c                opcode_xycb_b5
+                0x0000000001f94cbc                opcode_xycb_b3
+                0x0000000001f94d6c                opcode_xycb_b4
+                0x0000000001f94e1c                opcode_xycb_af
+                0x0000000001f94ecc                opcode_xycb_b0
+                0x0000000001f94f7c                opcode_xycb_b1
+                0x0000000001f9502c                opcode_xycb_b2
+                0x0000000001f950dc                opcode_xycb_ab
+                0x0000000001f9518c                opcode_xycb_ac
+                0x0000000001f9523c                opcode_xycb_bb
+                0x0000000001f952ec                opcode_xycb_bc
+                0x0000000001f9539c                opcode_xycb_b7
+                0x0000000001f9544c                opcode_xycb_b8
+                0x0000000001f954fc                opcode_xycb_b9
+                0x0000000001f955ac                opcode_xycb_ba
+                0x0000000001f9565c                opcode_xycb_bf
+                0x0000000001f9570c                opcode_xycb_c0
+                0x0000000001f957bc                opcode_xycb_c1
+                0x0000000001f9586c                opcode_xycb_c2
+                0x0000000001f9591c                opcode_xycb_c3
+                0x0000000001f959cc                opcode_xycb_c4
+                0x0000000001f95a7c                opcode_xycb_c5
+                0x0000000001f95b2c                opcode_xycb_8d
+                0x0000000001f95bdc                opcode_xycb_95
+                0x0000000001f95c8c                opcode_xycb_93
+                0x0000000001f95d3c                opcode_xycb_94
+                0x0000000001f95dec                opcode_xycb_8f
+                0x0000000001f95e9c                opcode_xycb_90
+                0x0000000001f95f4c                opcode_xycb_91
+                0x0000000001f95ffc                opcode_xycb_92
+                0x0000000001f960ac                opcode_xycb_87
+                0x0000000001f9615c                opcode_xycb_88
+                0x0000000001f9620c                opcode_xycb_89
+                0x0000000001f962bc                opcode_xycb_8a
+                0x0000000001f9636c                opcode_xycb_8b
+                0x0000000001f9641c                opcode_xycb_8c
+                0x0000000001f964cc                opcode_xycb_9b
+                0x0000000001f9657c                opcode_xycb_9c
+                0x0000000001f9662c                opcode_xycb_97
+                0x0000000001f966dc                opcode_xycb_98
+                0x0000000001f9678c                opcode_xycb_99
+                0x0000000001f9683c                opcode_xycb_9a
+                0x0000000001f968ec                opcode_xycb_9f
+                0x0000000001f9699c                opcode_xycb_a0
+                0x0000000001f96a4c                opcode_xycb_a1
+                0x0000000001f96afc                opcode_xycb_a2
+                0x0000000001f96bac                opcode_xycb_a3
+                0x0000000001f96c5c                opcode_xycb_a4
+                0x0000000001f96d0c                opcode_xycb_a5
+                0x0000000001f96dbc                opcode_xycb_43
+                0x0000000001f96e7c                opcode_xycb_44
+                0x0000000001f96f3c                opcode_xycb_45
+                0x0000000001f96ffc                getCycles
+                0x0000000001f9700c                setCycles
+                0x0000000001f9701c                getInterruptMode
+                0x0000000001f97030                isHalted
+                0x0000000001f97044                setInterruptMode
+                0x0000000001f97050                callSub
+                0x0000000001f970a0                opcode_c4
+                0x0000000001f97174                opcode_c7
+                0x0000000001f9717c                opcode_cc
+                0x0000000001f97250                opcode_cd
+                0x0000000001f97300                opcode_cf
+                0x0000000001f97308                opcode_d4
+                0x0000000001f973dc                opcode_d7
+                0x0000000001f973e4                opcode_dc
+                0x0000000001f974b8                opcode_df
+                0x0000000001f974c0                opcode_e4
+                0x0000000001f97594                opcode_e7
+                0x0000000001f9759c                opcode_ec
+                0x0000000001f97670                opcode_ef
+                0x0000000001f97678                opcode_f4
+                0x0000000001f9774c                opcode_f7
+                0x0000000001f97754                opcode_fc
+                0x0000000001f977a8                opcode_ff
+                0x0000000001f977b0                z80_reset
+                0x0000000001f97824                z80_getSizeOfSnapshotBuffer
+                0x0000000001f9782c                z80_takeSnapshot
+                0x0000000001f97954                z80_restoreSnapshot
+                0x0000000001f97a7c                do_opcode_xycb
+                0x0000000001f97b30                opcode_dd_cb
+                0x0000000001f97b40                opcode_fd_cb
+                0x0000000001f97b50                step
+                0x0000000001f97c08                z80_run
+                0x0000000001f97cc0                z80_interrupt
+                0x0000000001f97d68                nmi
+                0x0000000001f97d9c                do_opcode_xy
+                0x0000000001f97e7c                opcode_dd
+                0x0000000001f97ea4                opcode_fd
+ .text          0x0000000001f97ecc      0x300 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/wsg3.o
+                0x0000000001f97f6c                wsg3_play_sound
+                0x0000000001f98120                wsg3_set_sampling_rate
+                0x0000000001f98150                wsg3_set_sound_prom
+                0x0000000001f981a0                wsg3_init
+ .text          0x0000000001f981cc       0x80 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox_lcd.o
+                0x0000000001f981cc                blit_display
+ .text          0x0000000001f9824c      0x214 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f98264                plugin__start
+                0x0000000001f983b4                rb_atexit
+                0x0000000001f983d4                exit
+                0x0000000001f983f4                _exit
+                0x0000000001f9840c                exit_on_usb
+ .text.memcpy   0x0000000001f98460       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f98460                memcpy
+ .text.memset   0x0000000001f98474       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f98474                memset
+ .text.backlight_ignore_timeout
+                0x0000000001f98488       0x58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                0x0000000001f98488                backlight_ignore_timeout
+ .text.backlight_use_settings
+                0x0000000001f984e0       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                0x0000000001f984e0                backlight_use_settings
+ .text.get_cfg_filename.constprop.1
+                0x0000000001f9851c       0x98 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text.configfile_save
+                0x0000000001f985b4      0x15c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                0x0000000001f985b4                configfile_save
+ .text.configfile_load
+                0x0000000001f98710      0x248 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                0x0000000001f98710                configfile_load
+ .text          0x0000000001f98958       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                0x0000000001f98958                setjmp
+                0x0000000001f98964                longjmp
+ .text          0x0000000001f98974      0x114 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                0x0000000001f98974                __udivsi3
+                0x0000000001f98974                __aeabi_uidiv
+                0x0000000001f98a68                __aeabi_uidivmod
+ .text          0x0000000001f98a88      0x148 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                0x0000000001f98a88                __aeabi_idiv
+                0x0000000001f98a88                __divsi3
+                0x0000000001f98bb0                __aeabi_idivmod
+ .text          0x0000000001f98bd0        0x4 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                0x0000000001f98bd0                __aeabi_ldiv0
+                0x0000000001f98bd0                __aeabi_idiv0
+ *(.glue_7)
+ .glue_7        0x0000000001f98bd4        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001f98bd4        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001f98bd4        0x0
+ .vfp11_veneer  0x0000000001f98bd4        0x0 linker stubs
+
+.v4_bx          0x0000000001f98bd4        0x0
+ .v4_bx         0x0000000001f98bd4        0x0 linker stubs
+
+.iplt           0x0000000001f98bd4        0x0
+ .iplt          0x0000000001f98bd4        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/arcade.o
+
+.rodata         0x0000000001f98bd4     0x1c3a
+ *(.rodata*)
+ .rodata        0x0000000001f98bd4      0x130 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/arcade.o
+ .rodata        0x0000000001f98d04     0x18d4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox.o
+ .rodata.str1.4
+                0x0000000001f9a5d8      0x1f0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox.o
+                                        0x1ed (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f9a7c8       0x46 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+
+.rel.dyn        0x0000000001f9a810        0x0
+ .rel.iplt      0x0000000001f9a810        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/arcade.o
+
+.data           0x0000000001f9a810     0x3208
+ *(.data*)
+ .data          0x0000000001f9a810      0x100 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/arcade.o
+ .data          0x0000000001f9a910      0x104 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox.o
+ .data          0x0000000001f9aa14     0x3000 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/z80.o
+                0x0000000001f9aa14                OpInfoED_
+                0x0000000001f9b214                OpInfo_
+                0x0000000001f9ba14                OpInfoCB_
+                0x0000000001f9c214                OpInfoXYCB_
+                0x0000000001f9ca14                OpInfoDD_
+                0x0000000001f9d214                OpInfoFD_
+ .data          0x0000000001f9da14        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f9da14                rb
+
+.igot.plt       0x0000000001f9da18        0x0
+ .igot.plt      0x0000000001f9da18        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/arcade.o
+
+.ncdata         0x0000000011f9da18        0x8 load address 0x0000000001f9da18
+                0x0000000011f9da20                . = ALIGN (0x10)
+ *fill*         0x0000000011f9da18        0x8 
+ *(.ncdata*)
+                0x0000000011f9da20                . = ALIGN (0x10)
+                0x0000000001f9da20                bssaddr = (. - 0x10000000)
+                0x0000000001f9da20                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001f9da20    0x14c88
+                0x0000000001f9da20                plugin_bss_start = .
+                0x0000000001f9da20                _plugin_bss_start = .
+ *(.bss*)
+ .bss           0x0000000001f9da20     0xfe50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox.o
+ .bss           0x0000000001fad870       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ *(COMMON)
+ COMMON         0x0000000001fad8d0      0x200 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/arcade.o
+                0x0000000001fad8d0                palette
+ COMMON         0x0000000001fadad0     0x48a0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/hardware.o
+                0x0000000001fadad0                vchar_to_i_
+                0x0000000001fae2d0                spritemap_
+                0x0000000001fb22d0                sprites_
+ COMMON         0x0000000001fb2370      0x338 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/wsg3.o
+                0x0000000001fb2370                wsg3
+                0x0000000001fb26a8                . = ALIGN (0x4)
+
+.ncbss          0x0000000011fb26a8        0x8 load address 0x0000000001fb26a8
+                0x0000000011fb26b0                . = ALIGN (0x10)
+ *fill*         0x0000000011fb26a8        0x8 
+ *(.ncbss*)
+                0x0000000011fb26b0                . = ALIGN (0x10)
+                0x0000000001fb26b0                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001fb26b0        0x0
+                0x0000000001fb26b0                _plugin_end_addr = .
+                0x0000000001fb26b0                plugin_end_addr = .
+
+.iram           0x000000004000c000      0x100 load address 0x0000000001f9da20
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ *(.irodata)
+ *(.idata)
+ .idata         0x000000004000c000      0x100 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/z80.o
+                0x000000004000c000                PSZ_
+                0x000000004000c100                iramend = .
+
+.ibss           0x000000004000c100     0xbd38 load address 0x0000000001f9db20
+                0x000000004000c100                iedata = .
+ *(.ibss)
+ .ibss          0x000000004000c100      0x100 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox.o
+ .ibss          0x000000004000c200     0xbc0c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/hardware.o
+                0x000000004000c200                output_devices_
+                0x000000004000c204                ram_
+                0x0000000040011204                dirty_
+                0x0000000040011604                video_mem_
+                0x0000000040011a04                color_mem_
+                0x0000000040011e04                coin_counter_
+                0x0000000040011e08                interrupt_vector_
+                0x0000000040011e09                dip_switches_
+                0x0000000040011e0a                port2_
+                0x0000000040011e0b                port1_
+                0x0000000040011e0c                charmap_
+                0x0000000040015e0c                spriteset_rom_
+                0x0000000040016e0c                charset_rom_
+ .ibss          0x0000000040017e0c       0x2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/z80.o
+                0x0000000040017e0c                A
+                0x0000000040017e0d                F
+                0x0000000040017e0e                B
+                0x0000000040017e0f                C
+                0x0000000040017e10                D
+                0x0000000040017e11                E
+                0x0000000040017e12                H
+                0x0000000040017e13                L
+                0x0000000040017e14                IX
+                0x0000000040017e18                PC
+                0x0000000040017e1c                SP
+                0x0000000040017e20                I
+                0x0000000040017e21                R
+                0x0000000040017e24                iflags_
+                0x0000000040017e28                IY
+                0x0000000040017e2c                A1
+                0x0000000040017e2d                F1
+                0x0000000040017e2e                B1
+                0x0000000040017e2f                C1
+                0x0000000040017e30                D1
+                0x0000000040017e31                E1
+                0x0000000040017e32                H1
+                0x0000000040017e33                L1
+                0x0000000040017e34                cycles_
+                0x0000000040017e38                . = ALIGN (0x4)
+                0x0000000040017e38                iend = .
+                0x0000000001fb26b0                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001fb26b0        0x0
+                0x0000000001fb26b0                _plugin_load_end_addr = .
+                0x0000000001fb26b0                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/arcade.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/hardware.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/z80.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/wsg3.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox_lcd.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+OUTPUT(/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2e
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/arcade.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox.o
+ .ARM.attributes
+                0x0000000000000060       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/hardware.o
+ .ARM.attributes
+                0x0000000000000090       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/z80.o
+ .ARM.attributes
+                0x00000000000000c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/wsg3.o
+ .ARM.attributes
+                0x00000000000000f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/pacbox/pacbox_lcd.o
+ .ARM.attributes
+                0x0000000000000120       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .ARM.attributes
+                0x0000000000000150       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .ARM.attributes
+                0x0000000000000180       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .ARM.attributes
+                0x00000000000001b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .ARM.attributes
+                0x00000000000001e0       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .ARM.attributes
+                0x0000000000000200       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000218       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000000000000230       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_frame    0x0000000000000000       0x40
+ .debug_frame   0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+
+.debug_line     0x0000000000000000      0x169
+ .debug_line    0x0000000000000000       0x7e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_line    0x000000000000007e       0x8a /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_line    0x0000000000000108       0x61 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_info     0x0000000000000000      0x198
+ .debug_info    0x0000000000000000       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_info    0x0000000000000088       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_info    0x0000000000000110       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_abbrev   0x0000000000000000       0x3c
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000000014       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000028       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_aranges  0x0000000000000000       0x60
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)

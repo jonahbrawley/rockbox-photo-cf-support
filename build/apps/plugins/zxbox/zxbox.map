@@ -1,0 +1,1437 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spmain.o (configfile_save)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o (setjmp)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/tapefile.o (__aeabi_uidiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox_keyb.o (__aeabi_idiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+sp_scr_f1_table     0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+spkb_kbstate        0x1000            /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spkey.o
+z80c_decf_tbl       0x100             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_step.o
+spkey_state         0x8               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spkey.o
+privatemap          0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox.o
+param               0x438             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox_keyb.o
+sp_updating         0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+image_array         0xfa00            /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox.o
+sp_imag_mark        0x300             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+settings            0x20              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox.o
+sp_imag_vert        0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+sp_imag_horiz       0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+sp_border_update    0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+sp_scr_mark         0x2000            /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+sp_fe_outport_time  0x400             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+tf_tpi              0xc               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/tapefile.o
+sp_image            0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+msgbuf              0x800             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/interf.o
+small_screen        0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox.o
+z80c_subf_tbl       0x100             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_step.o
+sp_flash_state      0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+sp_scr_f0_table     0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+tf_cseg             0x20              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/tapefile.o
+tf_segoffs          0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/tapefile.o
+spmisc_state        0x8               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spkey.o
+kb_mkey             0x8               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox.o
+spkb_state_changed  0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spkey.o
+vga_pause_bg        0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox.o
+sp_scri             0x1000            /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+shouldbe_tick       0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/sptiming.o
+seg_desc            0x100             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/tapefile.o
+sp_tape_impinfo     0x400             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+spcf_init_tapefile_type
+                    0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spconf.o
+spcf_init_snapshot_type
+                    0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spconf.o
+sp_scline           0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+sp_sound_buf        0x400             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+z80c_incf_tbl       0x100             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_step.o
+z80c_orf_tbl        0x100             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_step.o
+my_buf              0x3a80            /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spsound.o
+z80c_addf_tbl       0x100             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_step.o
+sp_fe_inport_default
+                    0x1               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+pause_on_iconify    0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox.o
+sp_coli             0x1000            /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+sp_fe_inport_high   0x100             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+sp_colors           0x10              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+sp_lastborder       0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+sp_tape_sound       0x270             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+sp_load_trapped     0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+spkb_last           0x10              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spkey.o
+filenamebuf         0x400             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/interf.o
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/compr.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/compr.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/helpers.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/interf.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/interf.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/keynames.o
+ .data          0x0000000000000000      0x57c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/keynames.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/keynames.o
+ .rodata.str1.4
+                0x0000000000000000      0x5bb /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/keynames.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/loadim.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/loadim.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxmisc.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxmisc.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/rom_imag.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/rom_imag.o
+ .rodata        0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/rom_imag.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spect.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spect.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spscr.o
+ .rodata        0x0000000000000000      0x100 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spsound.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/sptiming.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/sptiming.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op1.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op1.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op2.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op2.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op3.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op3.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op4.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op4.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op5.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op5.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op6.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op6.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_step.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_step.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80optab.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox_keyb.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox_keyb.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxvid_16bpp.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text.configfile_get_value
+                0x0000000000000000       0xfc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text.configfile_update_entry
+                0x0000000000000000      0x150 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001f80000 0x0000000000080000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/compr.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/helpers.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/interf.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/keynames.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/loadim.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxmisc.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/rom_imag.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/snapshot.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spconf.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spect.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spkey.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spmain.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spscr.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spsound.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/sptape.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/sptiming.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/tapefile.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op1.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op2.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op3.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op4.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op5.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op6.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_step.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80optab.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox_keyb.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxvid_16bpp.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001f80000       0x1c
+                0x0000000001f80000                _plugin_start_addr = .
+                0x0000000001f80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001f80000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f80000                __header
+
+.text           0x0000000001f8001c    0x1cf70
+ *(.text*)
+ .text          0x0000000001f8001c      0x228 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/compr.o
+                0x0000000001f8001c                compr
+ .text          0x0000000001f80244      0x120 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/helpers.o
+                0x0000000001f80244                my_getc
+                0x0000000001f80284                my_ftell
+                0x0000000001f802a0                my_putc
+                0x0000000001f802e0                my_malloc
+ .text          0x0000000001f80364       0x58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/interf.o
+                0x0000000001f80364                spif_get_filename
+                0x0000000001f8036c                spif_get_tape_fileinfo
+                0x0000000001f80384                put_msg
+                0x0000000001f803a0                put_tmp_msg
+ .text          0x0000000001f803bc      0x7a0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxmisc.o
+                0x0000000001f803bc                get_base_name
+                0x0000000001f80564                check_ext
+                0x0000000001f80900                add_extension
+                0x0000000001f809c4                file_exist
+                0x0000000001f80a0c                try_extension
+                0x0000000001f80a90                malloc_err
+                0x0000000001f80aa0                make_string
+                0x0000000001f80af0                free_string
+                0x0000000001f80af4                mis_strcasecmp
+ .text          0x0000000001f80b5c     0x1fa8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/snapshot.o
+                0x0000000001f822e8                compr_read_byte
+                0x0000000001f82318                compr_put_byte
+                0x0000000001f82338                save_snapshot_file
+                0x0000000001f82400                save_quick_snapshot
+                0x0000000001f825c8                save_snapshot
+                0x0000000001f826e0                load_snapshot_file_type
+                0x0000000001f82a48                snsh_z80_load_intern
+                0x0000000001f82a74                load_quick_snapshot
+                0x0000000001f82ad8                load_snapshot
+ .text          0x0000000001f82b04      0x418 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spconf.o
+                0x0000000001f82d90                spcf_find_file_type
+                0x0000000001f82db4                spcf_read_command_line
+ .text          0x0000000001f82f1c      0x2fc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spect.o
+                0x0000000001f82f1c                sp_halfframe
+ .text          0x0000000001f83218     0x1430 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spkey.o
+                0x0000000001f837b0                spkey_new_custom
+                0x0000000001f8382c                spkey_add_custom
+                0x0000000001f839b8                init_basekeys
+                0x0000000001f83b94                spkb_refresh
+                0x0000000001f83f24                process_keys
+                0x0000000001f8455c                clear_keystates
+ .text          0x0000000001f84648      0xdd0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spmain.o
+                0x0000000001f84648                spcf_read_conf_file
+                0x0000000001f84804                check_params
+                0x0000000001f849cc                start_spectemu
+ .text          0x0000000001f85418      0x608 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+                0x0000000001f85418                sp_init_screen_mark
+                0x0000000001f85464                sp_init
+ .text          0x0000000001f85a20      0x838 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spscr.o
+                0x0000000001f85a20                update_screen_line
+                0x0000000001f85bf4                spscr_init_mask_color
+                0x0000000001f85eb4                flash_change
+                0x0000000001f85fa8                spscr_init_line_pointers
+ .text          0x0000000001f86258      0x45c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spsound.o
+                0x0000000001f8626c                init_spect_sound
+                0x0000000001f862ec                autoclose_sound
+                0x0000000001f862f0                play_sound
+                0x0000000001f866b0                setbufsize
+ .text          0x0000000001f866b4      0xd28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/sptape.o
+                0x0000000001f8692c                play_tape
+                0x0000000001f86ed8                rec_tape
+                0x0000000001f86edc                pause_play
+                0x0000000001f86f40                start_play_file_type
+                0x0000000001f8708c                start_play
+                0x0000000001f870fc                stop_play
+                0x0000000001f87168                start_rec
+                0x0000000001f8716c                qload
+ .text          0x0000000001f873dc       0xe8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/sptiming.o
+                0x0000000001f873dc                spti_init
+                0x0000000001f87400                spti_sleep
+                0x0000000001f87414                spti_reset
+                0x0000000001f87438                spti_wait
+ .text          0x0000000001f874c4     0x369c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/tapefile.o
+                0x0000000001f87a7c                tf_get_block
+                0x0000000001f88c00                next_byte
+                0x0000000001f88c94                next_imps
+                0x0000000001f89578                next_segment
+                0x0000000001f8a898                goto_segment
+                0x0000000001f8a8b8                segment_pos
+                0x0000000001f8a8c8                close_tapefile
+                0x0000000001f8a918                open_tapefile
+                0x0000000001f8ab0c                get_level
+                0x0000000001f8ab1c                get_seglen
+                0x0000000001f8ab2c                get_segpos
+                0x0000000001f8ab3c                set_tapefile_options
+ .text          0x0000000001f8ab60      0x4c0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80.o
+                0x0000000001f8ab60                z80_init
+                0x0000000001f8af28                z80_nmi
+                0x0000000001f8af5c                z80_interrupt
+                0x0000000001f8aff4                z80_reset
+ .text          0x0000000001f8b020     0x2388 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op1.o
+                0x0000000001f8b020                z80op_nop
+                0x0000000001f8b038                z80op_ex_af_afb
+                0x0000000001f8b060                z80op_djnz_e
+                0x0000000001f8b0c4                z80op_jr_e
+                0x0000000001f8b0f4                z80op_jr_nz_e
+                0x0000000001f8b14c                z80op_jr_z_e
+                0x0000000001f8b1a4                z80op_jr_nc_e
+                0x0000000001f8b1fc                z80op_jr_c_e
+                0x0000000001f8b254                z80op_ld_bc_nn
+                0x0000000001f8b29c                z80op_ld_de_nn
+                0x0000000001f8b2e4                z80op_ld_hl_nn
+                0x0000000001f8b32c                z80op_ld_sp_nn
+                0x0000000001f8b374                z80op_add_hl_bc
+                0x0000000001f8b3dc                z80op_add_hl_de
+                0x0000000001f8b444                z80op_add_hl_hl
+                0x0000000001f8b4a0                z80op_add_hl_sp
+                0x0000000001f8b508                z80op_inc_bc
+                0x0000000001f8b52c                z80op_inc_de
+                0x0000000001f8b550                z80op_inc_hl
+                0x0000000001f8b574                z80op_inc_sp
+                0x0000000001f8b598                z80op_dec_bc
+                0x0000000001f8b5bc                z80op_dec_de
+                0x0000000001f8b5e0                z80op_dec_hl
+                0x0000000001f8b604                z80op_dec_sp
+                0x0000000001f8b628                z80op_ld_ibc_a
+                0x0000000001f8b6c0                z80op_ld_ide_a
+                0x0000000001f8b758                z80op_ld_inn_hl
+                0x0000000001f8b8a4                z80op_ld_inn_a
+                0x0000000001f8b958                z80op_ld_a_ibc
+                0x0000000001f8b97c                z80op_ld_a_ide
+                0x0000000001f8b9a0                z80op_ld_hl_inn
+                0x0000000001f8b9f4                z80op_ld_a_inn
+                0x0000000001f8ba38                z80op_inc_b
+                0x0000000001f8ba7c                z80op_inc_c
+                0x0000000001f8bac0                z80op_inc_d
+                0x0000000001f8bb04                z80op_inc_e
+                0x0000000001f8bb48                z80op_inc_h
+                0x0000000001f8bb8c                z80op_inc_l
+                0x0000000001f8bbd0                z80op_inc_a
+                0x0000000001f8bc14                z80op_inc_ihl
+                0x0000000001f8bce0                z80op_dec_b
+                0x0000000001f8bd24                z80op_dec_c
+                0x0000000001f8bd68                z80op_dec_d
+                0x0000000001f8bdac                z80op_dec_e
+                0x0000000001f8bdf0                z80op_dec_h
+                0x0000000001f8be34                z80op_dec_l
+                0x0000000001f8be78                z80op_dec_a
+                0x0000000001f8bebc                z80op_dec_ihl
+                0x0000000001f8bf88                z80op_ld_b_n
+                0x0000000001f8bfb8                z80op_ld_c_n
+                0x0000000001f8bfe8                z80op_ld_d_n
+                0x0000000001f8c018                z80op_ld_e_n
+                0x0000000001f8c048                z80op_ld_h_n
+                0x0000000001f8c078                z80op_ld_l_n
+                0x0000000001f8c0a8                z80op_ld_a_n
+                0x0000000001f8c0d8                z80op_ld_ihl_n
+                0x0000000001f8c184                z80op_rlca
+                0x0000000001f8c1bc                z80op_rrca
+                0x0000000001f8c1fc                z80op_rla
+                0x0000000001f8c234                z80op_rra
+                0x0000000001f8c274                z80op_daa
+                0x0000000001f8c380                z80op_cpl
+                0x0000000001f8c3b0                z80op_scf
+                0x0000000001f8c3d8                z80op_ccf
+                0x0000000001f8c400                z80op_ld_ix_nn
+                0x0000000001f8c448                z80op_add_ix_bc
+                0x0000000001f8c4b0                z80op_add_ix_de
+                0x0000000001f8c518                z80op_add_ix_ix
+                0x0000000001f8c574                z80op_add_ix_sp
+                0x0000000001f8c5dc                z80op_inc_ix
+                0x0000000001f8c600                z80op_dec_ix
+                0x0000000001f8c624                z80op_ld_inn_ix
+                0x0000000001f8c770                z80op_ld_ix_inn
+                0x0000000001f8c7c4                z80op_inc_ixh
+                0x0000000001f8c808                z80op_inc_ixl
+                0x0000000001f8c84c                z80op_inc_iixd
+                0x0000000001f8c934                z80op_dec_ixh
+                0x0000000001f8c978                z80op_dec_ixl
+                0x0000000001f8c9bc                z80op_dec_iixd
+                0x0000000001f8caa4                z80op_ld_ixh_n
+                0x0000000001f8cad4                z80op_ld_ixl_n
+                0x0000000001f8cb04                z80op_ld_iixd_n
+                0x0000000001f8cbd4                z80op_ld_iy_nn
+                0x0000000001f8cc1c                z80op_add_iy_bc
+                0x0000000001f8cc84                z80op_add_iy_de
+                0x0000000001f8ccec                z80op_add_iy_iy
+                0x0000000001f8cd48                z80op_add_iy_sp
+                0x0000000001f8cdb0                z80op_inc_iy
+                0x0000000001f8cdd4                z80op_dec_iy
+                0x0000000001f8cdf8                z80op_ld_inn_iy
+                0x0000000001f8cf44                z80op_ld_iy_inn
+                0x0000000001f8cf98                z80op_inc_iyh
+                0x0000000001f8cfdc                z80op_inc_iyl
+                0x0000000001f8d020                z80op_inc_iiyd
+                0x0000000001f8d108                z80op_dec_iyh
+                0x0000000001f8d14c                z80op_dec_iyl
+                0x0000000001f8d190                z80op_dec_iiyd
+                0x0000000001f8d278                z80op_ld_iyh_n
+                0x0000000001f8d2a8                z80op_ld_iyl_n
+                0x0000000001f8d2d8                z80op_ld_iiyd_n
+ .text          0x0000000001f8d3a8     0x1db4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op2.o
+                0x0000000001f8d3a8                z80op_halt
+                0x0000000001f8d3e8                z80op_ld_b_c
+                0x0000000001f8d408                z80op_ld_b_d
+                0x0000000001f8d428                z80op_ld_b_e
+                0x0000000001f8d448                z80op_ld_b_h
+                0x0000000001f8d468                z80op_ld_b_l
+                0x0000000001f8d488                z80op_ld_b_a
+                0x0000000001f8d4a8                z80op_ld_c_b
+                0x0000000001f8d4c8                z80op_ld_c_d
+                0x0000000001f8d4e8                z80op_ld_c_e
+                0x0000000001f8d508                z80op_ld_c_h
+                0x0000000001f8d528                z80op_ld_c_l
+                0x0000000001f8d548                z80op_ld_c_a
+                0x0000000001f8d568                z80op_ld_d_b
+                0x0000000001f8d588                z80op_ld_d_c
+                0x0000000001f8d5a8                z80op_ld_d_e
+                0x0000000001f8d5c8                z80op_ld_d_h
+                0x0000000001f8d5e8                z80op_ld_d_l
+                0x0000000001f8d608                z80op_ld_d_a
+                0x0000000001f8d628                z80op_ld_e_b
+                0x0000000001f8d648                z80op_ld_e_c
+                0x0000000001f8d668                z80op_ld_e_d
+                0x0000000001f8d688                z80op_ld_e_h
+                0x0000000001f8d6a8                z80op_ld_e_l
+                0x0000000001f8d6c8                z80op_ld_e_a
+                0x0000000001f8d6e8                z80op_ld_h_b
+                0x0000000001f8d708                z80op_ld_h_c
+                0x0000000001f8d728                z80op_ld_h_d
+                0x0000000001f8d748                z80op_ld_h_e
+                0x0000000001f8d768                z80op_ld_h_l
+                0x0000000001f8d788                z80op_ld_h_a
+                0x0000000001f8d7a8                z80op_ld_l_b
+                0x0000000001f8d7c8                z80op_ld_l_c
+                0x0000000001f8d7e8                z80op_ld_l_d
+                0x0000000001f8d808                z80op_ld_l_e
+                0x0000000001f8d828                z80op_ld_l_h
+                0x0000000001f8d848                z80op_ld_l_a
+                0x0000000001f8d868                z80op_ld_a_b
+                0x0000000001f8d888                z80op_ld_a_c
+                0x0000000001f8d8a8                z80op_ld_a_d
+                0x0000000001f8d8c8                z80op_ld_a_e
+                0x0000000001f8d8e8                z80op_ld_a_h
+                0x0000000001f8d908                z80op_ld_a_l
+                0x0000000001f8d928                z80op_ld_b_ihl
+                0x0000000001f8d94c                z80op_ld_c_ihl
+                0x0000000001f8d970                z80op_ld_d_ihl
+                0x0000000001f8d994                z80op_ld_e_ihl
+                0x0000000001f8d9b8                z80op_ld_h_ihl
+                0x0000000001f8d9dc                z80op_ld_l_ihl
+                0x0000000001f8da00                z80op_ld_a_ihl
+                0x0000000001f8da24                z80op_ld_ihl_b
+                0x0000000001f8dabc                z80op_ld_ihl_c
+                0x0000000001f8db54                z80op_ld_ihl_d
+                0x0000000001f8dbec                z80op_ld_ihl_e
+                0x0000000001f8dc84                z80op_ld_ihl_h
+                0x0000000001f8dd1c                z80op_ld_ihl_l
+                0x0000000001f8ddb4                z80op_ld_ihl_a
+                0x0000000001f8de4c                z80op_ld_b_ixh
+                0x0000000001f8de6c                z80op_ld_b_ixl
+                0x0000000001f8de8c                z80op_ld_c_ixh
+                0x0000000001f8deac                z80op_ld_c_ixl
+                0x0000000001f8decc                z80op_ld_d_ixh
+                0x0000000001f8deec                z80op_ld_d_ixl
+                0x0000000001f8df0c                z80op_ld_e_ixh
+                0x0000000001f8df2c                z80op_ld_e_ixl
+                0x0000000001f8df4c                z80op_ld_ixh_b
+                0x0000000001f8df6c                z80op_ld_ixh_c
+                0x0000000001f8df8c                z80op_ld_ixh_d
+                0x0000000001f8dfac                z80op_ld_ixh_e
+                0x0000000001f8dfcc                z80op_ld_ixh_ixl
+                0x0000000001f8dfec                z80op_ld_ixh_a
+                0x0000000001f8e00c                z80op_ld_ixl_b
+                0x0000000001f8e02c                z80op_ld_ixl_c
+                0x0000000001f8e04c                z80op_ld_ixl_d
+                0x0000000001f8e06c                z80op_ld_ixl_e
+                0x0000000001f8e08c                z80op_ld_ixl_ixh
+                0x0000000001f8e0ac                z80op_ld_ixl_a
+                0x0000000001f8e0cc                z80op_ld_a_ixh
+                0x0000000001f8e0ec                z80op_ld_a_ixl
+                0x0000000001f8e10c                z80op_ld_iixd_b
+                0x0000000001f8e1c0                z80op_ld_iixd_c
+                0x0000000001f8e274                z80op_ld_iixd_d
+                0x0000000001f8e328                z80op_ld_iixd_e
+                0x0000000001f8e3dc                z80op_ld_iixd_h
+                0x0000000001f8e490                z80op_ld_iixd_l
+                0x0000000001f8e544                z80op_ld_iixd_a
+                0x0000000001f8e5f8                z80op_ld_b_iixd
+                0x0000000001f8e63c                z80op_ld_c_iixd
+                0x0000000001f8e680                z80op_ld_d_iixd
+                0x0000000001f8e6c4                z80op_ld_e_iixd
+                0x0000000001f8e708                z80op_ld_h_iixd
+                0x0000000001f8e74c                z80op_ld_l_iixd
+                0x0000000001f8e790                z80op_ld_a_iixd
+                0x0000000001f8e7d4                z80op_ld_b_iyh
+                0x0000000001f8e7f4                z80op_ld_b_iyl
+                0x0000000001f8e814                z80op_ld_c_iyh
+                0x0000000001f8e834                z80op_ld_c_iyl
+                0x0000000001f8e854                z80op_ld_d_iyh
+                0x0000000001f8e874                z80op_ld_d_iyl
+                0x0000000001f8e894                z80op_ld_e_iyh
+                0x0000000001f8e8b4                z80op_ld_e_iyl
+                0x0000000001f8e8d4                z80op_ld_iyh_b
+                0x0000000001f8e8f4                z80op_ld_iyh_c
+                0x0000000001f8e914                z80op_ld_iyh_d
+                0x0000000001f8e934                z80op_ld_iyh_e
+                0x0000000001f8e954                z80op_ld_iyh_iyl
+                0x0000000001f8e974                z80op_ld_iyh_a
+                0x0000000001f8e994                z80op_ld_iyl_b
+                0x0000000001f8e9b4                z80op_ld_iyl_c
+                0x0000000001f8e9d4                z80op_ld_iyl_d
+                0x0000000001f8e9f4                z80op_ld_iyl_e
+                0x0000000001f8ea14                z80op_ld_iyl_iyh
+                0x0000000001f8ea34                z80op_ld_iyl_a
+                0x0000000001f8ea54                z80op_ld_a_iyh
+                0x0000000001f8ea74                z80op_ld_a_iyl
+                0x0000000001f8ea94                z80op_ld_iiyd_b
+                0x0000000001f8eb48                z80op_ld_iiyd_c
+                0x0000000001f8ebfc                z80op_ld_iiyd_d
+                0x0000000001f8ecb0                z80op_ld_iiyd_e
+                0x0000000001f8ed64                z80op_ld_iiyd_h
+                0x0000000001f8ee18                z80op_ld_iiyd_l
+                0x0000000001f8eecc                z80op_ld_iiyd_a
+                0x0000000001f8ef80                z80op_ld_b_iiyd
+                0x0000000001f8efc4                z80op_ld_c_iiyd
+                0x0000000001f8f008                z80op_ld_d_iiyd
+                0x0000000001f8f04c                z80op_ld_e_iiyd
+                0x0000000001f8f090                z80op_ld_h_iiyd
+                0x0000000001f8f0d4                z80op_ld_l_iiyd
+                0x0000000001f8f118                z80op_ld_a_iiyd
+ .text          0x0000000001f8f15c     0x2558 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op3.o
+                0x0000000001f8f15c                z80op_add_a_b
+                0x0000000001f8f1b4                z80op_add_a_c
+                0x0000000001f8f20c                z80op_add_a_d
+                0x0000000001f8f264                z80op_add_a_e
+                0x0000000001f8f2bc                z80op_add_a_h
+                0x0000000001f8f314                z80op_add_a_l
+                0x0000000001f8f36c                z80op_add_a_a
+                0x0000000001f8f3bc                z80op_adc_a_b
+                0x0000000001f8f42c                z80op_adc_a_c
+                0x0000000001f8f49c                z80op_adc_a_d
+                0x0000000001f8f50c                z80op_adc_a_e
+                0x0000000001f8f57c                z80op_adc_a_h
+                0x0000000001f8f5ec                z80op_adc_a_l
+                0x0000000001f8f65c                z80op_adc_a_a
+                0x0000000001f8f6b8                z80op_sub_b
+                0x0000000001f8f710                z80op_sub_c
+                0x0000000001f8f768                z80op_sub_d
+                0x0000000001f8f7c0                z80op_sub_e
+                0x0000000001f8f818                z80op_sub_h
+                0x0000000001f8f870                z80op_sub_l
+                0x0000000001f8f8c8                z80op_sub_a
+                0x0000000001f8f90c                z80op_sbc_a_b
+                0x0000000001f8f97c                z80op_sbc_a_c
+                0x0000000001f8f9ec                z80op_sbc_a_d
+                0x0000000001f8fa5c                z80op_sbc_a_e
+                0x0000000001f8facc                z80op_sbc_a_h
+                0x0000000001f8fb3c                z80op_sbc_a_l
+                0x0000000001f8fbac                z80op_sbc_a_a
+                0x0000000001f8fc08                z80op_and_b
+                0x0000000001f8fc44                z80op_and_c
+                0x0000000001f8fc80                z80op_and_d
+                0x0000000001f8fcbc                z80op_and_e
+                0x0000000001f8fcf8                z80op_and_h
+                0x0000000001f8fd34                z80op_and_l
+                0x0000000001f8fd70                z80op_and_a
+                0x0000000001f8fda0                z80op_xor_b
+                0x0000000001f8fdd8                z80op_xor_c
+                0x0000000001f8fe10                z80op_xor_d
+                0x0000000001f8fe48                z80op_xor_e
+                0x0000000001f8fe80                z80op_xor_h
+                0x0000000001f8feb8                z80op_xor_l
+                0x0000000001f8fef0                z80op_xor_a
+                0x0000000001f8ff20                z80op_or_b
+                0x0000000001f8ff58                z80op_or_c
+                0x0000000001f8ff90                z80op_or_d
+                0x0000000001f8ffc8                z80op_or_e
+                0x0000000001f90000                z80op_or_h
+                0x0000000001f90038                z80op_or_l
+                0x0000000001f90070                z80op_or_a
+                0x0000000001f9009c                z80op_cp_b
+                0x0000000001f900ec                z80op_cp_c
+                0x0000000001f9013c                z80op_cp_d
+                0x0000000001f9018c                z80op_cp_e
+                0x0000000001f901dc                z80op_cp_h
+                0x0000000001f9022c                z80op_cp_l
+                0x0000000001f9027c                z80op_cp_a
+                0x0000000001f902b8                z80op_add_a_ihl
+                0x0000000001f90314                z80op_adc_a_ihl
+                0x0000000001f90380                z80op_sub_ihl
+                0x0000000001f903dc                z80op_sbc_a_ihl
+                0x0000000001f90448                z80op_and_ihl
+                0x0000000001f90488                z80op_xor_ihl
+                0x0000000001f904c4                z80op_or_ihl
+                0x0000000001f90500                z80op_cp_ihl
+                0x0000000001f90554                z80op_add_a_ixh
+                0x0000000001f905ac                z80op_add_a_ixl
+                0x0000000001f90604                z80op_adc_a_ixh
+                0x0000000001f90674                z80op_adc_a_ixl
+                0x0000000001f906e4                z80op_sub_ixh
+                0x0000000001f9073c                z80op_sub_ixl
+                0x0000000001f90794                z80op_sbc_a_ixh
+                0x0000000001f90804                z80op_sbc_a_ixl
+                0x0000000001f90874                z80op_and_ixh
+                0x0000000001f908b0                z80op_and_ixl
+                0x0000000001f908ec                z80op_xor_ixh
+                0x0000000001f90924                z80op_xor_ixl
+                0x0000000001f9095c                z80op_or_ixh
+                0x0000000001f90994                z80op_or_ixl
+                0x0000000001f909cc                z80op_cp_ixh
+                0x0000000001f90a1c                z80op_cp_ixl
+                0x0000000001f90a6c                z80op_add_a_iixd
+                0x0000000001f90ae8                z80op_adc_a_iixd
+                0x0000000001f90b70                z80op_sub_iixd
+                0x0000000001f90bec                z80op_sbc_a_iixd
+                0x0000000001f90c78                z80op_and_iixd
+                0x0000000001f90cd8                z80op_xor_iixd
+                0x0000000001f90d34                z80op_or_iixd
+                0x0000000001f90d90                z80op_cp_iixd
+                0x0000000001f90e04                z80op_add_a_iyh
+                0x0000000001f90e5c                z80op_add_a_iyl
+                0x0000000001f90eb4                z80op_adc_a_iyh
+                0x0000000001f90f24                z80op_adc_a_iyl
+                0x0000000001f90f94                z80op_sub_iyh
+                0x0000000001f90fec                z80op_sub_iyl
+                0x0000000001f91044                z80op_sbc_a_iyh
+                0x0000000001f910b4                z80op_sbc_a_iyl
+                0x0000000001f91124                z80op_and_iyh
+                0x0000000001f91160                z80op_and_iyl
+                0x0000000001f9119c                z80op_xor_iyh
+                0x0000000001f911d4                z80op_xor_iyl
+                0x0000000001f9120c                z80op_or_iyh
+                0x0000000001f91244                z80op_or_iyl
+                0x0000000001f9127c                z80op_cp_iyh
+                0x0000000001f912cc                z80op_cp_iyl
+                0x0000000001f9131c                z80op_add_a_iiyd
+                0x0000000001f91398                z80op_adc_a_iiyd
+                0x0000000001f91420                z80op_sub_iiyd
+                0x0000000001f9149c                z80op_sbc_a_iiyd
+                0x0000000001f91528                z80op_and_iiyd
+                0x0000000001f91588                z80op_xor_iiyd
+                0x0000000001f915e4                z80op_or_iiyd
+                0x0000000001f91640                z80op_cp_iiyd
+ .text          0x0000000001f916b4     0x2e50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op4.o
+                0x0000000001f916b4                z80op_ret_nz
+                0x0000000001f91718                z80op_ret_z
+                0x0000000001f9177c                z80op_ret_nc
+                0x0000000001f917e0                z80op_ret_c
+                0x0000000001f91844                z80op_ret_po
+                0x0000000001f918a8                z80op_ret_pe
+                0x0000000001f9190c                z80op_ret_p
+                0x0000000001f91968                z80op_ret_m
+                0x0000000001f919cc                z80op_pop_bc
+                0x0000000001f91a14                z80op_pop_de
+                0x0000000001f91a5c                z80op_pop_hl
+                0x0000000001f91aa4                z80op_pop_af
+                0x0000000001f91aec                z80op_ret
+                0x0000000001f91b34                z80op_exx
+                0x0000000001f91b84                z80op_jp_hl
+                0x0000000001f91ba4                z80op_ld_sp_hl
+                0x0000000001f91bc4                z80op_jp_nz_nn
+                0x0000000001f91c24                z80op_jp_z_nn
+                0x0000000001f91c84                z80op_jp_nc_nn
+                0x0000000001f91ce4                z80op_jp_c_nn
+                0x0000000001f91d44                z80op_jp_po_nn
+                0x0000000001f91da4                z80op_jp_pe_nn
+                0x0000000001f91e04                z80op_jp_p_nn
+                0x0000000001f91e64                z80op_jp_m_nn
+                0x0000000001f91ec4                z80op_jp_nn
+                0x0000000001f91f04                z80op_out_in_a
+                0x0000000001f91f9c                z80op_in_a_in
+                0x0000000001f92060                z80op_ex_isp_hl
+                0x0000000001f921c8                z80op_ex_de_hl
+                0x0000000001f921f0                z80op_di
+                0x0000000001f9225c                z80op_ei
+                0x0000000001f92280                z80op_call_nz_nn
+                0x0000000001f923dc                z80op_call_z_nn
+                0x0000000001f92538                z80op_call_nc_nn
+                0x0000000001f92694                z80op_call_c_nn
+                0x0000000001f927f0                z80op_call_po_nn
+                0x0000000001f9294c                z80op_call_pe_nn
+                0x0000000001f92aa8                z80op_call_p_nn
+                0x0000000001f92c04                z80op_call_m_nn
+                0x0000000001f92d60                z80op_push_bc
+                0x0000000001f92e78                z80op_push_de
+                0x0000000001f92f90                z80op_push_hl
+                0x0000000001f930a8                z80op_push_af
+                0x0000000001f931c0                z80op_call_nn
+                0x0000000001f932f8                z80op_add_a_n
+                0x0000000001f93360                z80op_adc_a_n
+                0x0000000001f933d8                z80op_sub_n
+                0x0000000001f93440                z80op_sbc_a_n
+                0x0000000001f934b8                z80op_and_n
+                0x0000000001f93504                z80op_xor_n
+                0x0000000001f9354c                z80op_or_n
+                0x0000000001f93594                z80op_cp_n
+                0x0000000001f935f4                z80op_rst_00
+                0x0000000001f93714                z80op_rst_08
+                0x0000000001f93834                z80op_rst_10
+                0x0000000001f93954                z80op_rst_18
+                0x0000000001f93a74                z80op_rst_20
+                0x0000000001f93b94                z80op_rst_28
+                0x0000000001f93cb4                z80op_rst_30
+                0x0000000001f93dd4                z80op_rst_38
+                0x0000000001f93ef4                z80op_pop_ix
+                0x0000000001f93f3c                z80op_push_ix
+                0x0000000001f94054                z80op_jp_ix
+                0x0000000001f94074                z80op_ld_sp_ix
+                0x0000000001f94094                z80op_ex_isp_ix
+                0x0000000001f941fc                z80op_pop_iy
+                0x0000000001f94244                z80op_push_iy
+                0x0000000001f9435c                z80op_jp_iy
+                0x0000000001f9437c                z80op_ld_sp_iy
+                0x0000000001f9439c                z80op_ex_isp_iy
+ .text          0x0000000001f94504     0x298c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op5.o
+                0x0000000001f94504                z80op_ill_ed
+                0x0000000001f9451c                z80op_in_b_ic
+                0x0000000001f94608                z80op_in_c_ic
+                0x0000000001f946f4                z80op_in_d_ic
+                0x0000000001f947e0                z80op_in_e_ic
+                0x0000000001f948cc                z80op_in_h_ic
+                0x0000000001f949b8                z80op_in_l_ic
+                0x0000000001f94aa4                z80op_in_f_ic
+                0x0000000001f94b68                z80op_in_a_ic
+                0x0000000001f94c54                z80op_out_ic_b
+                0x0000000001f94ccc                z80op_out_ic_c
+                0x0000000001f94d40                z80op_out_ic_d
+                0x0000000001f94db8                z80op_out_ic_e
+                0x0000000001f94e30                z80op_out_ic_h
+                0x0000000001f94ea8                z80op_out_ic_l
+                0x0000000001f94f20                z80op_out_ic_0
+                0x0000000001f94f88                z80op_out_ic_a
+                0x0000000001f95000                z80op_sbc_hl_bc
+                0x0000000001f95080                z80op_sbc_hl_de
+                0x0000000001f95100                z80op_sbc_hl_hl
+                0x0000000001f95174                z80op_sbc_hl_sp
+                0x0000000001f951f4                z80op_adc_hl_bc
+                0x0000000001f95274                z80op_adc_hl_de
+                0x0000000001f952f4                z80op_adc_hl_hl
+                0x0000000001f95368                z80op_adc_hl_sp
+                0x0000000001f953e8                z80op_ld_inn_bc
+                0x0000000001f95534                z80op_ld_inn_de
+                0x0000000001f95680                z80op_ld_inn_hl_ed
+                0x0000000001f957cc                z80op_ld_inn_sp
+                0x0000000001f95918                z80op_ld_bc_inn
+                0x0000000001f9596c                z80op_ld_de_inn
+                0x0000000001f959c0                z80op_ld_hl_inn_ed
+                0x0000000001f95a14                z80op_ld_sp_inn
+                0x0000000001f95a68                z80op_neg
+                0x0000000001f95ab4                z80op_retn
+                0x0000000001f95b04                z80op_reti
+                0x0000000001f95b4c                z80op_im_0
+                0x0000000001f95b6c                z80op_im_1
+                0x0000000001f95b8c                z80op_im_2
+                0x0000000001f95bac                z80op_ld_i_a
+                0x0000000001f95bcc                z80op_ld_r_a
+                0x0000000001f95bf4                z80op_ld_a_i
+                0x0000000001f95c3c                z80op_ld_a_r
+                0x0000000001f95c94                z80op_rrd
+                0x0000000001f95d74                z80op_rld
+                0x0000000001f95e50                z80op_ldi
+                0x0000000001f95f30                z80op_ldd
+                0x0000000001f96010                z80op_ldir
+                0x0000000001f96100                z80op_lddr
+                0x0000000001f961f0                z80op_cpi
+                0x0000000001f96284                z80op_cpd
+                0x0000000001f96318                z80op_cpir
+                0x0000000001f963e8                z80op_cpdr
+                0x0000000001f964b8                z80op_ini
+                0x0000000001f9662c                z80op_ind
+                0x0000000001f967a0                z80op_inir
+                0x0000000001f96938                z80op_indr
+                0x0000000001f96ad0                z80op_outi
+                0x0000000001f96bb4                z80op_outd
+                0x0000000001f96c98                z80op_otir
+                0x0000000001f96d94                z80op_otdr
+ .text          0x0000000001f96e90     0x3d9c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op6.o
+                0x0000000001f96e90                z80op_rlc_b
+                0x0000000001f96ed0                z80op_rlc_c
+                0x0000000001f96f10                z80op_rlc_d
+                0x0000000001f96f50                z80op_rlc_e
+                0x0000000001f96f90                z80op_rlc_h
+                0x0000000001f96fd0                z80op_rlc_l
+                0x0000000001f97010                z80op_rlc_a
+                0x0000000001f97050                z80op_rrc_b
+                0x0000000001f97090                z80op_rrc_c
+                0x0000000001f970d0                z80op_rrc_d
+                0x0000000001f97110                z80op_rrc_e
+                0x0000000001f97150                z80op_rrc_h
+                0x0000000001f97190                z80op_rrc_l
+                0x0000000001f971d0                z80op_rrc_a
+                0x0000000001f97210                z80op_rl_b
+                0x0000000001f97254                z80op_rl_c
+                0x0000000001f97298                z80op_rl_d
+                0x0000000001f972dc                z80op_rl_e
+                0x0000000001f97320                z80op_rl_h
+                0x0000000001f97364                z80op_rl_l
+                0x0000000001f973a8                z80op_rl_a
+                0x0000000001f973ec                z80op_rr_b
+                0x0000000001f97434                z80op_rr_c
+                0x0000000001f9747c                z80op_rr_d
+                0x0000000001f974c4                z80op_rr_e
+                0x0000000001f9750c                z80op_rr_h
+                0x0000000001f97554                z80op_rr_l
+                0x0000000001f9759c                z80op_rr_a
+                0x0000000001f975e4                z80op_sla_b
+                0x0000000001f97620                z80op_sla_c
+                0x0000000001f9765c                z80op_sla_d
+                0x0000000001f97698                z80op_sla_e
+                0x0000000001f976d4                z80op_sla_h
+                0x0000000001f97710                z80op_sla_l
+                0x0000000001f9774c                z80op_sla_a
+                0x0000000001f97788                z80op_sra_b
+                0x0000000001f977cc                z80op_sra_c
+                0x0000000001f97810                z80op_sra_d
+                0x0000000001f97854                z80op_sra_e
+                0x0000000001f97898                z80op_sra_h
+                0x0000000001f978dc                z80op_sra_l
+                0x0000000001f97920                z80op_sra_a
+                0x0000000001f97964                z80op_sll_b
+                0x0000000001f979a4                z80op_sll_c
+                0x0000000001f979e4                z80op_sll_d
+                0x0000000001f97a24                z80op_sll_e
+                0x0000000001f97a64                z80op_sll_h
+                0x0000000001f97aa4                z80op_sll_l
+                0x0000000001f97ae4                z80op_sll_a
+                0x0000000001f97b24                z80op_srl_b
+                0x0000000001f97b60                z80op_srl_c
+                0x0000000001f97b9c                z80op_srl_d
+                0x0000000001f97bd8                z80op_srl_e
+                0x0000000001f97c14                z80op_srl_h
+                0x0000000001f97c50                z80op_srl_l
+                0x0000000001f97c8c                z80op_srl_a
+                0x0000000001f97cc8                z80op_rlc_ihl
+                0x0000000001f97d90                z80op_rrc_ihl
+                0x0000000001f97e58                z80op_rl_ihl
+                0x0000000001f97f24                z80op_rr_ihl
+                0x0000000001f97ff4                z80op_sla_ihl
+                0x0000000001f980b8                z80op_sra_ihl
+                0x0000000001f98184                z80op_sll_ihl
+                0x0000000001f9824c                z80op_srl_ihl
+                0x0000000001f98310                z80op_bit_0_b
+                0x0000000001f98350                z80op_bit_0_c
+                0x0000000001f98390                z80op_bit_0_d
+                0x0000000001f983d0                z80op_bit_0_e
+                0x0000000001f98410                z80op_bit_0_h
+                0x0000000001f98450                z80op_bit_0_l
+                0x0000000001f98490                z80op_bit_0_a
+                0x0000000001f984d0                z80op_bit_1_b
+                0x0000000001f98510                z80op_bit_1_c
+                0x0000000001f98550                z80op_bit_1_d
+                0x0000000001f98590                z80op_bit_1_e
+                0x0000000001f985d0                z80op_bit_1_h
+                0x0000000001f98610                z80op_bit_1_l
+                0x0000000001f98650                z80op_bit_1_a
+                0x0000000001f98690                z80op_bit_2_b
+                0x0000000001f986d0                z80op_bit_2_c
+                0x0000000001f98710                z80op_bit_2_d
+                0x0000000001f98750                z80op_bit_2_e
+                0x0000000001f98790                z80op_bit_2_h
+                0x0000000001f987d0                z80op_bit_2_l
+                0x0000000001f98810                z80op_bit_2_a
+                0x0000000001f98850                z80op_bit_3_b
+                0x0000000001f98890                z80op_bit_3_c
+                0x0000000001f988d0                z80op_bit_3_d
+                0x0000000001f98910                z80op_bit_3_e
+                0x0000000001f98950                z80op_bit_3_h
+                0x0000000001f98990                z80op_bit_3_l
+                0x0000000001f989d0                z80op_bit_3_a
+                0x0000000001f98a10                z80op_bit_4_b
+                0x0000000001f98a50                z80op_bit_4_c
+                0x0000000001f98a90                z80op_bit_4_d
+                0x0000000001f98ad0                z80op_bit_4_e
+                0x0000000001f98b10                z80op_bit_4_h
+                0x0000000001f98b50                z80op_bit_4_l
+                0x0000000001f98b90                z80op_bit_4_a
+                0x0000000001f98bd0                z80op_bit_5_b
+                0x0000000001f98c10                z80op_bit_5_c
+                0x0000000001f98c50                z80op_bit_5_d
+                0x0000000001f98c90                z80op_bit_5_e
+                0x0000000001f98cd0                z80op_bit_5_h
+                0x0000000001f98d10                z80op_bit_5_l
+                0x0000000001f98d50                z80op_bit_5_a
+                0x0000000001f98d90                z80op_bit_6_b
+                0x0000000001f98dcc                z80op_bit_6_c
+                0x0000000001f98e08                z80op_bit_6_d
+                0x0000000001f98e44                z80op_bit_6_e
+                0x0000000001f98e80                z80op_bit_6_h
+                0x0000000001f98ebc                z80op_bit_6_l
+                0x0000000001f98ef8                z80op_bit_6_a
+                0x0000000001f98f34                z80op_bit_7_b
+                0x0000000001f98f70                z80op_bit_7_c
+                0x0000000001f98fac                z80op_bit_7_d
+                0x0000000001f98fe8                z80op_bit_7_e
+                0x0000000001f99024                z80op_bit_7_h
+                0x0000000001f99060                z80op_bit_7_l
+                0x0000000001f9909c                z80op_bit_7_a
+                0x0000000001f990d8                z80op_bit_0_ihl
+                0x0000000001f99120                z80op_bit_1_ihl
+                0x0000000001f99168                z80op_bit_2_ihl
+                0x0000000001f991b0                z80op_bit_3_ihl
+                0x0000000001f991f8                z80op_bit_4_ihl
+                0x0000000001f99240                z80op_bit_5_ihl
+                0x0000000001f99288                z80op_bit_6_ihl
+                0x0000000001f992cc                z80op_bit_7_ihl
+                0x0000000001f99310                z80op_res_0_b
+                0x0000000001f99334                z80op_res_0_c
+                0x0000000001f99358                z80op_res_0_d
+                0x0000000001f9937c                z80op_res_0_e
+                0x0000000001f993a0                z80op_res_0_h
+                0x0000000001f993c4                z80op_res_0_l
+                0x0000000001f993e8                z80op_res_0_a
+                0x0000000001f9940c                z80op_res_1_b
+                0x0000000001f99430                z80op_res_1_c
+                0x0000000001f99454                z80op_res_1_d
+                0x0000000001f99478                z80op_res_1_e
+                0x0000000001f9949c                z80op_res_1_h
+                0x0000000001f994c0                z80op_res_1_l
+                0x0000000001f994e4                z80op_res_1_a
+                0x0000000001f99508                z80op_res_2_b
+                0x0000000001f9952c                z80op_res_2_c
+                0x0000000001f99550                z80op_res_2_d
+                0x0000000001f99574                z80op_res_2_e
+                0x0000000001f99598                z80op_res_2_h
+                0x0000000001f995bc                z80op_res_2_l
+                0x0000000001f995e0                z80op_res_2_a
+                0x0000000001f99604                z80op_res_3_b
+                0x0000000001f99628                z80op_res_3_c
+                0x0000000001f9964c                z80op_res_3_d
+                0x0000000001f99670                z80op_res_3_e
+                0x0000000001f99694                z80op_res_3_h
+                0x0000000001f996b8                z80op_res_3_l
+                0x0000000001f996dc                z80op_res_3_a
+                0x0000000001f99700                z80op_res_4_b
+                0x0000000001f99724                z80op_res_4_c
+                0x0000000001f99748                z80op_res_4_d
+                0x0000000001f9976c                z80op_res_4_e
+                0x0000000001f99790                z80op_res_4_h
+                0x0000000001f997b4                z80op_res_4_l
+                0x0000000001f997d8                z80op_res_4_a
+                0x0000000001f997fc                z80op_res_5_b
+                0x0000000001f99820                z80op_res_5_c
+                0x0000000001f99844                z80op_res_5_d
+                0x0000000001f99868                z80op_res_5_e
+                0x0000000001f9988c                z80op_res_5_h
+                0x0000000001f998b0                z80op_res_5_l
+                0x0000000001f998d4                z80op_res_5_a
+                0x0000000001f998f8                z80op_res_6_b
+                0x0000000001f9991c                z80op_res_6_c
+                0x0000000001f99940                z80op_res_6_d
+                0x0000000001f99964                z80op_res_6_e
+                0x0000000001f99988                z80op_res_6_h
+                0x0000000001f999ac                z80op_res_6_l
+                0x0000000001f999d0                z80op_res_6_a
+                0x0000000001f999f4                z80op_res_7_b
+                0x0000000001f99a18                z80op_res_7_c
+                0x0000000001f99a3c                z80op_res_7_d
+                0x0000000001f99a60                z80op_res_7_e
+                0x0000000001f99a84                z80op_res_7_h
+                0x0000000001f99aa8                z80op_res_7_l
+                0x0000000001f99acc                z80op_res_7_a
+                0x0000000001f99af0                z80op_res_0_ihl
+                0x0000000001f99b84                z80op_res_1_ihl
+                0x0000000001f99c18                z80op_res_2_ihl
+                0x0000000001f99cac                z80op_res_3_ihl
+                0x0000000001f99d40                z80op_res_4_ihl
+                0x0000000001f99dd4                z80op_res_5_ihl
+                0x0000000001f99e68                z80op_res_6_ihl
+                0x0000000001f99efc                z80op_res_7_ihl
+                0x0000000001f99f90                z80op_set_0_b
+                0x0000000001f99fb4                z80op_set_0_c
+                0x0000000001f99fd8                z80op_set_0_d
+                0x0000000001f99ffc                z80op_set_0_e
+                0x0000000001f9a020                z80op_set_0_h
+                0x0000000001f9a044                z80op_set_0_l
+                0x0000000001f9a068                z80op_set_0_a
+                0x0000000001f9a08c                z80op_set_1_b
+                0x0000000001f9a0b0                z80op_set_1_c
+                0x0000000001f9a0d4                z80op_set_1_d
+                0x0000000001f9a0f8                z80op_set_1_e
+                0x0000000001f9a11c                z80op_set_1_h
+                0x0000000001f9a140                z80op_set_1_l
+                0x0000000001f9a164                z80op_set_1_a
+                0x0000000001f9a188                z80op_set_2_b
+                0x0000000001f9a1ac                z80op_set_2_c
+                0x0000000001f9a1d0                z80op_set_2_d
+                0x0000000001f9a1f4                z80op_set_2_e
+                0x0000000001f9a218                z80op_set_2_h
+                0x0000000001f9a23c                z80op_set_2_l
+                0x0000000001f9a260                z80op_set_2_a
+                0x0000000001f9a284                z80op_set_3_b
+                0x0000000001f9a2a8                z80op_set_3_c
+                0x0000000001f9a2cc                z80op_set_3_d
+                0x0000000001f9a2f0                z80op_set_3_e
+                0x0000000001f9a314                z80op_set_3_h
+                0x0000000001f9a338                z80op_set_3_l
+                0x0000000001f9a35c                z80op_set_3_a
+                0x0000000001f9a380                z80op_set_4_b
+                0x0000000001f9a3a4                z80op_set_4_c
+                0x0000000001f9a3c8                z80op_set_4_d
+                0x0000000001f9a3ec                z80op_set_4_e
+                0x0000000001f9a410                z80op_set_4_h
+                0x0000000001f9a434                z80op_set_4_l
+                0x0000000001f9a458                z80op_set_4_a
+                0x0000000001f9a47c                z80op_set_5_b
+                0x0000000001f9a4a0                z80op_set_5_c
+                0x0000000001f9a4c4                z80op_set_5_d
+                0x0000000001f9a4e8                z80op_set_5_e
+                0x0000000001f9a50c                z80op_set_5_h
+                0x0000000001f9a530                z80op_set_5_l
+                0x0000000001f9a554                z80op_set_5_a
+                0x0000000001f9a578                z80op_set_6_b
+                0x0000000001f9a59c                z80op_set_6_c
+                0x0000000001f9a5c0                z80op_set_6_d
+                0x0000000001f9a5e4                z80op_set_6_e
+                0x0000000001f9a608                z80op_set_6_h
+                0x0000000001f9a62c                z80op_set_6_l
+                0x0000000001f9a650                z80op_set_6_a
+                0x0000000001f9a674                z80op_set_7_b
+                0x0000000001f9a69c                z80op_set_7_c
+                0x0000000001f9a6c4                z80op_set_7_d
+                0x0000000001f9a6ec                z80op_set_7_e
+                0x0000000001f9a714                z80op_set_7_h
+                0x0000000001f9a73c                z80op_set_7_l
+                0x0000000001f9a764                z80op_set_7_a
+                0x0000000001f9a78c                z80op_set_0_ihl
+                0x0000000001f9a820                z80op_set_1_ihl
+                0x0000000001f9a8b4                z80op_set_2_ihl
+                0x0000000001f9a948                z80op_set_3_ihl
+                0x0000000001f9a9dc                z80op_set_4_ihl
+                0x0000000001f9aa70                z80op_set_5_ihl
+                0x0000000001f9ab04                z80op_set_6_ihl
+                0x0000000001f9ab98                z80op_set_7_ihl
+ .text          0x0000000001f9ac2c      0x564 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_step.o
+                0x0000000001f9ac2c                z80_pushpc
+                0x0000000001f9ad48                z80_local_init
+                0x0000000001f9b0e4                z80_step
+ .text          0x0000000001f9b190      0x1d8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80optab.o
+                0x0000000001f9b190                z80op_special_cb
+                0x0000000001f9b1d0                z80op_special_dd
+                0x0000000001f9b218                z80op_special_ed
+                0x0000000001f9b254                z80op_special_fd
+                0x0000000001f9b29c                z80op_special_xx
+                0x0000000001f9b2c0                z80op_special_dd_cb
+                0x0000000001f9b314                z80op_special_fd_cb
+ .text          0x0000000001f9b368      0x3f4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox.o
+                0x0000000001f9b368                plugin_start
+                0x0000000001f9b410                init_spect_key
+                0x0000000001f9b424                spkb_process_events
+                0x0000000001f9b6f0                press_key
+ .text          0x0000000001f9b75c      0xcb0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox_keyb.o
+                0x0000000001f9b75c                zx_kbd_input
+ .text          0x0000000001f9c40c      0x2b4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxvid_16bpp.o
+                0x0000000001f9c40c                init_spect_scr
+                0x0000000001f9c4d4                update_screen
+ .text          0x0000000001f9c6c0      0x214 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f9c6d8                plugin__start
+                0x0000000001f9c828                rb_atexit
+                0x0000000001f9c848                exit
+                0x0000000001f9c868                _exit
+                0x0000000001f9c880                exit_on_usb
+ .text.get_cfg_filename.constprop.1
+                0x0000000001f9c8d4       0x98 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text.configfile_save
+                0x0000000001f9c96c      0x15c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                0x0000000001f9c96c                configfile_save
+ .text.configfile_load
+                0x0000000001f9cac8      0x248 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                0x0000000001f9cac8                configfile_load
+ .text          0x0000000001f9cd10       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                0x0000000001f9cd10                setjmp
+                0x0000000001f9cd1c                longjmp
+ .text          0x0000000001f9cd2c      0x114 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                0x0000000001f9cd2c                __udivsi3
+                0x0000000001f9cd2c                __aeabi_uidiv
+                0x0000000001f9ce20                __aeabi_uidivmod
+ .text          0x0000000001f9ce40      0x148 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                0x0000000001f9ce40                __aeabi_idiv
+                0x0000000001f9ce40                __divsi3
+                0x0000000001f9cf68                __aeabi_idivmod
+ .text          0x0000000001f9cf88        0x4 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                0x0000000001f9cf88                __aeabi_ldiv0
+                0x0000000001f9cf88                __aeabi_idiv0
+ *(.glue_7)
+ .glue_7        0x0000000001f9cf8c        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001f9cf8c        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001f9cf8c        0x0
+ .vfp11_veneer  0x0000000001f9cf8c        0x0 linker stubs
+
+.v4_bx          0x0000000001f9cf8c        0x0
+ .v4_bx         0x0000000001f9cf8c        0x0 linker stubs
+
+.iplt           0x0000000001f9cf8c        0x0
+ .iplt          0x0000000001f9cf8c        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/compr.o
+
+.rodata         0x0000000001f9cf8c     0x1092
+ *(.rodata*)
+ .rodata        0x0000000001f9cf8c        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/loadim.o
+                0x0000000001f9cf8c                loadim_size
+ .rodata.str1.4
+                0x0000000001f9cf90      0x281 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/snapshot.o
+ *fill*         0x0000000001f9d211        0x3 
+ .rodata        0x0000000001f9d214       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spconf.o
+ .rodata.str1.4
+                0x0000000001f9d250        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spconf.o
+                                         0x10 (size before relaxing)
+ .rodata        0x0000000001f9d258        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spkey.o
+ .rodata.str1.4
+                0x0000000001f9d260       0x7a /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spkey.o
+ *fill*         0x0000000001f9d2da        0x2 
+ .rodata        0x0000000001f9d2dc       0x70 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spmain.o
+ .rodata.str1.4
+                0x0000000001f9d34c      0x214 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spmain.o
+ .rodata.str1.4
+                0x0000000001f9d560       0xd3 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/sptape.o
+ *fill*         0x0000000001f9d633        0x1 
+ .rodata        0x0000000001f9d634      0x600 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/tapefile.o
+ .rodata.str1.4
+                0x0000000001f9dc34      0x2dc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/tapefile.o
+ .rodata.str1.4
+                0x0000000001f9df10       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox.o
+ *fill*         0x0000000001f9df21        0x3 
+ .rodata.str1.4
+                0x0000000001f9df24       0x2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox_keyb.o
+ .rodata        0x0000000001f9df50       0x80 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxvid_16bpp.o
+ .rodata.str1.4
+                0x0000000001f9dfd0        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxvid_16bpp.o
+                                          0x6 (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f9dfd8       0x46 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+
+.rel.dyn        0x0000000001f9e020        0x0
+ .rel.iplt      0x0000000001f9e020        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/compr.o
+
+.data           0x0000000001f9e020     0x674c
+ *(.data*)
+ .data          0x0000000001f9e020      0x4b4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/loadim.o
+                0x0000000001f9e020                loadim
+ .data          0x0000000001f9e4d4     0x4000 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/rom_imag.o
+                0x0000000001f9e4d4                rom_imag
+ .data          0x0000000001fa24d4       0x15 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/snapshot.o
+ *fill*         0x0000000001fa24e9        0x3 
+ .data          0x0000000001fa24ec        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spconf.o
+ .data          0x0000000001fa24f0      0xce8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spkey.o
+                0x0000000001fa2ef0                spkb_trueshift
+                0x0000000001fa2f80                cursor_type
+                0x0000000001fa31c8                spkb_funcshift
+                0x0000000001fa31d4                spkb_allow_ascii
+ .data          0x0000000001fa31d8      0x164 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spmain.o
+                0x0000000001fa3280                load_immed
+ .data          0x0000000001fa333c        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+                0x0000000001fa333c                sp_quick_load
+ .data          0x0000000001fa3340        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spscr.o
+                0x0000000001fa3340                accept_keys
+                0x0000000001fa3344                screen_visible
+ .data          0x0000000001fa3348        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spsound.o
+                0x0000000001fa334c                sound_on
+                0x0000000001fa3350                bufframes
+ .data          0x0000000001fa3354        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/sptape.o
+                0x0000000001fa3358                spt_auto_stop
+ .data          0x0000000001fa335c        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/tapefile.o
+ .data          0x0000000001fa3368     0x1400 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80optab.o
+                0x0000000001fa3368                z80c_op_tab_cb
+                0x0000000001fa3768                z80c_op_tab_dd
+                0x0000000001fa3b68                z80c_op_tab_ed
+                0x0000000001fa3f68                z80c_op_tab_fd
+                0x0000000001fa4368                z80c_op_tab
+ .data          0x0000000001fa4768        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001fa4768                rb
+
+.igot.plt       0x0000000001fa476c        0x0
+ .igot.plt      0x0000000001fa476c        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/compr.o
+
+.ncdata         0x0000000011fa476c        0x4 load address 0x0000000001fa476c
+                0x0000000011fa4770                . = ALIGN (0x10)
+ *fill*         0x0000000011fa476c        0x4 
+ *(.ncdata*)
+                0x0000000011fa4770                . = ALIGN (0x10)
+                0x0000000001fa4770                bssaddr = (. - 0x10000000)
+                0x0000000001fa4770                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001fa4770    0x1d360
+                0x0000000001fa4770                plugin_bss_start = .
+                0x0000000001fa4770                _plugin_bss_start = .
+ *(.bss*)
+ .bss           0x0000000001fa4770        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/helpers.o
+ .bss           0x0000000001fa4778        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/snapshot.o
+ .bss           0x0000000001fa4780        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spconf.o
+                0x0000000001fa4784                spcf_init_snapshot
+                0x0000000001fa4788                spcf_init_tapefile
+ .bss           0x0000000001fa478c     0x141c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spkey.o
+                0x0000000001fa5b94                keyboard_type
+ .bss           0x0000000001fa5ba8       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spmain.o
+ .bss           0x0000000001fa5bc8        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+                0x0000000001fa5bc8                sp_playing_tape
+ .bss           0x0000000001fa5bcc       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spsound.o
+                0x0000000001fa5bcc                doneplay
+                0x0000000001fa5bd0                sound_avail
+                0x0000000001fa5bdc                sound_to_autoclose
+ .bss           0x0000000001fa5be0      0xc2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/sptape.o
+ .bss           0x0000000001fa680c      0x44e /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/tapefile.o
+ *fill*         0x0000000001fa6c5a        0x2 
+ .bss           0x0000000001fa6c5c        0xd /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox.o
+                0x0000000001fa6c5c                exit_requested
+                0x0000000001fa6c64                use_shm
+                0x0000000001fa6c68                clear_kbd
+ *fill*         0x0000000001fa6c69        0x3 
+ .bss           0x0000000001fa6c6c        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxvid_16bpp.o
+ .bss           0x0000000001fa6c70       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ *(COMMON)
+ COMMON         0x0000000001fa6cd0      0xc00 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/interf.o
+                0x0000000001fa6cd0                msgbuf
+                0x0000000001fa74d0                filenamebuf
+ COMMON         0x0000000001fa78d0        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spconf.o
+                0x0000000001fa78d0                spcf_init_tapefile_type
+                0x0000000001fa78d4                spcf_init_snapshot_type
+ COMMON         0x0000000001fa78d8     0x1024 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spkey.o
+                0x0000000001fa78d8                spkb_kbstate
+                0x0000000001fa88d8                spkey_state
+                0x0000000001fa88e0                spmisc_state
+                0x0000000001fa88e8                spkb_state_changed
+                0x0000000001fa88ec                spkb_last
+ COMMON         0x0000000001fa88fc     0x52b0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+                0x0000000001fa88fc                sp_scr_f1_table
+                0x0000000001fa8900                sp_updating
+                0x0000000001fa8904                sp_imag_mark
+                0x0000000001fa8c04                sp_imag_vert
+                0x0000000001fa8c08                sp_imag_horiz
+                0x0000000001fa8c0c                sp_border_update
+                0x0000000001fa8c10                sp_scr_mark
+                0x0000000001faac10                sp_fe_outport_time
+                0x0000000001fab010                sp_image
+                0x0000000001fab014                sp_flash_state
+                0x0000000001fab018                sp_scr_f0_table
+                0x0000000001fab01c                sp_scri
+                0x0000000001fac01c                sp_tape_impinfo
+                0x0000000001fac41c                sp_scline
+                0x0000000001fac420                sp_sound_buf
+                0x0000000001fac820                sp_fe_inport_default
+                0x0000000001fac824                sp_coli
+                0x0000000001fad824                sp_fe_inport_high
+                0x0000000001fad924                sp_colors
+                0x0000000001fad934                sp_lastborder
+                0x0000000001fad938                sp_tape_sound
+                0x0000000001fadba8                sp_load_trapped
+ COMMON         0x0000000001fadbac     0x3a80 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spsound.o
+                0x0000000001fadbac                my_buf
+ COMMON         0x0000000001fb162c        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/sptiming.o
+                0x0000000001fb162c                shouldbe_tick
+ COMMON         0x0000000001fb1630      0x130 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/tapefile.o
+                0x0000000001fb1630                tf_tpi
+                0x0000000001fb163c                tf_cseg
+                0x0000000001fb165c                tf_segoffs
+                0x0000000001fb1660                seg_desc
+ COMMON         0x0000000001fb1760      0x500 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_step.o
+                0x0000000001fb1760                z80c_decf_tbl
+                0x0000000001fb1860                z80c_subf_tbl
+                0x0000000001fb1960                z80c_incf_tbl
+                0x0000000001fb1a60                z80c_orf_tbl
+                0x0000000001fb1b60                z80c_addf_tbl
+ COMMON         0x0000000001fb1c60     0xfa38 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox.o
+                0x0000000001fb1c60                privatemap
+                0x0000000001fb1c64                image_array
+                0x0000000001fc1664                settings
+                0x0000000001fc1684                small_screen
+                0x0000000001fc1688                kb_mkey
+                0x0000000001fc1690                vga_pause_bg
+                0x0000000001fc1694                pause_on_iconify
+ COMMON         0x0000000001fc1698      0x438 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox_keyb.o
+                0x0000000001fc1698                param
+                0x0000000001fc1ad0                . = ALIGN (0x4)
+
+.ncbss          0x0000000011fc1ad0        0x0 load address 0x0000000001fc1ad0
+                0x0000000011fc1ad0                . = ALIGN (0x10)
+ *(.ncbss*)
+                0x0000000011fc1ad0                . = ALIGN (0x10)
+                0x0000000001fc1ad0                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001fc1ad0        0x0
+                0x0000000001fc1ad0                _plugin_end_addr = .
+                0x0000000001fc1ad0                plugin_end_addr = .
+
+.iram           0x000000004000c000        0x0 load address 0x0000000001fa4770
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ *(.irodata)
+ *(.idata)
+                0x000000004000c000                iramend = .
+
+.ibss           0x000000004000c000      0x29c
+                0x000000004000c000                iedata = .
+ *(.ibss)
+ .ibss          0x000000004000c000       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spmain.o
+                0x000000004000c000                showframe
+                0x000000004000c004                intkeys
+                0x000000004000c018                sp_int_ctr
+                0x000000004000c01c                endofsingle
+                0x000000004000c020                sp_nosync
+ .ibss          0x000000004000c024      0x270 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80.o
+                0x000000004000c024                z80_proc
+                0x000000004000c094                z80_inports
+                0x000000004000c194                z80_outports
+ .ibss          0x000000004000c294        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox.o
+                0x000000004000c294                start_time
+                0x000000004000c298                video_frames
+                0x000000004000c29c                . = ALIGN (0x4)
+                0x000000004000c29c                iend = .
+                0x0000000001fc1ad0                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001fc1ad0        0x0
+                0x0000000001fc1ad0                _plugin_load_end_addr = .
+                0x0000000001fc1ad0                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/compr.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/helpers.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/interf.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/keynames.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/loadim.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxmisc.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/rom_imag.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/snapshot.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spconf.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spect.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spkey.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spmain.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spscr.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spsound.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/sptape.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/sptiming.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/tapefile.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op1.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op2.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op3.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op4.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op5.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op6.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_step.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80optab.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox_keyb.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxvid_16bpp.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+OUTPUT(/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2e
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/compr.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/helpers.o
+ .ARM.attributes
+                0x0000000000000060       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/interf.o
+ .ARM.attributes
+                0x0000000000000090       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/keynames.o
+ .ARM.attributes
+                0x00000000000000c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/loadim.o
+ .ARM.attributes
+                0x00000000000000f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxmisc.o
+ .ARM.attributes
+                0x0000000000000120       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/rom_imag.o
+ .ARM.attributes
+                0x0000000000000150       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/snapshot.o
+ .ARM.attributes
+                0x0000000000000180       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spconf.o
+ .ARM.attributes
+                0x00000000000001b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spect.o
+ .ARM.attributes
+                0x00000000000001e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spkey.o
+ .ARM.attributes
+                0x0000000000000210       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spmain.o
+ .ARM.attributes
+                0x0000000000000240       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spperif.o
+ .ARM.attributes
+                0x0000000000000270       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spscr.o
+ .ARM.attributes
+                0x00000000000002a0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/spsound.o
+ .ARM.attributes
+                0x00000000000002d0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/sptape.o
+ .ARM.attributes
+                0x0000000000000300       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/sptiming.o
+ .ARM.attributes
+                0x0000000000000330       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/tapefile.o
+ .ARM.attributes
+                0x0000000000000360       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80.o
+ .ARM.attributes
+                0x0000000000000390       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op1.o
+ .ARM.attributes
+                0x00000000000003c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op2.o
+ .ARM.attributes
+                0x00000000000003f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op3.o
+ .ARM.attributes
+                0x0000000000000420       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op4.o
+ .ARM.attributes
+                0x0000000000000450       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op5.o
+ .ARM.attributes
+                0x0000000000000480       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_op6.o
+ .ARM.attributes
+                0x00000000000004b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80_step.o
+ .ARM.attributes
+                0x00000000000004e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/z80optab.o
+ .ARM.attributes
+                0x0000000000000510       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox.o
+ .ARM.attributes
+                0x0000000000000540       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxbox_keyb.o
+ .ARM.attributes
+                0x0000000000000570       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/zxbox/zxvid_16bpp.o
+ .ARM.attributes
+                0x00000000000005a0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .ARM.attributes
+                0x00000000000005d0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .ARM.attributes
+                0x0000000000000600       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .ARM.attributes
+                0x0000000000000620       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000638       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000000000000650       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_frame    0x0000000000000000       0x40
+ .debug_frame   0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+
+.debug_line     0x0000000000000000      0x169
+ .debug_line    0x0000000000000000       0x7e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_line    0x000000000000007e       0x8a /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_line    0x0000000000000108       0x61 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_info     0x0000000000000000      0x198
+ .debug_info    0x0000000000000000       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_info    0x0000000000000088       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_info    0x0000000000000110       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_abbrev   0x0000000000000000       0x3c
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000000014       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000028       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_aranges  0x0000000000000000       0x60
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)

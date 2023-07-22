@@ -1,0 +1,1268 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.o (destroy_memory_pool)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_amf.o (memcpy)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.o (configfile_save)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_669.o (strncpy)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o (setjmp)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mdriver.o (__aeabi_uidiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_med.o (__aeabi_idiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mplayer.o (__aeabi_i2d)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mplayer.o (__aeabi_dmul)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mplayer.o (__aeabi_d2iz)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch2.o (__aeabi_fadd)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch.o (__aeabi_fmul)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch.o (__aeabi_fcmplt)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch.o (__aeabi_ldivmod)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o) (__gnu_ldivmod_helper)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o) (__divdi3)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o) (__udivdi3)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o) (__clzdi2)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o) (__clzsi2)
+
+Allocating common symbols
+Common symbol       size              file
+
+remap               0x40              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlutil.o
+quit                0x1               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.o
+textlines           0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.o
+display             0x1               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.o
+modreader           0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mloader.o
+filtermacros        0x10              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlutil.o
+filters             0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlutil.o
+filtersettings      0x200             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlutil.o
+of                  0x140             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mloader.o
+poslookupcnt        0x2               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlutil.o
+activemacro         0x1               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlutil.o
+gmbuf               0x10000           /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.o
+thread_stack        0x1200            /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.o
+
+Discarded input sections
+
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/drv_nos.o
+ .text          0x0000000000000000       0x18 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mdreg.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mdreg.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mdreg.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mloader.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlreg.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlreg.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmalloc.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmalloc.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmerror.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmio.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmio.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mplayer.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/munitrk.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/npertab.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/npertab.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/npertab.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/sloader.o
+ .text          0x0000000000000000       0x64 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/strdup.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/strdup.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/strdup.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/strstr.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/strstr.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch2.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.get_used_size
+                0x0000000000000000        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.get_max_size
+                0x0000000000000000        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.__div0   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memmove  0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text.configfile_get_value
+                0x0000000000000000       0xfc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text.configfile_update_entry
+                0x0000000000000000      0x150 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .ARM.extab     0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .ARM.extab     0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001f80000 0x0000000000080000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/drv_nos.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_669.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_amf.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_asy.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_dsm.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_far.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_gdm.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_imf.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_it.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_m15.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_med.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_mod.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_mtm.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_okt.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_s3m.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_stm.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_stx.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_ult.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_umx.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_uni.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_xm.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mdreg.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mdriver.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mloader.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlreg.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlutil.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmalloc.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmerror.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmio.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mplayer.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/munitrk.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/npertab.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/sloader.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/strdup.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/strstr.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch2.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch_common.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001f80000       0x1c
+                0x0000000001f80000                _plugin_start_addr = .
+                0x0000000001f80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001f80000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f80000                __header
+
+.text           0x0000000001f8001c    0x292ac
+ *(.text*)
+ .text          0x0000000001f8001c       0x2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/drv_nos.o
+ .text          0x0000000001f80048      0xad8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_669.o
+ .text          0x0000000001f80b20     0x1114 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_amf.o
+ .text          0x0000000001f81c34      0x844 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_asy.o
+ .text          0x0000000001f82478      0xb60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_dsm.o
+ .text          0x0000000001f82fd8      0xacc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_far.o
+ .text          0x0000000001f83aa4      0xf90 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_gdm.o
+ .text          0x0000000001f84a34     0x19f0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_imf.o
+ .text          0x0000000001f86424     0x2264 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_it.o
+ .text.unlikely
+                0x0000000001f88688      0x264 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_it.o
+ .text          0x0000000001f888ec      0xda0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_m15.o
+ .text          0x0000000001f8968c     0x149c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_med.o
+ .text.unlikely
+                0x0000000001f8ab28      0x1f0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_med.o
+ .text          0x0000000001f8ad18      0xf0c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_mod.o
+ .text          0x0000000001f8bc24      0x818 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_mtm.o
+ .text          0x0000000001f8c43c      0xb38 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_okt.o
+ .text          0x0000000001f8cf74      0xecc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_s3m.o
+ .text          0x0000000001f8de40      0xaa8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_stm.o
+ .text          0x0000000001f8e8e8      0xe08 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_stx.o
+ .text          0x0000000001f8f6f0      0x984 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_ult.o
+ .text          0x0000000001f90074      0x9c0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_umx.o
+ .text          0x0000000001f90a34     0x1a2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_uni.o
+ .text          0x0000000001f92460      0x7c8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_xm.o
+ .text.unlikely
+                0x0000000001f92c28     0x1454 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_xm.o
+ .text          0x0000000001f9407c     0x13d4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mdriver.o
+                0x0000000001f941c4                MD_SampleSpace
+                0x0000000001f94218                MD_SampleLength
+                0x0000000001f9426c                MikMod_InfoDriver
+                0x0000000001f94370                _mm_registerdriver
+                0x0000000001f943d0                MikMod_RegisterDriver
+                0x0000000001f943f4                MikMod_DriverFromAlias
+                0x0000000001f94464                MikMod_DriverByOrdinal
+                0x0000000001f944a8                MD_SampleLoad
+                0x0000000001f94524                MD_SampleUnload
+                0x0000000001f94538                MikMod_RegisterPlayer
+                0x0000000001f94550                MikMod_Update
+                0x0000000001f945a4                Voice_SetVolume_internal
+                0x0000000001f9463c                Voice_SetVolume
+                0x0000000001f94640                Voice_GetVolume
+                0x0000000001f94674                Voice_SetFrequency_internal
+                0x0000000001f94694                Voice_SetFrequency
+                0x0000000001f946b4                Voice_GetFrequency
+                0x0000000001f946e8                Voice_SetPanning_internal
+                0x0000000001f94708                Voice_SetPanning
+                0x0000000001f94728                Voice_GetPanning
+                0x0000000001f9475c                Voice_Play_internal
+                0x0000000001f9477c                Voice_Play
+                0x0000000001f947ac                Voice_Stop_internal
+                0x0000000001f947f0                Voice_Stop
+                0x0000000001f947f4                Voice_Stopped_internal
+                0x0000000001f94828                Voice_Stopped
+                0x0000000001f9485c                Voice_GetPosition
+                0x0000000001f948a0                Voice_RealVolume
+                0x0000000001f948d8                VC_SetCallback
+                0x0000000001f948e8                MikMod_Exit_internal
+                0x0000000001f94b00                MikMod_Init
+                0x0000000001f94b04                MikMod_Exit
+                0x0000000001f94b08                MikMod_Reset
+                0x0000000001f94c0c                MikMod_EnableOutput_internal
+                0x0000000001f95008                MikMod_SetNumVoices_internal
+                0x0000000001f95018                MikMod_SetNumVoices
+                0x0000000001f9502c                MikMod_EnableOutput
+                0x0000000001f95030                MikMod_DisableOutput_internal
+                0x0000000001f95048                MikMod_DisableOutput
+                0x0000000001f95060                MikMod_Active_internal
+                0x0000000001f95070                MikMod_Active
+                0x0000000001f95080                Sample_Play
+                0x0000000001f952fc                MikMod_GetVersion
+                0x0000000001f95308                MikMod_InitThreads
+                0x0000000001f95328                MikMod_Unlock
+                0x0000000001f9532c                MikMod_Lock
+                0x0000000001f95330                MD_GetAtom
+ .text          0x0000000001f95450      0xf50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mloader.o
+                0x0000000001f95a04                MikMod_InfoLoader
+                0x0000000001f95aec                _mm_registerloader
+                0x0000000001f95b24                MikMod_RegisterLoader
+                0x0000000001f95b70                ReadComment
+                0x0000000001f95c20                ReadLinedComment
+                0x0000000001f95da8                AllocPositions
+                0x0000000001f95df8                AllocPatterns
+                0x0000000001f95ee4                AllocTracks
+                0x0000000001f95f38                AllocInstruments
+                0x0000000001f95fdc                AllocSamples
+                0x0000000001f96078                DupStr
+                0x0000000001f961a0                Player_Free
+                0x0000000001f961c0                Player_LoadTitleFP
+                0x0000000001f96204                Player_LoadTitleMem
+                0x0000000001f96248                Player_LoadTitleGeneric
+                0x0000000001f96254                Player_LoadTitle
+                0x0000000001f962a8                Player_LoadGeneric
+                0x0000000001f962ac                Player_LoadMem
+                0x0000000001f96300                Player_LoadFP
+                0x0000000001f96354                Player_Load
+ .text          0x0000000001f963a0       0xfc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlreg.o
+                0x0000000001f963a0                MikMod_RegisterAllLoaders
+ .text          0x0000000001f9649c      0x724 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlutil.o
+                0x0000000001f964e8                AllocLinear
+                0x0000000001f96538                FreeLinear
+                0x0000000001f96560                speed_to_finetune
+                0x0000000001f96670                S3MIT_CreateOrders
+                0x0000000001f9675c                UniEffect
+                0x0000000001f96770                UniPTEffect
+                0x0000000001f967a0                S3MIT_ProcessCmd
+                0x0000000001f96b88                UniVolEffect
+ .text          0x0000000001f96bc0      0x10c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmalloc.o
+                0x0000000001f96bc0                MikMod_realloc
+                0x0000000001f96be8                MikMod_calloc
+                0x0000000001f96c40                MikMod_malloc
+                0x0000000001f96c4c                MikMod_free
+                0x0000000001f96c64                MikMod_strdup
+ .text          0x0000000001f96ccc       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmerror.o
+                0x0000000001f96ccc                MikMod_strerror
+                0x0000000001f96ce4                MikMod_RegisterErrorHandler
+ .text          0x0000000001f96cfc      0xeb8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmio.o
+                0x0000000001f97000                _mm_fopen
+                0x0000000001f9706c                _mm_FileExists
+                0x0000000001f970b4                _mm_fclose
+                0x0000000001f970c8                _mm_iobase_setcur
+                0x0000000001f970f0                _mm_iobase_revert
+                0x0000000001f970fc                _mm_new_file_reader
+                0x0000000001f9715c                _mm_delete_file_reader
+                0x0000000001f9716c                _mm_new_file_writer
+                0x0000000001f971bc                _mm_delete_file_writer
+                0x0000000001f971cc                _mm_delete_mem_reader
+                0x0000000001f971dc                _mm_new_mem_reader
+                0x0000000001f9724c                _mm_write_string
+                0x0000000001f97294                _mm_write_M_UWORD
+                0x0000000001f972c8                _mm_write_I_UWORD
+                0x0000000001f972fc                _mm_write_M_ULONG
+                0x0000000001f9736c                _mm_write_I_ULONG
+                0x0000000001f973dc                _mm_write_M_SWORD
+                0x0000000001f97414                _mm_write_I_SWORD
+                0x0000000001f9744c                _mm_write_M_SLONG
+                0x0000000001f97450                _mm_write_I_SLONG
+                0x0000000001f97454                _mm_write_M_SWORDS
+                0x0000000001f974ac                _mm_write_M_UWORDS
+                0x0000000001f97504                _mm_write_I_SWORDS
+                0x0000000001f9755c                _mm_write_I_UWORDS
+                0x0000000001f975b4                _mm_write_M_SLONGS
+                0x0000000001f975ec                _mm_write_M_ULONGS
+                0x0000000001f97624                _mm_write_I_SLONGS
+                0x0000000001f9765c                _mm_write_I_ULONGS
+                0x0000000001f97694                _mm_read_string
+                0x0000000001f976b0                _mm_read_M_UWORD
+                0x0000000001f976ec                _mm_read_I_UWORD
+                0x0000000001f9772c                _mm_read_M_ULONG
+                0x0000000001f977a0                _mm_read_I_ULONG
+                0x0000000001f97810                _mm_read_M_SWORD
+                0x0000000001f97854                _mm_read_I_SWORD
+                0x0000000001f97894                _mm_read_M_SLONG
+                0x0000000001f97898                _mm_read_I_SLONG
+                0x0000000001f9789c                _mm_read_M_SWORDS
+                0x0000000001f97914                _mm_read_M_UWORDS
+                0x0000000001f9798c                _mm_read_I_SWORDS
+                0x0000000001f97a00                _mm_read_I_UWORDS
+                0x0000000001f97a74                _mm_read_M_SLONGS
+                0x0000000001f97ac4                _mm_read_M_ULONGS
+                0x0000000001f97b14                _mm_read_I_SLONGS
+                0x0000000001f97b64                _mm_read_I_ULONGS
+ .text          0x0000000001f97bb4     0x5458 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mplayer.o
+                0x0000000001f9ab54                getlinearperiod
+                0x0000000001f9ab70                getfrequency
+                0x0000000001f9aba4                Player_HandleTick
+                0x0000000001f9c3c4                Player_Init
+                0x0000000001f9c450                Player_SetVolume
+                0x0000000001f9c484                Player_GetModule
+                0x0000000001f9c494                Player_Start
+                0x0000000001f9c520                Player_Stop_internal
+                0x0000000001f9c568                Player_Exit_internal
+                0x0000000001f9c5c0                Player_Exit
+                0x0000000001f9c5c4                Player_Stop
+                0x0000000001f9c5c8                Player_Active
+                0x0000000001f9c600                Player_NextPosition
+                0x0000000001f9c6f0                Player_PrevPosition
+                0x0000000001f9c7dc                Player_SetPosition
+                0x0000000001f9c8f8                Player_Unmute
+                0x0000000001f9ca74                Player_Mute
+                0x0000000001f9cbf4                Player_ToggleMute
+                0x0000000001f9cd88                Player_Muted
+                0x0000000001f9cdc4                Player_GetChannelVoice
+                0x0000000001f9ce08                Player_GetChannelPeriod
+                0x0000000001f9ce4c                Player_Paused_internal
+                0x0000000001f9ce68                Player_Paused
+                0x0000000001f9ce84                Player_TogglePause
+                0x0000000001f9cea4                Player_SetSpeed
+                0x0000000001f9ced4                Player_SetTempo
+                0x0000000001f9cf30                Player_QueryVoices
+                0x0000000001f9cfd4                Player_GetOrder
+                0x0000000001f9cff0                Player_GetRow
+ .text          0x0000000001f9d00c      0x43c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/munitrk.o
+                0x0000000001f9d05c                UniSetRow
+                0x0000000001f9d08c                UniGetByte
+                0x0000000001f9d0b8                UniGetWord
+                0x0000000001f9d11c                UniSkipOpcode
+                0x0000000001f9d19c                UniFindRow
+                0x0000000001f9d1fc                UniReset
+                0x0000000001f9d224                UniWriteByte
+                0x0000000001f9d260                UniWriteWord
+                0x0000000001f9d2ac                UniNewline
+                0x0000000001f9d390                UniDup
+                0x0000000001f9d3f4                UniInit
+                0x0000000001f9d424                UniCleanup
+ .text          0x0000000001f9d448      0xef8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/sloader.o
+                0x0000000001f9d660                SL_Init
+                0x0000000001f9d6c4                SL_Exit
+                0x0000000001f9d708                SL_Load
+                0x0000000001f9e120                SL_RegisterSample
+                0x0000000001f9e1d0                SL_LoadSamples
+                0x0000000001f9e24c                SL_Sample16to8
+                0x0000000001f9e270                SL_Sample8to16
+                0x0000000001f9e294                SL_SampleSigned
+                0x0000000001f9e2b8                SL_SampleUnsigned
+                0x0000000001f9e2dc                SL_HalveSample
+ .text          0x0000000001f9e340       0x94 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/strstr.o
+                0x0000000001f9e340                strstr
+ .text          0x0000000001f9e3d4     0x33bc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch.o
+                0x0000000001f9ed0c                VC1_SilenceBytes
+                0x0000000001f9edac                VC1_Exit
+                0x0000000001f9edec                VC1_VoiceGetVolume
+                0x0000000001f9ee08                VC1_VoiceGetPanning
+                0x0000000001f9ee24                VC1_VoiceSetFrequency
+                0x0000000001f9ee40                VC1_VoiceGetFrequency
+                0x0000000001f9ee5c                VC1_VoicePlay
+                0x0000000001f9eeac                VC1_VoiceStop
+                0x0000000001f9eecc                VC1_VoiceStopped
+                0x0000000001f9eef0                VC1_VoiceGetPosition
+                0x0000000001f9ef18                VC1_VoiceSetVolume
+                0x0000000001f9ef50                VC1_VoiceSetPanning
+                0x0000000001f9ef88                VC1_SampleUnload
+                0x0000000001f9efc4                VC1_SampleLoad
+                0x0000000001f9f1dc                VC1_SampleSpace
+                0x0000000001f9f1e4                VC1_SampleLength
+                0x0000000001f9f214                VC1_VoiceRealVolume
+                0x0000000001f9f2ec                VC1_WriteSamples
+                0x0000000001fa11cc                VC1_WriteBytes
+                0x0000000001fa124c                VC1_Init
+                0x0000000001fa1318                VC1_PlayStart
+                0x0000000001fa1608                VC1_PlayStop
+                0x0000000001fa16e0                VC1_SetNumVoices
+ .text          0x0000000001fa1790     0x3258 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch2.o
+                0x0000000001fa276c                VC2_SilenceBytes
+                0x0000000001fa280c                VC2_Exit
+                0x0000000001fa284c                VC2_VoiceGetVolume
+                0x0000000001fa286c                VC2_VoiceGetPanning
+                0x0000000001fa288c                VC2_VoiceSetFrequency
+                0x0000000001fa28ac                VC2_VoiceGetFrequency
+                0x0000000001fa28cc                VC2_VoicePlay
+                0x0000000001fa2920                VC2_VoiceStop
+                0x0000000001fa2944                VC2_VoiceStopped
+                0x0000000001fa296c                VC2_VoiceGetPosition
+                0x0000000001fa2998                VC2_VoiceSetVolume
+                0x0000000001fa29d4                VC2_VoiceSetPanning
+                0x0000000001fa2a10                VC2_SampleUnload
+                0x0000000001fa2a4c                VC2_SampleLoad
+                0x0000000001fa2c64                VC2_SampleSpace
+                0x0000000001fa2c6c                VC2_SampleLength
+                0x0000000001fa2c9c                VC2_VoiceRealVolume
+                0x0000000001fa2d78                VC2_WriteSamples
+                0x0000000001fa43c0                VC2_WriteBytes
+                0x0000000001fa4440                VC2_Init
+                0x0000000001fa4544                VC2_PlayStart
+                0x0000000001fa4848                VC2_PlayStop
+                0x0000000001fa4920                VC2_SetNumVoices
+ .text          0x0000000001fa49e8      0x384 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch_common.o
+                0x0000000001fa49e8                VC_Init
+                0x0000000001fa49f8                VC_Exit
+                0x0000000001fa4a08                VC_SetNumVoices
+                0x0000000001fa4a18                VC_SampleSpace
+                0x0000000001fa4a28                VC_SampleLength
+                0x0000000001fa4a38                VC_PlayStart
+                0x0000000001fa4a48                VC_PlayStop
+                0x0000000001fa4a58                VC_SampleLoad
+                0x0000000001fa4a68                VC_SampleUnload
+                0x0000000001fa4a78                VC_WriteBytes
+                0x0000000001fa4a88                VC_SilenceBytes
+                0x0000000001fa4a98                VC_VoiceSetVolume
+                0x0000000001fa4aa8                VC_VoiceGetVolume
+                0x0000000001fa4ab8                VC_VoiceSetFrequency
+                0x0000000001fa4ac8                VC_VoiceGetFrequency
+                0x0000000001fa4ad8                VC_VoiceSetPanning
+                0x0000000001fa4ae8                VC_VoiceGetPanning
+                0x0000000001fa4af8                VC_VoicePlay
+                0x0000000001fa4b18                VC_VoiceStop
+                0x0000000001fa4b28                VC_VoiceStopped
+                0x0000000001fa4b38                VC_VoiceGetPosition
+                0x0000000001fa4b48                VC_VoiceRealVolume
+                0x0000000001fa4b58                VC_SetupPointers
+ .text          0x0000000001fa4d6c     0x1a20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.o
+                0x0000000001fa5110                mmsupp_strncat
+                0x0000000001fa518c                mmsupp_sprintf
+                0x0000000001fa51dc                mmsupp_printf
+                0x0000000001fa52b0                plugin_start
+ .text          0x0000000001fa678c      0x214 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001fa67a4                plugin__start
+                0x0000000001fa68f4                rb_atexit
+                0x0000000001fa6914                exit
+                0x0000000001fa6934                _exit
+                0x0000000001fa694c                exit_on_usb
+ .text.ls_bit   0x0000000001fa69a0       0x44 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.ms_bit   0x0000000001fa69e4       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.set_bit  0x0000000001fa6a20       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.clear_bit
+                0x0000000001fa6a3c       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.MAPPING_SEARCH
+                0x0000000001fa6a58       0x8c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.FIND_SUITABLE_BLOCK
+                0x0000000001fa6ae4       0x78 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.process_area
+                0x0000000001fa6b5c       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.MAPPING_INSERT
+                0x0000000001fa6bbc       0x5c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.panicf   0x0000000001fa6c18        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001fa6c18                panicf
+ .text.get_new_area
+                0x0000000001fa6c20        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001fa6c20                get_new_area
+ .text.destroy_memory_pool
+                0x0000000001fa6c28        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001fa6c28                destroy_memory_pool
+ .text.free_ex  0x0000000001fa6c34      0x2a0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001fa6c34                free_ex
+ .text.init_memory_pool
+                0x0000000001fa6ed4       0xcc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001fa6ed4                init_memory_pool
+ .text.add_new_area
+                0x0000000001fa6fa0      0x16c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001fa6fa0                add_new_area
+ .text.malloc_ex
+                0x0000000001fa710c      0x260 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001fa710c                malloc_ex
+ .text.tlsf_malloc
+                0x0000000001fa736c       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001fa736c                tlsf_malloc
+ .text.tlsf_free
+                0x0000000001fa73cc       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001fa73cc                tlsf_free
+ .text.realloc_ex
+                0x0000000001fa73dc      0x3a8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001fa73dc                realloc_ex
+ .text.tlsf_realloc
+                0x0000000001fa7784       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001fa7784                tlsf_realloc
+ .text.calloc_ex
+                0x0000000001fa77a0       0x4c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001fa77a0                calloc_ex
+ .text.tlsf_calloc
+                0x0000000001fa77ec       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001fa77ec                tlsf_calloc
+ .text.memcpy   0x0000000001fa77fc       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001fa77fc                memcpy
+ .text.memset   0x0000000001fa7810       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001fa7810                memset
+ .text.memcmp   0x0000000001fa7824       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001fa7824                memcmp
+ .text.get_cfg_filename.constprop.1
+                0x0000000001fa7838       0x98 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .text.configfile_save
+                0x0000000001fa78d0      0x15c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                0x0000000001fa78d0                configfile_save
+ .text.configfile_load
+                0x0000000001fa7a2c      0x248 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+                0x0000000001fa7a2c                configfile_load
+ .text.strncpy  0x0000000001fa7c74       0x38 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+                0x0000000001fa7c74                strncpy
+ .text          0x0000000001fa7cac       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                0x0000000001fa7cac                setjmp
+                0x0000000001fa7cb8                longjmp
+ .text          0x0000000001fa7cc8      0x114 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                0x0000000001fa7cc8                __udivsi3
+                0x0000000001fa7cc8                __aeabi_uidiv
+                0x0000000001fa7dbc                __aeabi_uidivmod
+ .text          0x0000000001fa7ddc      0x148 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                0x0000000001fa7ddc                __aeabi_idiv
+                0x0000000001fa7ddc                __divsi3
+                0x0000000001fa7f04                __aeabi_idivmod
+ .text          0x0000000001fa7f24        0x4 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                0x0000000001fa7f24                __aeabi_ldiv0
+                0x0000000001fa7f24                __aeabi_idiv0
+ .text          0x0000000001fa7f28      0x41c /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+                0x0000000001fa7f28                __aeabi_drsub
+                0x0000000001fa7f30                __aeabi_dsub
+                0x0000000001fa7f30                __subdf3
+                0x0000000001fa7f34                __adddf3
+                0x0000000001fa7f34                __aeabi_dadd
+                0x0000000001fa8244                __aeabi_ui2d
+                0x0000000001fa8244                __floatunsidf
+                0x0000000001fa8268                __floatsidf
+                0x0000000001fa8268                __aeabi_i2d
+                0x0000000001fa8290                __extendsfdf2
+                0x0000000001fa8290                __aeabi_f2d
+                0x0000000001fa82d0                __aeabi_ul2d
+                0x0000000001fa82d0                __floatundidf
+                0x0000000001fa82e4                __floatdidf
+                0x0000000001fa82e4                __aeabi_l2d
+ .text          0x0000000001fa8344      0x49c /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+                0x0000000001fa8344                __aeabi_dmul
+                0x0000000001fa8344                __muldf3
+                0x0000000001fa85d4                __aeabi_ddiv
+                0x0000000001fa85d4                __divdf3
+ .text          0x0000000001fa87e0       0x5c /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+                0x0000000001fa87e0                __fixdfsi
+                0x0000000001fa87e0                __aeabi_d2iz
+ .text          0x0000000001fa883c      0x2ac /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+                0x0000000001fa883c                __aeabi_frsub
+                0x0000000001fa8844                __subsf3
+                0x0000000001fa8844                __aeabi_fsub
+                0x0000000001fa8848                __aeabi_fadd
+                0x0000000001fa8848                __addsf3
+                0x0000000001fa8a04                __aeabi_ui2f
+                0x0000000001fa8a04                __floatunsisf
+                0x0000000001fa8a0c                __aeabi_i2f
+                0x0000000001fa8a0c                __floatsisf
+                0x0000000001fa8a2c                __floatundisf
+                0x0000000001fa8a2c                __aeabi_ul2f
+                0x0000000001fa8a3c                __floatdisf
+                0x0000000001fa8a3c                __aeabi_l2f
+ .text          0x0000000001fa8ae8      0x2f8 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+                0x0000000001fa8ae8                __mulsf3
+                0x0000000001fa8ae8                __aeabi_fmul
+                0x0000000001fa8c80                __divsf3
+                0x0000000001fa8c80                __aeabi_fdiv
+ .text          0x0000000001fa8de0      0x114 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+                0x0000000001fa8de0                __gtsf2
+                0x0000000001fa8de0                __gesf2
+                0x0000000001fa8de8                __lesf2
+                0x0000000001fa8de8                __ltsf2
+                0x0000000001fa8df0                __nesf2
+                0x0000000001fa8df0                __eqsf2
+                0x0000000001fa8df0                __cmpsf2
+                0x0000000001fa8e54                __aeabi_cfrcmple
+                0x0000000001fa8e64                __aeabi_cfcmple
+                0x0000000001fa8e64                __aeabi_cfcmpeq
+                0x0000000001fa8e7c                __aeabi_fcmpeq
+                0x0000000001fa8e94                __aeabi_fcmplt
+                0x0000000001fa8eac                __aeabi_fcmple
+                0x0000000001fa8ec4                __aeabi_fcmpge
+                0x0000000001fa8edc                __aeabi_fcmpgt
+ .text          0x0000000001fa8ef4       0x48 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+                0x0000000001fa8ef4                __aeabi_ldivmod
+ .text          0x0000000001fa8f3c       0x84 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+                0x0000000001fa8f3c                __gnu_ldivmod_helper
+                0x0000000001fa8f80                __gnu_uldivmod_helper
+ .text          0x0000000001fa8fc0      0x178 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+                0x0000000001fa8fc0                __divdi3
+ .text          0x0000000001fa9138      0x120 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+                0x0000000001fa9138                __udivdi3
+ .text          0x0000000001fa9258       0x28 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+                0x0000000001fa9258                __clzdi2
+ .text          0x0000000001fa9280       0x48 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+                0x0000000001fa9280                __clzsi2
+ *(.glue_7)
+ .glue_7        0x0000000001fa92c8        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001fa92c8        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001fa92c8        0x0
+ .vfp11_veneer  0x0000000001fa92c8        0x0 linker stubs
+
+.v4_bx          0x0000000001fa92c8        0x0
+ .v4_bx         0x0000000001fa92c8        0x0 linker stubs
+
+.iplt           0x0000000001fa92c8        0x0
+ .iplt          0x0000000001fa92c8        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/drv_nos.o
+
+.rodata         0x0000000001fa92c8     0x2650
+ *(.rodata*)
+ .rodata.str1.4
+                0x0000000001fa92c8       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/drv_nos.o
+ .rodata        0x0000000001fa92f0        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_669.o
+ .rodata.str1.4
+                0x0000000001fa92f8       0x4d /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_669.o
+ *fill*         0x0000000001fa9345        0x3 
+ .rodata.str1.4
+                0x0000000001fa9348       0x26 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_amf.o
+ *fill*         0x0000000001fa936e        0x2 
+ .rodata        0x0000000001fa9370       0xc0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_asy.o
+ .rodata.str1.4
+                0x0000000001fa9430       0x3b /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_asy.o
+                                         0x43 (size before relaxing)
+ *fill*         0x0000000001fa946b        0x1 
+ .rodata        0x0000000001fa946c        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_dsm.o
+ .rodata.str1.4
+                0x0000000001fa9474       0x2f /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_dsm.o
+                                         0x37 (size before relaxing)
+ *fill*         0x0000000001fa94a3        0x1 
+ .rodata        0x0000000001fa94a4        0x7 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_far.o
+ *fill*         0x0000000001fa94ab        0x1 
+ .rodata.str1.4
+                0x0000000001fa94ac       0x1d /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_far.o
+                                         0x21 (size before relaxing)
+ *fill*         0x0000000001fa94c9        0x3 
+ .rodata.str1.4
+                0x0000000001fa94cc       0x2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_gdm.o
+ .rodata        0x0000000001fa94f8        0x5 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_imf.o
+ *fill*         0x0000000001fa94fd        0x3 
+ .rodata.str1.4
+                0x0000000001fa9500       0x38 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_imf.o
+ .rodata        0x0000000001fa9538       0x22 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_it.o
+ *fill*         0x0000000001fa955a        0x2 
+ .rodata.str1.4
+                0x0000000001fa955c       0xd5 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_it.o
+ *fill*         0x0000000001fa9631        0x3 
+ .rodata.str1.4
+                0x0000000001fa9634       0x70 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_m15.o
+ .rodata.str1.4
+                0x0000000001fa96a4       0x22 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_med.o
+ *fill*         0x0000000001fa96c6        0x2 
+ .rodata.str1.4
+                0x0000000001fa96c8       0x59 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_mod.o
+ *fill*         0x0000000001fa9721        0x3 
+ .rodata.str1.4
+                0x0000000001fa9724       0x25 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_mtm.o
+ *fill*         0x0000000001fa9749        0x3 
+ .rodata        0x0000000001fa974c        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_okt.o
+ .rodata.str1.4
+                0x0000000001fa9750       0x6e /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_okt.o
+                                         0x7a (size before relaxing)
+ *fill*         0x0000000001fa97be        0x2 
+ .rodata        0x0000000001fa97c0       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_s3m.o
+ .rodata.str1.4
+                0x0000000001fa97e8       0xf0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_s3m.o
+ .rodata        0x0000000001fa98d8        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_stm.o
+ .rodata.str1.4
+                0x0000000001fa98e4       0x65 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_stm.o
+                                         0x6d (size before relaxing)
+ *fill*         0x0000000001fa9949        0x3 
+ .rodata.str1.4
+                0x0000000001fa994c       0x5d /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_stx.o
+                                         0x65 (size before relaxing)
+ *fill*         0x0000000001fa99a9        0x3 
+ .rodata.str1.4
+                0x0000000001fa99ac       0x27 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_ult.o
+ *fill*         0x0000000001fa99d3        0x1 
+ .rodata        0x0000000001fa99d4       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_umx.o
+ .rodata.str1.4
+                0x0000000001fa99e8       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_umx.o
+                                         0x64 (size before relaxing)
+ .rodata        0x0000000001fa9a24        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_uni.o
+ .rodata.str1.4
+                0x0000000001fa9a30       0x54 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_uni.o
+                                         0x58 (size before relaxing)
+ .rodata.str1.4
+                0x0000000001fa9a84       0x4f /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_xm.o
+                                         0x53 (size before relaxing)
+ *fill*         0x0000000001fa9ad3        0x1 
+ .rodata.str1.4
+                0x0000000001fa9ad4        0xd /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mdriver.o
+                                         0x11 (size before relaxing)
+ *fill*         0x0000000001fa9ae1        0x3 
+ .rodata        0x0000000001fa9ae4       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mloader.o
+                0x0000000001fa9ae4                finetune
+ .rodata.str1.4
+                0x0000000001fa9b04        0x3 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mloader.o
+                                         0x13 (size before relaxing)
+ *fill*         0x0000000001fa9b07        0x1 
+ .rodata.str1.4
+                0x0000000001fa9b08       0x21 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlutil.o
+                                         0x6d (size before relaxing)
+ *fill*         0x0000000001fa9b29        0x3 
+ .rodata        0x0000000001fa9b2c      0x18c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmerror.o
+ .rodata.str1.4
+                0x0000000001fa9cb8      0x36c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmerror.o
+ .rodata        0x0000000001faa024      0xf98 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mplayer.o
+ .rodata        0x0000000001faafbc       0x7c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/munitrk.o
+                0x0000000001faafbc                unioperands
+ .rodata        0x0000000001fab038       0xa8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/npertab.o
+                0x0000000001fab038                npertab
+ .rodata        0x0000000001fab0e0       0xf8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.o
+ .rodata.str1.4
+                0x0000000001fab1d8      0x258 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.o
+                                        0x25e (size before relaxing)
+ .rodata        0x0000000001fab430      0x400 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .rodata.str1.1
+                0x0000000001fab830       0xa2 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .rodata.str1.1
+                0x0000000001fab8d2       0x46 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+
+.ARM.exidx      0x0000000001fab918        0x8
+ .ARM.exidx     0x0000000001fab918        0x8 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .ARM.exidx     0x0000000001fab920        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+                                          0x8 (size before relaxing)
+
+.rel.dyn        0x0000000001fab920        0x0
+ .rel.iplt      0x0000000001fab920        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/drv_nos.o
+
+.data           0x0000000001fab920      0x478
+ *(.data*)
+ .data          0x0000000001fab920       0x7c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/drv_nos.o
+                0x0000000001fab920                drv_nos
+ .data          0x0000000001fab99c       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_669.o
+                0x0000000001fab99c                load_669
+ .data          0x0000000001fab9bc       0x38 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_amf.o
+                0x0000000001fab9d4                load_amf
+ .data          0x0000000001fab9f4       0x2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_asy.o
+                0x0000000001faba00                load_asy
+ .data          0x0000000001faba20       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_dsm.o
+                0x0000000001faba30                load_dsm
+ .data          0x0000000001faba50       0x2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_far.o
+                0x0000000001faba5c                load_far
+ .data          0x0000000001faba7c       0x38 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_gdm.o
+                0x0000000001faba94                load_gdm
+ .data          0x0000000001fabab4       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_imf.o
+                0x0000000001fabac4                load_imf
+ .data          0x0000000001fabae4       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_it.o
+                0x0000000001fabae4                load_it
+ .data          0x0000000001fabb04       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_m15.o
+                0x0000000001fabb04                load_m15
+ .data          0x0000000001fabb24       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_med.o
+                0x0000000001fabb34                load_med
+ .data          0x0000000001fabb54       0x84 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_mod.o
+                0x0000000001fabbb8                load_mod
+ .data          0x0000000001fabbd8       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_mtm.o
+                0x0000000001fabbdc                load_mtm
+ .data          0x0000000001fabbfc       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_okt.o
+                0x0000000001fabbfc                load_okt
+ .data          0x0000000001fabc1c       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_s3m.o
+                0x0000000001fabc1c                load_s3m
+ .data          0x0000000001fabc3c       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_stm.o
+                0x0000000001fabc3c                load_stm
+ .data          0x0000000001fabc5c       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_stx.o
+                0x0000000001fabc5c                load_stx
+ .data          0x0000000001fabc7c       0x34 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_ult.o
+                0x0000000001fabc90                load_ult
+ .data          0x0000000001fabcb0       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_umx.o
+                0x0000000001fabcb0                load_umx
+ .data          0x0000000001fabcd0       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_uni.o
+                0x0000000001fabcd0                load_uni
+ .data          0x0000000001fabcf0       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_xm.o
+                0x0000000001fabcf0                load_xm
+ .data          0x0000000001fabd10       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mdriver.o
+                0x0000000001fabd10                md_pansep
+                0x0000000001fabd12                md_mode
+                0x0000000001fabd14                md_player
+                0x0000000001fabd18                md_musicvolume
+                0x0000000001fabd19                md_sndfxvolume
+                0x0000000001fabd1a                md_volume
+                0x0000000001fabd24                md_bpm
+                0x0000000001fabd28                md_mixfreq
+ .data          0x0000000001fabd2c       0x18 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlutil.o
+                0x0000000001fabd2c                STM_Version
+                0x0000000001fabd38                STM_Signatures
+ .data          0x0000000001fabd44        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch_common.o
+ .data          0x0000000001fabd4c       0x48 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.o
+                0x0000000001fabd64                lastswap
+ .data          0x0000000001fabd94        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001fabd94                rb
+
+.igot.plt       0x0000000001fabd98        0x0
+ .igot.plt      0x0000000001fabd98        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/drv_nos.o
+
+.ncdata         0x0000000011fabd98        0x8 load address 0x0000000001fabd98
+                0x0000000011fabda0                . = ALIGN (0x10)
+ *fill*         0x0000000011fabd98        0x8 
+ *(.ncdata*)
+                0x0000000011fabda0                . = ALIGN (0x10)
+                0x0000000001fabda0                bssaddr = (. - 0x10000000)
+                0x0000000001fabda0                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001fabda0    0x11c10
+                0x0000000001fabda0                plugin_bss_start = .
+                0x0000000001fabda0                _plugin_bss_start = .
+ *(.bss*)
+ .bss           0x0000000001fabda0        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_669.o
+ .bss           0x0000000001fabda8        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_amf.o
+ .bss           0x0000000001fabdb0        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_asy.o
+ .bss           0x0000000001fabdbc       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_dsm.o
+ .bss           0x0000000001fabdd0        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_far.o
+ .bss           0x0000000001fabddc        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_gdm.o
+ .bss           0x0000000001fabde4        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_imf.o
+ .bss           0x0000000001fabdec       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_it.o
+ .bss           0x0000000001fabe08        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_m15.o
+ .bss           0x0000000001fabe14       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_med.o
+ .bss           0x0000000001fabe34       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_mod.o
+ .bss           0x0000000001fabe44       0x48 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_mtm.o
+ .bss           0x0000000001fabe8c        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_okt.o
+ .bss           0x0000000001fabe90       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_s3m.o
+ .bss           0x0000000001fabea0        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_stm.o
+ .bss           0x0000000001fabea8        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_stx.o
+ .bss           0x0000000001fabeb4        0x5 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_ult.o
+ *fill*         0x0000000001fabeb9        0x3 
+ .bss           0x0000000001fabebc        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_umx.o
+ .bss           0x0000000001fabec0      0x146 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_uni.o
+ *fill*         0x0000000001fac006        0x2 
+ .bss           0x0000000001fac008       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_xm.o
+ .bss           0x0000000001fac01c       0x35 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mdriver.o
+                0x0000000001fac020                md_driver
+                0x0000000001fac02c                md_numchn
+                0x0000000001fac02d                md_sngchn
+                0x0000000001fac034                vc_callback
+                0x0000000001fac038                md_sfxchn
+                0x0000000001fac040                md_device
+                0x0000000001fac042                md_hardchn
+                0x0000000001fac043                md_softchn
+                0x0000000001fac048                _mm_mutex_lists
+                0x0000000001fac04c                _mm_mutex_vars
+                0x0000000001fac050                md_reverb
+ *fill*         0x0000000001fac051        0x3 
+ .bss           0x0000000001fac054        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mloader.o
+ .bss           0x0000000001fac058       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlutil.o
+                0x0000000001fac05c                noteindex
+                0x0000000001fac060                poslookup
+                0x0000000001fac064                origpositions
+ .bss           0x0000000001fac068        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmerror.o
+                0x0000000001fac068                _mm_errorhandler
+                0x0000000001fac06c                MikMod_critical
+                0x0000000001fac070                MikMod_errno
+ .bss           0x0000000001fac074        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mplayer.o
+                0x0000000001fac074                pf
+ .bss           0x0000000001fac078       0x1a /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/munitrk.o
+ *fill*         0x0000000001fac092        0x2 
+ .bss           0x0000000001fac094       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/sloader.o
+ .bss           0x0000000001fac0a8       0xac /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch.o
+ *fill*         0x0000000001fac154        0x4 
+ .bss           0x0000000001fac158       0xb8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch2.o
+ .bss           0x0000000001fac210       0x50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch_common.o
+ .bss           0x0000000001fac260      0x144 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.o
+                0x0000000001fac370                swap
+                0x0000000001fac398                screenupdated
+                0x0000000001fac39c                vscroll
+                0x0000000001fac3a0                hscroll
+ .bss           0x0000000001fac3a4       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .bss           0x0000000001fac404        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ *(COMMON)
+ COMMON         0x0000000001fac408      0x144 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mloader.o
+                0x0000000001fac408                modreader
+                0x0000000001fac40c                of
+ COMMON         0x0000000001fac54c      0x257 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlutil.o
+                0x0000000001fac54c                remap
+                0x0000000001fac58c                filtermacros
+                0x0000000001fac59c                filters
+                0x0000000001fac5a0                filtersettings
+                0x0000000001fac7a0                poslookupcnt
+                0x0000000001fac7a2                activemacro
+ *fill*         0x0000000001fac7a3        0x1 
+ COMMON         0x0000000001fac7a4    0x1120c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.o
+                0x0000000001fac7a4                quit
+                0x0000000001fac7a8                textlines
+                0x0000000001fac7ac                display
+                0x0000000001fac7b0                gmbuf
+                0x0000000001fbc7b0                thread_stack
+                0x0000000001fbd9b0                . = ALIGN (0x4)
+
+.ncbss          0x0000000011fbd9b0       0xa0 load address 0x0000000001fbd9b0
+                0x0000000011fbd9b0                . = ALIGN (0x10)
+ *(.ncbss*)
+ .ncbss         0x0000000011fbd9b0       0x9c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.o
+                0x0000000011fbda50                . = ALIGN (0x10)
+ *fill*         0x0000000011fbda4c        0x4 
+                0x0000000001fbda50                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001fbda50        0x0
+                0x0000000001fbda50                _plugin_end_addr = .
+                0x0000000001fbda50                plugin_end_addr = .
+
+.iram           0x000000004000c000        0x0 load address 0x0000000001fabda0
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ *(.irodata)
+ *(.idata)
+                0x000000004000c000                iramend = .
+
+.ibss           0x000000004000c000        0x8
+                0x000000004000c000                iedata = .
+ *(.ibss)
+ .ibss          0x000000004000c000        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.o
+                0x000000004000c000                playingtime
+                0x000000004000c004                module
+                0x000000004000c008                . = ALIGN (0x4)
+                0x000000004000c008                iend = .
+                0x0000000001fbda50                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001fbda50        0x0
+                0x0000000001fbda50                _plugin_load_end_addr = .
+                0x0000000001fbda50                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/drv_nos.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_669.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_amf.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_asy.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_dsm.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_far.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_gdm.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_imf.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_it.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_m15.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_med.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_mod.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_mtm.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_okt.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_s3m.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_stm.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_stx.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_ult.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_umx.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_uni.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_xm.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mdreg.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mdriver.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mloader.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlreg.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlutil.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmalloc.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmerror.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmio.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mplayer.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/munitrk.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/npertab.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/sloader.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/strdup.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/strstr.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch2.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch_common.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+ .comment       0x0000000000000011       0x12 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .comment       0x0000000000000011       0x12 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .comment       0x0000000000000011       0x12 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+OUTPUT(/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2e
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/drv_nos.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_669.o
+ .ARM.attributes
+                0x0000000000000060       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_amf.o
+ .ARM.attributes
+                0x0000000000000090       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_asy.o
+ .ARM.attributes
+                0x00000000000000c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_dsm.o
+ .ARM.attributes
+                0x00000000000000f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_far.o
+ .ARM.attributes
+                0x0000000000000120       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_gdm.o
+ .ARM.attributes
+                0x0000000000000150       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_imf.o
+ .ARM.attributes
+                0x0000000000000180       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_it.o
+ .ARM.attributes
+                0x00000000000001b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_m15.o
+ .ARM.attributes
+                0x00000000000001e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_med.o
+ .ARM.attributes
+                0x0000000000000210       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_mod.o
+ .ARM.attributes
+                0x0000000000000240       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_mtm.o
+ .ARM.attributes
+                0x0000000000000270       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_okt.o
+ .ARM.attributes
+                0x00000000000002a0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_s3m.o
+ .ARM.attributes
+                0x00000000000002d0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_stm.o
+ .ARM.attributes
+                0x0000000000000300       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_stx.o
+ .ARM.attributes
+                0x0000000000000330       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_ult.o
+ .ARM.attributes
+                0x0000000000000360       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_umx.o
+ .ARM.attributes
+                0x0000000000000390       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_uni.o
+ .ARM.attributes
+                0x00000000000003c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/load_xm.o
+ .ARM.attributes
+                0x00000000000003f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mdreg.o
+ .ARM.attributes
+                0x0000000000000420       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mdriver.o
+ .ARM.attributes
+                0x0000000000000450       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mloader.o
+ .ARM.attributes
+                0x0000000000000480       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlreg.o
+ .ARM.attributes
+                0x00000000000004b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mlutil.o
+ .ARM.attributes
+                0x00000000000004e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmalloc.o
+ .ARM.attributes
+                0x0000000000000510       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmerror.o
+ .ARM.attributes
+                0x0000000000000540       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mmio.o
+ .ARM.attributes
+                0x0000000000000570       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mplayer.o
+ .ARM.attributes
+                0x00000000000005a0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/munitrk.o
+ .ARM.attributes
+                0x00000000000005d0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/npertab.o
+ .ARM.attributes
+                0x0000000000000600       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/sloader.o
+ .ARM.attributes
+                0x0000000000000630       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/strdup.o
+ .ARM.attributes
+                0x0000000000000660       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/strstr.o
+ .ARM.attributes
+                0x0000000000000690       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch.o
+ .ARM.attributes
+                0x00000000000006c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch2.o
+ .ARM.attributes
+                0x00000000000006f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/virtch_common.o
+ .ARM.attributes
+                0x0000000000000720       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/mikmod/mikmod.o
+ .ARM.attributes
+                0x0000000000000750       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .ARM.attributes
+                0x0000000000000780       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .ARM.attributes
+                0x00000000000007b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .ARM.attributes
+                0x00000000000007e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(configfile.o)
+ .ARM.attributes
+                0x0000000000000810       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+ .ARM.attributes
+                0x0000000000000840       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .ARM.attributes
+                0x0000000000000860       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000878       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000000000000890       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000000008a8       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000000008c0       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000000008d8       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000000000008f0       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x0000000000000908       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x0000000000000920       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x0000000000000938       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x0000000000000950       0x30 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x0000000000000980       0x30 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x00000000000009b0       0x30 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x00000000000009e0       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .ARM.attributes
+                0x00000000000009f8       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_frame    0x0000000000000000      0x158
+ .debug_frame   0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_frame   0x0000000000000040       0x28 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x0000000000000068       0x68 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_frame   0x00000000000000d0       0x48 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_frame   0x0000000000000118       0x40 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+
+.debug_line     0x0000000000000000      0xa7a
+ .debug_line    0x0000000000000000       0x7e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_line    0x000000000000007e       0x8a /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_line    0x0000000000000108       0x61 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x0000000000000169      0x164 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .debug_line    0x00000000000002cd      0x180 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .debug_line    0x000000000000044d       0x78 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .debug_line    0x00000000000004c5      0x117 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .debug_line    0x00000000000005dc      0x123 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .debug_line    0x00000000000006ff       0xa2 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .debug_line    0x00000000000007a1       0x65 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .debug_line    0x0000000000000806       0x65 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_line    0x000000000000086b       0x9e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_line    0x0000000000000909       0x98 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_line    0x00000000000009a1       0x6b /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .debug_line    0x0000000000000a0c       0x6e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_info     0x0000000000000000      0xbf6
+ .debug_info    0x0000000000000000       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_info    0x0000000000000088       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_info    0x0000000000000110       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x0000000000000198       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .debug_info    0x0000000000000221       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .debug_info    0x00000000000002aa       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .debug_info    0x0000000000000333       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .debug_info    0x00000000000003bc       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .debug_info    0x0000000000000445       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .debug_info    0x00000000000004ce       0x84 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .debug_info    0x0000000000000552      0x164 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_info    0x00000000000006b6      0x269 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_info    0x000000000000091f      0x1c7 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_info    0x0000000000000ae6       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .debug_info    0x0000000000000b6e       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_abbrev   0x0000000000000000      0x391
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000000014       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000028       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x000000000000003c       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .debug_abbrev  0x0000000000000050       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .debug_abbrev  0x0000000000000064       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .debug_abbrev  0x0000000000000078       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .debug_abbrev  0x000000000000008c       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .debug_abbrev  0x00000000000000a0       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .debug_abbrev  0x00000000000000b4       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .debug_abbrev  0x00000000000000c8       0xb7 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_abbrev  0x000000000000017f      0x123 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_abbrev  0x00000000000002a2       0xc7 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x0000000000000369       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .debug_abbrev  0x000000000000037d       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_aranges  0x0000000000000000      0x1e0
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x0000000000000060       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .debug_aranges
+                0x0000000000000080       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .debug_aranges
+                0x0000000000000100       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .debug_aranges
+                0x0000000000000120       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .debug_aranges
+                0x0000000000000140       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_aranges
+                0x0000000000000160       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_aranges
+                0x0000000000000180       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_loc      0x0000000000000000      0x500
+ .debug_loc     0x0000000000000000       0xa0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_loc     0x00000000000000a0      0x27d /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_loc     0x000000000000031d      0x1e3 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+
+.debug_str      0x0000000000000000      0x287
+ .debug_str     0x0000000000000000      0x152 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_str     0x0000000000000152      0x135 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+                                        0x1dd (size before relaxing)
+ .debug_str     0x0000000000000287      0x1ba /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+
+.debug_ranges   0x0000000000000000       0x18
+ .debug_ranges  0x0000000000000000       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)

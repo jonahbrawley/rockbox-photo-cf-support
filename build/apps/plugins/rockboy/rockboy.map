@@ -1,0 +1,518 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcd.o (memcpy)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/menu.o (backlight_ignore_timeout)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o (setjmp)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sound.o (__aeabi_idiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o) (__aeabi_idiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+lcd                 0x4180            /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcd.o
+plugbuf             0x1               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/cpu.o
+cleanshut           0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rockboy.o
+shut                0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rockboy.o
+patpix              0x40000           /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcd.o
+errormsg            0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rockboy.o
+options             0x4c              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rockboy.o
+anydirty            0x1               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcd.o
+rtc                 0x30              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rtc.o
+audio_bufferbase    0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rockboy.o
+audio_buffer_free   0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rockboy.o
+vdest               0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcd.o
+ram                 0x8108            /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/mem.o
+patdirty            0x400             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcd.o
+audio_bufferpointer
+                    0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rockboy.o
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/../../../firmware/libc/sscanf.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/../../../firmware/libc/sscanf.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/cpu.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/cpu.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/emu.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/emu.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/events.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/fastmem.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/fastmem.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/hw.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/hw.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcdc.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcdc.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/loader.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/mem.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/menu.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rockboy.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rockboy.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rtc.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rtc.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sound.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sound.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.__div0   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memset   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memmove  0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.talk_val
+                0x0000000000000000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.backlight_force_on
+                0x0000000000000000       0x34 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.sw_poweroff_disable
+                0x0000000000000000       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.sw_poweroff_restore
+                0x0000000000000000       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.remote_backlight_force_on
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.remote_backlight_ignore_timeout
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.remote_backlight_use_settings
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_force_on
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_force_off
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_ignore_timeout
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_use_settings
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.backlight_brightness_set
+                0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.backlight_brightness_use_setting
+                0x0000000000000000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_brightness_set
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_brightness_use_setting
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .data.original_sw_poweroff_state
+                0x0000000000000000        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001f80000 0x0000000000080000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/../../../firmware/libc/sscanf.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/cpu.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/emu.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/events.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/fastmem.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/hw.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcd.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcdc.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/loader.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/mem.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/menu.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rbsound.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rockboy.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rtc.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/save.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sound.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sys_rockbox.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001f80000       0x1c
+                0x0000000001f80000                _plugin_start_addr = .
+                0x0000000001f80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001f80000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f80000                __header
+
+.text           0x0000000001f80020     0xa578
+ *(.text*)
+ .text          0x0000000001f80020      0x46c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/../../../firmware/libc/sscanf.o
+                0x0000000001f801b0                sscanf
+ .text          0x0000000001f8048c     0x3fdc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/cpu.o
+                0x0000000001f80558                cpu_reset
+                0x0000000001f805e4                cpu_timers
+                0x0000000001f80644                cpu_emulate
+ .text          0x0000000001f84468      0x1f4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/emu.o
+                0x0000000001f84468                emu_reset
+                0x0000000001f84488                emu_run
+ .text          0x0000000001f8465c       0xac /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/events.o
+                0x0000000001f8465c                ev_postevent
+                0x0000000001f846ac                ev_getevent
+ .text          0x0000000001f84708      0x138 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/fastmem.o
+                0x0000000001f84708                readb
+                0x0000000001f84734                writeb
+                0x0000000001f84764                readw
+                0x0000000001f847c8                writew
+                0x0000000001f84830                readhi
+                0x0000000001f84838                writehi
+ .text          0x0000000001f84840      0x39c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/hw.o
+                0x0000000001f84840                hw_interrupt
+                0x0000000001f848ac                hw_dma
+                0x0000000001f848ec                hw_hdma
+                0x0000000001f849a8                hw_hdma_cmd
+                0x0000000001f84a98                pad_refresh
+                0x0000000001f84b28                pad_set
+                0x0000000001f84b60                hw_reset
+ .text          0x0000000001f84bdc     0x1374 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcd.o
+                0x0000000001f84cc4                lcd_begin
+                0x0000000001f84d94                setvidmode
+                0x0000000001f84e94                lcd_refreshline
+                0x0000000001f85d40                pal_write
+                0x0000000001f85d64                pal_write_dmg
+                0x0000000001f85de8                vram_dirty
+                0x0000000001f85e18                pal_dirty
+                0x0000000001f85e94                set_pal
+                0x0000000001f85ec8                vram_write
+                0x0000000001f85f14                lcd_reset
+ .text          0x0000000001f85f50      0x300 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcdc.o
+                0x0000000001f85f50                stat_trigger
+                0x0000000001f86004                lcdc_change
+                0x0000000001f86050                lcdc_trans
+ .text          0x0000000001f86250      0x5bc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/loader.o
+                0x0000000001f86254                sn_save
+                0x0000000001f862b0                sn_load
+                0x0000000001f86308                cleanup
+                0x0000000001f86408                loader_init
+ .text          0x0000000001f8680c      0xc0c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/mem.o
+                0x0000000001f8680c                mem_updatemap
+                0x0000000001f869e4                mem_write
+                0x0000000001f87148                mem_read
+                0x0000000001f873f8                mbc_reset
+ .text          0x0000000001f87418      0x9d8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/menu.o
+                0x0000000001f87998                do_user_menu
+ .text          0x0000000001f87df0      0x26c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rbsound.o
+                0x0000000001f87e50                rockboy_pcm_init
+                0x0000000001f87f40                rockboy_pcm_close
+                0x0000000001f87fa4                rockboy_pcm_submit
+ .text          0x0000000001f8805c      0x510 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rockboy.o
+                0x0000000001f8805c                die
+                0x0000000001f88088                my_malloc
+                0x0000000001f880d8                plugin_start
+ .text          0x0000000001f8856c      0x3cc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rtc.o
+                0x0000000001f8856c                rtc_latch
+                0x0000000001f885d4                rtc_write
+                0x0000000001f88698                rtc_tick
+                0x0000000001f8873c                rtc_save_internal
+                0x0000000001f887d0                rtc_load_internal
+ .text          0x0000000001f88938      0x520 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/save.o
+                0x0000000001f88938                loadstate
+                0x0000000001f88bec                savestate
+ .text          0x0000000001f88e58     0x1078 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sound.o
+                0x0000000001f88e58                sound_mix
+                0x0000000001f8951c                sound_read
+                0x0000000001f89558                sound_write
+                0x0000000001f89ba8                sound_reset
+                0x0000000001f89dd0                sound_dirty
+ .text          0x0000000001f89ed0      0x284 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sys_rockbox.o
+                0x0000000001f89ed0                ev_poll
+                0x0000000001f8a0d4                vid_begin
+                0x0000000001f8a118                vid_init
+ .text          0x0000000001f8a154      0x214 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f8a16c                plugin__start
+                0x0000000001f8a2bc                rb_atexit
+                0x0000000001f8a2dc                exit
+                0x0000000001f8a2fc                _exit
+                0x0000000001f8a314                exit_on_usb
+ .text.memcpy   0x0000000001f8a368       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f8a368                memcpy
+ .text.memcmp   0x0000000001f8a37c       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f8a37c                memcmp
+ .text.backlight_ignore_timeout
+                0x0000000001f8a390       0x58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                0x0000000001f8a390                backlight_ignore_timeout
+ .text.backlight_use_settings
+                0x0000000001f8a3e8       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                0x0000000001f8a3e8                backlight_use_settings
+ .text          0x0000000001f8a424       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                0x0000000001f8a424                setjmp
+                0x0000000001f8a430                longjmp
+ .text          0x0000000001f8a440      0x148 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                0x0000000001f8a440                __aeabi_idiv
+                0x0000000001f8a440                __divsi3
+                0x0000000001f8a568                __aeabi_idivmod
+ .text          0x0000000001f8a588        0x4 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                0x0000000001f8a588                __aeabi_ldiv0
+                0x0000000001f8a588                __aeabi_idiv0
+ *fill*         0x0000000001f8a58c        0x4 
+ .text.__stub   0x0000000001f8a590        0x8 linker stubs
+ *(.glue_7)
+ .glue_7        0x0000000001f8a598        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001f8a598        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001f8a598        0x0
+ .vfp11_veneer  0x0000000001f8a598        0x0 linker stubs
+
+.v4_bx          0x0000000001f8a598        0x0
+ .v4_bx         0x0000000001f8a598        0x0 linker stubs
+
+.iplt           0x0000000001f8a598        0x0
+ .iplt          0x0000000001f8a598        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/../../../firmware/libc/sscanf.o
+
+.rodata         0x0000000001f8a598      0xb1c
+ *(.rodata*)
+ .rodata.str1.1
+                0x0000000001f8a598       0x37 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/cpu.o
+ .rodata.str1.1
+                0x0000000001f8a5cf       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcd.o
+ *fill*         0x0000000001f8a5ef        0x1 
+ .rodata        0x0000000001f8a5f0       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcdc.o
+ .rodata        0x0000000001f8a600      0x475 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/loader.o
+ .rodata.str1.1
+                0x0000000001f8aa75       0xa3 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/loader.o
+ .rodata        0x0000000001f8ab18      0x1b8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/menu.o
+ .rodata.str1.1
+                0x0000000001f8acd0      0x2bc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/menu.o
+                                        0x30f (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f8af8c       0x6e /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rockboy.o
+                                         0x86 (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f8affa       0x19 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rtc.o
+ .rodata        0x0000000001f8b013       0x80 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sound.o
+ *fill*         0x0000000001f8b093        0x1 
+ .rodata        0x0000000001f8b094       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sys_rockbox.o
+ .rodata.str1.1
+                0x0000000001f8b0b4       0x19 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sys_rockbox.o
+                                          0x1 (size before relaxing)
+
+.rel.dyn        0x0000000001f8b0b4        0x0
+ .rel.iplt      0x0000000001f8b0b4        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/../../../firmware/libc/sscanf.o
+
+.data           0x0000000001f8b0b4      0xb0c
+ *(.data*)
+ .data          0x0000000001f8b0b4      0x540 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcd.o
+                0x0000000001f8b1b4                palettes
+ .data          0x0000000001f8b5f4       0x38 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/menu.o
+ .data          0x0000000001f8b62c        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rbsound.o
+                0x0000000001f8b62c                doneplay
+ *fill*         0x0000000001f8b62d        0x3 
+ .data          0x0000000001f8b630      0x588 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/save.o
+                0x0000000001f8b630                svars
+ .data          0x0000000001f8bbb8        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sys_rockbox.o
+ .data          0x0000000001f8bbbc        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f8bbbc                rb
+
+.igot.plt       0x0000000001f8bbc0        0x0
+ .igot.plt      0x0000000001f8bbc0        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/../../../firmware/libc/sscanf.o
+
+.ncdata         0x0000000011f8bbc0        0x0 load address 0x0000000001f8bbc0
+                0x0000000011f8bbc0                . = ALIGN (0x10)
+ *(.ncdata*)
+                0x0000000011f8bbc0                . = ALIGN (0x10)
+                0x0000000001f8bbc0                bssaddr = (. - 0x10000000)
+                0x0000000001f8bbc0                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001f8bbc0    0x4d1e4
+                0x0000000001f8bbc0                plugin_bss_start = .
+                0x0000000001f8bbc0                _plugin_bss_start = .
+ *(.bss*)
+ .bss           0x0000000001f8bbc0      0x108 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/events.o
+ .bss           0x0000000001f8bcc8      0x140 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcd.o
+ .bss           0x0000000001f8be08      0x7d4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/loader.o
+ .bss           0x0000000001f8c5dc        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/mem.o
+ .bss           0x0000000001f8c5e0        0xa /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rbsound.o
+                0x0000000001f8c5e9                bufnum
+ *fill*         0x0000000001f8c5ea        0x2 
+ .bss           0x0000000001f8c5ec       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/save.o
+ .bss           0x0000000001f8c610        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sys_rockbox.o
+ .bss           0x0000000001f8c61c       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ *(COMMON)
+ COMMON         0x0000000001f8c67c        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/cpu.o
+                0x0000000001f8c67c                plugbuf
+ *fill*         0x0000000001f8c67d        0x3 
+ COMMON         0x0000000001f8c680    0x44588 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcd.o
+                0x0000000001f8c680                lcd
+                0x0000000001f90800                patpix
+                0x0000000001fd0800                anydirty
+                0x0000000001fd0804                vdest
+                0x0000000001fd0808                patdirty
+ COMMON         0x0000000001fd0c08     0x8108 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/mem.o
+                0x0000000001fd0c08                ram
+ COMMON         0x0000000001fd8d10       0x64 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rockboy.o
+                0x0000000001fd8d10                cleanshut
+                0x0000000001fd8d14                shut
+                0x0000000001fd8d18                errormsg
+                0x0000000001fd8d1c                options
+                0x0000000001fd8d68                audio_bufferbase
+                0x0000000001fd8d6c                audio_buffer_free
+                0x0000000001fd8d70                audio_bufferpointer
+ COMMON         0x0000000001fd8d74       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rtc.o
+                0x0000000001fd8d74                rtc
+                0x0000000001fd8da4                . = ALIGN (0x4)
+
+.ncbss          0x0000000011fd8da4        0xc load address 0x0000000001fd8da4
+                0x0000000011fd8db0                . = ALIGN (0x10)
+ *fill*         0x0000000011fd8da4        0xc 
+ *(.ncbss*)
+                0x0000000011fd8db0                . = ALIGN (0x10)
+                0x0000000001fd8db0                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001fd8db0        0x0
+                0x0000000001fd8db0                _plugin_end_addr = .
+                0x0000000001fd8db0                plugin_end_addr = .
+
+.iram           0x000000004000c000     0x161c load address 0x0000000001f8bbc0
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ .icode         0x000000004000c000       0x48 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rockboy.o
+                0x000000004000c000                doevents
+ .icode.__stub  0x000000004000c048       0x18 linker stubs
+ *(.irodata)
+ .irodata       0x000000004000c060     0x1540 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/cpu.o
+ .irodata       0x000000004000d5a0       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sound.o
+                0x000000004000d5a0                soundFreqRatio
+                0x000000004000d5c0                soundShiftClock
+ *(.idata)
+ .idata         0x000000004000d600       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcd.o
+                0x000000004000d600                SCALEWL
+                0x000000004000d604                SCALEWS
+                0x000000004000d608                SCALEHL
+                0x000000004000d60c                SCALEHS
+                0x000000004000d610                swidth
+                0x000000004000d614                sremain
+                0x000000004000d61c                iramend = .
+
+.ibss           0x000000004000d61c      0x820 load address 0x0000000001f8d1dc
+                0x000000004000d61c                iedata = .
+ *(.ibss)
+ .ibss          0x000000004000d61c       0x43 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/cpu.o
+                0x000000004000d61c                cpu
+ *fill*         0x000000004000d65f        0x1 
+ .ibss          0x000000004000d660        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/hw.o
+                0x000000004000d660                hw
+ .ibss          0x000000004000d66c      0x570 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcd.o
+                0x000000004000d66c                scan
+ .ibss          0x000000004000dbdc       0xb8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/mem.o
+                0x000000004000dbdc                mbc
+                0x000000004000dc7c                rom
+ .ibss          0x000000004000dc94       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rbsound.o
+                0x000000004000dc94                pcm
+ .ibss          0x000000004000dca8      0x178 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sound.o
+                0x000000004000dca8                snd
+ .ibss          0x000000004000de20       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sys_rockbox.o
+                0x000000004000de20                fb
+                0x000000004000de3c                . = ALIGN (0x4)
+                0x000000004000de3c                iend = .
+                0x0000000001fd8db0                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001fd8db0        0x0
+                0x0000000001fd8db0                _plugin_load_end_addr = .
+                0x0000000001fd8db0                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/../../../firmware/libc/sscanf.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/cpu.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/emu.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/events.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/fastmem.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/hw.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcd.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcdc.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/loader.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/mem.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/menu.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rbsound.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rockboy.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rtc.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/save.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sound.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sys_rockbox.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+OUTPUT(/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rockboy.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2e
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/../../../firmware/libc/sscanf.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/cpu.o
+ .ARM.attributes
+                0x0000000000000060       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/emu.o
+ .ARM.attributes
+                0x0000000000000090       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/events.o
+ .ARM.attributes
+                0x00000000000000c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/fastmem.o
+ .ARM.attributes
+                0x00000000000000f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/hw.o
+ .ARM.attributes
+                0x0000000000000120       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcd.o
+ .ARM.attributes
+                0x0000000000000150       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/lcdc.o
+ .ARM.attributes
+                0x0000000000000180       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/loader.o
+ .ARM.attributes
+                0x00000000000001b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/mem.o
+ .ARM.attributes
+                0x00000000000001e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/menu.o
+ .ARM.attributes
+                0x0000000000000210       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rbsound.o
+ .ARM.attributes
+                0x0000000000000240       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rockboy.o
+ .ARM.attributes
+                0x0000000000000270       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/rtc.o
+ .ARM.attributes
+                0x00000000000002a0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/save.o
+ .ARM.attributes
+                0x00000000000002d0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sound.o
+ .ARM.attributes
+                0x0000000000000300       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/rockboy/sys_rockbox.o
+ .ARM.attributes
+                0x0000000000000330       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .ARM.attributes
+                0x0000000000000360       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .ARM.attributes
+                0x0000000000000390       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .ARM.attributes
+                0x00000000000003c0       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .ARM.attributes
+                0x00000000000003e0       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000000003f8       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_frame    0x0000000000000000       0x20
+ .debug_frame   0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+
+.debug_line     0x0000000000000000       0xeb
+ .debug_line    0x0000000000000000       0x8a /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_line    0x000000000000008a       0x61 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_info     0x0000000000000000      0x110
+ .debug_info    0x0000000000000000       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_info    0x0000000000000088       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_abbrev   0x0000000000000000       0x28
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000014       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_aranges  0x0000000000000000       0x40
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)

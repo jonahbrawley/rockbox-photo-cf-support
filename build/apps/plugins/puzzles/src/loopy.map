@@ -1,0 +1,2237 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o (init_memory_pool)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o (memcpy)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o (sw_poweroff_disable)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o (playback_control)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(display_text.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o (display_text)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o (strncpy)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o (_fgets_)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o (xlcd_filltriangle)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_core.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o) (get_framebuffer)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(puzzles_cursor.11x16x24.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o (puzzles_cursor)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o (setjmp)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o (fp_sincos)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o (__aeabi_uidiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o (__aeabi_idiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_ashrdi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o) (__aeabi_lasr)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_ashldi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o) (__aeabi_llsl)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o (__aeabi_dsub)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o (__aeabi_dmul)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpdf2.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o (__aeabi_dcmpeq)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o (__aeabi_d2iz)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixunsdfsi.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o (__aeabi_d2uiz)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_truncdfsf2.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o (__aeabi_d2f)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o (__aeabi_fsub)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o (__aeabi_fmul)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o (__aeabi_fcmpeq)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixsfsi.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o (__aeabi_f2iz)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o) (__clzsi2)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o (__aeabi_ldivmod)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o) (__gnu_ldivmod_helper)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o) (__divdi3)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o) (__udivdi3)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o) (__clzdi2)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/help/loopy.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/help/loopy.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/help/loopy.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .text.puts_wrapper
+                0x0000000000000000        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .text.sin_wrapper
+                0x0000000000000000      0x13c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .text.cos_wrapper
+                0x0000000000000000      0x144 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .text.vsprintf_wrapper
+                0x0000000000000000       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .text.rb_exp   0x0000000000000000       0x2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .text.atan_wrapper
+                0x0000000000000000      0x300 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .text.atan2_wrapper
+                0x0000000000000000      0x1c4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .text.acos_wrapper
+                0x0000000000000000       0xa8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .text.strtoq_wrapper
+                0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .text.strtouq_wrapper
+                0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .text.pow_wrapper
+                0x0000000000000000      0x144 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .text.copysign_wrapper
+                0x0000000000000000       0x38 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .text.scalbn_wrapper
+                0x0000000000000000      0x224 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .data.lastcos  0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .rodata.atanlo
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .data.TWO127   0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .rodata.atanhi
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .data.TWOM100  0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .bss.lastsin   0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .bss.lastphase
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbmalloc.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbmalloc.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbmalloc.o
+ .bss.allocs    0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbmalloc.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/lz4tiny.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/lz4tiny.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/lz4tiny.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/combi.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/combi.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/combi.o
+ .text.reset_combi
+                0x0000000000000000       0x38 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/combi.o
+ .text.new_combi
+                0x0000000000000000      0x120 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/combi.o
+ .text.next_combi
+                0x0000000000000000       0xc4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/combi.o
+ .text.free_combi
+                0x0000000000000000       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/combi.o
+ .rodata.str1.4
+                0x0000000000000000       0xa3 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/combi.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/divvy.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/divvy.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/divvy.o
+ .text.addremcommon
+                0x0000000000000000      0x148 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/divvy.o
+ .text.divvy_rectangle
+                0x0000000000000000      0xae0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/divvy.o
+ .rodata.str1.4
+                0x0000000000000000      0x191 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/divvy.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.text_fallback
+                0x0000000000000000       0xb0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.blitter_new
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.blitter_free
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.blitter_save
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.blitter_load
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.print_begin_doc
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.print_begin_page
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.print_begin_puzzle
+                0x0000000000000000       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.print_end_puzzle
+                0x0000000000000000       0x2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.print_end_page
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.print_end_doc
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.print_get_colour
+                0x0000000000000000       0xe8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.print_grey_colour
+                0x0000000000000000       0x34 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.print_hatched_colour
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.print_rgb_mono_colour
+                0x0000000000000000       0x54 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.print_rgb_grey_colour
+                0x0000000000000000       0x2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.print_rgb_hatched_colour
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.print_line_width
+                0x0000000000000000       0x4c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.print_line_dotted
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/dsf.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/dsf.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/dsf.o
+ .text.dsf_init
+                0x0000000000000000       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/dsf.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/findloop.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/findloop.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/findloop.o
+ .text.findloop_is_bridge_oneway
+                0x0000000000000000       0x7c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/findloop.o
+ .text.findloop_new_state
+                0x0000000000000000       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/findloop.o
+ .text.findloop_free_state
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/findloop.o
+ .text.findloop_is_loop_edge
+                0x0000000000000000       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/findloop.o
+ .text.findloop_is_bridge
+                0x0000000000000000       0x58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/findloop.o
+ .text.findloop_run
+                0x0000000000000000      0x418 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/findloop.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_check_cmp
+                0x0000000000000000       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_solver_place
+                0x0000000000000000      0x158 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_solver_elim
+                0x0000000000000000       0xfc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_solver_set
+                0x0000000000000000      0x440 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_solver_forcing
+                0x0000000000000000      0x3c4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_solver_new_scratch
+                0x0000000000000000       0x74 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_solver_free_scratch
+                0x0000000000000000       0x48 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_solver_alloc
+                0x0000000000000000       0xd8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_solver_free
+                0x0000000000000000       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_solver_diff_simple
+                0x0000000000000000      0x164 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_solver_diff_set
+                0x0000000000000000      0x114 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_solver_top
+                0x0000000000000000      0x624 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_solver_main
+                0x0000000000000000        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_solver
+                0x0000000000000000       0x94 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_solver_debug
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_debug
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_generate
+                0x0000000000000000      0x2bc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_generate_rect
+                0x0000000000000000       0x98 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text.latin_check
+                0x0000000000000000      0x158 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .rodata.str1.4
+                0x0000000000000000      0x228 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/laydomino.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/laydomino.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/laydomino.o
+ .text.domino_layout_prealloc
+                0x0000000000000000      0x4ec /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/laydomino.o
+ .text.domino_layout
+                0x0000000000000000       0x7c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/laydomino.o
+ .rodata.str1.4
+                0x0000000000000000      0x111 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/laydomino.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopgen.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopgen.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopgen.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/matching.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/matching.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/matching.o
+ .text.matching_scratch_size
+                0x0000000000000000       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/matching.o
+ .text.matching_with_scratch
+                0x0000000000000000      0x664 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/matching.o
+ .text.matching
+                0x0000000000000000       0x94 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/matching.o
+ .rodata.str1.4
+                0x0000000000000000       0xc2 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/matching.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_tilesize
+                0x0000000000000000        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_get_params
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_freeze_timer
+                0x0000000000000000       0x2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.preset_menu_lookup_by_id
+                0x0000000000000000       0x84 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_wants_statusbar
+                0x0000000000000000        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_request_id_changes
+                0x0000000000000000        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_supersede_game_desc
+                0x0000000000000000       0x58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_game_id
+                0x0000000000000000        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_get_game_id
+                0x0000000000000000       0xdc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_get_random_seed
+                0x0000000000000000       0xc4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_can_format_as_text_now
+                0x0000000000000000       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_text_format
+                0x0000000000000000       0x74 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_status
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_print_puzzle
+                0x0000000000000000      0x150 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+ .text.fgetline
+                0x0000000000000000       0xac /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+ .text.game_mkhighlight_specific
+                0x0000000000000000      0x104 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+ .text.game_mkhighlight
+                0x0000000000000000       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+ .text.draw_rect_outline
+                0x0000000000000000       0x68 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+ .text.draw_rect_corners
+                0x0000000000000000      0x140 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+ .text.move_cursor
+                0x0000000000000000       0xec /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+ .text.c2pos    0x0000000000000000       0x88 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+ .text.c2diff   0x0000000000000000      0x1d8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+ .text.pos2c    0x0000000000000000       0xd4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+ .text.draw_text_outline
+                0x0000000000000000       0xd8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+ .text.penrose_side_length
+                0x0000000000000000       0x44 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+ .text.penrose_count_tiles
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/printing.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/printing.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/printing.o
+ .text.document_new
+                0x0000000000000000       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/printing.o
+ .text.document_free
+                0x0000000000000000       0xac /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/printing.o
+ .text.document_add_puzzle
+                0x0000000000000000       0x7c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/printing.o
+ .text.document_npages
+                0x0000000000000000       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/printing.o
+ .text.document_begin
+                0x0000000000000000       0x4c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/printing.o
+ .text.document_end
+                0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/printing.o
+ .text.document_print_page
+                0x0000000000000000      0x4d8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/printing.o
+ .text.document_print
+                0x0000000000000000       0x80 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/printing.o
+ .rodata.str1.4
+                0x0000000000000000       0x84 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/printing.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o
+ .text.random_copy
+                0x0000000000000000       0x44 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o
+ .text.random_state_encode
+                0x0000000000000000       0x7c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o
+ .text.random_state_decode
+                0x0000000000000000      0x100 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/sort.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/sort.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/sort.o
+ .text.puzzles_memswap
+                0x0000000000000000       0x78 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/sort.o
+ .text.downheap
+                0x0000000000000000      0x114 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/sort.o
+ .text.arraysort_fn
+                0x0000000000000000       0xa0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/sort.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tdq.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tdq.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tdq.o
+ .text.tdq_new  0x0000000000000000       0x74 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tdq.o
+ .text.tdq_free
+                0x0000000000000000       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tdq.o
+ .text.tdq_add  0x0000000000000000       0x74 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tdq.o
+ .text.tdq_remove
+                0x0000000000000000       0x54 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tdq.o
+ .text.tdq_fill
+                0x0000000000000000       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tdq.o
+ .rodata.str1.4
+                0x0000000000000000       0x8f /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tdq.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text.join234_internal
+                0x0000000000000000      0x238 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text.copynode234
+                0x0000000000000000       0xbc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text.addpos234
+                0x0000000000000000       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text.findrel234
+                0x0000000000000000       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text.findpos234
+                0x0000000000000000       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text.delpos234
+                0x0000000000000000       0x74 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text.join234  0x0000000000000000      0x130 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text.join234r
+                0x0000000000000000      0x140 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text.splitpos234
+                0x0000000000000000      0x528 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text.split234
+                0x0000000000000000       0xac /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text.copytree234
+                0x0000000000000000       0x58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/version.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/version.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/version.o
+ .data.ver      0x0000000000000000       0x13 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/version.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.get_used_size
+                0x0000000000000000        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.get_max_size
+                0x0000000000000000        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.destroy_memory_pool
+                0x0000000000000000        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.calloc_ex
+                0x0000000000000000       0x4c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.tlsf_calloc
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.__div0   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memcmp   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.talk_val
+                0x0000000000000000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.backlight_force_on
+                0x0000000000000000       0x34 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.backlight_ignore_timeout
+                0x0000000000000000       0x58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.backlight_use_settings
+                0x0000000000000000       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.remote_backlight_force_on
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.remote_backlight_ignore_timeout
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.remote_backlight_use_settings
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_force_on
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_force_off
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_ignore_timeout
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_use_settings
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.backlight_brightness_set
+                0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.backlight_brightness_use_setting
+                0x0000000000000000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_brightness_set
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text.buttonlight_brightness_use_setting
+                0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.playback_control_init
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(display_text.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(display_text.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(display_text.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .text._fopen_  0x0000000000000000       0xe8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .text._fflush_
+                0x0000000000000000        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .text._fread_  0x0000000000000000       0x54 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .text._fwrite_
+                0x0000000000000000       0x5c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .text._fseek_  0x0000000000000000       0x70 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .text._ftell_  0x0000000000000000       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .text._fclose_
+                0x0000000000000000       0x54 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .text._fgetc_  0x0000000000000000       0x58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .text._ungetc_
+                0x0000000000000000        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .text._fputc_  0x0000000000000000       0x48 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .text._fgets_  0x0000000000000000       0x88 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .text._clearerr_
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .text._ferror_
+                0x0000000000000000       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .text._feof_   0x0000000000000000       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .text._fprintf_
+                0x0000000000000000       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .data.__file__
+                0x0000000000000000       0x84 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .rodata.str1.1
+                0x0000000000000000       0x27 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .bss._stderr_  0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .bss._stdout_  0x0000000000000000        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+ .text.xlcd_color_bitmap_part
+                0x0000000000000000      0x158 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+ .text.xlcd_color_bitmap
+                0x0000000000000000       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_core.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_core.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_core.o)
+ .text.get_framebuffer
+                0x0000000000000000       0x64 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_core.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(puzzles_cursor.11x16x24.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(puzzles_cursor.11x16x24.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(puzzles_cursor.11x16x24.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+ .text.fp_sincos
+                0x0000000000000000       0x8c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+ .text.fp_sqrt  0x0000000000000000       0xc4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+ .text.ipow     0x0000000000000000       0x48 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+ .text.fp14_sin
+                0x0000000000000000       0x5c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+ .text.fp14_cos
+                0x0000000000000000       0x7c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+ .text.fp16_log
+                0x0000000000000000       0xd4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+ .text.fp16_exp
+                0x0000000000000000       0xf8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+ .text.fp_exp10
+                0x0000000000000000      0x1a0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+ .text.fp_log10
+                0x0000000000000000       0xb0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+ .text.fp_decibels
+                0x0000000000000000       0x2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+ .text.fp_factor
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+ .rodata.atan_table
+                0x0000000000000000       0x80 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+ .rodata.sin_table
+                0x0000000000000000       0xb6 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000       0x1c /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_ashrdi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_ashrdi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_ashrdi3.o)
+ .debug_line    0x0000000000000000       0x67 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_ashrdi3.o)
+ .debug_info    0x0000000000000000       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_ashrdi3.o)
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_ashrdi3.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_ashrdi3.o)
+ .ARM.attributes
+                0x0000000000000000       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_ashrdi3.o)
+ .text          0x0000000000000000       0x1c /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_ashldi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_ashldi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_ashldi3.o)
+ .debug_line    0x0000000000000000       0x67 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_ashldi3.o)
+ .debug_info    0x0000000000000000       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_ashldi3.o)
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_ashldi3.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_ashldi3.o)
+ .ARM.attributes
+                0x0000000000000000       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_ashldi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpdf2.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .text          0x0000000000000000       0x54 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixunsdfsi.o)
+ .debug_line    0x0000000000000000       0x76 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixunsdfsi.o)
+ .debug_info    0x0000000000000000       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixunsdfsi.o)
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixunsdfsi.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x0000000000000000       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_truncdfsf2.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixsfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixsfsi.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .ARM.extab     0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .ARM.extab     0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001f80000 0x0000000000080000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/help/loopy.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbmalloc.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/lz4tiny.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/combi.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/divvy.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/dsf.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/findloop.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/laydomino.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopgen.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/matching.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/printing.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/sort.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tdq.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/version.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001f80000       0x1c
+                0x0000000001f80000                _plugin_start_addr = .
+                0x0000000001f80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001f80000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f80000                __header
+
+.text           0x0000000001f80020    0x225c0
+ *(.text*)
+ .text.decode_params
+                0x0000000001f80020      0x170 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.new_ui   0x0000000001f80190        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.free_ui  0x0000000001f80198        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.encode_ui
+                0x0000000001f8019c        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.decode_ui
+                0x0000000001f801a4        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_changed_state
+                0x0000000001f801a8        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_set_size
+                0x0000000001f801ac        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_timing_state
+                0x0000000001f801b4        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_anim_length
+                0x0000000001f801bc        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_can_format_as_text_now
+                0x0000000001f801c4       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_flash_length
+                0x0000000001f801d4       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_get_cursor_location
+                0x0000000001f80214        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_status
+                0x0000000001f80218        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.custom_params
+                0x0000000001f80220       0x68 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.dup_params
+                0x0000000001f80288       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.default_params
+                0x0000000001f802b0       0x2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_free_drawstate
+                0x0000000001f802dc       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.free_params
+                0x0000000001f8031c       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_new_drawstate
+                0x0000000001f8032c       0xd8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_colours
+                0x0000000001f80404       0xb4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_compute_size
+                0x0000000001f804b8       0xa0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_print_size
+                0x0000000001f80558       0x58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.interpret_move
+                0x0000000001f805b0      0x3a0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_text_format
+                0x0000000001f80950      0x36c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.solver_set_line
+                0x0000000001f80cbc      0x24c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.loop_deductions
+                0x0000000001f80f08      0x454 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.face_setall_identical
+                0x0000000001f8135c      0x150 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.dup_game
+                0x0000000001f814ac       0xb4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.new_solver_state
+                0x0000000001f81560      0x178 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.solve_game_rec
+                0x0000000001f816d8      0x270 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.extract_grid_desc
+                0x0000000001f81948       0x74 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.free_game
+                0x0000000001f819bc       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.free_solver_state
+                0x0000000001f819fc       0x78 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_has_unique_soln
+                0x0000000001f81a74       0x64 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.new_game
+                0x0000000001f81ad8      0x1a8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.validate_desc
+                0x0000000001f81c80      0x114 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_configure
+                0x0000000001f81d94       0xe0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.encode_params
+                0x0000000001f81e74       0x88 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.preset_menu_add_preset_with_title
+                0x0000000001f81efc       0x88 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_preset_menu
+                0x0000000001f81f84       0x7c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.dot_order.isra.0
+                0x0000000001f82000       0x5c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.face_order.isra.1
+                0x0000000001f8205c       0x5c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.execute_move
+                0x0000000001f820b8      0x580 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.dline_deductions
+                0x0000000001f82638      0xcc0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.grid_to_screen.isra.6
+                0x0000000001f832f8       0x8c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.face_text_pos
+                0x0000000001f83384       0xc4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_print
+                0x0000000001f83448      0x51c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.edge_bbox.isra.7
+                0x0000000001f83964       0xec /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_redraw_in_rect
+                0x0000000001f83a50      0x600 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.encode_solve_move.isra.11
+                0x0000000001f84050      0x134 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.solve_game
+                0x0000000001f84184       0x44 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.validate_params
+                0x0000000001f841c8       0xa4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.merge_lines.isra.13
+                0x0000000001f8426c       0xd4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.parity_deductions
+                0x0000000001f84340      0x3b0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.linedsf_deductions
+                0x0000000001f846f0      0x430 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.new_game_desc
+                0x0000000001f84b20      0x5a8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.face_setall.constprop.16
+                0x0000000001f850c8       0xd4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.dot_setall.constprop.17
+                0x0000000001f8519c       0xd4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.trivial_deductions
+                0x0000000001f85270      0x468 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.game_redraw
+                0x0000000001f856d8      0x43c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .text.unload_fonts
+                0x0000000001f85b14       0x88 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.trim_rect
+                0x0000000001f85b9c       0xc0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.rb_blitter_save
+                0x0000000001f85c5c      0x11c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.rb_draw_update
+                0x0000000001f85d78       0xb0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.rb_start_draw
+                0x0000000001f85e28       0x54 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.zoom_clamp_panning
+                0x0000000001f85e7c       0x74 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.config_formatter
+                0x0000000001f85ef0       0x44 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+                0x0000000001f85ef0                config_formatter
+ .text.preset_formatter
+                0x0000000001f85f34       0x48 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.quick_help
+                0x0000000001f85f7c       0x84 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.reset_drawing
+                0x0000000001f86000       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.read_wrapper
+                0x0000000001f86060       0x34 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.write_wrapper
+                0x0000000001f86094       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.rb_blitter_free
+                0x0000000001f860a8       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.rb_blitter_new
+                0x0000000001f860c8       0x44 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.rb_status_bar
+                0x0000000001f8610c       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.config_choices_formatter
+                0x0000000001f8613c       0xc0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.send_click
+                0x0000000001f861fc       0xa4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.exit_handler
+                0x0000000001f862a0       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.mainmenu_cb
+                0x0000000001f862e0       0xc0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.do_preset_menu
+                0x0000000001f863a0      0x1b8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.presets_menu
+                0x0000000001f86558       0x8c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.fix_size
+                0x0000000001f865e4       0x9c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.new_game_notify
+                0x0000000001f86680       0x4c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.pausemenu_cb
+                0x0000000001f866cc      0x114 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.timer_cb
+                0x0000000001f867e0       0xdc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.zoom_drawpixel
+                0x0000000001f868bc       0x9c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.zoom_hline
+                0x0000000001f86958       0xd4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.offset_coords.part.2
+                0x0000000001f86a2c       0x2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.rb_blitter_load
+                0x0000000001f86a58      0x16c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.rb_clip  0x0000000001f86bc4       0xf8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.rb_unclip
+                0x0000000001f86cbc       0x9c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.draw_mouse
+                0x0000000001f86d58       0xf8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.draw_title
+                0x0000000001f86e50      0x1dc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.clear_mouse
+                0x0000000001f8702c       0xa8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.clear_and_draw
+                0x0000000001f870d4       0x7c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.rb_end_draw
+                0x0000000001f87150       0x98 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.full_help.isra.9
+                0x0000000001f871e8      0x1b8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.draw_antialiased_line
+                0x0000000001f873a0      0x5f8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.fatal    0x0000000001f87998       0xbc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+                0x0000000001f87998                fatal
+ .text.rb_color
+                0x0000000001f87a54       0x38 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.rb_draw_line
+                0x0000000001f87a8c      0x130 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.rb_draw_rect
+                0x0000000001f87bbc       0xc4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.rb_draw_circle
+                0x0000000001f87c80      0x2d8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.rb_draw_poly
+                0x0000000001f87f58      0x608 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.rb_setfont
+                0x0000000001f88560      0x30c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.rb_draw_text
+                0x0000000001f8886c      0x4e0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.config_menu
+                0x0000000001f88d4c      0x870 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.pause_menu
+                0x0000000001f895bc      0xcc0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.process_input
+                0x0000000001f8a27c      0x930 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.init_for_game.constprop.11
+                0x0000000001f8abac      0x36c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.load_game
+                0x0000000001f8af18      0x1d4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.save_game
+                0x0000000001f8b0ec      0x3d8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.puzzles_main
+                0x0000000001f8b4c4      0x4e0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .text.get_random_seed
+                0x0000000001f8b9a4       0x5c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+                0x0000000001f8b9a4                get_random_seed
+ .text.activate_timer
+                0x0000000001f8ba00       0x34 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+                0x0000000001f8ba00                activate_timer
+ .text.deactivate_timer
+                0x0000000001f8ba34       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+                0x0000000001f8ba34                deactivate_timer
+ .text.frontend_default_colour
+                0x0000000001f8ba48       0x18 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+                0x0000000001f8ba48                frontend_default_colour
+ .text.plugin_start
+                0x0000000001f8ba60      0x140 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+                0x0000000001f8ba60                plugin_start
+ .text.sprintf_wrapper
+                0x0000000001f8bba0       0x4c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+                0x0000000001f8bba0                sprintf_wrapper
+ .text.getenv_wrapper
+                0x0000000001f8bbec       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+                0x0000000001f8bbec                getenv_wrapper
+ .text.fabs_wrapper
+                0x0000000001f8bc2c       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+                0x0000000001f8bc2c                fabs_wrapper
+ .text.floor_wrapper
+                0x0000000001f8bc50       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+                0x0000000001f8bc50                floor_wrapper
+ .text.sqrt_wrapper
+                0x0000000001f8bc90       0x58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+                0x0000000001f8bc90                sqrt_wrapper
+ .text.strtol_wrapper
+                0x0000000001f8bce8      0x1f4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+                0x0000000001f8bce8                strtol_wrapper
+ .text.ceil_wrapper
+                0x0000000001f8bedc       0x50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+                0x0000000001f8bedc                ceil_wrapper
+ .text.atof_wrapper
+                0x0000000001f8bf2c      0x358 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+                0x0000000001f8bf2c                atof_wrapper
+ .text.rb_vsscanf
+                0x0000000001f8c284      0xb00 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+                0x0000000001f8c284                rb_vsscanf
+ .text.sscanf_wrapper
+                0x0000000001f8cd84       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+                0x0000000001f8cd84                sscanf_wrapper
+ .text.strcspn_wrapper
+                0x0000000001f8cdb4       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+                0x0000000001f8cdb4                strcspn_wrapper
+ .text.strspn_wrapper
+                0x0000000001f8cdf4       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+                0x0000000001f8cdf4                strspn_wrapper
+ .text.grab_audiobuf.part.0
+                0x0000000001f8ce34       0x84 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbmalloc.o
+ .text.smalloc  0x0000000001f8ceb8       0x54 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbmalloc.o
+                0x0000000001f8ceb8                smalloc
+ .text.sfree    0x0000000001f8cf0c       0x2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbmalloc.o
+                0x0000000001f8cf0c                sfree
+ .text.srealloc
+                0x0000000001f8cf38       0x88 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbmalloc.o
+                0x0000000001f8cf38                srealloc
+ .text.dupstr   0x0000000001f8cfc0       0x4c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbmalloc.o
+                0x0000000001f8cfc0                dupstr
+ .text.LZ4_decompress_tiny
+                0x0000000001f8d00c      0x208 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/lz4tiny.o
+                0x0000000001f8d00c                LZ4_decompress_tiny
+ .text.print_generic_colour
+                0x0000000001f8d214       0x90 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .text.drawing_new
+                0x0000000001f8d2a4       0x48 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+                0x0000000001f8d2a4                drawing_new
+ .text.drawing_free
+                0x0000000001f8d2ec       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+                0x0000000001f8d2ec                drawing_free
+ .text.draw_text
+                0x0000000001f8d314       0x18 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+                0x0000000001f8d314                draw_text
+ .text.draw_rect
+                0x0000000001f8d32c       0x18 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+                0x0000000001f8d32c                draw_rect
+ .text.draw_line
+                0x0000000001f8d344       0x18 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+                0x0000000001f8d344                draw_line
+ *fill*         0x0000000001f8d35c        0x4 
+ .text.draw_thick_line
+                0x0000000001f8d360      0x218 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+                0x0000000001f8d360                draw_thick_line
+ .text.draw_polygon
+                0x0000000001f8d578       0x18 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+                0x0000000001f8d578                draw_polygon
+ .text.draw_circle
+                0x0000000001f8d590       0x18 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+                0x0000000001f8d590                draw_circle
+ .text.draw_update
+                0x0000000001f8d5a8       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+                0x0000000001f8d5a8                draw_update
+ .text.clip     0x0000000001f8d5cc       0x18 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+                0x0000000001f8d5cc                clip
+ .text.unclip   0x0000000001f8d5e4       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+                0x0000000001f8d5e4                unclip
+ .text.start_draw
+                0x0000000001f8d5f4       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+                0x0000000001f8d5f4                start_draw
+ .text.end_draw
+                0x0000000001f8d604       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+                0x0000000001f8d604                end_draw
+ .text.status_bar
+                0x0000000001f8d614       0xbc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+                0x0000000001f8d614                status_bar
+ .text.print_mono_colour
+                0x0000000001f8d6d0       0x48 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+                0x0000000001f8d6d0                print_mono_colour
+ .text.snew_dsf
+                0x0000000001f8d718       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/dsf.o
+                0x0000000001f8d718                snew_dsf
+ .text.edsf_canonify
+                0x0000000001f8d754       0xd0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/dsf.o
+                0x0000000001f8d754                edsf_canonify
+ .text.dsf_canonify
+                0x0000000001f8d824        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/dsf.o
+                0x0000000001f8d824                dsf_canonify
+ .text.dsf_size
+                0x0000000001f8d82c       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/dsf.o
+                0x0000000001f8d82c                dsf_size
+ .text.edsf_merge
+                0x0000000001f8d84c      0x15c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/dsf.o
+                0x0000000001f8d84c                edsf_merge
+ .text.dsf_merge
+                0x0000000001f8d9a8        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/dsf.o
+                0x0000000001f8d9a8                dsf_merge
+ .text.grid_edge_bydots_cmpfn
+                0x0000000001f8d9b0       0x8c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_point_cmp_fn
+                0x0000000001f8da3c       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_size_square
+                0x0000000001f8da5c       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_size_honeycomb
+                0x0000000001f8da8c       0x44 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_size_triangular
+                0x0000000001f8dad0       0x38 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_size_snubsquare
+                0x0000000001f8db08       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_size_cairo
+                0x0000000001f8db38       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_size_greathexagonal
+                0x0000000001f8db68       0x44 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_size_kagome
+                0x0000000001f8dbac       0x44 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_size_octagonal
+                0x0000000001f8dbf0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_size_kites
+                0x0000000001f8dc20       0x44 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_size_floret
+                0x0000000001f8dc64       0x58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_size_dodecagonal
+                0x0000000001f8dcbc       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_size_greatdodecagonal
+                0x0000000001f8dcfc       0x44 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_size_greatgreatdodecagonal
+                0x0000000001f8dd40       0x48 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_size_penrose_p2_kite
+                0x0000000001f8dd88       0x38 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_size_penrose_p3_thick
+                0x0000000001f8ddc0       0x38 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_empty
+                0x0000000001f8ddf8       0x48 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_make_consistent
+                0x0000000001f8de40      0x7ec /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_face_add_new.isra.5
+                0x0000000001f8e62c       0x78 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_get_dot
+                0x0000000001f8e6a4       0xa4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_new_greatgreatdodecagonal
+                0x0000000001f8e748      0xf08 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_new_greatdodecagonal
+                0x0000000001f8f650      0x9dc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_new_dodecagonal
+                0x0000000001f9002c      0x5ac /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_new_floret
+                0x0000000001f905d8      0x79c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_new_kites
+                0x0000000001f90d74      0x644 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_new_octagonal
+                0x0000000001f913b8      0x3e0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_new_kagome
+                0x0000000001f91798      0x5ac /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_new_greathexagonal
+                0x0000000001f91d44      0x6f8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_new_cairo
+                0x0000000001f9243c      0x578 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_new_snubsquare
+                0x0000000001f929b4      0x584 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_new_triangular
+                0x0000000001f92f38      0x6a4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_new_honeycomb
+                0x0000000001f935dc      0x290 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_new_square
+                0x0000000001f9386c      0x1f8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.set_faces
+                0x0000000001f93a64      0x1c0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_free
+                0x0000000001f93c24       0xf8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+                0x0000000001f93c24                grid_free
+ .text.grid_new_penrose
+                0x0000000001f93d1c      0x948 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_new_penrose_p3_thick
+                0x0000000001f94664        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_new_penrose_p2_kite
+                0x0000000001f94670        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_new_desc_penrose
+                0x0000000001f9467c      0x144 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .text.grid_nearest_edge
+                0x0000000001f947c0      0x1ec /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+                0x0000000001f947c0                grid_nearest_edge
+ .text.grid_find_incentre
+                0x0000000001f949ac     0x1de8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+                0x0000000001f949ac                grid_find_incentre
+ .text.grid_new_desc
+                0x0000000001f96794       0x34 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+                0x0000000001f96794                grid_new_desc
+ .text.grid_validate_desc
+                0x0000000001f967c8      0x1fc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+                0x0000000001f967c8                grid_validate_desc
+ .text.grid_new
+                0x0000000001f969c4       0x54 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+                0x0000000001f969c4                grid_new
+ .text.grid_compute_size
+                0x0000000001f96a18       0x34 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+                0x0000000001f96a18                grid_compute_size
+ .text.generic_sort_cmpfn
+                0x0000000001f96a4c       0x5c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopgen.o
+ .text.white_sort_cmpfn
+                0x0000000001f96aa8        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopgen.o
+ .text.black_sort_cmpfn
+                0x0000000001f96ab0        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopgen.o
+ .text.face_num_neighbours.isra.1
+                0x0000000001f96ab8       0x74 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopgen.o
+ .text.can_colour_face.isra.2
+                0x0000000001f96b2c      0x2d4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopgen.o
+ .text.generate_loop
+                0x0000000001f96e00      0x6ec /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopgen.o
+                0x0000000001f96e00                generate_loop
+ .text.midend_size_new_drawstate
+                0x0000000001f974ec       0x50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_free_game
+                0x0000000001f9753c       0x84 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_free_preset_menu
+                0x0000000001f975c0       0x94 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_purge_states
+                0x0000000001f97654       0x74 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.preset_menu_add
+                0x0000000001f976c8       0x80 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.newgame_serialise_write
+                0x0000000001f97748       0xa8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.newgame_undo_deserialise_read
+                0x0000000001f977f0       0x4c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_set_timer
+                0x0000000001f9783c       0xa0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_finish_move
+                0x0000000001f978dc      0x110 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_deserialise_internal
+                0x0000000001f979ec      0xc54 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_game_id_int
+                0x0000000001f98640      0x3c0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.newgame_undo_deserialise_check
+                0x0000000001f98a00       0xdc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.preset_menu_alloc_ids.isra.1
+                0x0000000001f98adc       0x98 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.preset_menu_encode_params.isra.2
+                0x0000000001f98b74       0x90 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_reset_tilesize
+                0x0000000001f98c04       0xec /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f98c04                midend_reset_tilesize
+ .text.midend_new
+                0x0000000001f98cf0      0x1e0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f98cf0                midend_new
+ .text.midend_which_game
+                0x0000000001f98ed0        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f98ed0                midend_which_game
+ .text.midend_free
+                0x0000000001f98ed8       0xf4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f98ed8                midend_free
+ .text.midend_size
+                0x0000000001f98fcc      0x160 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f98fcc                midend_size
+ .text.midend_set_params
+                0x0000000001f9912c       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f9912c                midend_set_params
+ .text.midend_can_undo
+                0x0000000001f9916c       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f9916c                midend_can_undo
+ .text.midend_can_redo
+                0x0000000001f99190       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f99190                midend_can_redo
+ .text.midend_request_keys
+                0x0000000001f991b8       0xa0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f991b8                midend_request_keys
+ .text.midend_redraw
+                0x0000000001f99258      0x184 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f99258                midend_redraw
+ .text.midend_force_redraw
+                0x0000000001f993dc       0x58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f993dc                midend_force_redraw
+ .text.midend_stop_anim
+                0x0000000001f99434       0x44 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f99434                midend_stop_anim
+ .text.midend_restart_game
+                0x0000000001f99478      0x148 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f99478                midend_restart_game
+ .text.midend_timer
+                0x0000000001f995c0      0x19c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f995c0                midend_timer
+ .text.midend_colours
+                0x0000000001f9975c      0x168 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f9975c                midend_colours
+ .text.preset_menu_new
+                0x0000000001f998c4       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f998c4                preset_menu_new
+ .text.preset_menu_add_submenu
+                0x0000000001f998e8       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f998e8                preset_menu_add_submenu
+ .text.preset_menu_add_from_user_env
+                0x0000000001f99918      0x19c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.preset_menu_add_preset
+                0x0000000001f99ab4       0x18 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f99ab4                preset_menu_add_preset
+ .text.midend_get_presets
+                0x0000000001f99acc      0x210 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f99acc                midend_get_presets
+ .text.midend_which_preset
+                0x0000000001f99cdc       0x90 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f99cdc                midend_which_preset
+ .text.midend_get_cursor_location
+                0x0000000001f99d6c       0xec /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f99d6c                midend_get_cursor_location
+ .text.midend_get_config
+                0x0000000001f99e58      0x270 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f99e58                midend_get_config
+ .text.midend_set_config
+                0x0000000001f9a0c8       0xa8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f9a0c8                midend_set_config
+ .text.midend_solve
+                0x0000000001f9a170      0x254 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f9a170                midend_solve
+ .text.midend_rewrite_statusbar
+                0x0000000001f9a3c4      0x108 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f9a3c4                midend_rewrite_statusbar
+ .text.midend_serialise
+                0x0000000001f9a4cc      0xbb4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f9a4cc                midend_serialise
+ .text.midend_new_game
+                0x0000000001f9b080      0x3ac /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f9b080                midend_new_game
+ .text.midend_really_process_key
+                0x0000000001f9b42c      0x5f8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .text.midend_process_key
+                0x0000000001f9ba24      0x194 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f9ba24                midend_process_key
+ .text.midend_deserialise
+                0x0000000001f9bbb8       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f9bbb8                midend_deserialise
+ .text.identify_game
+                0x0000000001f9bbd8      0x278 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                0x0000000001f9bbd8                identify_game
+ .text.swap_regions
+                0x0000000001f9be50       0x74 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+ .text.free_cfg
+                0x0000000001f9bec4       0x5c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+                0x0000000001f9bec4                free_cfg
+ .text.free_keys
+                0x0000000001f9bf20       0x38 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+                0x0000000001f9bf20                free_keys
+ .text.obfuscate_bitmap
+                0x0000000001f9bf58      0x1d4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+                0x0000000001f9bf58                obfuscate_bitmap
+ .text.bin2hex  0x0000000001f9c12c       0x70 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+                0x0000000001f9c12c                bin2hex
+ .text.hex2bin  0x0000000001f9c19c      0x118 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+                0x0000000001f9c19c                hex2bin
+ .text.shuffle  0x0000000001f9c2b4       0x58 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+                0x0000000001f9c2b4                shuffle
+ .text.copy_left_justified
+                0x0000000001f9c30c       0xb8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+                0x0000000001f9c30c                copy_left_justified
+ .text.ftoa     0x0000000001f9c3c4       0x64 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+                0x0000000001f9c3c4                ftoa
+ .text.button2label
+                0x0000000001f9c428      0x100 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+                0x0000000001f9c428                button2label
+ .text.v_rotate
+                0x0000000001f9c528       0xe0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+ .text.xform_coord
+                0x0000000001f9c608       0xe0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+ .text.penrose_p2_large
+                0x0000000001f9c6e8      0x2a8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+ .text.penrose_p2_small
+                0x0000000001f9c990      0x26c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+ .text.penrose_p3_small
+                0x0000000001f9cbfc      0x25c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+ .text.penrose_p3_large
+                0x0000000001f9ce58      0x35c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+ *fill*         0x0000000001f9d1b4        0x4 
+ .text.v_x      0x0000000001f9d1b8       0x70 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+                0x0000000001f9d1b8                v_x
+ .text.v_y      0x0000000001f9d228       0x70 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+                0x0000000001f9d228                v_y
+ .text.penrose  0x0000000001f9d298       0xf8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+                0x0000000001f9d298                penrose
+ .text.penrose_calculate_size
+                0x0000000001f9d390      0x168 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+                0x0000000001f9d390                penrose_calculate_size
+ .text.SHA_Init
+                0x0000000001f9d4f8       0x54 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o
+                0x0000000001f9d4f8                SHA_Init
+ .text.SHA_Bytes
+                0x0000000001f9d54c      0x368 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o
+                0x0000000001f9d54c                SHA_Bytes
+ .text.SHA_Final
+                0x0000000001f9d8b4       0xf0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o
+                0x0000000001f9d8b4                SHA_Final
+ .text.SHA_Simple
+                0x0000000001f9d9a4       0x84 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o
+                0x0000000001f9d9a4                SHA_Simple
+ .text.random_new
+                0x0000000001f9da28       0x5c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o
+                0x0000000001f9da28                random_new
+ .text.random_bits
+                0x0000000001f9da84       0xb8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o
+                0x0000000001f9da84                random_bits
+ .text.random_upto
+                0x0000000001f9db3c       0x94 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o
+                0x0000000001f9db3c                random_upto
+ .text.random_free
+                0x0000000001f9dbd0       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o
+                0x0000000001f9dbd0                random_free
+ .text.trans234_subtree_right
+                0x0000000001f9dbe0      0x134 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text.trans234_subtree_left
+                0x0000000001f9dd14      0x130 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text.add234_insert
+                0x0000000001f9de44      0x660 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text.add234_internal
+                0x0000000001f9e4a4      0x1c4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text.freenode234
+                0x0000000001f9e668       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text.trans234_subtree_merge
+                0x0000000001f9e6a8      0x1ec /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text.delpos234_internal.isra.1
+                0x0000000001f9e894      0x31c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .text.newtree234
+                0x0000000001f9ebb0       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+                0x0000000001f9ebb0                newtree234
+ .text.freetree234
+                0x0000000001f9ebd0       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+                0x0000000001f9ebd0                freetree234
+ .text.count234
+                0x0000000001f9ebf0       0x50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+                0x0000000001f9ebf0                count234
+ .text.add234   0x0000000001f9ec40       0x18 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+                0x0000000001f9ec40                add234
+ .text.index234
+                0x0000000001f9ec58       0xfc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+                0x0000000001f9ec58                index234
+ .text.findrelpos234
+                0x0000000001f9ed54      0x198 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+                0x0000000001f9ed54                findrelpos234
+ .text.find234  0x0000000001f9eeec       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+                0x0000000001f9eeec                find234
+ .text.del234   0x0000000001f9ef0c       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+                0x0000000001f9ef0c                del234
+ .text          0x0000000001f9ef48      0x214 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f9ef60                plugin__start
+                0x0000000001f9f0b0                rb_atexit
+                0x0000000001f9f0d0                exit
+                0x0000000001f9f0f0                _exit
+                0x0000000001f9f108                exit_on_usb
+ .text.ls_bit   0x0000000001f9f15c       0x44 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.ms_bit   0x0000000001f9f1a0       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.set_bit  0x0000000001f9f1dc       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.clear_bit
+                0x0000000001f9f1f8       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.MAPPING_SEARCH
+                0x0000000001f9f214       0x8c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.FIND_SUITABLE_BLOCK
+                0x0000000001f9f2a0       0x78 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.process_area
+                0x0000000001f9f318       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.MAPPING_INSERT
+                0x0000000001f9f378       0x5c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .text.panicf   0x0000000001f9f3d4        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9f3d4                panicf
+ .text.get_new_area
+                0x0000000001f9f3dc        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9f3dc                get_new_area
+ .text.free_ex  0x0000000001f9f3e4      0x2a0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9f3e4                free_ex
+ .text.init_memory_pool
+                0x0000000001f9f684       0xcc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9f684                init_memory_pool
+ .text.add_new_area
+                0x0000000001f9f750      0x16c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9f750                add_new_area
+ .text.malloc_ex
+                0x0000000001f9f8bc      0x260 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9f8bc                malloc_ex
+ .text.tlsf_malloc
+                0x0000000001f9fb1c       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9fb1c                tlsf_malloc
+ .text.tlsf_free
+                0x0000000001f9fb7c       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9fb7c                tlsf_free
+ .text.realloc_ex
+                0x0000000001f9fb8c      0x3a8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9fb8c                realloc_ex
+ .text.tlsf_realloc
+                0x0000000001f9ff34       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+                0x0000000001f9ff34                tlsf_realloc
+ .text.memcpy   0x0000000001f9ff50       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f9ff50                memcpy
+ .text.memset   0x0000000001f9ff64       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f9ff64                memset
+ .text.memmove  0x0000000001f9ff78       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f9ff78                memmove
+ .text.sw_poweroff_disable
+                0x0000000001f9ff8c       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                0x0000000001f9ff8c                sw_poweroff_disable
+ .text.sw_poweroff_restore
+                0x0000000001f9ffc8       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+                0x0000000001f9ffc8                sw_poweroff_restore
+ .text.prevtrack
+                0x0000000001f9ffe8       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.stop     0x0000000001fa0010       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.nexttrack
+                0x0000000001fa0038       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.volume   0x0000000001fa0060       0x48 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.shuffle  0x0000000001fa00a8       0x50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.play     0x0000000001fa00f8       0xa0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.repeat_mode
+                0x0000000001fa0198       0x98 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .text.playback_control
+                0x0000000001fa0230       0x50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001fa0230                playback_control
+ .text.wait_key_press
+                0x0000000001fa0280       0x5c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(display_text.o)
+ .text.display_text
+                0x0000000001fa02dc      0x384 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(display_text.o)
+                0x0000000001fa02dc                display_text
+ .text.strncpy  0x0000000001fa0660       0x38 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+                0x0000000001fa0660                strncpy
+ .text.xlcd_filltriangle_screen
+                0x0000000001fa0698      0x398 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+                0x0000000001fa0698                xlcd_filltriangle_screen
+ .text.xlcd_filltriangle
+                0x0000000001fa0a30       0x50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+                0x0000000001fa0a30                xlcd_filltriangle
+ .text.xlcd_fillcircle_screen
+                0x0000000001fa0a80      0x17c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+                0x0000000001fa0a80                xlcd_fillcircle_screen
+ .text.xlcd_fillcircle
+                0x0000000001fa0bfc       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+                0x0000000001fa0bfc                xlcd_fillcircle
+ .text.xlcd_drawcircle_screen
+                0x0000000001fa0c2c      0x128 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+                0x0000000001fa0c2c                xlcd_drawcircle_screen
+ .text.xlcd_drawcircle
+                0x0000000001fa0d54       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+                0x0000000001fa0d54                xlcd_drawcircle
+ .text          0x0000000001fa0d84       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                0x0000000001fa0d84                setjmp
+                0x0000000001fa0d90                longjmp
+ .text          0x0000000001fa0da0      0x114 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                0x0000000001fa0da0                __udivsi3
+                0x0000000001fa0da0                __aeabi_uidiv
+                0x0000000001fa0e94                __aeabi_uidivmod
+ .text          0x0000000001fa0eb4      0x148 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                0x0000000001fa0eb4                __aeabi_idiv
+                0x0000000001fa0eb4                __divsi3
+                0x0000000001fa0fdc                __aeabi_idivmod
+ .text          0x0000000001fa0ffc        0x4 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                0x0000000001fa0ffc                __aeabi_ldiv0
+                0x0000000001fa0ffc                __aeabi_idiv0
+ .text          0x0000000001fa1000      0x41c /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+                0x0000000001fa1000                __aeabi_drsub
+                0x0000000001fa1008                __aeabi_dsub
+                0x0000000001fa1008                __subdf3
+                0x0000000001fa100c                __adddf3
+                0x0000000001fa100c                __aeabi_dadd
+                0x0000000001fa131c                __aeabi_ui2d
+                0x0000000001fa131c                __floatunsidf
+                0x0000000001fa1340                __floatsidf
+                0x0000000001fa1340                __aeabi_i2d
+                0x0000000001fa1368                __extendsfdf2
+                0x0000000001fa1368                __aeabi_f2d
+                0x0000000001fa13a8                __aeabi_ul2d
+                0x0000000001fa13a8                __floatundidf
+                0x0000000001fa13bc                __floatdidf
+                0x0000000001fa13bc                __aeabi_l2d
+ .text          0x0000000001fa141c      0x49c /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+                0x0000000001fa141c                __aeabi_dmul
+                0x0000000001fa141c                __muldf3
+                0x0000000001fa16ac                __aeabi_ddiv
+                0x0000000001fa16ac                __divdf3
+ .text          0x0000000001fa18b8      0x144 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpdf2.o)
+                0x0000000001fa18b8                __gtdf2
+                0x0000000001fa18b8                __gedf2
+                0x0000000001fa18c0                __ltdf2
+                0x0000000001fa18c0                __ledf2
+                0x0000000001fa18c8                __cmpdf2
+                0x0000000001fa18c8                __eqdf2
+                0x0000000001fa18c8                __nedf2
+                0x0000000001fa1950                __aeabi_cdrcmple
+                0x0000000001fa196c                __aeabi_cdcmple
+                0x0000000001fa196c                __aeabi_cdcmpeq
+                0x0000000001fa1984                __aeabi_dcmpeq
+                0x0000000001fa199c                __aeabi_dcmplt
+                0x0000000001fa19b4                __aeabi_dcmple
+                0x0000000001fa19cc                __aeabi_dcmpge
+                0x0000000001fa19e4                __aeabi_dcmpgt
+ .text          0x0000000001fa19fc       0x5c /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+                0x0000000001fa19fc                __fixdfsi
+                0x0000000001fa19fc                __aeabi_d2iz
+ .text          0x0000000001fa1a58       0xa0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_truncdfsf2.o)
+                0x0000000001fa1a58                __aeabi_d2f
+                0x0000000001fa1a58                __truncdfsf2
+ .text          0x0000000001fa1af8      0x2ac /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+                0x0000000001fa1af8                __aeabi_frsub
+                0x0000000001fa1b00                __subsf3
+                0x0000000001fa1b00                __aeabi_fsub
+                0x0000000001fa1b04                __aeabi_fadd
+                0x0000000001fa1b04                __addsf3
+                0x0000000001fa1cc0                __aeabi_ui2f
+                0x0000000001fa1cc0                __floatunsisf
+                0x0000000001fa1cc8                __aeabi_i2f
+                0x0000000001fa1cc8                __floatsisf
+                0x0000000001fa1ce8                __floatundisf
+                0x0000000001fa1ce8                __aeabi_ul2f
+                0x0000000001fa1cf8                __floatdisf
+                0x0000000001fa1cf8                __aeabi_l2f
+ .text          0x0000000001fa1da4      0x2f8 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+                0x0000000001fa1da4                __mulsf3
+                0x0000000001fa1da4                __aeabi_fmul
+                0x0000000001fa1f3c                __divsf3
+                0x0000000001fa1f3c                __aeabi_fdiv
+ .text          0x0000000001fa209c      0x114 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+                0x0000000001fa209c                __gtsf2
+                0x0000000001fa209c                __gesf2
+                0x0000000001fa20a4                __lesf2
+                0x0000000001fa20a4                __ltsf2
+                0x0000000001fa20ac                __nesf2
+                0x0000000001fa20ac                __eqsf2
+                0x0000000001fa20ac                __cmpsf2
+                0x0000000001fa2110                __aeabi_cfrcmple
+                0x0000000001fa2120                __aeabi_cfcmple
+                0x0000000001fa2120                __aeabi_cfcmpeq
+                0x0000000001fa2138                __aeabi_fcmpeq
+                0x0000000001fa2150                __aeabi_fcmplt
+                0x0000000001fa2168                __aeabi_fcmple
+                0x0000000001fa2180                __aeabi_fcmpge
+                0x0000000001fa2198                __aeabi_fcmpgt
+ .text          0x0000000001fa21b0       0x5c /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixsfsi.o)
+                0x0000000001fa21b0                __fixsfsi
+                0x0000000001fa21b0                __aeabi_f2iz
+ .text          0x0000000001fa220c       0x48 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+                0x0000000001fa220c                __clzsi2
+ .text          0x0000000001fa2254       0x48 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+                0x0000000001fa2254                __aeabi_ldivmod
+ .text          0x0000000001fa229c       0x84 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+                0x0000000001fa229c                __gnu_ldivmod_helper
+                0x0000000001fa22e0                __gnu_uldivmod_helper
+ .text          0x0000000001fa2320      0x178 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+                0x0000000001fa2320                __divdi3
+ .text          0x0000000001fa2498      0x120 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+                0x0000000001fa2498                __udivdi3
+ .text          0x0000000001fa25b8       0x28 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+                0x0000000001fa25b8                __clzdi2
+ *(.glue_7)
+ .glue_7        0x0000000001fa25e0        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001fa25e0        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001fa25e0        0x0
+ .vfp11_veneer  0x0000000001fa25e0        0x0 linker stubs
+
+.v4_bx          0x0000000001fa25e0        0x0
+ .v4_bx         0x0000000001fa25e0        0x0 linker stubs
+
+.iplt           0x0000000001fa25e0        0x0
+ .iplt          0x0000000001fa25e0        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+
+.rodata         0x0000000001fa25e0     0x38b4
+ *(.rodata*)
+ .rodata.thegame
+                0x0000000001fa25e0       0xc4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+                0x0000000001fa25e0                thegame
+ .rodata.gridnames
+                0x0000000001fa26a4       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .rodata.loopy_presets_top
+                0x0000000001fa26e0       0xc0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .rodata.solver_fns
+                0x0000000001fa27a0       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .rodata.diffchars
+                0x0000000001fa27b0        0x5 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ *fill*         0x0000000001fa27b5        0x3 
+ .rodata.loopy_line_redraw_phases
+                0x0000000001fa27b8       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .rodata.diffnames
+                0x0000000001fa27cc       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .rodata.grid_size_limits
+                0x0000000001fa27dc       0xf0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .rodata.str1.4
+                0x0000000001fa28cc      0x943 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+                                        0x959 (size before relaxing)
+ *fill*         0x0000000001fa320f        0x1 
+ .rodata.grid_types
+                0x0000000001fa3210        0xf /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ *fill*         0x0000000001fa321f        0x1 
+ .rodata.solver_diffs
+                0x0000000001fa3220       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .rodata.loopy_presets_more
+                0x0000000001fa3230       0x80 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .rodata.help_text_len
+                0x0000000001fa32b0        0x2 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/help/loopy.o
+                0x0000000001fa32b0                help_text_len
+ .rodata.help_text_words
+                0x0000000001fa32b2        0x2 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/help/loopy.o
+                0x0000000001fa32b2                help_text_words
+ .rodata.help_text
+                0x0000000001fa32b4      0x640 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/help/loopy.o
+                0x0000000001fa32b4                help_text
+ .rodata.quick_help_text
+                0x0000000001fa38f4       0x47 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/help/loopy.o
+                0x0000000001fa38f4                quick_help_text
+ *fill*         0x0000000001fa393b        0x1 
+ .rodata.menu__.14068
+                0x0000000001fa393c        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .rodata.menu.14069
+                0x0000000001fa3948        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .rodata.menu__.13902
+                0x0000000001fa3954        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .rodata.menu__.13845
+                0x0000000001fa3960        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .rodata.menu.13846
+                0x0000000001fa396c        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .rodata.rb_drawing
+                0x0000000001fa3978       0x64 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+                0x0000000001fa3978                rb_drawing
+ .rodata.menu.13903
+                0x0000000001fa39dc        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .rodata.str1.4
+                0x0000000001fa39e8      0x69f /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+                                        0x6b7 (size before relaxing)
+ *fill*         0x0000000001fa4087        0x1 
+ .rodata.basefix.13133
+                0x0000000001fa4088       0x22 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ *fill*         0x0000000001fa40aa        0x2 
+ .rodata.str1.4
+                0x0000000001fa40ac        0xf /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+                                         0x13 (size before relaxing)
+ *fill*         0x0000000001fa40bb        0x1 
+ .rodata.str1.4
+                0x0000000001fa40bc        0xe /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbmalloc.o
+ *fill*         0x0000000001fa40ca        0x2 
+ .rodata        0x0000000001fa40cc       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/lz4tiny.o
+ .rodata.str1.4
+                0x0000000001fa40dc       0xfd /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ *fill*         0x0000000001fa41d9        0x3 
+ .rodata.str1.4
+                0x0000000001fa41dc      0x15a /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/dsf.o
+ *fill*         0x0000000001fa4336        0x2 
+ .rodata.grid_sizes
+                0x0000000001fa4338       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .rodata.str1.4
+                0x0000000001fa4374      0x476 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+                                        0x47a (size before relaxing)
+ *fill*         0x0000000001fa47ea        0x2 
+ .rodata.grid_news
+                0x0000000001fa47ec       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .rodata.str1.4
+                0x0000000001fa4828      0x1a6 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopgen.o
+ *fill*         0x0000000001fa49ce        0x2 
+ .rodata.str1.4
+                0x0000000001fa49d0      0x899 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+                                        0x8b9 (size before relaxing)
+ *fill*         0x0000000001fa5269        0x3 
+ .rodata.str1.4
+                0x0000000001fa526c      0x1d4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+                                        0x1d8 (size before relaxing)
+ .rodata.str1.4
+                0x0000000001fa5440       0x83 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+ *fill*         0x0000000001fa54c3        0x1 
+ .rodata.str1.4
+                0x0000000001fa54c4       0x85 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o
+ *fill*         0x0000000001fa5549        0x3 
+ .rodata.str1.4
+                0x0000000001fa554c      0x234 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+                                        0x231 (size before relaxing)
+ .rodata        0x0000000001fa5780      0x400 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .rodata.str1.1
+                0x0000000001fa5b80       0xa2 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ *fill*         0x0000000001fa5c22        0x2 
+ .rodata.stop_item
+                0x0000000001fa5c24        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001fa5c24                stop_item
+ .rodata.nexttrack_item_
+                0x0000000001fa5c30        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.playpause_item__
+                0x0000000001fa5c3c        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.prevtrack_item_
+                0x0000000001fa5c40        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.playback_control_menu
+                0x0000000001fa5c4c        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001fa5c4c                playback_control_menu
+ .rodata.prevtrack_item__
+                0x0000000001fa5c58        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.playback_control_menu__
+                0x0000000001fa5c5c        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.nexttrack_item
+                0x0000000001fa5c68        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001fa5c68                nexttrack_item
+ .rodata.volume_item__
+                0x0000000001fa5c74        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.repeat_mode_item
+                0x0000000001fa5c78        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001fa5c78                repeat_mode_item
+ .rodata.volume_item_
+                0x0000000001fa5c84        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.str1.1
+                0x0000000001fa5c90       0x16 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ *fill*         0x0000000001fa5ca6        0x2 
+ .rodata.prevtrack_item
+                0x0000000001fa5ca8        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001fa5ca8                prevtrack_item
+ .rodata.stop_item_
+                0x0000000001fa5cb4        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.stop_item__
+                0x0000000001fa5cc0        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.nexttrack_item__
+                0x0000000001fa5cc4        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.shuffle_item__
+                0x0000000001fa5cc8        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.shuffle_item_
+                0x0000000001fa5ccc        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.playpause_item_
+                0x0000000001fa5cd8        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.repeat_mode_item_
+                0x0000000001fa5ce4        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.volume_item
+                0x0000000001fa5cf0        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001fa5cf0                volume_item
+ .rodata.repeat_mode_item__
+                0x0000000001fa5cfc        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .rodata.shuffle_item
+                0x0000000001fa5d00        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001fa5d00                shuffle_item
+ .rodata.playpause_item
+                0x0000000001fa5d0c        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001fa5d0c                playpause_item
+ .rodata.str1.1
+                0x0000000001fa5d18        0x2 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(display_text.o)
+                                          0x3 (size before relaxing)
+ *fill*         0x0000000001fa5d1a        0x2 
+ .rodata        0x0000000001fa5d1c      0x178 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(puzzles_cursor.11x16x24.o)
+                0x0000000001fa5d1c                bm_puzzles_cursor
+                0x0000000001fa5d34                puzzles_cursor
+
+.ARM.exidx      0x0000000001fa5e94        0x8
+ .ARM.exidx     0x0000000001fa5e94        0x8 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .ARM.exidx     0x0000000001fa5e9c        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+                                          0x8 (size before relaxing)
+
+.rel.dyn        0x0000000001fa5e9c        0x0
+ .rel.iplt      0x0000000001fa5e9c        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+
+.data           0x0000000001fa5e9c      0x1b0
+ *(.data*)
+ .data.autofollow.13978
+                0x0000000001fa5e9c        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ *fill*         0x0000000001fa5e9d        0x3 
+ .data.draw_faint_lines.14093
+                0x0000000001fa5ea0        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .data.help_text_style
+                0x0000000001fa5ea4       0x34 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/help/loopy.o
+                0x0000000001fa5ea4                help_text_style
+ .data.allow_repeats.13976
+                0x0000000001fa5ed8        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.ud_d     0x0000000001fa5ee0        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.zoom_y   0x0000000001fa5ee4        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.ud_r     0x0000000001fa5ee8        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.force_center_games.13980
+                0x0000000001fa5eec        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.thread   0x0000000001fa5ef4        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.def.13787
+                0x0000000001fa5ef8        0xa /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ *fill*         0x0000000001fa5f02        0x2 
+ .data.menu_.14067
+                0x0000000001fa5f04       0x24 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.menu_.13901
+                0x0000000001fa5f28       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.access_counter
+                0x0000000001fa5f64        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.no_rclick_on_hold.13977
+                0x0000000001fa5f68       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.v.13593  0x0000000001fa5f78        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.zoom_x   0x0000000001fa5f7c        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.want_spacebar.13974
+                0x0000000001fa5f80       0x18 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.mouse_games.13978
+                0x0000000001fa5f98        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.menu_.13844
+                0x0000000001fa5fa0       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.falling_edge.13975
+                0x0000000001fa5fe0       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.accept_input
+                0x0000000001fa5ffc        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ *fill*         0x0000000001fa5ffd        0x3 
+ .data.number_chooser_games.13979
+                0x0000000001fa6000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.shortcuts_ok.13614
+                0x0000000001fa601c        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ *fill*         0x0000000001fa601d        0x3 
+ .data.cur_font
+                0x0000000001fa6020        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.view_mode
+                0x0000000001fa6024        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .data.audiobuf_available
+                0x0000000001fa6025        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbmalloc.o
+                0x0000000001fa6025                audiobuf_available
+ *fill*         0x0000000001fa6026        0x2 
+ .data          0x0000000001fa6028        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001fa6028                rb
+ .data.original_sw_poweroff_state
+                0x0000000001fa602c        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ *fill*         0x0000000001fa602d        0x3 
+ .data.playback_control_menu_
+                0x0000000001fa6030       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+
+.igot.plt       0x0000000001fa604c        0x0
+ .igot.plt      0x0000000001fa604c        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+
+.ncdata         0x0000000011fa604c        0x4 load address 0x0000000001fa604c
+                0x0000000011fa6050                . = ALIGN (0x10)
+ *fill*         0x0000000011fa604c        0x4 
+ *(.ncdata*)
+                0x0000000011fa6050                . = ALIGN (0x10)
+                0x0000000001fa6050                bssaddr = (. - 0x10000000)
+                0x0000000001fa6050                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001fa6050      0x148
+                0x0000000001fa6050                plugin_bss_start = .
+                0x0000000001fa6050                _plugin_bss_start = .
+ *(.bss*)
+ .bss.held_count.13592
+                0x0000000001fa6050        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.zoom_clipl
+                0x0000000001fa6054        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.zoom_force_center
+                0x0000000001fa6058        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.mouse_mode
+                0x0000000001fa6059        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ *fill*         0x0000000001fa605a        0x2 
+ .bss.zoom_clipr
+                0x0000000001fa605c        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.zoom_clipu
+                0x0000000001fa6060        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.colors    0x0000000001fa6064        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.input_settings
+                0x0000000001fa6068        0x5 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.zoom_enabled
+                0x0000000001fa606d        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ *fill*         0x0000000001fa606e        0x2 
+ .bss.loaded_fonts
+                0x0000000001fa6070        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.giant_buffer_len
+                0x0000000001fa6074        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.zoom_h    0x0000000001fa6078        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.clip_rect
+                0x0000000001fa607c       0x28 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.clipped   0x0000000001fa60a4        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ *fill*         0x0000000001fa60a5        0x3 
+ .bss.ud_l      0x0000000001fa60a8        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.zoom_w    0x0000000001fa60ac        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.ud_u      0x0000000001fa60b0        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.lcd_fb    0x0000000001fa60b4        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.me        0x0000000001fa60b8        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.titlebar  0x0000000001fa60bc        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.giant_buffer
+                0x0000000001fa60c0        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+                0x0000000001fa60c0                giant_buffer
+ .bss.timer_on  0x0000000001fa60c4        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.need_draw_update
+                0x0000000001fa60c5        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.load_success
+                0x0000000001fa60c6        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ *fill*         0x0000000001fa60c7        0x1 
+ .bss.last_keystate
+                0x0000000001fa60c8        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.n_fonts   0x0000000001fa60cc        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.ncolors   0x0000000001fa60d0        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.mouse_bl  0x0000000001fa60d4        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.help_times
+                0x0000000001fa60d8        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.what.13554
+                0x0000000001fa60dc        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ *fill*         0x0000000001fa60dd        0x3 
+ .bss.zoom_fb   0x0000000001fa60e0        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.menu_desc
+                0x0000000001fa60e4       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.last_tstamp
+                0x0000000001fa6104        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.debug_mode
+                0x0000000001fa6108        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ *fill*         0x0000000001fa6109        0x3 
+ .bss.debug_settings
+                0x0000000001fa610c        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.mouse_x   0x0000000001fa6118        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.mouse_y   0x0000000001fa611c        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.zoom_clipd
+                0x0000000001fa6120        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .bss.rb_errno  0x0000000001fa6124        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .bss.frees     0x0000000001fa6128        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbmalloc.o
+                0x0000000001fa6128                frees
+ .bss.UI_UPDATE
+                0x0000000001fa612c        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+                0x0000000001fa612c                UI_UPDATE
+ *fill*         0x0000000001fa612d        0x3 
+ .bss           0x0000000001fa6130       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .bss           0x0000000001fa6190        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .bss.parentvp  0x0000000001fa6194        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+                0x0000000001fa6194                parentvp
+ *(COMMON)
+                0x0000000001fa6198                . = ALIGN (0x4)
+
+.ncbss          0x0000000011fa6198        0x8 load address 0x0000000001fa6198
+                0x0000000011fa61a0                . = ALIGN (0x10)
+ *fill*         0x0000000011fa6198        0x8 
+ *(.ncbss*)
+                0x0000000011fa61a0                . = ALIGN (0x10)
+                0x0000000001fa61a0                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001fa61a0        0x0
+                0x0000000001fa61a0                _plugin_end_addr = .
+                0x0000000001fa61a0                plugin_end_addr = .
+
+.iram           0x000000004000c000        0x0 load address 0x0000000001fa6050
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ *(.irodata)
+ *(.idata)
+                0x000000004000c000                iramend = .
+
+.ibss           0x000000004000c000        0x0
+                0x000000004000c000                iedata = .
+ *(.ibss)
+                0x000000004000c000                . = ALIGN (0x4)
+                0x000000004000c000                iend = .
+                0x0000000001fa61a0                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001fa61a0        0x0
+                0x0000000001fa61a0                _plugin_load_end_addr = .
+                0x0000000001fa61a0                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/help/loopy.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbmalloc.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/lz4tiny.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/combi.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/divvy.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/dsf.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/findloop.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/laydomino.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopgen.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/matching.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/printing.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/sort.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tdq.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/version.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(display_text.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_core.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(puzzles_cursor.11x16x24.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+ .comment       0x0000000000000011       0x12 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .comment       0x0000000000000011       0x12 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .comment       0x0000000000000011       0x12 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+OUTPUT(/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/loopy.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2e
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopy.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/help/loopy.o
+ .ARM.attributes
+                0x0000000000000060       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rockbox.o
+ .ARM.attributes
+                0x0000000000000090       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbwrappers.o
+ .ARM.attributes
+                0x00000000000000c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/rbmalloc.o
+ .ARM.attributes
+                0x00000000000000f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/lz4tiny.o
+ .ARM.attributes
+                0x0000000000000120       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/combi.o
+ .ARM.attributes
+                0x0000000000000150       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/divvy.o
+ .ARM.attributes
+                0x0000000000000180       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/drawing.o
+ .ARM.attributes
+                0x00000000000001b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/dsf.o
+ .ARM.attributes
+                0x00000000000001e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/findloop.o
+ .ARM.attributes
+                0x0000000000000210       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/grid.o
+ .ARM.attributes
+                0x0000000000000240       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/latin.o
+ .ARM.attributes
+                0x0000000000000270       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/laydomino.o
+ .ARM.attributes
+                0x00000000000002a0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/loopgen.o
+ .ARM.attributes
+                0x00000000000002d0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/matching.o
+ .ARM.attributes
+                0x0000000000000300       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/midend.o
+ .ARM.attributes
+                0x0000000000000330       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/misc.o
+ .ARM.attributes
+                0x0000000000000360       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/penrose.o
+ .ARM.attributes
+                0x0000000000000390       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/printing.o
+ .ARM.attributes
+                0x00000000000003c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/random.o
+ .ARM.attributes
+                0x00000000000003f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/sort.o
+ .ARM.attributes
+                0x0000000000000420       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tdq.o
+ .ARM.attributes
+                0x0000000000000450       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/tree234.o
+ .ARM.attributes
+                0x0000000000000480       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/puzzles/src/version.o
+ .ARM.attributes
+                0x00000000000004b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .ARM.attributes
+                0x00000000000004e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libtlsf.a(tlsf.o)
+ .ARM.attributes
+                0x0000000000000510       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .ARM.attributes
+                0x0000000000000540       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(helper.o)
+ .ARM.attributes
+                0x0000000000000570       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(playback_control.o)
+ .ARM.attributes
+                0x00000000000005a0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(display_text.o)
+ .ARM.attributes
+                0x00000000000005d0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(strncpy.o)
+ .ARM.attributes
+                0x0000000000000600       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(stdio_compat.o)
+ .ARM.attributes
+                0x0000000000000630       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_draw.o)
+ .ARM.attributes
+                0x0000000000000660       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(xlcd_core.o)
+ .ARM.attributes
+                0x0000000000000690       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a(puzzles_cursor.11x16x24.o)
+ .ARM.attributes
+                0x00000000000006c0       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .ARM.attributes
+                0x00000000000006e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a(fixedpoint.o)
+ .ARM.attributes
+                0x0000000000000710       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000728       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000000000000740       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000000000000758       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000000000000770       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000000000000788       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000000000007a0       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000000000007b8       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000000000007d0       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000000000007e8       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x0000000000000800       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x0000000000000818       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x0000000000000830       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x0000000000000848       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x0000000000000860       0x30 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x0000000000000890       0x30 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x00000000000008c0       0x30 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x00000000000008f0       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+
+.debug_frame    0x0000000000000000      0x158
+ .debug_frame   0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_frame   0x0000000000000040       0x28 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x0000000000000068       0x68 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_frame   0x00000000000000d0       0x48 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_frame   0x0000000000000118       0x40 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+
+.debug_line     0x0000000000000000      0xc29
+ .debug_line    0x0000000000000000       0x7e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_line    0x000000000000007e       0x8a /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_line    0x0000000000000108       0x61 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x0000000000000169      0x164 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .debug_line    0x00000000000002cd      0x180 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .debug_line    0x000000000000044d       0xae /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpdf2.o)
+ .debug_line    0x00000000000004fb       0x78 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .debug_line    0x0000000000000573       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_truncdfsf2.o)
+ .debug_line    0x00000000000005fc      0x117 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .debug_line    0x0000000000000713      0x123 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .debug_line    0x0000000000000836       0xa2 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .debug_line    0x00000000000008d8       0x78 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixsfsi.o)
+ .debug_line    0x0000000000000950       0x6e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+ .debug_line    0x00000000000009be       0x65 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .debug_line    0x0000000000000a23       0x65 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_line    0x0000000000000a88       0x9e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_line    0x0000000000000b26       0x98 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_line    0x0000000000000bbe       0x6b /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+
+.debug_info     0x0000000000000000      0xd91
+ .debug_info    0x0000000000000000       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_info    0x0000000000000088       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_info    0x0000000000000110       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x0000000000000198       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .debug_info    0x0000000000000221       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .debug_info    0x00000000000002aa       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpdf2.o)
+ .debug_info    0x0000000000000333       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .debug_info    0x00000000000003bc       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_truncdfsf2.o)
+ .debug_info    0x0000000000000445       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .debug_info    0x00000000000004ce       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .debug_info    0x0000000000000557       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .debug_info    0x00000000000005e0       0x89 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixsfsi.o)
+ .debug_info    0x0000000000000669       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+ .debug_info    0x00000000000006f1       0x84 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .debug_info    0x0000000000000775      0x164 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_info    0x00000000000008d9      0x269 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_info    0x0000000000000b42      0x1c7 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_info    0x0000000000000d09       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+
+.debug_abbrev   0x0000000000000000      0x3cd
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000000014       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000028       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x000000000000003c       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .debug_abbrev  0x0000000000000050       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .debug_abbrev  0x0000000000000064       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpdf2.o)
+ .debug_abbrev  0x0000000000000078       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .debug_abbrev  0x000000000000008c       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_truncdfsf2.o)
+ .debug_abbrev  0x00000000000000a0       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .debug_abbrev  0x00000000000000b4       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .debug_abbrev  0x00000000000000c8       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .debug_abbrev  0x00000000000000dc       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixsfsi.o)
+ .debug_abbrev  0x00000000000000f0       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x0000000000000104       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .debug_abbrev  0x0000000000000118       0xb7 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_abbrev  0x00000000000001cf      0x123 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_abbrev  0x00000000000002f2       0xc7 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x00000000000003b9       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+
+.debug_aranges  0x0000000000000000      0x240
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x0000000000000060       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubdf3.o)
+ .debug_aranges
+                0x0000000000000080       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivdf3.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpdf2.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixdfsi.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_truncdfsf2.o)
+ .debug_aranges
+                0x0000000000000100       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_addsubsf3.o)
+ .debug_aranges
+                0x0000000000000120       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_muldivsf3.o)
+ .debug_aranges
+                0x0000000000000140       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_cmpsf2.o)
+ .debug_aranges
+                0x0000000000000160       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_arm_fixsfsi.o)
+ .debug_aranges
+                0x0000000000000180       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_ldivmod.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_aranges
+                0x00000000000001e0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_aranges
+                0x0000000000000200       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x0000000000000220       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+
+.debug_loc      0x0000000000000000      0x500
+ .debug_loc     0x0000000000000000       0xa0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_loc     0x00000000000000a0      0x27d /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_loc     0x000000000000031d      0x1e3 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+
+.debug_str      0x0000000000000000      0x287
+ .debug_str     0x0000000000000000      0x152 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_str     0x0000000000000152      0x135 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+                                        0x1dd (size before relaxing)
+ .debug_str     0x0000000000000287      0x1ba /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+
+.debug_ranges   0x0000000000000000       0x18
+ .debug_ranges  0x0000000000000000       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)

@@ -1,0 +1,425 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o (setjmp)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/sequencer.o (__aeabi_uidiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/sequencer.o (__aeabi_idiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/sequencer.o (__aeabi_uldivmod)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o) (__divdi3)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o) (__udivdi3)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o) (__clzdi2)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o) (__clzsi2)
+
+Allocating common symbols
+Common symbol       size              file
+
+chLastCtrlLSB       0x10              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiutil.o
+chLastCtrlMSB       0x10              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiutil.o
+curr_waveform       0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/guspat.o
+patchSet            0x200             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiutil.o
+drumSet             0x200             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiutil.o
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midifile.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiutil.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/guspat.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/guspat.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/synth.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/synth.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .ARM.extab     0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .ARM.extab     0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001f80000 0x0000000000080000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midifile.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiutil.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/sequencer.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/guspat.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/synth.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiplay.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001f80000       0x1c
+                0x0000000001f80000                _plugin_start_addr = .
+                0x0000000001f80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001f80000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f80000                __header
+
+.text           0x0000000001f80020     0x2db0
+ *(.text*)
+ .text          0x0000000001f80020      0x880 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midifile.o
+                0x0000000001f80020                readID
+                0x0000000001f80100                readFourBytes
+                0x0000000001f80138                readTwoBytes
+                0x0000000001f8015c                readVarData
+                0x0000000001f80420                readTrack
+                0x0000000001f805b0                loadFile
+ .text          0x0000000001f808a0      0x314 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiutil.o
+                0x0000000001f808a0                readChar
+                0x0000000001f808d8                eof
+                0x0000000001f80974                midi_debug
+                0x0000000001f80b64                my_malloc
+                0x0000000001f80b68                readData
+ .text          0x0000000001f80bb4      0x210 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/sequencer.o
+                0x0000000001f80c2c                rewindFile
+                0x0000000001f80c6c                seekBackward
+                0x0000000001f80d8c                seekForward
+ .text          0x0000000001f80dc4      0x59c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/guspat.o
+                0x0000000001f80e2c                gusload
+ .text          0x0000000001f81360      0x550 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/synth.o
+                0x0000000001f81418                resetControllers
+                0x0000000001f814e8                initSynth
+ .text          0x0000000001f818b0      0xcb0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiplay.o
+                0x0000000001f81950                plugin_start
+ .text          0x0000000001f82560      0x214 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f82578                plugin__start
+                0x0000000001f826c8                rb_atexit
+                0x0000000001f826e8                exit
+                0x0000000001f82708                _exit
+                0x0000000001f82720                exit_on_usb
+ .text          0x0000000001f82774       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                0x0000000001f82774                setjmp
+                0x0000000001f82780                longjmp
+ .text          0x0000000001f82790      0x114 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                0x0000000001f82790                __udivsi3
+                0x0000000001f82790                __aeabi_uidiv
+                0x0000000001f82884                __aeabi_uidivmod
+ .text          0x0000000001f828a4      0x148 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                0x0000000001f828a4                __aeabi_idiv
+                0x0000000001f828a4                __divsi3
+                0x0000000001f829cc                __aeabi_idivmod
+ .text          0x0000000001f829ec        0x4 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                0x0000000001f829ec                __aeabi_ldiv0
+                0x0000000001f829ec                __aeabi_idiv0
+ .text          0x0000000001f829f0       0x3c /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+                0x0000000001f829f0                __aeabi_uldivmod
+ .text          0x0000000001f82a2c       0x84 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+                0x0000000001f82a2c                __gnu_ldivmod_helper
+                0x0000000001f82a70                __gnu_uldivmod_helper
+ .text          0x0000000001f82ab0      0x178 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+                0x0000000001f82ab0                __divdi3
+ .text          0x0000000001f82c28      0x120 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+                0x0000000001f82c28                __udivdi3
+ .text          0x0000000001f82d48       0x28 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+                0x0000000001f82d48                __clzdi2
+ .text          0x0000000001f82d70       0x48 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+                0x0000000001f82d70                __clzsi2
+ .text.__stub   0x0000000001f82db8       0x18 linker stubs
+ *(.glue_7)
+ .glue_7        0x0000000001f82dd0        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001f82dd0        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001f82dd0        0x0
+ .vfp11_veneer  0x0000000001f82dd0        0x0 linker stubs
+
+.v4_bx          0x0000000001f82dd0        0x0
+ .v4_bx         0x0000000001f82dd0        0x0 linker stubs
+
+.iplt           0x0000000001f82dd0        0x0
+ .iplt          0x0000000001f82dd0        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midifile.o
+
+.rodata         0x0000000001f82dd0      0x714
+ *(.rodata*)
+ .rodata.str1.4
+                0x0000000001f82dd0      0x1e7 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midifile.o
+ *fill*         0x0000000001f82fb7        0x1 
+ .rodata.str1.4
+                0x0000000001f82fb8        0xe /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiutil.o
+ *fill*         0x0000000001f82fc6        0x2 
+ .rodata        0x0000000001f82fc8       0x80 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/sequencer.o
+ .rodata.str1.4
+                0x0000000001f83048       0x54 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/sequencer.o
+ .rodata        0x0000000001f8309c      0x200 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/guspat.o
+                0x0000000001f8309c                freqtable
+ .rodata.str1.4
+                0x0000000001f8329c       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/guspat.o
+ *fill*         0x0000000001f832ad        0x3 
+ .rodata.str1.4
+                0x0000000001f832b0      0x139 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/synth.o
+                                        0x13d (size before relaxing)
+ *fill*         0x0000000001f833e9        0x3 
+ .rodata.str1.4
+                0x0000000001f833ec       0xf8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiplay.o
+                                         0xf9 (size before relaxing)
+
+.ARM.exidx      0x0000000001f834e4        0x8
+ .ARM.exidx     0x0000000001f834e4        0x8 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .ARM.exidx     0x0000000001f834ec        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+                                          0x8 (size before relaxing)
+
+.data           0x0000000001f834ec        0xc
+ *(.data*)
+ .data          0x0000000001f834ec        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/sequencer.o
+                0x0000000001f834ec                tempo
+ .data          0x0000000001f834f0        0x1 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiplay.o
+ *fill*         0x0000000001f834f1        0x3 
+ .data          0x0000000001f834f4        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f834f4                rb
+
+.igot.plt       0x0000000001f834f8        0x0
+ .igot.plt      0x0000000001f834f8        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midifile.o
+
+.ncdata         0x0000000011f834f8        0x8 load address 0x0000000001f834f8
+                0x0000000011f83500                . = ALIGN (0x10)
+ *fill*         0x0000000011f834f8        0x8 
+ *(.ncdata*)
+                0x0000000011f83500                . = ALIGN (0x10)
+                0x0000000001f83500                bssaddr = (. - 0x10000000)
+                0x0000000001f83500                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001f83500    0x208f0
+                0x0000000001f83500                plugin_bss_start = .
+                0x0000000001f83500                _plugin_bss_start = .
+ *(.bss*)
+ .bss           0x0000000001f83500        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midifile.o
+                0x0000000001f83500                rStatus
+                0x0000000001f83504                curr_track
+ .bss           0x0000000001f83508       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiutil.o
+ .bss           0x0000000001f8351c        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/sequencer.o
+ .bss           0x0000000001f83520    0x2044c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiplay.o
+ .bss           0x0000000001fa396c       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ *(COMMON)
+ COMMON         0x0000000001fa39cc      0x420 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiutil.o
+                0x0000000001fa39cc                chLastCtrlLSB
+                0x0000000001fa39dc                chLastCtrlMSB
+                0x0000000001fa39ec                patchSet
+                0x0000000001fa3bec                drumSet
+ COMMON         0x0000000001fa3dec        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/guspat.o
+                0x0000000001fa3dec                curr_waveform
+                0x0000000001fa3df0                . = ALIGN (0x4)
+
+.ncbss          0x0000000011fa3df0        0x0 load address 0x0000000001fa3df0
+                0x0000000011fa3df0                . = ALIGN (0x10)
+ *(.ncbss*)
+                0x0000000011fa3df0                . = ALIGN (0x10)
+                0x0000000001fa3df0                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001fa3df0        0x0
+                0x0000000001fa3df0                _plugin_end_addr = .
+                0x0000000001fa3df0                plugin_end_addr = .
+
+.iram           0x000000004000c000     0x1494 load address 0x0000000001f83500
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ .icode         0x000000004000c000      0x714 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/sequencer.o
+                0x000000004000c000                tick
+ .icode         0x000000004000c714      0x548 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/synth.o
+                0x000000004000c714                setPoint
+                0x000000004000c7c0                synthSamples
+ *fill*         0x000000004000cc5c        0x4 
+ .icode.__stub  0x000000004000cc60       0x30 linker stubs
+ *(.irodata)
+ .irodata       0x000000004000cc90      0x804 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/sequencer.o
+                0x000000004000cc90                pitchTbl
+ *(.idata)
+                0x000000004000d494                iramend = .
+
+.rel.dyn        0x000000004000d494        0x0 load address 0x0000000001f84994
+ .rel.iplt      0x000000004000d494        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midifile.o
+
+.ibss           0x000000004000d494     0x6a60 load address 0x0000000001f84994
+                0x000000004000d494                iedata = .
+ *(.ibss)
+ .ibss          0x000000004000d494      0x50c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midifile.o
+                0x000000004000d494                tracks
+                0x000000004000d854                midi_file
+ .ibss          0x000000004000d9a0      0x540 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiutil.o
+                0x000000004000d9a0                voices
+                0x000000004000dd20                chPBFractBend
+                0x000000004000dd60                chPBNoteOffset
+                0x000000004000dda0                chPBDepth
+                0x000000004000dde0                chPW
+                0x000000004000de20                chPat
+                0x000000004000de60                chPan
+                0x000000004000dea0                chVol
+ .ibss          0x000000004000dee0     0x5000 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/guspat.o
+                0x000000004000dee0                waveforms
+ .ibss          0x0000000040012ee0     0x1014 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiplay.o
+                0x0000000040012ee0                mf
+                0x0000000040012ee4                bpm
+                0x0000000040012ee8                number_of_samples
+                0x0000000040012eec                playing_time
+                0x0000000040012ef0                samples_this_second
+                0x0000000040013ef4                . = ALIGN (0x4)
+                0x0000000040013ef4                iend = .
+                0x0000000001fa3df0                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001fa3df0        0x0
+                0x0000000001fa3df0                _plugin_load_end_addr = .
+                0x0000000001fa3df0                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midifile.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiutil.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/sequencer.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/guspat.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/synth.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiplay.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .comment       0x0000000000000011       0x12 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .comment       0x0000000000000011       0x12 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .comment       0x0000000000000011       0x12 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+OUTPUT(/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midi.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2e
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midifile.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiutil.o
+ .ARM.attributes
+                0x0000000000000060       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/sequencer.o
+ .ARM.attributes
+                0x0000000000000090       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/guspat.o
+ .ARM.attributes
+                0x00000000000000c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/synth.o
+ .ARM.attributes
+                0x00000000000000f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/midi/midiplay.o
+ .ARM.attributes
+                0x0000000000000120       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .ARM.attributes
+                0x0000000000000150       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .ARM.attributes
+                0x0000000000000170       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000188       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000000001a0       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000000001b8       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000000001d0       0x30 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x0000000000000200       0x30 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x0000000000000230       0x30 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x0000000000000260       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .ARM.attributes
+                0x0000000000000278       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_frame    0x0000000000000000      0x158
+ .debug_frame   0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_frame   0x0000000000000040       0x28 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000000000000068       0x68 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_frame   0x00000000000000d0       0x48 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_frame   0x0000000000000118       0x40 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+
+.debug_line     0x0000000000000000      0x441
+ .debug_line    0x0000000000000000       0x7e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_line    0x000000000000007e       0x8a /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_line    0x0000000000000108       0x61 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x0000000000000169       0x64 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x00000000000001cd       0x65 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_line    0x0000000000000232       0x9e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_line    0x00000000000002d0       0x98 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_line    0x0000000000000368       0x6b /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .debug_line    0x00000000000003d3       0x6e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_info     0x0000000000000000      0x8c0
+ .debug_info    0x0000000000000000       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_info    0x0000000000000088       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_info    0x0000000000000110       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x0000000000000198       0x84 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x000000000000021c      0x164 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_info    0x0000000000000380      0x269 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_info    0x00000000000005e9      0x1c7 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_info    0x00000000000007b0       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .debug_info    0x0000000000000838       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_abbrev   0x0000000000000000      0x319
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000000014       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000028       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x000000000000003c       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .debug_abbrev  0x0000000000000050       0xb7 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_abbrev  0x0000000000000107      0x123 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_abbrev  0x000000000000022a       0xc7 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x00000000000002f1       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .debug_abbrev  0x0000000000000305       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_aranges  0x0000000000000000      0x120
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x0000000000000060       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_aeabi_uldivmod.o)
+ .debug_aranges
+                0x0000000000000080       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzdi2.o)
+ .debug_aranges
+                0x0000000000000100       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_clzsi2.o)
+
+.debug_loc      0x0000000000000000      0x500
+ .debug_loc     0x0000000000000000       0xa0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_loc     0x00000000000000a0      0x27d /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+ .debug_loc     0x000000000000031d      0x1e3 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+
+.debug_str      0x0000000000000000      0x287
+ .debug_str     0x0000000000000000      0x152 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(bpabi.o)
+ .debug_str     0x0000000000000152      0x135 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divdi3.o)
+                                        0x1dd (size before relaxing)
+ .debug_str     0x0000000000000287      0x1ba /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)
+
+.debug_ranges   0x0000000000000000       0x18
+ .debug_ranges  0x0000000000000000       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivdi3.o)

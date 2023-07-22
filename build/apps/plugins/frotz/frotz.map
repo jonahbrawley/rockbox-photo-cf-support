@@ -1,0 +1,751 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/fastmem.o (memcpy)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/frotz.o (pluginlib_getaction)
+/home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o (setjmp)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/err.o (__aeabi_uidiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/frotz.o (__aeabi_idiv)
+/usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                              /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+save_name           0x104             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/fastmem.o
+stack               0x800             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/main.o
+option_zcode_path   0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/main.o
+script_name         0x104             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/files.o
+auxilary_name       0x104             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/fastmem.o
+zargs               0x10              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/process.o
+zargc               0x4               /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/process.o
+f_setup             0x40              /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/frotz.o
+command_name        0x104             /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/files.o
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/buffer.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/err.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/hotkey.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/hotkey.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/input.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/input.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/math.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/math.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/object.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/object.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/quetzal.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/sound.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/stream.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/stream.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/table.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/table.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/variable.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/variable.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/dumb_init.o
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/dumb_init.o
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/dumb_output.o
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.__div0   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memmove  0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text.memcmp   0x0000000000000000       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .text          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .data          0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .bss           0x0000000000000000        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PLUGIN_RAM       0x0000000001f80000 0x0000000000080000
+PLUGIN_IRAM      0x000000004000c000 0x000000000000c000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/frotz.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/buffer.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/err.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/fastmem.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/files.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/hotkey.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/input.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/main.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/math.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/object.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/process.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/quetzal.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/random.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/redirect.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/screen.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/sound.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/stream.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/table.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/text.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/variable.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/dumb_init.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/dumb_output.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/bitmaps/libpluginbitmaps.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a
+LOAD /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libfixedpoint.a
+LOAD /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a
+
+.header         0x0000000001f80000       0x1c
+                0x0000000001f80000                _plugin_start_addr = .
+                0x0000000001f80000                plugin_start_addr = .
+ *(.header)
+ .header        0x0000000001f80000       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f80000                __header
+
+.text           0x0000000001f8001c     0xb11c
+ *(.text*)
+ .text          0x0000000001f8001c      0x78c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/frotz.o
+                0x0000000001f800bc                plugin_start
+                0x0000000001f80274                menu
+                0x0000000001f80310                wait_for_key
+                0x0000000001f80350                do_input
+                0x0000000001f8043c                os_read_key
+                0x0000000001f804ec                os_read_line
+                0x0000000001f805f8                read_yes_or_no
+                0x0000000001f80688                os_read_mouse
+                0x0000000001f80690                os_read_file_name
+                0x0000000001f806b8                os_beep
+                0x0000000001f806f0                frotz_ungetc
+                0x0000000001f80704                frotz_fgetc
+                0x0000000001f80760                frotz_fputc
+ .text          0x0000000001f807a8      0x184 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/buffer.o
+                0x0000000001f807a8                flush_buffer
+                0x0000000001f807f8                new_line
+                0x0000000001f8080c                print_char
+                0x0000000001f808fc                init_buffer
+ .text          0x0000000001f8092c      0x1a8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/err.o
+                0x0000000001f809a0                init_err
+                0x0000000001f809c4                runtime_error
+ .text          0x0000000001f80ad4     0x140c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/fastmem.o
+                0x0000000001f80c14                get_header_extension
+                0x0000000001f80c68                set_header_extension
+                0x0000000001f80cbc                init_memory
+                0x0000000001f811e8                init_undo
+                0x0000000001f81264                reset_memory
+                0x0000000001f812cc                storeb
+                0x0000000001f8135c                restart_header
+                0x0000000001f814e8                storew
+                0x0000000001f81514                z_restart
+                0x0000000001f81634                z_restore
+                0x0000000001f8185c                restore_undo
+                0x0000000001f819c4                z_restore_undo
+                0x0000000001f819e0                z_save
+                0x0000000001f81ba4                save_undo
+                0x0000000001f81e38                z_save_undo
+                0x0000000001f81e54                z_verify
+ .text          0x0000000001f81ee0      0x92c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/files.o
+                0x0000000001f820e4                script_open
+                0x0000000001f8221c                script_close
+                0x0000000001f82298                script_new_line
+                0x0000000001f822d0                script_char
+                0x0000000001f82334                script_word
+                0x0000000001f82414                script_write_input
+                0x0000000001f8248c                script_erase_input
+                0x0000000001f824ec                script_mssg_on
+                0x0000000001f82510                script_mssg_off
+                0x0000000001f82514                record_open
+                0x0000000001f825b4                record_close
+                0x0000000001f825fc                record_write_key
+                0x0000000001f8262c                record_write_input
+                0x0000000001f8267c                replay_open
+                0x0000000001f82728                replay_close
+                0x0000000001f82778                replay_read_key
+                0x0000000001f827b0                replay_read_input
+ .text          0x0000000001f8280c      0x234 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/hotkey.o
+                0x0000000001f8280c                hot_key_quit
+                0x0000000001f82830                handle_hot_key
+ .text          0x0000000001f82a40      0x450 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/input.o
+                0x0000000001f82a40                is_terminator
+                0x0000000001f82ad4                z_make_menu
+                0x0000000001f82ae8                read_string
+                0x0000000001f82b2c                read_number
+                0x0000000001f82b74                z_read
+                0x0000000001f82d9c                z_read_char
+                0x0000000001f82df0                z_read_mouse
+ .text          0x0000000001f82e90       0x70 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/main.o
+                0x0000000001f82e90                z_piracy
+                0x0000000001f82eb4                frotz_main
+ .text          0x0000000001f82f00      0x300 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/math.o
+                0x0000000001f82f00                z_add
+                0x0000000001f82f2c                z_and
+                0x0000000001f82f50                z_art_shift
+                0x0000000001f82f88                z_div
+                0x0000000001f82fc4                z_je
+                0x0000000001f8303c                z_jg
+                0x0000000001f83068                z_jl
+                0x0000000001f83094                z_jz
+                0x0000000001f830b8                z_log_shift
+                0x0000000001f830f0                z_mod
+                0x0000000001f8312c                z_mul
+                0x0000000001f83158                z_not
+                0x0000000001f83180                z_or
+                0x0000000001f831a4                z_sub
+                0x0000000001f831d0                z_test
+ .text          0x0000000001f83200      0xe10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/object.o
+                0x0000000001f8349c                object_name
+                0x0000000001f83514                z_clear_attr
+                0x0000000001f83600                z_jin
+                0x0000000001f836e8                z_get_child
+                0x0000000001f837b0                z_get_next_prop
+                0x0000000001f83850                z_get_parent
+                0x0000000001f83900                z_get_prop
+                0x0000000001f839dc                z_get_prop_addr
+                0x0000000001f83ab4                z_get_prop_len
+                0x0000000001f83b24                z_get_sibling
+                0x0000000001f83bbc                z_insert_obj
+                0x0000000001f83d18                z_put_prop
+                0x0000000001f83de8                z_remove_obj
+                0x0000000001f83e48                z_set_attr
+                0x0000000001f83f34                z_test_attr
+ .text          0x0000000001f84010      0x9c0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/process.o
+                0x0000000001f8417c                z_nop
+                0x0000000001f84180                z_quit
+                0x0000000001f841ac                z_jump
+                0x0000000001f84214                init_process
+                0x0000000001f84228                interpret
+                0x0000000001f84344                call
+                0x0000000001f84550                z_call_n
+                0x0000000001f84580                store
+                0x0000000001f8461c                ret
+                0x0000000001f84708                branch
+                0x0000000001f84798                z_check_arg_count
+                0x0000000001f847e0                z_throw
+                0x0000000001f84894                z_ret
+                0x0000000001f848a4                z_ret_popped
+                0x0000000001f848c0                z_rfalse
+                0x0000000001f848c8                z_rtrue
+                0x0000000001f848d0                z_catch
+                0x0000000001f84910                z_call_s
+                0x0000000001f84944                direct_call
+ .text          0x0000000001f849d0     0x139c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/quetzal.o
+                0x0000000001f84a98                restore_quetzal
+                0x0000000001f85314                save_quetzal
+ .text          0x0000000001f85d6c       0xfc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/random.o
+                0x0000000001f85d6c                seed_random
+                0x0000000001f85dbc                z_random
+ .text          0x0000000001f85e68      0x344 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/redirect.o
+                0x0000000001f85e68                memory_open
+                0x0000000001f85f28                memory_new_line
+                0x0000000001f85fdc                memory_word
+                0x0000000001f860f8                memory_close
+ .text          0x0000000001f861ac     0x2104 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/screen.o
+                0x0000000001f86474                set_more_prompts
+                0x0000000001f864a4                get_max_width
+                0x0000000001f8650c                screen_new_line
+                0x0000000001f866fc                screen_char
+                0x0000000001f867f4                screen_word
+                0x0000000001f86900                screen_write_input
+                0x0000000001f8695c                screen_erase_input
+                0x0000000001f869f8                console_read_input
+                0x0000000001f86b18                console_read_key
+                0x0000000001f86b60                refresh_text_style
+                0x0000000001f86cd4                erase_window
+                0x0000000001f86dc8                split_window
+                0x0000000001f86f58                resize_screen
+                0x0000000001f86fb0                restart_screen
+                0x0000000001f870f8                validate_click
+                0x0000000001f8726c                screen_mssg_on
+                0x0000000001f872c4                screen_mssg_off
+                0x0000000001f87300                z_buffer_mode
+                0x0000000001f87358                z_draw_picture
+                0x0000000001f874ec                z_erase_line
+                0x0000000001f8758c                z_erase_picture
+                0x0000000001f87628                z_erase_window
+                0x0000000001f8765c                z_get_cursor
+                0x0000000001f87700                z_get_wind_prop
+                0x0000000001f8774c                z_mouse_window
+                0x0000000001f87784                z_move_window
+                0x0000000001f877d8                z_picture_data
+                0x0000000001f878d4                z_picture_table
+                0x0000000001f878d8                z_print_table
+                0x0000000001f879d0                z_put_wind_prop
+                0x0000000001f87a18                z_scroll_window
+                0x0000000001f87ae4                z_set_colour
+                0x0000000001f87c6c                z_set_font
+                0x0000000001f87d5c                z_set_cursor
+                0x0000000001f87ecc                z_set_margins
+                0x0000000001f87f4c                z_set_text_style
+                0x0000000001f87f9c                z_set_window
+                0x0000000001f87fac                z_show_status
+                0x0000000001f8817c                z_split_window
+                0x0000000001f8818c                z_window_size
+                0x0000000001f881f0                z_window_style
+ .text          0x0000000001f882b0      0x21c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/sound.o
+                0x0000000001f88318                init_sound
+                0x0000000001f88330                end_of_sound
+                0x0000000001f88378                z_sound_effect
+ .text          0x0000000001f884cc      0x5f8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/stream.o
+                0x0000000001f884cc                stream_mssg_on
+                0x0000000001f88528                stream_mssg_off
+                0x0000000001f88584                z_output_stream
+                0x0000000001f88680                stream_char
+                0x0000000001f886d0                stream_word
+                0x0000000001f88754                stream_new_line
+                0x0000000001f887cc                z_input_stream
+                0x0000000001f88824                stream_read_key
+                0x0000000001f88928                stream_read_input
+ .text          0x0000000001f88ac4      0x280 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/table.o
+                0x0000000001f88ac4                z_copy_table
+                0x0000000001f88bc0                z_loadb
+                0x0000000001f88bf8                z_loadw
+                0x0000000001f88c3c                z_scan_table
+                0x0000000001f88ce4                z_storeb
+                0x0000000001f88d14                z_storew
+ .text          0x0000000001f88d44     0x10a8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/text.o
+                0x0000000001f88d44                translate_from_zscii
+                0x0000000001f892a8                translate_to_zscii
+                0x0000000001f897b0                z_check_unicode
+                0x0000000001f89804                z_encode_text
+                0x0000000001f8986c                z_new_line
+                0x0000000001f8987c                z_print
+                0x0000000001f89888                z_print_addr
+                0x0000000001f8989c                z_print_char
+                0x0000000001f898bc                z_print_form
+                0x0000000001f89944                print_num
+                0x0000000001f899c0                z_print_num
+                0x0000000001f899d0                z_print_paddr
+                0x0000000001f899e4                z_print_ret
+                0x0000000001f89a08                print_string
+                0x0000000001f89a3c                print_object
+                0x0000000001f89ab0                z_print_obj
+                0x0000000001f89ac0                z_print_unicode
+                0x0000000001f89ae8                tokenise_line
+                0x0000000001f89c88                z_tokenise
+                0x0000000001f89cd8                completion
+ .text          0x0000000001f89dec      0x66c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/variable.o
+                0x0000000001f89dec                z_dec
+                0x0000000001f89ea8                z_dec_chk
+                0x0000000001f89f74                z_inc
+                0x0000000001f8a030                z_inc_chk
+                0x0000000001f8a0fc                z_load
+                0x0000000001f8a184                z_pop
+                0x0000000001f8a19c                z_pop_stack
+                0x0000000001f8a210                z_pull
+                0x0000000001f8a340                z_push
+                0x0000000001f8a368                z_push_stack
+                0x0000000001f8a3d4                z_store
+ .text          0x0000000001f8a458      0x174 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/dumb_init.o
+                0x0000000001f8a458                os_init_screen
+                0x0000000001f8a524                os_random_seed
+                0x0000000001f8a544                os_restart_game
+                0x0000000001f8a548                os_fatal
+                0x0000000001f8a574                os_init_setup
+ .text          0x0000000001f8a5cc      0x628 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/dumb_output.o
+                0x0000000001f8a668                os_char_width
+                0x0000000001f8a670                os_string_width
+                0x0000000001f8a6a0                os_set_cursor
+                0x0000000001f8a6d4                os_set_text_style
+                0x0000000001f8a6e8                os_display_char
+                0x0000000001f8a738                os_display_string
+                0x0000000001f8a78c                os_erase_area
+                0x0000000001f8a844                os_scroll_area
+                0x0000000001f8a984                os_font_data
+                0x0000000001f8a998                os_set_colour
+                0x0000000001f8a99c                os_set_font
+                0x0000000001f8a9a0                dumb_dump_screen
+                0x0000000001f8aaa0                dumb_show_screen
+                0x0000000001f8aaa4                os_more_prompt
+                0x0000000001f8aaf4                os_reset_screen
+                0x0000000001f8ab20                os_prepare_sample
+                0x0000000001f8ab24                os_finish_with_sample
+                0x0000000001f8ab28                os_start_sample
+                0x0000000001f8ab2c                os_stop_sample
+                0x0000000001f8ab30                dumb_init_output
+                0x0000000001f8abd8                os_picture_data
+                0x0000000001f8abe8                os_draw_picture
+                0x0000000001f8abec                os_peek_colour
+ .text          0x0000000001f8abf4      0x214 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f8ac0c                plugin__start
+                0x0000000001f8ad5c                rb_atexit
+                0x0000000001f8ad7c                exit
+                0x0000000001f8ad9c                _exit
+                0x0000000001f8adb4                exit_on_usb
+ .text.memcpy   0x0000000001f8ae08       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f8ae08                memcpy
+ .text.memset   0x0000000001f8ae1c       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+                0x0000000001f8ae1c                memset
+ .text.get_context_map
+                0x0000000001f8ae30       0x3c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .text.pluginlib_getaction
+                0x0000000001f8ae6c       0x50 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+                0x0000000001f8ae6c                pluginlib_getaction
+ .text          0x0000000001f8aebc       0x1c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+                0x0000000001f8aebc                setjmp
+                0x0000000001f8aec8                longjmp
+ .text          0x0000000001f8aed8      0x114 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+                0x0000000001f8aed8                __udivsi3
+                0x0000000001f8aed8                __aeabi_uidiv
+                0x0000000001f8afcc                __aeabi_uidivmod
+ .text          0x0000000001f8afec      0x148 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+                0x0000000001f8afec                __aeabi_idiv
+                0x0000000001f8afec                __divsi3
+                0x0000000001f8b114                __aeabi_idivmod
+ .text          0x0000000001f8b134        0x4 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+                0x0000000001f8b134                __aeabi_ldiv0
+                0x0000000001f8b134                __aeabi_idiv0
+ *(.glue_7)
+ .glue_7        0x0000000001f8b138        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000001f8b138        0x0 linker stubs
+
+.vfp11_veneer   0x0000000001f8b138        0x0
+ .vfp11_veneer  0x0000000001f8b138        0x0 linker stubs
+
+.v4_bx          0x0000000001f8b138        0x0
+ .v4_bx         0x0000000001f8b138        0x0 linker stubs
+
+.iplt           0x0000000001f8b138        0x0
+ .iplt          0x0000000001f8b138        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/frotz.o
+
+.rodata         0x0000000001f8b138      0xcc4
+ *(.rodata*)
+ .rodata        0x0000000001f8b138       0x18 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/frotz.o
+ .rodata.str1.1
+                0x0000000001f8b150       0x85 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/frotz.o
+ *fill*         0x0000000001f8b1d5        0x3 
+ .rodata        0x0000000001f8b1d8       0x80 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/err.o
+ .rodata.str1.1
+                0x0000000001f8b258      0x385 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/err.o
+ *fill*         0x0000000001f8b5dd        0x1 
+ .rodata        0x0000000001f8b5de       0xfa /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/fastmem.o
+ .rodata.str1.1
+                0x0000000001f8b6d8       0xa0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/fastmem.o
+ .rodata.str1.1
+                0x0000000001f8b778       0x2b /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/files.o
+ .rodata.str1.1
+                0x0000000001f8b7a3      0x10f /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/hotkey.o
+ .rodata.str1.1
+                0x0000000001f8b8b2       0x9a /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/object.o
+                                         0x9c (size before relaxing)
+ .rodata.str1.1
+                0x0000000001f8b94c      0x23d /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/quetzal.o
+ *fill*         0x0000000001f8bb89        0x3 
+ .rodata        0x0000000001f8bb8c       0x70 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/screen.o
+ .rodata.str1.1
+                0x0000000001f8bbfc       0x1f /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/screen.o
+ .rodata        0x0000000001f8bc1b       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/sound.o
+ *fill*         0x0000000001f8bc2f        0x1 
+ .rodata        0x0000000001f8bc30       0x98 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/text.o
+ .rodata.str1.1
+                0x0000000001f8bcc8       0x3e /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/text.o
+ .rodata.str1.1
+                0x0000000001f8bd06       0x1b /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/dumb_output.o
+ *fill*         0x0000000001f8bd21        0x3 
+ .rodata.pla_main_ctx
+                0x0000000001f8bd24       0xd8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+                0x0000000001f8bd24                pla_main_ctx
+
+.rel.dyn        0x0000000001f8bdfc        0x0
+ .rel.iplt      0x0000000001f8bdfc        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/frotz.o
+
+.data           0x0000000001f8bdfc      0x260
+ *(.data*)
+ .data          0x0000000001f8bdfc       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/frotz.o
+                0x0000000001f8bdfc                plugin_contexts
+ .data          0x0000000001f8be1c        0x5 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/fastmem.o
+                0x0000000001f8be1c                story_fp
+ *fill*         0x0000000001f8be21        0x3 
+ .data          0x0000000001f8be24        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/files.o
+                0x0000000001f8be24                rfp
+                0x0000000001f8be28                pfp
+                0x0000000001f8be2c                sfp
+ .data          0x0000000001f8be30        0x9 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/main.o
+                0x0000000001f8be30                option_sound
+                0x0000000001f8be34                ostream_screen
+                0x0000000001f8be35                h_standard_high
+                0x0000000001f8be36                h_font_width
+                0x0000000001f8be37                h_font_height
+                0x0000000001f8be38                story_id
+ *fill*         0x0000000001f8be39        0x3 
+ .data          0x0000000001f8be3c      0x1f4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/process.o
+                0x0000000001f8be3c                ext_opcodes
+                0x0000000001f8beb0                var_opcodes
+                0x0000000001f8bfb0                op1_opcodes
+                0x0000000001f8bff0                op0_opcodes
+ .data          0x0000000001f8c030        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/random.o
+ .data          0x0000000001f8c034        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/redirect.o
+ .data          0x0000000001f8c038        0xd /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/screen.o
+ .data          0x0000000001f8c045       0x13 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/text.o
+ .data          0x0000000001f8c058        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+                0x0000000001f8c058                rb
+
+.igot.plt       0x0000000001f8c05c        0x0
+ .igot.plt      0x0000000001f8c05c        0x0 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/frotz.o
+
+.ncdata         0x0000000011f8c05c        0x4 load address 0x0000000001f8c05c
+                0x0000000011f8c060                . = ALIGN (0x10)
+ *fill*         0x0000000011f8c05c        0x4 
+ *(.ncdata*)
+                0x0000000011f8c060                . = ALIGN (0x10)
+                0x0000000001f8c060                bssaddr = (. - 0x10000000)
+                0x0000000001f8c060                iramcopy = (. - 0x10000000)
+
+/DISCARD/
+ *(.eh_frame)
+
+.bss            0x0000000001f8c060     0x18f8
+                0x0000000001f8c060                plugin_bss_start = .
+                0x0000000001f8c060                _plugin_bss_start = .
+ *(.bss*)
+ .bss           0x0000000001f8c060       0x2d /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/frotz.o
+ *fill*         0x0000000001f8c08d        0x3 
+ .bss           0x0000000001f8c090       0xd2 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/buffer.o
+ *fill*         0x0000000001f8c162        0x2 
+ .bss           0x0000000001f8c164       0x80 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/err.o
+ .bss           0x0000000001f8c1e4       0x2c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/fastmem.o
+                0x0000000001f8c1f4                zmp
+                0x0000000001f8c204                pcp
+ .bss           0x0000000001f8c210        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/files.o
+ .bss           0x0000000001f8c218       0x74 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/main.o
+                0x0000000001f8c218                enable_buffering
+                0x0000000001f8c219                enable_scrolling
+                0x0000000001f8c21a                enable_scripting
+                0x0000000001f8c21b                enable_wrapping
+                0x0000000001f8c21c                mouse_x
+                0x0000000001f8c220                mouse_y
+                0x0000000001f8c224                mwin
+                0x0000000001f8c228                cwin
+                0x0000000001f8c22c                message
+                0x0000000001f8c22d                istream_replay
+                0x0000000001f8c22e                ostream_record
+                0x0000000001f8c22f                ostream_memory
+                0x0000000001f8c230                ostream_script
+                0x0000000001f8c232                frame_count
+                0x0000000001f8c234                fp
+                0x0000000001f8c238                sp
+                0x0000000001f8c23c                hx_unicode_table
+                0x0000000001f8c23e                hx_mouse_y
+                0x0000000001f8c240                hx_mouse_x
+                0x0000000001f8c242                hx_table_size
+                0x0000000001f8c244                h_user_name
+                0x0000000001f8c24c                h_extension_table
+                0x0000000001f8c24e                h_alphabet
+                0x0000000001f8c250                h_standard_low
+                0x0000000001f8c252                h_line_width
+                0x0000000001f8c254                h_terminating_keys
+                0x0000000001f8c256                h_default_foreground
+                0x0000000001f8c257                h_default_background
+                0x0000000001f8c258                h_strings_offset
+                0x0000000001f8c25a                h_functions_offset
+                0x0000000001f8c25c                h_screen_height
+                0x0000000001f8c25e                h_screen_width
+                0x0000000001f8c260                h_screen_cols
+                0x0000000001f8c261                h_screen_rows
+                0x0000000001f8c262                h_interpreter_version
+                0x0000000001f8c263                h_interpreter_number
+                0x0000000001f8c264                h_checksum
+                0x0000000001f8c266                h_file_size
+                0x0000000001f8c268                h_abbreviations
+                0x0000000001f8c26a                h_serial
+                0x0000000001f8c270                h_flags
+                0x0000000001f8c272                h_dynamic_size
+                0x0000000001f8c274                h_globals
+                0x0000000001f8c276                h_objects
+                0x0000000001f8c278                h_dictionary
+                0x0000000001f8c27a                h_start_pc
+                0x0000000001f8c27c                h_resident_size
+                0x0000000001f8c27e                h_release
+                0x0000000001f8c280                h_config
+                0x0000000001f8c281                h_version
+                0x0000000001f8c284                story_size
+                0x0000000001f8c288                story_name
+ .bss           0x0000000001f8c28c        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/process.o
+ .bss           0x0000000001f8c290      0x202 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/quetzal.o
+ *fill*         0x0000000001f8c492        0x2 
+ .bss           0x0000000001f8c494        0x8 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/random.o
+ .bss           0x0000000001f8c49c       0x80 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/redirect.o
+ .bss           0x0000000001f8c51c      0x10d /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/screen.o
+ *fill*         0x0000000001f8c629        0x3 
+ .bss           0x0000000001f8c62c        0xc /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/sound.o
+ .bss           0x0000000001f8c638       0x10 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/text.o
+ .bss           0x0000000001f8c648      0x63c /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/dumb_output.o
+ .bss           0x0000000001f8cc84       0x60 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .bss.last_context
+                0x0000000001f8cce4        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .bss.plugin_context_order
+                0x0000000001f8cce8        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .bss.plugin_context_count
+                0x0000000001f8ccec        0x4 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ *(COMMON)
+ COMMON         0x0000000001f8ccf0       0x40 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/frotz.o
+                0x0000000001f8ccf0                f_setup
+ COMMON         0x0000000001f8cd30      0x208 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/fastmem.o
+                0x0000000001f8cd30                save_name
+                0x0000000001f8ce34                auxilary_name
+ COMMON         0x0000000001f8cf38      0x208 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/files.o
+                0x0000000001f8cf38                script_name
+                0x0000000001f8d03c                command_name
+ COMMON         0x0000000001f8d140      0x804 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/main.o
+                0x0000000001f8d140                stack
+                0x0000000001f8d940                option_zcode_path
+ COMMON         0x0000000001f8d944       0x14 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/process.o
+                0x0000000001f8d944                zargs
+                0x0000000001f8d954                zargc
+                0x0000000001f8d958                . = ALIGN (0x4)
+
+.ncbss          0x0000000011f8d958        0x8 load address 0x0000000001f8d958
+                0x0000000011f8d960                . = ALIGN (0x10)
+ *fill*         0x0000000011f8d958        0x8 
+ *(.ncbss*)
+                0x0000000011f8d960                . = ALIGN (0x10)
+                0x0000000001f8d960                pluginendaddr = (. - 0x10000000)
+
+.pluginend      0x0000000001f8d960        0x0
+                0x0000000001f8d960                _plugin_end_addr = .
+                0x0000000001f8d960                plugin_end_addr = .
+
+.iram           0x000000004000c000        0x0 load address 0x0000000001f8c060
+                0x000000004000c000                iramstart = .
+ *(.icode)
+ *(.irodata)
+ *(.idata)
+                0x000000004000c000                iramend = .
+
+.ibss           0x000000004000c000        0x0
+                0x000000004000c000                iedata = .
+ *(.ibss)
+                0x000000004000c000                . = ALIGN (0x4)
+                0x000000004000c000                iend = .
+                0x0000000001f8d960                loadendaddr = MAX (plugin_end_addr, (LOADADDR (.iram) + SIZEOF (.iram)))
+
+.pluginloadend  0x0000000001f8d960        0x0
+                0x0000000001f8d960                _plugin_load_end_addr = .
+                0x0000000001f8d960                plugin_load_end_addr = .
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/frotz.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/buffer.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/err.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/fastmem.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/files.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/hotkey.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/input.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/main.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/math.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/object.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/process.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/quetzal.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/random.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/redirect.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/screen.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/sound.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/stream.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/table.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/text.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/variable.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/dumb_init.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/dumb_output.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .comment       0x0000000000000011       0x12 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+OUTPUT(/home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/frotz.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2e
+ .ARM.attributes
+                0x0000000000000000       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/frotz.o
+ .ARM.attributes
+                0x0000000000000030       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/buffer.o
+ .ARM.attributes
+                0x0000000000000060       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/err.o
+ .ARM.attributes
+                0x0000000000000090       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/fastmem.o
+ .ARM.attributes
+                0x00000000000000c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/files.o
+ .ARM.attributes
+                0x00000000000000f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/hotkey.o
+ .ARM.attributes
+                0x0000000000000120       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/input.o
+ .ARM.attributes
+                0x0000000000000150       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/main.o
+ .ARM.attributes
+                0x0000000000000180       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/math.o
+ .ARM.attributes
+                0x00000000000001b0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/object.o
+ .ARM.attributes
+                0x00000000000001e0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/process.o
+ .ARM.attributes
+                0x0000000000000210       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/quetzal.o
+ .ARM.attributes
+                0x0000000000000240       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/random.o
+ .ARM.attributes
+                0x0000000000000270       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/redirect.o
+ .ARM.attributes
+                0x00000000000002a0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/screen.o
+ .ARM.attributes
+                0x00000000000002d0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/sound.o
+ .ARM.attributes
+                0x0000000000000300       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/stream.o
+ .ARM.attributes
+                0x0000000000000330       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/table.o
+ .ARM.attributes
+                0x0000000000000360       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/text.o
+ .ARM.attributes
+                0x0000000000000390       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/variable.o
+ .ARM.attributes
+                0x00000000000003c0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/dumb_init.o
+ .ARM.attributes
+                0x00000000000003f0       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/frotz/dumb_output.o
+ .ARM.attributes
+                0x0000000000000420       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/plugin_crt0.o
+ .ARM.attributes
+                0x0000000000000450       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(gcc-support.o)
+ .ARM.attributes
+                0x0000000000000480       0x30 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/apps/plugins/libplugin.a(pluginlib_actions.o)
+ .ARM.attributes
+                0x00000000000004b0       0x20 /home/jbrawley/Desktop/rockbox-photo-cf-support/build/lib/libsetjmp.a(setjmp.o)
+ .ARM.attributes
+                0x00000000000004d0       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000000000004e8       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000000000000500       0x18 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_frame    0x0000000000000000       0x40
+ .debug_frame   0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+
+.debug_line     0x0000000000000000      0x169
+ .debug_line    0x0000000000000000       0x7e /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_line    0x000000000000007e       0x8a /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_line    0x0000000000000108       0x61 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_info     0x0000000000000000      0x198
+ .debug_info    0x0000000000000000       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_info    0x0000000000000088       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_info    0x0000000000000110       0x88 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_abbrev   0x0000000000000000       0x3c
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000000014       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000028       0x14 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
+
+.debug_aranges  0x0000000000000000       0x60
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /usr/local/lib/gcc/arm-elf-eabi/4.9.4/libgcc.a(_dvmd_tls.o)
